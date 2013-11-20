@@ -26,31 +26,34 @@ title: TransportationCamp
 </section>
 
 <section id="about">
-  <h2>What is TransportationCamp?</h2>
+ <div class="container">
+   <h2>What is TransportationCamp?</h2>
 
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-  <a href="{{ site.baseurl }}/guide">Guide</a>
+    <a href="{{ site.baseurl }}/guide">Guide</a>
+  </div>
 </section>
 
 <section id="news">
-  <h2>What's Happening?</h2>
+  <div class="container">
+    <h2>What's Happening?</h2>
 
-  <ul class="unstyled-list">
-    {% for post in site.posts limit: 3 %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
-      </li>
-    {% endfor %}
-  </ul>
+    <ul class="unstyled-list">
+      {% for post in site.posts limit: 3 %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <p>{{ post.excerpt }}</p>
+        </li>
+      {% endfor %}
+    </ul>
 
-  <a href="{{ site.baseurl }}/news">See All News</a>
-
+    <a href="{{ site.baseurl }}/news">See All News</a>
+  </div>
 </section>
 
 <section id="past">
@@ -59,10 +62,13 @@ title: TransportationCamp
     {% assign sorted_events = site.data.events | sort: 'date' %}
     {% for event in sorted_events %}
       {% if event.date < site.time %}
-      <li>
-        {{ event.date | date: "%B %d"}}
-        {{ event.title}}
-        <a href="{{ site.baseurl }}{{ event.url }}">Details</a>
+      <li class="event" style="background-image: url({{ site.baseurl }}/assets/images/{{ event.background_img }});">
+        <div class="container">
+          <div class="event-header">
+            <a class="event-date" href="{{ site.baseurl }}{{ event.url }}">{{ event.date | date: "%B %d"}}</a>
+            <a class="event-title" href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a>
+          </div>
+        </div>
       </li>
       {% endif %}
     {% endfor %}

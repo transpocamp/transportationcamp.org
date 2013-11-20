@@ -204,13 +204,19 @@ body {
 .site-header {
   padding: 2em 1em;
 }
-.site-title {}
+.site-title {
+  margin: 0;
+}
 .site-title a {}
+.site-logo {
+  display: block;
+}
 .site-credit {
   float: right;
   color: #aaa;
   font-size: 0.75em;
   text-transform: uppercase;
+  margin-top: 0.325em;
 }
 a.openplans-link,
 a.openplans-link:visited {
@@ -227,12 +233,13 @@ a.openplans-link:visited {
   margin-bottom: 2em;
 }
 .main-nav li {
-  float: left;
-  width: 25%;
+  display: inline;
+  font-size: 0.75em;
 }
 .main-nav a {
   text-decoration: none;
   text-transform: uppercase;
+  padding: 0 0.75em;
 }
 
 
@@ -250,9 +257,7 @@ li.event {
   background: rgba(255,255,255,0.75);
   padding: 1em 0 2em;
 }
-.event-header {
-  margin-bottom: 1em;
-}
+.event-header {}
 .event-date,
 .event-title {
   display: block;
@@ -266,7 +271,8 @@ a.event-date:visited {
   font-weight: bold;
 }
 .event-title,
-.event-title:visited {
+.event-title:visited,
+.event-title:hover {
   font-size: 2em;
   color: #444;
 }
@@ -274,10 +280,38 @@ a.event-date:visited {
   color: #aaa;
   font-size: 1.5em;
   font-weight: bold;
+  margin-top: 0.625em;
 }
 .event-footer a {
   text-decoration: none;
   text-transform: uppercase;
+}
+
+
+/* =About
+-------------------------------------------------------------- */
+
+#about {
+  text-align: left;
+  padding: 2em 1em;
+}
+
+
+/* =News
+-------------------------------------------------------------- */
+
+#news {
+  text-align: left;
+  padding: 2em 1em;
+}
+
+
+/* =Past Events
+-------------------------------------------------------------- */
+
+#past {
+  background: #777;
+  color: #ddd;
 }
 
 
@@ -288,7 +322,13 @@ a.event-date:visited {
   body {
     font-size: medium;
   }
-  li.event {
+  .main-nav li {
+    display: block;
+    float: left;
+    width: 25%;
+    font-size: 1em;
+  }
+  /*#upcoming*/ li.event {
     padding: 8em 1em;
   }
 }
