@@ -294,6 +294,9 @@ a.event-date:visited {
 #about {
   text-align: left;
   padding: 2em 1em;
+  background: #ddd;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #ccc;
 }
 
 
@@ -312,6 +315,7 @@ a.event-date:visited {
 #past {
   background: #777;
   color: #ddd;
+  padding: 2em 0 0;
 }
 
 
