@@ -1,20 +1,34 @@
+- title: East 2011
+  date: 2011-03-05 00:00:00
+  url: /events/east
+
+- title: West 2011
+  date: 2011-03-19 00:00:00
+  url: /events/west
+
+- title: Montreal 2011
+  date: 2011-12-15 00:00:00
+  url: /events/montreal
+
+- title: Washington DC 2012
+  date: 2012-01-12 00:00:00
+  url: /events/dc
+
 - title: Washington DC 2013
   date: 2013-01-12 00:00:00
-  url: /events/dc-2013
-  register_url: http://register
+  url: /events/dc-13
 
-- title: Atlanta 2013
+- title: South 2013
   date: 2013-02-09 00:00:00
-  url: /events/atlanta-2013
-  register_url: http://register
+  url: /events/south
 
-- title: SF Bay Area 2013
+- title: San Francisco Bay Area 2013
   date: 2013-11-16 00:00:00
-  url: /events/sfbay-2013
+  url: /events/san-francisco-bay-area-2013
   register_url: http://register
 
 - title: Washington DC 2014
   date: 2014-01-11 00:00:00
-  url: /events/dc-2014
+  url: /events/transportationcamp-dc-2014
   register_url: http://register
   background_img: dc-2014.jpg
