@@ -13,7 +13,11 @@ title: TransportationCamp
     {% assign sorted_events = site.data.events | sort: 'date' %}
     {% for event in sorted_events %}
       {% if event.date > site.time %}
-      <li>{{ event.title}} - {{ event.date | date: "%B %d, %Y"}}</li>
+      <li>
+        {{ event.title}} - {{ event.date | date: "%B %d, %Y"}}
+        <a href="{{ site.baseurl }}{{ event.url }}">Details</a>
+        <a href="{{ event.register_url }}">Register</a>
+      </li>
       {% endif %}
     {% endfor %}
   </ul>
@@ -41,7 +45,7 @@ title: TransportationCamp
     {% endfor %}
   </ul>
 
-  <a href="{{ site.baseurl }}news">See All News</a>
+  <a href="{{ site.baseurl }}/news">See All News</a>
 
 </section>
 
@@ -51,7 +55,11 @@ title: TransportationCamp
     {% assign sorted_events = site.data.events | sort: 'date' %}
     {% for event in sorted_events %}
       {% if event.date < site.time %}
-      <li>{{ event.title}} - {{ event.date | date: "%B %d, %Y"}}</li>
+      <li>
+        {{ event.title}} - {{ event.date | date: "%B %d, %Y"}}
+        <a href="{{ site.baseurl }}{{ event.url }}">Details</a>
+        <a href="{{ event.register_url }}">Register</a>
+      </li>
       {% endif %}
     {% endfor %}
   </ul>
