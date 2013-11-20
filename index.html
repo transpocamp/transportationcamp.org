@@ -14,7 +14,8 @@ title: TransportationCamp
     {% for event in sorted_events %}
       {% if event.date > site.time %}
       <li>
-        {{ event.title}} - {{ event.date | date: "%B %d, %Y"}}
+        {{ event.date | date: "%B %d"}}
+        {{ event.title}}
         <a href="{{ site.baseurl }}{{ event.url }}">Details</a>
         <a href="{{ event.register_url }}">Register</a>
       </li>
@@ -56,7 +57,8 @@ title: TransportationCamp
     {% for event in sorted_events %}
       {% if event.date < site.time %}
       <li>
-        {{ event.title}} - {{ event.date | date: "%B %d, %Y"}}
+        {{ event.date | date: "%B %d"}}
+        {{ event.title}}
         <a href="{{ site.baseurl }}{{ event.url }}">Details</a>
         <a href="{{ event.register_url }}">Register</a>
       </li>
