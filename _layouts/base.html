@@ -28,7 +28,7 @@
     <![endif]-->
   </head>
   <body>
-    <header class="container">
+    <header class="site-header container clearfix">
       <nav class="main-nav clearfix">
         <ul class="unstyled-list">
           <li><a href="{{ site.baseurl }}/#upcoming">Upcoming</a></li>
@@ -37,7 +37,8 @@
           <li><a href="{{ site.baseurl }}/#past">Past</a></li>
         </ul>
       </nav>
-      <h1><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/images/tcamp-logo.png" alt="TransportationCamp"></a></h1>
+      <h1 class="site-title"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/images/tcamp-logo.png" alt="TransportationCamp"></a></h1>
+      <span class="site-credit">A project of <a class="openplans-link" href="http://openplans.org/">OpenPlans</a></span>
     </header>
     <div class="main">
       {{ content }}

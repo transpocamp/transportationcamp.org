@@ -5,7 +5,7 @@
 /* Typography */
 body { line-height: 1.5; }
 body, select, input, textarea {
-  color: #666;
+  color: #444;
   font-family: "Century Gothic", CenturyGothic, "Helvetica Neue", Arial, sans-serif;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -201,13 +201,30 @@ body {
 /* =Header
 -------------------------------------------------------------- */
 
+.site-header {
+  padding: 2em 1em;
+}
 .site-title {}
 .site-title a {}
-.site-description {}
+.site-credit {
+  float: right;
+  color: #aaa;
+  font-size: 0.75em;
+  text-transform: uppercase;
+}
+a.openplans-link,
+a.openplans-link:visited {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  color: #ffb57f;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: none;
+  font-size: 1.25em;
+}
 
 /* Main Menu */
 .main-nav {
-  margin: 2em 0;
+  margin-bottom: 2em;
 }
 .main-nav li {
   float: left;
@@ -215,6 +232,7 @@ body {
 }
 .main-nav a {
   text-decoration: none;
+  text-transform: uppercase;
 }
 
 
@@ -222,18 +240,55 @@ body {
 -------------------------------------------------------------- */
 
 li.event {
-  padding: 120px;
+  padding: 2em 1em;
   background-position: center center;
   background-size: cover;
+  text-shadow: 0 1px 1px rgba(255,255,255,0.75);
 }
 .event .container {
   background: white;
   background: rgba(255,255,255,0.75);
+  padding: 1em 0 2em;
+}
+.event-header {
+  margin-bottom: 1em;
+}
+.event-date,
+.event-title {
+  display: block;
+  text-decoration: none;
+  line-height: 1.25;
+}
+a.event-date,
+a.event-date:visited {
+  color: #e26b1b;
+  font-size: 3em;
+  font-weight: bold;
+}
+.event-title,
+.event-title:visited {
+  font-size: 2em;
+  color: #444;
+}
+.event-footer {
+  color: #aaa;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.event-footer a {
+  text-decoration: none;
+  text-transform: uppercase;
 }
 
 
 /* =Media Queries for Responsive Layout
 -------------------------------------------------------------- */
 
-@media only screen and (min-width: 320px) {
+@media only screen and (min-width: 42em) {
+  body {
+    font-size: medium;
+  }
+  li.event {
+    padding: 8em 1em;
+  }
 }
