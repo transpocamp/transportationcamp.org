@@ -1,13 +1,44 @@
 ---
-layout: default
-title: Your New Jekyll Site
+layout: base
+title: TransportationCamp
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
+<header>
+  <h1>TransporationCamp!</h1>
+</header>
+
+<section>
+  <h2>Upcoming Events</h2>
+</section>
+
+<section>
+  <h2>What is TransportationCamp?</h2>
+
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+  consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</section>
+
+<section>
+  <h2>What's Happening?</h2>
+
+  <ul class="list-unstyled">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
+      </li>
     {% endfor %}
   </ul>
-</div>
+
+</section>
+
+<section>
+  <h2>Past Events</h2>
+</section>
+
+<footer>
+  Footer
+</footer>
