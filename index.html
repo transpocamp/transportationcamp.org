@@ -3,28 +3,26 @@ layout: base
 title: TransportationCamp
 ---
 
-<header>
-  <h1>TransporationCamp!</h1>
-</header>
-
-<section>
+<section id="upcoming">
   <h2>Upcoming Events</h2>
-  <ul>
+  <ul class="unstyled-list">
     {% assign sorted_events = site.data.events | sort: 'date' %}
     {% for event in sorted_events %}
       {% if event.date > site.time %}
-      <li>
-        {{ event.date | date: "%B %d"}}
-        {{ event.title}}
-        <a href="{{ site.baseurl }}{{ event.url }}">Details</a>
-        <a href="{{ event.register_url }}">Register</a>
+      <li class="event" style="background-image: url({{ site.baseurl }}/assets/images/{{ event.background_img }});">
+        <div class="container">
+          {{ event.date | date: "%B %d"}}
+          {{ event.title }}
+          <a href="{{ site.baseurl }}{{ event.url }}">Details</a>
+          <a href="{{ event.register_url }}">Register</a>
+        </div>
       </li>
       {% endif %}
     {% endfor %}
   </ul>
 </section>
 
-<section>
+<section id="about">
   <h2>What is TransportationCamp?</h2>
 
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -37,10 +35,10 @@ title: TransportationCamp
   <a href="{{ site.baseurl }}/guide">Guide</a>
 </section>
 
-<section>
+<section id="news">
   <h2>What's Happening?</h2>
 
-  <ul class="list-unstyled">
+  <ul class="unstyled-list">
     {% for post in site.posts limit: 3 %}
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       <p>{{ post.excerpt }}</p>
@@ -52,9 +50,9 @@ title: TransportationCamp
 
 </section>
 
-<section>
+<section id="past">
   <h2>Past Events</h2>
-  <ul>
+  <ul class="unstyled-list">
     {% assign sorted_events = site.data.events | sort: 'date' %}
     {% for event in sorted_events %}
       {% if event.date < site.time %}
@@ -68,7 +66,3 @@ title: TransportationCamp
     {% endfor %}
   </ul>
 </section>
-
-<footer>
-  Footer
-</footer>
