@@ -1,0 +1,239 @@
+
+/* =Base Styles
+-------------------------------------------------------------- */
+
+/* Typography */
+body { line-height: 1.5; }
+body, select, input, textarea {
+  color: #666;
+  font-family: "Century Gothic", CenturyGothic, "Helvetica Neue", Arial, sans-serif;
+}
+h1,h2,h3,h4,h5,h6 {
+  margin: 0 0 0.25em 0;
+}
+h1 { font-size: 2em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1.75em; }
+h4 { font-size: 1.5em; }
+h5 { font-size: 1.25em; }
+h6 { font-size: 1em; text-transform: uppercase; }
+
+a:hover, a:active { outline: none; }
+a, a:active, a:visited { color: #308fbf; }
+a:hover { color: #3db6f2; }
+p { margin: 0 0 1.2em; }
+ul, ol { margin-left: 1.8em; }
+ol { list-style-type: decimal; }
+ul, ol, dl { margin-bottom: 0.6em; }
+li { padding-bottom: 0.6em; }
+ul.unstyled-list, ol.unstyled-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.unstyled-list li {
+  padding-bottom: 0;
+}
+strong {
+  font-weight: 800;
+}
+hr {
+  margin: 1.5em 0;
+  border: 0;
+  border: 1px solid #eeeeee;
+  border-top-color: rgba(0,0,0,0.2);
+  border-bottom-color: rgba(255,255,255,0.75);
+  border-right: 0;
+  border-left: 0;
+}
+.container hr {
+  margin-right: -10px;
+  margin-left: -10px;
+}
+.capitalize { text-transform: capitalize; }
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+.icon-inline {
+  height: 1.5em;
+  width: auto;
+  margin: 0 0.25em -0.325em 0.5em;
+}
+.icon-muted {
+  opacity: 0.75;
+}
+
+/* Buttons */
+.btn,
+.btn:visited,
+.btn:link {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  padding: 0.325em 0.5em 0.125em;
+  margin-bottom: 0;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  color: #268099;
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: #a1cbcf;
+  box-shadow: 0 0 0.325em rgba(0,0,0,0.25);
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  border: 3px solid #7ec4d8;
+  border-radius: 3px;
+}
+.btn-primary,
+.btn-primary:visited,
+.btn-primary:link {
+  background-color: #268099;
+  border-color: #48a5bf;
+  color: #fff;
+}
+.btn-secondary,
+.btn-secondary:visited,
+.btn-secondary:link {
+  background-color: #48a5bf;
+  border-color: #7ec4d8;
+  color: #e7e7d7;
+}
+.btn-cancel,
+.btn-cancel:visited,
+.btn-cancel:link {
+  background-color: #e7e7d7;
+  border-color: #d5d5c6;
+  color: #ef037d;
+}
+.btn:disabled {
+  background-color: #b2b2a6;
+  border-color: #d5d5c6;
+  color: #d5d5c6;
+}
+.btn-block,
+.btn-block:visited,
+.btn-block:link {
+  clear: both;
+  display: block;
+  margin: 0 0 1.2em;
+  padding-top: 0.75em;
+  padding-bottom: 0.5em;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+  width: 100%;
+}
+.btn-large {
+  font-size: 1.25em;
+  padding: 0.75em 1em 0.5em;
+}
+.btn-small {
+  font-size: 0.85em;
+}
+
+/* Forms */
+form {
+}
+label {
+}
+.input-block,
+textarea {
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+  width: 100%;
+  border: 0.25em solid #a1cbcf;
+  padding: 0.5em;
+  outline: 0;
+}
+.input-block:focus,
+textarea:focus {
+  outline: 2px solid #268099;
+}
+textarea {
+  height: 6.5em;
+  resize: none;
+}
+
+
+/* =Nonsemantic Base Styles
+-------------------------------------------------------------- */
+
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; visibility: hidden; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }
+
+/* Hide for both screenreaders and browsers */
+.is-hidden { display: none; visibility: hidden; }
+/* Hide only visually, but have it available for screenreaders */
+.is-screen-reader-text,
+.is-visuallyhidden {
+  position: absolute !important;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+}
+/* Hide visually and from screenreaders, but maintain layout */
+.is-invisible { visibility: hidden; }
+
+.nobreak { white-space: nowrap; }
+
+
+/* =Layout
+-------------------------------------------------------------- */
+
+html { height: 100%; }
+body {
+  min-height: 100%;
+  background-color: #fff;
+  text-align: center;
+  font-size: small;
+}
+.container {
+  max-width: 42em;
+  margin: 0 auto;
+}
+
+
+/* =Header
+-------------------------------------------------------------- */
+
+.site-title {}
+.site-title a {}
+.site-description {}
+
+/* Main Menu */
+.main-nav {
+  margin: 2em 0;
+}
+.main-nav li {
+  float: left;
+  width: 25%;
+}
+.main-nav a {
+  text-decoration: none;
+}
+
+
+/* =Events
+-------------------------------------------------------------- */
+
+li.event {
+  padding: 120px;
+  background-position: center center;
+  background-size: cover;
+}
+.event .container {
+  background: white;
+  background: rgba(255,255,255,0.75);
+}
+
+
+/* =Media Queries for Responsive Layout
+-------------------------------------------------------------- */
+
+@media only screen and (min-width: 320px) {
+}
