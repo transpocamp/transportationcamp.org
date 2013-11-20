@@ -1,4 +1,4 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
-baseurl: transportationcamp.org # Make this "" when we add the custom url
+baseurl: /transportationcamp.org # Make this "" when we add the custom url
