@@ -9,7 +9,7 @@ title: TransportationCamp News
 
 <section>
   <ul class="list-unstyled">
-    {% for post in site.posts limit: 3 %}
+    {% for post in site.posts %}
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       <p>{{ post.content }}</p>
       </li>
