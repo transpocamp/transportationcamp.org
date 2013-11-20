@@ -1,5 +1,5 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
-permalink: pretty
+permalink: /:year/:month/:title/
 baseurl: /transportationcamp.org # Make this "" when we add the custom url
