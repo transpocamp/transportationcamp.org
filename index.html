@@ -9,6 +9,14 @@ title: TransportationCamp
 
 <section>
   <h2>Upcoming Events</h2>
+  <ul>
+    {% assign sorted_events = site.data.events | sort: 'date' %}
+    {% for event in sorted_events %}
+      {% if event.date > site.time %}
+      <li>{{ event.title}} - {{ event.date | date: "%B %d, %Y"}}</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 </section>
 
 <section>
@@ -19,7 +27,7 @@ title: TransportationCamp
   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
   consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
   cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 </section>
 
 <section>
@@ -37,6 +45,14 @@ title: TransportationCamp
 
 <section>
   <h2>Past Events</h2>
+  <ul>
+    {% assign sorted_events = site.data.events | sort: 'date' %}
+    {% for event in sorted_events %}
+      {% if event.date < site.time %}
+      <li>{{ event.title}} - {{ event.date | date: "%B %d, %Y"}}</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 </section>
 
 <footer>
