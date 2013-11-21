@@ -1,9 +1,23 @@
 ---
 layout: base
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<div class="page">
+  <div class="container">
 
-<div class="post">
-{{ content }}
+    <div class="post">
+      <div class="post-header">
+        <h1 class="post-title">{{ page.title }}</h1>
+        <p class="post-meta">{{ page.date | date_to_string }}</p>
+      </div>
+      <div class="post-content">
+        {{ content }}
+      </div>
+    </div>
+
+    <nav class="post-nav clearfix">
+      <a class="btn pull-left" href="#">&#10094;&nbsp;&nbsp;Previous Post</a>
+      <a class="btn pull-right" href="#">Next Post&nbsp;&nbsp;&#10095;</a>
+    </nav>
+
+  </div>
 </div>

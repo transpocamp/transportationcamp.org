@@ -3,17 +3,21 @@ layout: base
 title: TransportationCamp News
 ---
 
-<header>
-  <h1>TransporationCamp News!</h1>
-</header>
+<div class="page">
+  <div class="container">
 
-<section>
-  <ul class="list-unstyled">
+    <div class="page-header">
+      <h1 class="page-title">TransporationCamp News!</h1>
+    </div>
+
     {% for post in site.posts %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    <article class="post">
+      <div class="post-header">
+        <h3 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+      </div>
       <p>{{ post.content }}</p>
-      </li>
+    </article>
     {% endfor %}
-  </ul>
 
-</section>
+  </div>
+</div>
