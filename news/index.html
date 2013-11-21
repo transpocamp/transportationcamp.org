@@ -7,10 +7,10 @@ title: TransportationCamp News
   <div class="container">
 
     <div class="page-header">
-      <h1 class="page-title">TransporationCamp News!</h1>
+      <h1 class="page-title">TransporationCamp News</h1>
     </div>
 
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
     <article class="post">
       <div class="post-header">
         <h3 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
@@ -18,6 +18,15 @@ title: TransportationCamp News
       <p>{{ post.content }}</p>
     </article>
     {% endfor %}
+
+    <nav class="post-nav clearfix">
+      {% if paginator.previous_page_path %}
+      <a class="btn pull-left" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">&#10094;&nbsp;&nbsp;Newer</a>
+      {% endif %}
+      {% if paginator.next_page_path %}
+      <a class="btn pull-right" href="{{ site.baseurl }}{{ paginator.next_page_path }}">Older&nbsp;&nbsp;&#10095;</a>
+      {% endif %}
+    </nav>
 
   </div>
 </div>
