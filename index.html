@@ -60,7 +60,7 @@ title: TransportationCamp
   <h2>Past Events</h2>
   <ul class="unstyled-list">
     {% assign sorted_events = site.data.events | sort: 'date' %}
-    {% for event in sorted_events %}
+    {% for event in sorted_events reversed %}
       {% if event.date < site.time %}
       <li class="event" style="background-image: url({{ site.baseurl }}/assets/images/{{ event.background_img }});">
         <div class="container">
