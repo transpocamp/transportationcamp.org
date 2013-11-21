@@ -10,7 +10,7 @@ categories:
 - Latest News
 ---
 
-![](http://transportationcamp.org/wp-content/uploads/2012/12/tcampso.png)
+![]({{ site.baseurl }}/assets/uploads/2012/12/tcampso.png)
 
 TransportationCamp rocked DC and Atlanta already this year ([here's a great roundup](http://clatl.com/freshloaf/archives/2013/02/13/transportationcamp-south-is-a-wonks-heaven)) , and we're excited to keep the momentum going with more events.
 

@@ -14,14 +14,14 @@ Sunday's TransportationCamp [program](http://transportationcamp.org/east) got of
 
 Kick-off topics in Session Five ranged from **Networked vehicle systems** (led by [@weeels](http://twitter.com/weeels)) to **Can we do a road pricing system for really cheap with existing tech?**. Georgia Bullen drew a capacity crowd for a **Data vis and policy **session.
 
-**[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_2924-1024x768.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_2924.jpg)**
+**[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_2924-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_2924.jpg)**
 
 Adam Davidson led a discussion on **How can technology change mobility?** (below), exploring how rapid advances in transactional technology have improved our transportation options, like car and bike sharing.
 
-**[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_29171-1024x768.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_29171.jpg)**
+**[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_29171-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_29171.jpg)**
 
 [Tara Green](http://twitter.com/#!/search/hsrusa) presented at **High-speed rail: social media, marketing and mapping**, kicking off a really interesting discussion about public perception and the highly charged politics around funding high speed rail.
 
 A technical debate ensued about open source tools, hacking, APIs, and data formats at **Tools for small and medium agencies, part 2.**
 
-[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3027.2-1024x479.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3027.2.jpg)
+[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3027.2-1024x479.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3027.2.jpg)

@@ -15,22 +15,22 @@ TransportationCamp provides an opportunity for every single attendee to be a par
 
 
 
-	
+
   * What's an unconference?
 
-	
+
   * Collaborating on topics ahead of the event
 
-	
+
   * How the board works
 
-	
+
   * Making the most of your unconference weekend
 
-	
+
   * How to propose a session
 
-	
+
   * How to lead a great session
 
 
@@ -71,17 +71,17 @@ Unconference sessions have a lot of energy, and flexibility. But occasionally, t
 
 
 
-	
-  * Remember the Rule of Two Feet: you're free to walk out, and find a session that fits you better. Don't stay in a session that doesn't work for you, move to another session that needs your contributions. 
 
-	
+  * Remember the Rule of Two Feet: you're free to walk out, and find a session that fits you better. Don't stay in a session that doesn't work for you, move to another session that needs your contributions.
+
+
   * Speak up: if a session needs help, provide it. Feel free to give reminders about time or topic focus.
 
-	
-  * Do it yourself! if you want a session to be different, maybe more technical, or more policy focused, suggest it! Other people might feel the same way, and you'll help to sharpen the focus for everyone. 
 
-	
-  * Good stuff happens in the corridors too. Unscheduled, informal corridor conversations are great for continuing off-shoots from sessions. 
+  * Do it yourself! if you want a session to be different, maybe more technical, or more policy focused, suggest it! Other people might feel the same way, and you'll help to sharpen the focus for everyone.
+
+
+  * Good stuff happens in the corridors too. Unscheduled, informal corridor conversations are great for continuing off-shoots from sessions.
 
 
 
@@ -109,23 +109,23 @@ Show up at TransportationCamp with your session in mind. Head to the board, grab
 
 
 
-	
+
   * Session title
 
-	
+
   * Your name
 
-	
-  * What kind of session it is (presentation, brainstorm, Q&A;, demos, hacking...) 
 
-	
+  * What kind of session it is (presentation, brainstorm, Q&A;, demos, hacking...)
+
+
   * More info about the session -- will it be technical? are you open to co-presenting?
 
 
 
 It helps if your sticky note is compelling (not just legible). Here are a couple of great examples:
 
-[![](http://transportationcamp.org/wp-content/uploads/2011/02/board1-rot-300x224.jpg)](http://transportationcamp.org/wp-content/uploads/2011/02/board1-rot.jpg) [![](http://transportationcamp.org/wp-content/uploads/2011/02/board2-rot-300x224.jpg)](http://transportationcamp.org/wp-content/uploads/2011/02/board2-rot.jpg)
+[![]({{ site.baseurl }}/assets/uploads/2011/02/board1-rot-300x224.jpg)]({{ site.baseurl }}/assets/uploads/2011/02/board1-rot.jpg) [![]({{ site.baseurl }}/assets/uploads/2011/02/board2-rot-300x224.jpg)]({{ site.baseurl }}/assets/uploads/2011/02/board2-rot.jpg)
 
 Give your session to the Board organizer. To start with, we'll put your sticky to one side, then we'll start scheduling the sessions once a critical mass of session proposals builds up. On Saturday morning it will be mostly empty, with rooms but it will fill up quickly. Each blank square in the board grid represents a session period in a particular room. Not all spaces have a projector, keep this in mind.
 
@@ -151,26 +151,26 @@ Logistics
 
 
 
-	
+
   * Be there ahead of the start time, so you can welcome people and kick things off on time
 
-	
+
   * Start on time! This matters, you don't want to make people late for their next session. Ask a green-shirted volunteer for a timecheck if you're not sure.
 
-	
+
   * Finish on time (even if you start late!). We'll let you know if there are schedule adjustments
 
 
 
 Content
 
-	
+
   * If you're leading a session, you have responsibility for the content and format, and the happiness of everyone participating. Be a leader, to manage the content as well as logistics.
 
-	
+
   * Make sure expectations are clear from the outset: if you're going to show slides for 45 minutes, make sure everyone in the room is ready for that.
 
-	
+
   * Work towards tangible outcomes. A good start is for someone to take notes online, perhaps in a shared Google doc. Maybe it also makes sense to collect contact details for a mailing list for further discussion.
 
 

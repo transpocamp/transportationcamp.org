@@ -12,15 +12,15 @@ categories:
 
 Great exchanges were going down everywhere you looked today at TransportationCamp.
 
-[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3433-1024x768.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3433.jpg)
+[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3433-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3433.jpg)
 
-[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_31051-1024x768.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_31051.jpg)
+[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_31051-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_31051.jpg)
 
-[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3335-1024x768.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3335.jpg)
+[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3335-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3335.jpg)
 
-[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_34291-1024x768.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_34291.jpg)
+[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_34291-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_34291.jpg)
 
-[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3468-1024x768.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3468.jpg)
+[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3468-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3468.jpg)
 
 [
-](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3458.jpg)
+]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3458.jpg)

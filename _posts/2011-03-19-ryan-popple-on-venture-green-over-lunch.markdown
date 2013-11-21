@@ -12,4 +12,4 @@ categories:
 
 West's lunchtime keynote speaker Ryan Popple is a member of Kleiner   Perkins Caufield & Byers' Greentech team, and  previously served as the   Senior Director of Finance at Tesla Motors.  Popple went deep into the limitation of the oil economy—even down to the inefficiencies of the combustion engine.
 
-[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3408-1024x768.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3408.jpg)
+[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3408-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3408.jpg)

@@ -10,4 +10,4 @@ categories:
 - Latest News
 ---
 
-[![](http://transportationcamp.org/wp-content/uploads/2012/01/board-e1327167756183-1024x764.jpg)](http://transportationcamp.org/wp-content/uploads/2012/01/board.jpg)
+[![]({{ site.baseurl }}/assets/uploads/2012/01/board-e1327167756183-1024x764.jpg)]({{ site.baseurl }}/assets/uploads/2012/01/board.jpg)

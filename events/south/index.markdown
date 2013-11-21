@@ -14,7 +14,7 @@ TransportationCamp South was held in Atlanta on Saturday, February 9, 2013.
 
 The sixth TransportationCamp to date and the first to be held in the Southern U.S., **TransportationCamp South** brought together thinkers and doers in the fields of transportation and technology for a day of learning, debating, connecting, and creating at Georgia Tech's Clough Commons.
 
-[![](http://transportationcamp.org/wp-content/uploads/2012/12/tcampso.png)](http://transportationcamp.org/wp-content/uploads/2012/12/tcampso.png)
+[![]({{ site.baseurl }}/assets/uploads/2012/12/tcampso.png)]({{ site.baseurl }}/assets/uploads/2012/12/tcampso.png)
 
 
 

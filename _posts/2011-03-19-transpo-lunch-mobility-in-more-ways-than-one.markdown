@@ -12,4 +12,4 @@ categories:
 
 Of course lunch would be mobile at TransportationCamp!  Thanks to Google Maps for great food trucks El Toyanese and Little Green Cyclo.
 
-[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3377-1024x768.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3377.jpg)[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_33791-1024x768.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_33791.jpg)
+[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3377-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3377.jpg)[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_33791-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_33791.jpg)

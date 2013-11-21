@@ -14,4 +14,4 @@ The hard-working #transpo attendees are digging into their boxed lunches after t
 
 Straight from the sessions, Council Member [Gale Brewer](http://council.nyc.gov/d6/html/members/home.shtml) (below with [Sam Wong](https://twitter.com/#!/samjwong)) spoke enthusiastically about the high level of interest and topics at TransportationCamp.
 
-[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3036-1024x768.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3036.jpg)
+[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3036-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3036.jpg)

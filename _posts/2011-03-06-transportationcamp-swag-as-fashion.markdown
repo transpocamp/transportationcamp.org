@@ -12,4 +12,4 @@ categories:
 
 Volunteers Kimberly Powell and Layla Tabatabaie spent much of Sunday morning at registration pressing a second round of our fabulous transit nerd buttons.  Show that #[transpo](http://twitter.com/search?q=%23transpo) geek pride!
 
-[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_2961-1024x768.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_2961.jpg)[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3002-1024x768.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3002.jpg)[![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3001-1024x768.jpg)](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3001.jpg)
+[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_2961-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_2961.jpg)[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3002-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3002.jpg)[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3001-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3001.jpg)

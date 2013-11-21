@@ -12,16 +12,16 @@ categories:
 
 It's a rainy day in San Francisco, but that didn't stop a great early morning turnout at TransportationCamp West.
 
-![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3183-1024x768.jpg)
+![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3183-1024x768.jpg)
 
  Jay Nath, City of San Francisco's Director of Innovation, opened the day.
 
-![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3150-1024x768.jpg)
+![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3150-1024x768.jpg)
 
 Carter Rohan, SFMTA Deputy Executive Director announcing open parking data from SFPark.
 
-![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3194.2-1024x642.jpg)
+![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3194.2-1024x642.jpg)
 
 Attendees took a turn at the mic, offering up mostly succinct and creative 3 word introductions.
 
-![](http://transportationcamp.org/wp-content/uploads/2011/03/IMG_3177.2-1024x532.jpg)
+![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3177.2-1024x532.jpg)
