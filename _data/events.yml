@@ -31,11 +31,10 @@
 - title: San Francisco Bay Area 2013
   date: 2013-11-16 00:00:00
   url: /events/san-francisco-bay-area-2013
-  register_url: http://register
   background_img: sf-2013.jpg
 
 - title: Washington DC 2014
   date: 2014-01-11 00:00:00
   url: /events/transportationcamp-dc-2014
-  register_url: http://register
+  register_url: https://transpocampdc14.eventbrite.com/
   background_img: dc-2014.jpg
