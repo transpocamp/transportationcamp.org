@@ -346,6 +346,14 @@ a.event-date:visited {
 .page-content {}
 
 
+/* =Arrows
+-------------------------------------------------------------- */
+
+.arrow {
+  font-family: Arial, sans-serif;
+}
+
+
 /* =Media Queries for Responsive Layout
 -------------------------------------------------------------- */
 
