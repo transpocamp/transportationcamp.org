@@ -41,23 +41,26 @@ title: TransportationCamp
 </section>
 
 <section id="news">
-  <div class="container">
+  <div class="container clearfix">
     <h2>What's Happening?</h2>
 
     <ul class="unstyled-list">
       {% for post in site.posts limit: 3 %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        <p>{{ post.excerpt }}</p>
+        <li class="post">
+          <h3 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+          <div class="post-excerpt">{{ post.excerpt }}</div>
         </li>
       {% endfor %}
     </ul>
 
-    <a href="{{ site.baseurl }}/news">See All News</a>
+    <a class="pull-right btn" href="{{ site.baseurl }}/news">See All News &#10142;</a>
   </div>
 </section>
 
 <section id="past">
-  <h2>Past Events</h2>
+  <div class="past-events-header container">
+    <h2>Past Events</h2>
+  </div>
   <ul class="unstyled-list">
     {% assign sorted_events = site.data.events | sort: 'date' %}
     {% for event in sorted_events reversed %}

@@ -31,7 +31,7 @@ ul.unstyled-list, ol.unstyled-list {
   margin: 0;
   padding: 0;
 }
-.unstyled-list li {
+nav li {
   padding-bottom: 0;
 }
 strong {
@@ -73,20 +73,19 @@ img {
   display: inline-block;
   *display: inline;
   *zoom: 1;
-  padding: 0.325em 0.5em 0.125em;
+  padding: 0.325em 0.75em 0.25em;
   margin-bottom: 0;
   text-align: center;
   vertical-align: middle;
   cursor: pointer;
-  color: #268099;
+  color: #fff;
   text-decoration: none;
   text-transform: uppercase;
-  background-color: #a1cbcf;
-  box-shadow: 0 0 0.325em rgba(0,0,0,0.25);
-  font-family: 'Raleway', sans-serif;
-  font-weight: 600;
-  border: 3px solid #7ec4d8;
-  border-radius: 3px;
+  background-color: #3db6f2;
+  border: 0.125em solid rgba(0,0,0,0.1);
+}
+.btn:hover {
+  background-color: #308fbf;
 }
 .btn-primary,
 .btn-primary:visited,
@@ -94,25 +93,6 @@ img {
   background-color: #268099;
   border-color: #48a5bf;
   color: #fff;
-}
-.btn-secondary,
-.btn-secondary:visited,
-.btn-secondary:link {
-  background-color: #48a5bf;
-  border-color: #7ec4d8;
-  color: #e7e7d7;
-}
-.btn-cancel,
-.btn-cancel:visited,
-.btn-cancel:link {
-  background-color: #e7e7d7;
-  border-color: #d5d5c6;
-  color: #ef037d;
-}
-.btn:disabled {
-  background-color: #b2b2a6;
-  border-color: #d5d5c6;
-  color: #d5d5c6;
 }
 .btn-block,
 .btn-block:visited,
@@ -180,6 +160,9 @@ textarea {
 .is-invisible { visibility: hidden; }
 
 .nobreak { white-space: nowrap; }
+
+.pull-right { float: right; }
+.pull-left { float: left; }
 
 
 /* =Layout
@@ -305,19 +288,37 @@ a.event-date:visited {
 
 #news {
   text-align: left;
-  padding: 2em 1em;
+  padding: 2em 1em 3em;
 }
+.post {
+  margin: 0 0 2em;
+  padding: 0 0 1em;
+  border-bottom: 1px solid #ddd;
+}
+.post-title {
+  margin-bottom: 0.25em;
+}
+.post-title a {
+  text-decoration: none;
+}
+.post-excerpt {}
 
 
 /* =Past Events
 -------------------------------------------------------------- */
 
 #past {
-  background: #777;
   color: #ddd;
-  padding: 2em 0 0;
+  background: #aaa;
 }
-
+.past-events-header {
+  padding: 0 1em;
+}
+.past-events-header h2 {
+  background: #777;
+  margin: 0;
+  padding: 0.5em;
+}
 
 /* =Media Queries for Responsive Layout
 -------------------------------------------------------------- */
