@@ -2,4 +2,6 @@ name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
+paginate: 5
+paginate_path: news/:num
 baseurl: /transportationcamp.org # Make this "" when we add the custom url
