@@ -8,7 +8,6 @@ title: TransportationCamp Chat with Shin-pei Tsay
 categories:
 - Latest News
 ---
-TransportationCamp Chat with Shin-pei Tsay
 
 As TransportationCamp DC approaches, we’re reaching out to leaders and thinkers in transportation and technology, and asking them about what is interesting and important in the field right now. Last week, I spoke with  Shin-pei Tsay, director of research and development at TransitCenter.
 
