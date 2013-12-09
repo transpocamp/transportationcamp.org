@@ -1,13 +1,14 @@
 ---
 author: Frank Hebbert
 comments: true
-date: 2011-02-24 12:21:50+00:00
+date: {}
 layout: post
-slug: how-transportationcamp-works-the-essential-guide
-title: 'How TransportationCamp works: the essential guide'
+slug: "how-transportationcamp-works-the-essential-guide"
+title: "How TransportationCamp works: the essential guide"
 wordpress_id: 389
-categories:
-- Latest News
+categories: 
+  - Latest News
+published: true
 ---
 
 TransportationCamp provides an opportunity for every single attendee to be a participant in shaping and leading the event.  Curious about how this will work? Read on for everything you need to know, including the process for proposing sessions, making your session appealing and how to pick and choose which sessions to attend on the day.
@@ -32,12 +33,6 @@ TransportationCamp provides an opportunity for every single attendee to be a par
 
 
   * How to lead a great session
-
-
-
-Thanks to everyone at [TransportationCamp East](http://transportationcamp.org/east) who provided feedback to make this guide better.
-
-
 
 
 
@@ -98,7 +93,7 @@ Unconference sessions have a lot of energy, and flexibility. But occasionally, t
 
 In the unconference tradition, participants propose sessions by writing them up (as described below) on large sticky notes. Then, an event organizer puts the session into a space on the board. We will try to spread sessions across the weekend evenly, making sure that similar or complementary sessions don’t go head to head.
 
-Use the Board to plan your weekend. Once individual sessions are up on the board we won't move them around.  We'll maintain [an online version of the board](http://transportationcamp.org/west), so you can also check the latest status of the board from your laptop or phone.
+Use the Board to plan your weekend. Once individual sessions are up on the board we won't move them around.  We'll maintain an online version of the board, so you can also check the latest status of the board from your laptop or phone.
 
 
 
@@ -177,4 +172,4 @@ Content
 
 
 
-So that’s it! That’s how to participate at TransportationCamp.  Take [another look at the topic list today](http://transportationcamp.org/topics/). Questions? Leave them in the comments below.
+So that’s it! That’s how to participate at TransportationCamp. Questions? Email us at:  transportationcamp@openplans.org.
