@@ -9,7 +9,7 @@ categories:
 - Latest News
 ---
 
-As TransportationCamp DC approaches, we’re reaching out to leaders and thinkers in the transportation and technology field, and asking them about what is interesting and important in the field right now. Today I spoke with Tom Fairchild, Director of Arlington County, Virginia’s Mobility Lab.
+As TransportationCamp DC approaches, we’re reaching out to leaders and thinkers in the transportation and technology field, and asking them about what is interesting and important in the field right now. Today Ellen McDermott spoke with Tom Fairchild, Director of Arlington County, Virginia’s Mobility Lab.
 
 **Can you describe a little bit about what Mobility Lab does?**
 
