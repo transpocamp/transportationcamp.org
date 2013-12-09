@@ -2,12 +2,13 @@
 published: false
 ---
 
-TransportationCamp Chat with Shin-pei TsayAs TransportationCamp DC approaches, we’re reaching out to leaders and thinkers in transportation and technology, and asking them about what is interesting and important in the field right now.
+TransportationCamp Chat with Shin-pei Tsay
+
+As TransportationCamp DC approaches, we’re reaching out to leaders and thinkers in transportation and technology, and asking them about what is interesting and important in the field right now.
 
 After selling its successful commuter-benefits business, TransitChek, last year, TransitCenter is again working to find the next innovations in transportation policy and technology. At a time when the definition of what constitutes public transportation is shifting, Shin-pei Tsay, TransitCenter’s director of research and development has a lot of interests. One of them is how to make transport data tools more responsive to international needs. She will be moderating a panel at TransportationCamp about a new resource center TransitCenter is supporting to make this happen. I called her to talk about this. 
 
-
-Can you describe a little bit about what you’re doing at TransitCenter?
+**Can you describe a little bit about what you’re doing at TransitCenter?**
 
 Right now, Executive Director David Bragdon and I are conducting a scan of the field and testing some assumptions. Our professional experience brings a lot of different capacities to the organization. David served for many years on the Metro Council, the Portland MPO that is the only one in the country that elects their members. He’s worked in the private sector, and at NYC’s Office of Long-term Planning and Sustainability. I’ve worked for small non-profits, in participatory planning and advocacy, as well as a large think tank. We’re putting all of those elements together to figure out what it takes to change how transportation happens in this country. How do all the different stakeholders work together to make this happen?
 
@@ -17,8 +18,7 @@ TransitCenter isn’t necessarily going to be the one undertaking the changes. W
 
 We’re mostly focused in the U.S. but we’re also interested in the international realm. There’s so much that U.S. can learn from other places. Countries that are not often considered as having capacity, but are doing so many innovative things to get their cities moving.
 
-
-What’s the most exciting thing you’re working on at the moment?
+**What’s the most exciting thing you’re working on at the moment?**
 
 Transit data. Those are the driest two words ever. But data opens so many doors to conversations about social structure, how cities should be run, governance. It starts off sounding neutral -- show me your transit data.
 
@@ -37,7 +37,7 @@ Once you have a means of collection, you also have a way of understanding traffi
 
 Right now there’s nowhere were all the energy that’s going into transit data is reflected. Getting the resource center up is the starting point, not the ending point. 
 
-TransportationCamp is all about the intersection of technology and transportation.  As you think about the future, what’s most interesting to you right now on the technology side of transportation? 
+**TransportationCamp is all about the intersection of technology and transportation.  As you think about the future, what’s most interesting to you right now on the technology side of transportation?**
 
 An area we’re really interested in is private and public interaction to provide public services that augment the city’s public transit service. Filling the gaps in transit systems in U.S. and Europe. These are mature countries where existing transit systems are not always great. They’re not seamless or interoperable. Land-use patterns have dictated people’s transportation choices.
 
