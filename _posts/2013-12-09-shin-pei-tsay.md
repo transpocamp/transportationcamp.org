@@ -4,9 +4,7 @@ published: false
 
 TransportationCamp Chat with Shin-pei Tsay
 
-As TransportationCamp DC approaches, we’re reaching out to leaders and thinkers in transportation and technology, and asking them about what is interesting and important in the field right now.
-
-After selling its successful commuter-benefits business, TransitChek, last year, TransitCenter is again working to find the next innovations in transportation policy and technology. At a time when the definition of what constitutes public transportation is shifting, Shin-pei Tsay, TransitCenter’s director of research and development has a lot of interests. One of them is how to make transport data tools more responsive to international needs. She will be moderating a panel at TransportationCamp about a new resource center TransitCenter is supporting to make this happen. I called her to talk about this. 
+As TransportationCamp DC approaches, we’re reaching out to leaders and thinkers in transportation and technology, and asking them about what is interesting and important in the field right now. Last week, I spoke with  Shin-pei Tsay, director of research and development at TransitCenter.
 
 **Can you describe a little bit about what you’re doing at TransitCenter?**
 
