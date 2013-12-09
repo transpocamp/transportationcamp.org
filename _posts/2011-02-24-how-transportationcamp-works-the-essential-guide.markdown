@@ -1,12 +1,12 @@
 ---
 author: Frank Hebbert
 comments: true
-date: {}
+date: 2011-02-24 12:21:50+00:00
 layout: post
 slug: "how-transportationcamp-works-the-essential-guide"
 title: "How TransportationCamp works: the essential guide"
 wordpress_id: 389
-categories: 
+categories:
   - Latest News
 published: true
 ---
