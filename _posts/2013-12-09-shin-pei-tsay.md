@@ -57,4 +57,4 @@ Mobility Lab would like to do a pilot for bike share -- credit card access is al
 
 Be open minded, have a sense of humor. And be rigorous--expect a lot out of everyone there.
 
-
+(_This interview has been edited for clarity and length._)
