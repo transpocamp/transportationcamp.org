@@ -59,7 +59,7 @@ And at a certain point someone might say, "Forget about that agency because it's
 You're right and there need to be places where everyone can get this information and also say that we need to be aware that some of those options are more readily available to everyone than others as well.
 
 Not everyone is going to jump in Uber Car and that will probably never change. But even Bikeshare, you have to have credit in order to get a bike currently for most of the citizens around the world. So there are some obstacles on that side.
-But from an information standpoint, smart phones are obviously very important but there's also an open source project that we developed here at Mobility Lab that's been taken on by a commercial developer to take to the marketplace called Transit Scheme.
+But from an information standpoint, smart phones are obviously very important but there's also an open source project that we developed here at Mobility Lab that's been taken on by a commercial developer to take to the marketplace called Transit Screen.
 
 That's a project where all of the options are displayed and put up in locations where individuals can see them. This might be at Metro stations. They might be in lobbies of buildings. They could be in store windows. It could be in a whole variety of places where anyone would be able to get that information.
 
