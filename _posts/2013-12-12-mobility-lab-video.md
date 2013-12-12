@@ -8,4 +8,4 @@ title: Why You Should Attend TransportationCamp
 categories:
 - Latest News
 ---
-If you've never been to TransportationCamp before and don't know what to expect, [check out this great video](http://mobilitylab.org/2013/12/05/this-video-tells-you-why-you-should-attend-transportationcamp/) Mobility Lab made. It explains how it works, why you should come, and has great footage from last year's event.
+If you've never been to TransportationCamp before and don't know what to expect, [check out this nice video](http://mobilitylab.org/2013/12/05/this-video-tells-you-why-you-should-attend-transportationcamp/) Mobility Lab made. It explains how it works, why you should come, and has great footage from last year's event.
