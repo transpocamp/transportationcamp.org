@@ -4,7 +4,7 @@ comments: false
 date: 2013-12-16 14:45:38-05:00
 layout: post
 slug: transportationcamp-chat-with-kari-watkins
-title: TransportationCamp Chat with Kari Watkins
+title: TransportationCamp Chat with Dr. Kari Watkins
 categories:
 - Latest News
 ---
