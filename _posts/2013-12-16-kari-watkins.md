@@ -22,7 +22,7 @@ We want more people to do that, to solve some of these problems that we have. We
 
 How do we get feedback from people in better ways? How do we send out real time information? How do we create apps that will get people the information they need to make it just as easy to use transit as it is for them to get around in an automobile. I started with this line of work when I was working with Brian Ferris on both of our dissertations at the University of Washington.
 
-We created the One Bus Away app. I was looking at the impacts of all of this. It was really amazing when we talked to people about how just having real time information about their trip made such a difference in their choice to take transit. I am looking through my research to push that to the next level, and see what else we can do.
+We created the OneBusAway app. I was looking at the impacts of all of this. It was really amazing when we talked to people about how just having real time information about their trip made such a difference in their choice to take transit. I am looking through my research to push that to the next level, and see what else we can do.
 
 What does the ideal app look like? Because when you have a really good underlying system, if you have good information, it actually is easier to get around on transit. More recently, since moving to Atlanta, the transportation system here, the transit system here, there's really not great headway. There's not a lot of routes. It's more of a rail-based system. If you're not close to one of the rail stations, it doesn't function as well as some other cities.
 
@@ -36,7 +36,7 @@ Most of my projects. I'm fortunate enough being at a school like Georgia Tech th
 
 I wouldn't point to one project. But I would say being able to work on these national or international issues, but to be able to apply them right here in Atlanta, where I can make a difference in my own community. The people that I'm working with and I'm surrounded with. I would say that's the most exciting aspect. It's that I'm working in a place where I can actually make a difference.
 
-<b>As you know, Transportation Camp is all about the intersection of technology and transportation. What is most interesting to you right now, on the technology side of transportation? You talked about data and crowdsourcing--what are some of the things that you think are really hot right now?</b>
+<b>As you know, TransportationCamp is all about the intersection of technology and transportation. What is most interesting to you right now, on the technology side of transportation? You talked about data and crowdsourcing--what are some of the things that you think are really hot right now?</b>
 
 One of the things that I think is the most interesting, which is actually a little bit different from a lot of things that I have been working on, is the whole idea of autonomous vehicles. Where that could end up. I think there's a lot of ways that people are envisioning this happening. They're seeing a car like the Google car, and they're imagining that this looks so much like the vehicle that they're in today.
 
