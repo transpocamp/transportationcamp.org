@@ -44,14 +44,14 @@ TransportationCamp provides an opportunity for every single attendee to be a par
 
 An “unconference” is a conference where sessions are programmed and led by the attendees. Unconferences are popular in the tech world because they reflect the culture of the industry - hands-on, flexible, a little casual but very hard working. And usually, really fun.
 
-All the sessions are open for attendees to define, describe, and lead. Session can take almost any form. Each lasts no more than 60 minutes in length (and if the conversation is really flying after 60 minutes, you can always schedule a follow-on session). Organize solo, or indicate that you’re looking for collaborators. Possible formats include: a slide presentation followed by Q&A, a panel discussion you have organized, a wide-open brainstorm, or any other arrangement of your design. It's important to make your chosen format clear, so that participants know what to expect ahead of time. <!-- more -->
+All the sessions are open for attendees to define, describe, and lead. Session can take almost any form. Each lasts no more than 60 minutes in length (and if the conversation is really flying after 60 minutes, you can always schedule a follow-on session). Organize solo, or indicate that you’re looking for collaborators. Possible formats include: a slide presentation followed by Q&A, a panel discussion you have organized, a wide-open brainstorm, or any other arrangement of your design. It's important to make your chosen format clear, so that participants know what to expect ahead of time.
 
 
 
 ## Collaborating on topics ahead of the event
 
 
-TransporationCamp attendees are submitting ideas on the Twitter [collaboration site].(http://ideas.transportationcamp.org). Some fascinating discussions are underway, and the list keeps growing. Any of those topics can become a session at Camp, if someone is willing to lead it.
+TransporationCamp attendees are submitting ideas on the Twitter [collaboration site.](http://ideas.transportationcamp.org). Some fascinating discussions are underway, and the list keeps growing. Any of those topics can become a session at Camp, if someone is willing to lead it.
 
 Review the list and help the best topics become sessions. Leave responses and use the “support this” button to let others know what topics are hot. If something grabs your attention or gets you worked up, blog about it and post a link.
 
