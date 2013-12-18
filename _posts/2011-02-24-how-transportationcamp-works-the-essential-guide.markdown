@@ -51,9 +51,9 @@ All the sessions are open for attendees to define, describe, and lead. Session c
 ## Collaborating on topics ahead of the event
 
 
-TransporationCamp attendees already submitted over 100 ideas on the [topic suggestion page](http://transportationcamp.org/topics/). Some fascinating discussions are underway, and the list keeps growing. Any of those topics can become a session next weekend, if someone is willing to lead it.
+TransporationCamp attendees are submitting ideas on the Twitter [collaboration site].(http://ideas.transportationcamp.org). Some fascinating discussions are underway, and the list keeps growing. Any of those topics can become a session at Camp, if someone is willing to lead it.
 
-Review the list and help the best topics become sessions. Use the buttons to sort by popularity, or most recent. Leave responses and use the “like” button to let others know what topics are hot. If something grabs your attention or gets you worked up, blog about it and post a link.
+Review the list and help the best topics become sessions. Leave responses and use the “support this” button to let others know what topics are hot. If something grabs your attention or gets you worked up, blog about it and post a link.
 
 In the list, identify others who share your interests, and start communicating with them about possible sessions you’d like to attend, or lead. Maybe you find a topic that perfectly complements your interests, or you spot a connection between two separate topics that nobody else has picked up yet.
 
