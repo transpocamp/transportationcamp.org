@@ -16,7 +16,7 @@ title: TransportationCamp
             <a class="event-title" href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a>
           </div>
           <div class="event-footer">
-            <a href="{{ site.baseurl }}{{ event.url }}">Details</a> | <a href="{{ event.register_url }}" target="_blank">Register</a>
+            <a href="{{ site.baseurl }}{{ event.url }}">Details</a> | {% if event.register_url %}<a href="{{ event.register_url }}" target="_blank">Register</a>{% else %}<span class="no-registration-link">Register</span>{% endif %}
           </div>
         </div>
       </li>

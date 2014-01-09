@@ -268,6 +268,10 @@ a.event-date:visited {
   text-decoration: none;
   text-transform: uppercase;
 }
+.no-registration-link {
+  text-transform: uppercase;
+  cursor: default;
+}
 
 
 /* =About
