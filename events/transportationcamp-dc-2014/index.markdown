@@ -9,13 +9,18 @@ wordpress_id: 1623
 published: true
 ---
 
+## Schedule and event notes
+Here's the [live event schedule](https://docs.google.com/document/d/16jctG1UrCqVcke7kmo8GdL1NzYwzj0ZXhjHCa6J5NsE/pub)! Follow the links to add notes from the sessions you attend.
+
+## Share your ideas!
+TransportationCamp attendees are submitting ideas on the Twitter [collaboration site.](http://ideas.transportationcamp.org). Some fascinating discussions are underway, and the list keeps growing. Any of those topics can become a session at Camp, if someone is willing to lead it.
+
+Review the list and help the best topics become sessions. Leave responses and use the “support this” button to let others know what topics are hot. If something grabs your attention or gets you worked up, blog about it and post a link.
+
+## When and where
 The 3rd Annual TransportationCamp Washington DC will be held on Saturday, January 11, 2014. [Click here to register](https://transpocampdc14.eventbrite.com/).
 
 Following on the success of [previous Transportation Camps](http://transportationcamp.org/dc/), TransportationCamp DC '14 will continue to expand the opportunities we have to improve mobility through recent advances in technology, such as web 2.0, mobile computing, open source software, open data and APIs, and spatial analysis. The conference will also examine ways to build connections between disparate innovators in public administration, transportation operations, information design, and software engineering.
-
-TransporationCamp attendees are submitting ideas on the Twitter [collaboration site.](http://ideas.transportationcamp.org). Some fascinating discussions are underway, and the list keeps growing. Any of those topics can become a session at Camp, if someone is willing to lead it.
-
-Review the list and help the best topics become sessions. Leave responses and use the “support this” button to let others know what topics are hot. If something grabs your attention or gets you worked up, blog about it and post a link.
 
 
 The event will be on Saturday before the start of the [Transportation Research Board 93rd Annual Meeting](http://www.trb.org/AnnualMeeting2014/AnnualMeeting2014.aspx).
