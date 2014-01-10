@@ -12,6 +12,8 @@ published: true
 ## Schedule and event notes
 Here's the [live event schedule](https://docs.google.com/document/d/16jctG1UrCqVcke7kmo8GdL1NzYwzj0ZXhjHCa6J5NsE/pub)! Follow the links to add notes from the sessions you attend.
 
+The event hashtag is [#transpo](https://twitter.com/search?q=%23transpo&src=typd&f=realtime).
+
 ## Share your ideas!
 TransportationCamp attendees are submitting ideas on the Twitter [collaboration site.](http://ideas.transportationcamp.org). Some fascinating discussions are underway, and the list keeps growing. Any of those topics can become a session at Camp, if someone is willing to lead it.
 
