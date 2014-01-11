@@ -34,7 +34,7 @@
   background_img: sf-2013.jpg
 
 - title: Washington DC 2014
-  date: 2014-01-11 00:00:00
+  date: 2014-01-11 23:59:59
   url: /events/transportationcamp-dc-2014
   register_url: https://transpocampdc14.eventbrite.com/
   background_img: dc-2014-b.jpg
@@ -42,5 +42,5 @@
 - title: New England 2014
   date: 2014-04-05 00:00:00
   url: /events/new-england-2014
-  register_url: 
+  register_url:
   background_img: boston-2014-b.jpg
