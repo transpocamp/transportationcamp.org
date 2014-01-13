@@ -6,7 +6,11 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <html dir="ltr" lang="en-US"> <!--<![endif]-->
   <head>
     <meta charset="utf-8">
+    {% if page.url == "/404.html" %}
+    <meta http-equiv="refresh" content="5; url=/">
+    {% else %}
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    {% endif %}
     <meta name="description" content="TransportationCamp">
     <meta name="author" content="OpenPlans">
 
