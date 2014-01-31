@@ -4,7 +4,7 @@ comments: false
 date: 2014-01-31 15:23:38-05:00
 layout: post
 slug: TransportationCamp-recap-from-Mobility-Lab
-title: Check out this recap of TransportationCamp from Mobility Lab
+title: TransportationCamp recap from Mobility Lab
 categories:
 - Latest News
 ---
