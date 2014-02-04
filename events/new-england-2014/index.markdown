@@ -13,7 +13,7 @@ The 1st Annual TransportationCamp New England will be held on Saturday, April 5,
 
 Following on the success of previous Transportation Camps, TransportationCamp New England '14 will continue to examine ways to build connections between disparate innovators in public administration, transportation planning, transportation operations, information design, and software engineering.
 
-You can [register here]http://www.eventbrite.com/e/transportation-camp-new-england-14-tickets-10281011783. The collaboration page is coming soon. Follow us on Twitter for the latest updates, @TranspoCampNE.
+You can [register here](http://www.eventbrite.com/e/transportation-camp-new-england-14-tickets-10281011783). The collaboration page is coming soon. Follow us on Twitter for the latest updates, @TranspoCampNE.
 
 We're excited to be hosted by MIT and the MIT Transportation Club at the Stata Center, Main Floor, 32 Vassar St, Cambridge, MA 02139.
 
