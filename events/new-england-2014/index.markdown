@@ -24,3 +24,5 @@ Here's more info including [map and directions](http://www.gbcacm.org/venues/cam
 After wrapping up the day at 5pm we will go for drinks at a location nearby, (location TBD). The happy hour will be hosted by the Young Professionals in Transportation (Boston Chapter).
 
 TransportationCamp New England '14 is organized by [Cambridge Systematics](http://www.camsys.com), [Young Professionals in Transportation](http://yptransportation.org/), and [MIT](http://web.mit.edu/).
+
+If you are interested in becoming a sponsor of TransportationCamp New England '14, please read our [sponsorship information](https://drive.google.com/file/d/0B6bqUUXih_pjNW5wZVFQZzBKZ2Z0N2E4ZDVxdVBmRGdlc0hN/edit?usp=sharing). 
