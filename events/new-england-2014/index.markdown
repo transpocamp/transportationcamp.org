@@ -25,3 +25,4 @@ After wrapping up the day at 5pm we will go for drinks at a location nearby, (lo
 
 TransportationCamp New England '14 is organized by [Cambridge Systematics](http://www.camsys.com), [Young Professionals in Transportation](http://yptransportation.org/), and [MIT](http://web.mit.edu/).
 
+If you are interested becoming a sponsor of TransportationCamp New England '14, please read our [sponsorship information](https://www.dropbox.com/s/cxxtdk95gr2a5jw/Transpocamp%20Flyer_Sponsor%20NE%202014.pdf).
