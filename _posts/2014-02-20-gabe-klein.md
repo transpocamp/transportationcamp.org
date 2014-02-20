@@ -1,15 +1,13 @@
-
 ---
 author: Ellen McDermott
 comments: false
-date: 2014-02-20 15:45:38-05:00
+date: 2014-02-20 15:23:38-05:00
 layout: post
-slug: TransportationCamp-gabe-klein
-title: TransportationCamp Wrap Up
+slug: TransportationCamp-DC14-gabe-klein
+title: TransportationCamp wrap up 
 categories:
 - Latest News
 ---
-
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/oM8kP6Np8AY" frameborder="0" allowfullscreen></iframe>
 
