@@ -9,5 +9,6 @@ categories:
 - Latest News
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/4g-Qx7DVGE0" frameborder="0" allowfullscreen></iframe> Shin-pei Tsay from [TransitCenter](http://www.transitcenter.org) discusses the value of TransportationCamp for transit agencies and advocacy organizations -- some people we need to bring to the table next year.
+<iframe width="560" height="315" src="//www.youtube.com/embed/4g-Qx7DVGE0" frameborder="0" allowfullscreen></iframe> 
+Shin-pei Tsay from [TransitCenter](http://www.transitcenter.org) discusses the value of TransportationCamp for transit agencies and advocacy organizations -- some people we need to bring to the table next year.
 
