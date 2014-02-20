@@ -2,9 +2,9 @@
 ---
 author: Ellen McDermott
 comments: false
-date: 2014-02-20 14:45:38-05:00
+date: 2014-02-20 15:45:38-05:00
 layout: post
-slug: gabe-klein
+slug: TransportationCamp-gabe-klein
 title: TransportationCamp Wrap Up
 categories:
 - Latest News
