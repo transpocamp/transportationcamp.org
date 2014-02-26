@@ -44,3 +44,9 @@
   url: /events/new-england-2014
   register_url: http://www.eventbrite.com/e/transportation-camp-new-england-14-tickets-10281011783 
   background_img: boston-2014-b.jpg
+
+- title: South 2014
+  date: 2014-04-12 00:00:00
+  url: /events/south-2014
+  register_url: https://transpocamp-govathon.eventbrite.com 
+  background_img: south-2014-b.jpg
