@@ -21,7 +21,7 @@ The location is easy to get to, the Stata Center is located two blocks west of t
 
 Here's more info including [map and directions](http://www.gbcacm.org/venues/cambridge/mit-building-32-stata-center.html).
 
-After wrapping up the day at 5pm we will go for drinks at a location nearby, (location TBD). The happy hour will be hosted by the Young Professionals in Transportation (Boston Chapter).
+After wrapping up the day at 5pm we will go for drinks at Champions in Kendall Square, 50 Broadway, Cambridge, MA 02142. The happy hour will be hosted by the Young Professionals in Transportation (Boston Chapter).
 
 TransportationCamp New England '14 is organized by [Cambridge Systematics](http://www.camsys.com), [Young Professionals in Transportation](http://yptransportation.org/), and [MIT](http://web.mit.edu/).
 
