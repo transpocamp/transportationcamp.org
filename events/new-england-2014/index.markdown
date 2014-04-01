@@ -23,7 +23,7 @@ Here's more info including [map and directions](http://www.gbcacm.org/venues/cam
 
 After wrapping up the day at 5pm we will go for drinks at Champions in Kendall Square, 50 Broadway, Cambridge, MA 02142. The happy hour will be hosted by the Young Professionals in Transportation (Boston Chapter).
 
-TransportationCamp New England '14 is organized by [Cambridge Systematics](http://www.camsys.com), [Young Professionals in Transportation](http://yptransportation.org/), and [MIT](http://web.mit.edu/), and sponsored by Sponsored by [Caliper](www.caliper.com), [Control Group](http://www.controlgroup.com), [New England Section of the Institute of Transportation Engineers](http://www.neite.org/), [Ecolane](http://www.ecolane.com), [Conveyal](http://www.conveyal.com), and [Zipcar](http://www.zipcar.com).
+TransportationCamp New England '14 is organized by [Cambridge Systematics](http://www.camsys.com), [Young Professionals in Transportation](http://yptransportation.org/), and [MIT](http://web.mit.edu/), and sponsored by Sponsored by [Caliper](www.caliper.com), [Control Group](http://www.controlgroup.com), [GroupZoom](http://www.groupzoom.com/), [New England Section of the Institute of Transportation Engineers](http://www.neite.org/), [Ecolane](http://www.ecolane.com), [Conveyal](http://www.conveyal.com), [Zipcar](http://www.zipcar.com), and [Nelson Nygaard](http://www.nelsonnygaard.com/).
 
 If you are interested becoming a sponsor of TransportationCamp New England '14, please read our [sponsorship information](https://www.dropbox.com/s/cxxtdk95gr2a5jw/Transpocamp%20Flyer_Sponsor%20NE%202014.pdf).
 
