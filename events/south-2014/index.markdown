@@ -23,5 +23,28 @@ The venue for both TransportationCamp South and Govathon is the [Clough Undergra
 
 ## Organizers and Sponsorship
 
+Thank you to our 2014 Sponsors:
+
+<center>GOLD SPONSORS
+
+<a href='http://www.google.com' target='_blank'><img src = "https://evbdn.eventbrite.com/s3-s3/eventlogos/23389130/googlelogo.png" style='vertical-align:middle; margin-right: 40px;'></a><a href='http://www.mailchimp.com' target='_blank'><img src = "https://evbdn.eventbrite.com/s3-s3/eventlogos/23389130/mailchimplogo.png" style='vertical-align:middle'></a>
+
+<a href='http://www.nctspm.gatech.edu/' target='_blank'><img src = "https://evbdn.eventbrite.com/s3-s3/eventlogos/23389130/nctspmlogo.png" style='vertical-align:middle'></a>
+
+
+BRONZE SPONSORS
+
+<a href='http://www.airsage.com' target='_blank'><img src = "https://evbdn.eventbrite.com/s3-s3/eventlogos/23389130/airsagelogo.png" style='vertical-align:middle; margin: 40px;'></a><a href='http://www.atlantaregional.com' target='_blank'><img src = "https://evbdn.eventbrite.com/s3-s3/eventlogos/23389130/arclogo.png" style='vertical-align:middle; margin: 40px;'></a>
+
+<a href='http://www.camsys.com' target='_blank'><img src = "https://evbdn.eventbrite.com/s3-s3/eventlogos/23389130/camsyslogo.png" style='vertical-align:middle; margin: 40px;'></a><a href='http://www.kwanzahall.com' target='_blank'><img src = "https://evbdn.eventbrite.com/s3-s3/eventlogos/23389130/kwanzalogo.png" style='vertical-align:middle; margin: 40px;'></a>
+
+<a href='http://www.nmomentum.com' target='_blank'><img src = "https://evbdn.eventbrite.com/s3-s3/eventlogos/23389130/nmomentumlogo.png" style='vertical-align:middle; margin: 40px;'></a><a href='http://www.sierraclub.org' target='_blank'><img src = "https://evbdn.eventbrite.com/s3-s3/eventlogos/23389130/sclogo.png" style='vertical-align:middle; margin: 40px;'></a>
+
+<a href='http://www.ridecell.com' target='_blank'><img src = "https://evbdn.eventbrite.com/s3-s3/eventlogos/23389130/ridecelllogo-1.png" style='vertical-align:middle; margin: 40px;'></a>
+
+
+</center>
+
+
 TransportationCamp South / Govathon 2014 is organized by [Code for Atlanta](http://www.codeforatlanta.org/), [Georgia Tech Urban Transportation Information Lab](http://util.gatech.edu/), [Conveyal](http://conveyal.com/), [Citizens for Progressive Transit](http://www.cfpt.org/), and [Imagine Atlanta](http://imagineatlanta.com/).
 
