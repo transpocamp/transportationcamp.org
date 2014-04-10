@@ -1,17 +1,17 @@
 ---
 author: David Emory
 comments: false
-date: {}
+date: 2014-04-12 12:00:00+00:00
 layout: event
 slug: "south-2014"
 title: TransportationCamp South 2014
-wordpress_id: 
+wordpress_id:
 published: true
 ---
 
 Following on the success of [the sold-out inaugural event](http://clatl.com/freshloaf/archives/2013/02/13/transportationcamp-south-is-a-wonks-heaven) in February 2013, TranspotationCamp South is returning to Atlanta in April 2014.
 
-This year, we are joining forces with [Govathon](http://govathon.com/) and [Code for Atlanta](http://www.codeforatlanta.org/) to produce a one-of-a-kind combined event that will see TransportationCamp run concurrently with a transportation-focused civic hackathon. While participants will register for either TransportationCamp or Govathon, joint brainstorming sessions will be held Saturday morning, and attendees are encouraged to "float" between both events' activities for the duration of the weekend. The result will be a series of tangible, technology-based solutions to our most pressing transportation challenges. 
+This year, we are joining forces with [Govathon](http://govathon.com/) and [Code for Atlanta](http://www.codeforatlanta.org/) to produce a one-of-a-kind combined event that will see TransportationCamp run concurrently with a transportation-focused civic hackathon. While participants will register for either TransportationCamp or Govathon, joint brainstorming sessions will be held Saturday morning, and attendees are encouraged to "float" between both events' activities for the duration of the weekend. The result will be a series of tangible, technology-based solutions to our most pressing transportation challenges.
 
 ## Registration
 

@@ -1,35 +1,35 @@
 - title: East 2011
-  date: 2011-03-05 00:00:00
+  date: 2011-03-05 23:59:59
   url: /events/east
   background_img: east-2011.jpg
 
 - title: West 2011
-  date: 2011-03-19 00:00:00
+  date: 2011-03-19 23:59:59
   url: /events/west
   background_img: west-2011.jpg
 
 - title: Montreal 2011
-  date: 2011-12-15 00:00:00
+  date: 2011-12-15 23:59:59
   url: /events/montreal
   background_img: montreal-2011.jpg
 
 - title: Washington DC 2012
-  date: 2012-01-12 00:00:00
+  date: 2012-01-12 23:59:59
   url: /events/dc
   background_img: dc-2012.jpg
 
 - title: Washington DC 2013
-  date: 2013-01-12 00:00:00
+  date: 2013-01-12 23:59:59
   url: /events/dc-13
   background_img: dc-2013.jpg
 
 - title: South 2013
-  date: 2013-02-09 00:00:00
+  date: 2013-02-09 23:59:59
   url: /events/south
   background_img: south-2013.jpg
 
 - title: San Francisco Bay Area 2013
-  date: 2013-11-16 00:00:00
+  date: 2013-11-16 23:59:59
   url: /events/san-francisco-bay-area-2013
   background_img: sf-2013.jpg
 
@@ -40,13 +40,13 @@
   background_img: dc-2014-b.jpg
 
 - title: New England 2014
-  date: 2014-04-05 00:00:00
+  date: 2014-04-05 23:59:59
   url: /events/new-england-2014
-  register_url: http://www.eventbrite.com/e/transportation-camp-new-england-14-tickets-10281011783 
+  register_url: http://www.eventbrite.com/e/transportation-camp-new-england-14-tickets-10281011783
   background_img: boston-2014-b.jpg
 
 - title: South 2014
-  date: 2014-04-12 00:00:00
+  date: 2014-04-12 23:59:59
   url: /events/south-2014
-  register_url: https://transpocamp-govathon.eventbrite.com 
+  register_url: https://transpocamp-govathon.eventbrite.com
   background_img: south-2014-b.jpg
