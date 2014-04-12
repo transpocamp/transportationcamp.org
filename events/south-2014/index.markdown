@@ -35,6 +35,29 @@ Room 278: Apps to Support Safe Routes to Transit
 Room 280: Tranportation & Accessibility to Quality Food
 
 
+**11:45 - 12:45 AM**
+
+Room 102: How Should Transit Riders and Agencies Communicate?
+
+Room 123: Can Citizens Create their own Transpo Hacks?
+
+Room 125: ARC One-Click System
+
+Room 127: Improving MARTA UX
+
+Room 129: Better Beltline Brainstorm
+
+Room 131: Electrical Vehicle Ride Share
+
+Room 262: Better Carpooling + Bike Trains
+
+Room 272: Smart Parking
+
+Room 280: MARTA Army / MARTA Perception
+
+Room 323: Transit Ideation + Gamestorming
+
+
 ## General Info
 
 Following on the success of [the sold-out inaugural event](http://clatl.com/freshloaf/archives/2013/02/13/transportationcamp-south-is-a-wonks-heaven) in February 2013, TranspotationCamp South is returning to Atlanta in April 2014.
