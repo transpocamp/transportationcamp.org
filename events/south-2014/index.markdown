@@ -82,6 +82,30 @@ Room 280: How to Plan without Gentrification
 
 Room 323: Promoting Transit for Workplaces
 
+
+**3:00 - 4:00 PM**
+
+Room 102: Federal Policy / Innovative funding
+
+Room 123: BikeShare ATL
+
+Room 125: Student Involvement in Transit
+
+Room 127: Bringing MARTA to Clayton County
+
+Room 129: ATL 2017: Goodbye Braves, Hello MLS
+
+Room 131: Private Shuttles (Atlantic Station, GT, etc.)
+
+Room 272: Secure Bicycle Parking
+
+Room 278: Public Policy and Transportation
+
+Room 280: Public Art and Transportation
+
+Room 323: Getting Millenials and Gen-Xers to Ride Transit
+
+
 ## General Info
 
 Following on the success of [the sold-out inaugural event](http://clatl.com/freshloaf/archives/2013/02/13/transportationcamp-south-is-a-wonks-heaven) in February 2013, TranspotationCamp South is returning to Atlanta in April 2014.
