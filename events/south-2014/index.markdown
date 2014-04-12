@@ -35,7 +35,7 @@ Room 278: Apps to Support Safe Routes to Transit
 Room 280: Tranportation & Accessibility to Quality Food
 
 
-**11:45 - 12:45 AM**
+**11:45 AM - 12:45 PM**
 
 Room 102: How Should Transit Riders and Agencies Communicate?
 
@@ -57,6 +57,30 @@ Room 280: MARTA Army / MARTA Perception
 
 Room 323: Transit Ideation + Gamestorming
 
+
+**1:45 - 2:45 PM**
+
+Room 102: History of MARTA Planning 
+
+Room 123: The Atlanta Cycling Festival
+
+Room 125: Equitable Transit
+
+Room 127: Transit Oriented Development
+
+Room 129: Cycling vs Streetcar
+
+Room 131: Fixing Broken Sidewalks
+
+Room 262: Improving the Build Environment to Improve Health
+
+Room 272: Political Strategy for Transit Expansion in Atlanta
+
+Room 278: Convincing Uniterested Residents to Support Alt. Transportation
+
+Room 280: How to Plan without Gentrification
+
+Room 323: Promoting Transit for Workplaces
 
 ## General Info
 
