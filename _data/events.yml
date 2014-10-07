@@ -50,3 +50,9 @@
   url: /events/south-2014
   register_url: https://transpocamp-govathon.eventbrite.com
   background_img: south-2014-b.jpg
+
+- title: Washington DC 2015
+  date: 2015-01-10 23:59:59
+  url: /events/transportationcamp-dc-2014
+  register_url: https://transpocampdc14.eventbrite.com/
+  background_img: dc-2014-b.jpg
