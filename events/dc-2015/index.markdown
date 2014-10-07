@@ -9,8 +9,12 @@ wordpress_id: 1623
 published: true
 ---
 
+The 4th Annual Transportation Camp Washington DC will be held on Saturday, January 10, 2015. The event will be the day before the start of the [Transportation Research Board 94th Annual Meeting](http://www.trb.org/AnnualMeeting2015/AnnualMeeting2015.aspx). We are being hosted by the [George Mason University School of Policy, Government, and International Affairs](http://spgia.gmu.edu/), at [Founders Hall](http://arlington.gmu.edu/).
+
+The “unconference” is designed to bring together transportation professionals, technologists, and others interested in the intersection of urban transportation and technology. Anyone who wants to improve mobility is welcome. 
+
 ## Schedule and event notes
-See [Transportation Camp DC 2015 Sessions & Notes
+There will be five periods for breakout sessions. The sessions will be proposed the morning of the event and scheduled after the introductory session. Once "The Wall" is posted, we will copy the schedule online: See [Transportation Camp DC 2015 Sessions & Notes
 ](https://docs.google.com/document/d/1Red8OH09U0wJOIBjZXsJeB3xLbmi0kJJkqKYOweQbM0/edit?usp=sharing) for a list of all sessions and links for notes. The notes are on shared documents that everyone is encouraged to edit (in real time). If you're in a session and mention a link, it's a good idea to add the link to the notes for that session.
 
 The event hashtag is [#transpo](https://twitter.com/search?q=%23transpo&src=typd&f=realtime). We'll be projecting real-time tweets in the multi-purpose room.
