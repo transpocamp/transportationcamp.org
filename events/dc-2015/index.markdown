@@ -10,7 +10,7 @@ published: true
 ---
 
 ## Schedule and event notes
-Here's the [live event schedule](https://docs.google.com/document/d/16jctG1UrCqVcke7kmo8GdL1NzYwzj0ZXhjHCa6J5NsE/pub)! Follow the links to add notes from the sessions you attend.
+The session schedule and notes will be posted here [live event schedule](https://docs.google.com/document/d/1Red8OH09U0wJOIBjZXsJeB3xLbmi0kJJkqKYOweQbM0/edit?usp=sharing)! Follow the links to add notes from the sessions you attend.
 
 The event hashtag is [#transpo](https://twitter.com/search?q=%23transpo&src=typd&f=realtime).
 
@@ -20,7 +20,7 @@ TransportationCamp attendees are submitting ideas on the Twitter [collaboration 
 Review the list and help the best topics become sessions. Leave responses and use the “support this” button to let others know what topics are hot. If something grabs your attention or gets you worked up, blog about it and post a link.
 
 ## When and where
-The 3rd Annual TransportationCamp Washington DC will be held on Saturday, January 10, 2015. [Click here to register](https://transpocampdc14.eventbrite.com/).
+The 4th Annual TransportationCamp Washington DC will be held on Saturday, January 10, 2015. The eventbrite registration site has not yet been activivated. Your can read about previous events for [2011](http://transportationcamp.org/events/dc/), 2012, and 2013.
 
 Following on the success of [previous Transportation Camps](http://transportationcamp.org/dc/), TransportationCamp DC '14 will continue to expand the opportunities we have to improve mobility through recent advances in technology, such as web 2.0, mobile computing, open source software, open data and APIs, and spatial analysis. The conference will also examine ways to build connections between disparate innovators in public administration, transportation operations, information design, and software engineering.
 
