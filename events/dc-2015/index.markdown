@@ -35,9 +35,11 @@ We open with breakfast at 8:30am. The program starts when the trumpet player pla
 You can read about last year's Transportation Camp on [mobilitylab.org](http://mobilitylab.org/tag/transportationcamp/), and visit the sites for previous years: [2012](http://transportationcamp.org/events/dc/), [2013](http://transportationcamp.org/events/dc-13/), and [2014](http://transportationcamp.org/events/transportationcamp-dc-2014/). 
 
 We'll be returning this year to GMU Founders Hall, at 3351 Fairfax Drive, Arlington, VA 22201. The campus is easy to get to:
+
   * Founders Hall is located two blocks east of the [Virginia Square-GMU](http://www.wmata.com/rail/station_detail.cfm?station_id=98) Metro station (on the Orange and Silver lines).
   * There is a [Capital Bikeshare](http://www.capitalbikeshare.com/) station in front of Founders Hall.
   * Metro [bus 38B](http://www.wmata.com/bus/timetables/view.cfm?line=12) runs between Ballston (Virginia) and Farragut Square (DC, via Georgetown).
+
 <iframe align=center src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1552.8558231973786!2d-77.10089523808!3d38.88483864213981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b6828ba038d9%3A0xdc8b8bb98b169604!2sGeorge+Mason+University-Arlington+Campus!5e0!3m2!1sen!2sus!4v1412725299805" width="640" height="320" frameborder="0" style="border:0"></iframe>
 
 Here's a map of the [Arlington campus](http://info.gmu.edu/Maps/ArlingtonMap14.pdf). 
