@@ -13,7 +13,7 @@ The 4th Annual Transportation Camp Washington DC will be held on Saturday, Janua
 
 The eventbrite registration site has not yet been activivated. Stay tuned to [@transpocamp](https://twitter.com/transpocamp) to be notified when registration begins.
 
-The “unconference” is designed to bring together transportation professionals, technologists, and others interested in the intersection of urban transportation and technology. Anyone who wants to improve mobility is welcome. 
+The “unconference” is designed to bring together transportation professionals, technologists, and others interested in the intersection of urban transportation and technology. Anyone who wants to improve mobility is welcome. Here's our handy guide: [How TransportationCamp works: the essential guide[http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/].
 
 ## Schedule and event notes
 There will be five periods for breakout sessions. The sessions will be proposed the morning of the event and scheduled after the introductory session. Once "The Wall" is posted, we will copy the schedule online: See [Transportation Camp DC 2015 Sessions & Notes
