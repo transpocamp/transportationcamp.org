@@ -22,7 +22,7 @@ There will be five periods for breakout sessions. The sessions will be proposed 
 The event hashtag is [#transpo](https://twitter.com/search?q=%23transpo&src=typd&f=realtime). We'll be projecting real-time tweets in the multi-purpose room.
 
 ## Share your ideas!
-TransportationCamp attendees are submitting ideas on the Twitter [collaboration site.](http://ideas.transportationcamp.org). Some fascinating discussions are underway, and the list keeps growing. Any of those topics can become a session at Camp, if someone is willing to lead it.
+TransportationCamp attendees are submitting ideas on the Twitter [collaboration site](http://ideas.transportationcamp.org). Some fascinating discussions are underway, and the list keeps growing. Any of those topics can become a session at Camp, if someone is willing to lead it.
 
 Review the list and help the best topics become sessions. Leave responses and use the “support this” button to let others know what topics are hot. If something grabs your attention or gets you worked up, blog about it and post a link.
 
