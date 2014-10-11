@@ -10,7 +10,7 @@ published: true
 ---
 
 The 2nd Annual Transportation Camp New England will be held on Saturday, April 11, 2015.
-Following on the success of last years Transportation Camp, TransportationCamp New England ’15 will continue to examine ways to build connections between disparate innovators in public administration, transportation planning, transportation operations, information design, and software engineering.
+Following on the success of last year's Transportation Camp, TransportationCamp New England ’15 will continue to examine ways to build connections between disparate innovators in public administration, transportation planning, transportation operations, information design, and software engineering.
 
 The eventbrite registration site has not yet been activated; however, save the date and share your session ideas on our collaborative [ideas site](http://ideas.transportationcamp.org/). Follow us on Twitter for the latest updates, [@TranspoCampNE](https://twitter.com/TranspoCampNE). You can also like us on [Facebook](https://www.facebook.com/pages/TransportationCamp-New-England/219391578269518).
 
