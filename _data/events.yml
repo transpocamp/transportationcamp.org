@@ -55,3 +55,8 @@
   date: 2015-01-10 23:59:59
   url: /events/dc-2015
   background_img: dc-2015-a.png
+
+- title: New England 2015
+  date: 2015-04-11 23:59:59
+  url: /events/ne-2015
+  background_img: ne-2015.png
