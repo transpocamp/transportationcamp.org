@@ -16,8 +16,7 @@ The eventbrite registration site has not yet been activated. Stay tuned to [@tra
 The “unconference” is designed to bring together transportation professionals, technologists, and others interested in the intersection of urban transportation and technology. Anyone who wants to improve mobility is welcome. Here's our handy guide: [How TransportationCamp works: the essential guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/).
 
 ## Schedule and event notes
-There will be five periods for breakout sessions. The sessions will be proposed the morning of the event and scheduled after the introductory session. Once "The Wall" is posted, we will copy the schedule online: See [Transportation Camp DC 2015 Sessions & Notes
-](https://docs.google.com/document/d/1Red8OH09U0wJOIBjZXsJeB3xLbmi0kJJkqKYOweQbM0/edit?usp=sharing) for a list of all sessions and links for notes. The notes are on shared documents that everyone is encouraged to edit (in real time). If you're in a session and mention a link, it's a good idea to add the link to the notes for that session.
+There will be four periods for breakout sessions. The sessions will be proposed the morning of the event and scheduled after the introductory session. Once "The Wall" is posted, we will copy the schedule online (this page will be updated with the link). Each session will have notes available on shared documents that everyone is encouraged to edit (in real time). If you're in a session and mention a link, it's a good idea to add the link to the notes for that session.
 
 The event hashtag is [#transpo](https://twitter.com/search?q=%23transpo&src=typd&f=realtime). We'll be projecting real-time tweets in the multi-purpose room.
 
