@@ -3,7 +3,7 @@ author: Frank Hebbert
 comments: false
 date: {}
 layout: event
-slug: "transportationcamp-dc-2014"
+slug: "dc-2014"
 title: TransportationCamp DC 2014
 wordpress_id: 1623
 published: true
