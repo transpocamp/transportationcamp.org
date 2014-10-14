@@ -11,7 +11,7 @@ published: true
 
 The 4th Annual Transportation Camp Washington DC will be held on Saturday, January 10, 2015. The event will be the day before the start of the [Transportation Research Board 94th Annual Meeting](http://www.trb.org/AnnualMeeting2015/AnnualMeeting2015.aspx). We are being hosted by the [George Mason University School of Policy, Government, and International Affairs](http://spgia.gmu.edu/), at [Founders Hall](http://arlington.gmu.edu/).
 
-The eventbrite registration site has not yet been activivated. Stay tuned to [@transpocamp](https://twitter.com/transpocamp) to be notified when registration begins.
+The eventbrite registration site has not yet been activated. Stay tuned to [@transpocamp](https://twitter.com/transpocamp) to be notified when registration begins.
 
 The “unconference” is designed to bring together transportation professionals, technologists, and others interested in the intersection of urban transportation and technology. Anyone who wants to improve mobility is welcome. Here's our handy guide: [How TransportationCamp works: the essential guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/).
 
@@ -30,7 +30,7 @@ Bring your ideas to expand the opportunities we have to improve mobility through
 
 ## Details
 
-We open with breakfast at 8:30am. The program starts when the trumpet player plays Reveille at 9:00am. We will build a schedule of five periods for breakout sessions. Lunch and breakfast are included with your registration. The program wraps up at 5:00pm, after which we are invited to a reception nearby.
+We open with breakfast at 8:30am. The program starts when the trumpet player plays Reveille at 9:00am. We will build a schedule of five periods for breakout sessions. Lunch and breakfast are included with your registration. The program wraps up at 5:00pm, after which we are invited to a Post-Camp Happy Hour nearby.
 
 You can read about last year's Transportation Camp on [mobilitylab.org](http://mobilitylab.org/tag/transportationcamp/), and visit the sites for previous years: [2012](http://transportationcamp.org/events/dc/), [2013](http://transportationcamp.org/events/dc-13/), and [2014](http://transportationcamp.org/events/transportationcamp-dc-2014/). 
 
@@ -46,4 +46,4 @@ Here's a map of the [Arlington campus](http://info.gmu.edu/Maps/ArlingtonMap14.p
 
 If you're in town early, the [Transportation Techies](http://www.meetup.com/Transportation-Techies/) meetup group will have a meetup on Thursday, January 8, which you are invited to sign up for. (Event is not yet on the calendar; join the group or follow [@techiesdc](https://twitter.com/techiesdc) to be notified.)
 
-TransportationCamp DC '15 is organized by [Open Plans](http://openplans.org/), [Conveyal](http://www.conveyal.com/), [Mobility Lab](http://mobilitylab.org/), [Young Professionals in Transportation](http://yptransportation.org/), [Transportation Research Board](http://www.trb.org/), and the [GMU School of Policy, Government, and International Affairs](http://spgia.gmu.edu/). Special thanks go to [American Association of State Highway and Transportation Officials](http://www.transportation.org/) for providing scholarships for students.
+TransportationCamp DC '15 is organized by [Open Plans](http://openplans.org/), [Conveyal](http://www.conveyal.com/), [Mobility Lab](http://mobilitylab.org/), [Young Professionals in Transportation](http://yptransportation.org/), [Transportation Research Board](http://www.trb.org/), the [GMU School of Policy, Government, and International Affairs](http://spgia.gmu.edu/), and the [American Association of State Highway and Transportation Officials](http://www.transportation.org/).
