@@ -42,6 +42,6 @@ We'll be returning this year to GMU Founders Hall, at 3351 Fairfax Drive, Arling
 
 Here's a map of the [Arlington campus](http://info.gmu.edu/Maps/ArlingtonMap14.pdf). 
 
-If you're in town early, the [Transportation Techies](http://www.meetup.com/Transportation-Techies/) meetup group will have a meetup on Thursday, January 8, which you are invited to sign up for. (Event is not yet on the calendar; join the group or follow [@techiesdc](https://twitter.com/techiesdc) to be notified.)
+If you're in town early, the [Transportation Techies](http://www.meetup.com/Transportation-Techies/) meetup group will have a meetup on Thursday, January 8 called [Autotopia Night](http://www.meetup.com/Transportation-Techies/events/213357602/), about traffic/parking and technology (contact the group if interested in rpesenting an app or data visualization). More info via [@techiesdc](https://twitter.com/techiesdc).
 
 TransportationCamp DC '15 is organized by [Open Plans](http://openplans.org/), [Conveyal](http://www.conveyal.com/), [Mobility Lab](http://mobilitylab.org/), [Young Professionals in Transportation](http://yptransportation.org/), [Transportation Research Board](http://www.trb.org/), the [GMU School of Policy, Government, and International Affairs](http://spgia.gmu.edu/), and the [American Association of State Highway and Transportation Officials](http://www.transportation.org/).
