@@ -11,9 +11,9 @@ published: true
 
 The 4th Annual Transportation Camp Washington DC will be held on Saturday, January 10, 2015. The event will be the day before the start of the [Transportation Research Board 94th Annual Meeting](http://www.trb.org/AnnualMeeting2015/AnnualMeeting2015.aspx). We are being hosted by the [George Mason University School of Policy, Government, and International Affairs](http://spgia.gmu.edu/), at [Founders Hall](http://arlington.gmu.edu/).
 
-The eventbrite registration site has not yet been activated. Stay tuned to [@transpocamp](https://twitter.com/transpocamp) to be notified when registration begins.
+Registration is at [transportationcamp2015dc.eventbrite.com](https://transportationcamp2015dc.eventbrite.com). Keep in touch with us on Twitter via [@transpocamp](https://twitter.com/transpocamp).
 
-The “unconference” is designed to bring together transportation professionals, technologists, and others interested in the intersection of urban transportation and technology. Anyone who wants to improve mobility is welcome. Here's our handy guide: [How TransportationCamp works: the essential guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/).
+The “unconference” is designed to bring together transportation professionals, technologists, and others interested in the intersection of urban transportation and technology. Anyone who wants to improve mobility is welcome! Here's our handy guide: [How TransportationCamp works: the essential guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/).
 
 ## Schedule and event notes
 There will be four periods for breakout sessions. The sessions will be proposed the morning of the event and scheduled after the introductory session. Once "The Wall" is posted, we will copy the schedule online (this page will be updated with the link). Each session will have notes available on shared documents that everyone is encouraged to edit (in real time). If you're in a session and mention a link, it's a good idea to add the link to the notes for that session.
