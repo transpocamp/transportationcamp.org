@@ -172,4 +172,4 @@ Content
 
 
 
-So that’s it! That’s how to participate at TransportationCamp. Questions? Email us at:  transportationcamp@openplans.org.
+So that’s it! That’s how to participate at TransportationCamp. Questions? Email us at:  TransportationCamp@mobilitylab.org.
