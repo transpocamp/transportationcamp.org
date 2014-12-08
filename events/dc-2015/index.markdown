@@ -18,6 +18,8 @@ The “unconference” is designed to bring together transportation professional
 ## Schedule and event notes
 There will be four periods for breakout sessions. The sessions will be proposed the morning of the event and scheduled after the introductory session. Once "The Wall" is posted, we will copy the schedule online (this page will be updated with the link). Each session will have notes available on shared documents that everyone is encouraged to edit (in real time). If you're in a session and mention a link, it's a good idea to add the link to the notes for that session.
 
+The event will be followed by a happy hour at [Spider Kelly's](http://spiderkellys.com/), courtesy of [TransitCenter](http://transitcenter.org/).
+
 The event hashtag is [#transpo](https://twitter.com/search?q=%23transpo&src=typd&f=realtime). We'll be projecting real-time tweets in the multi-purpose room.
 
 ## Share your ideas!
