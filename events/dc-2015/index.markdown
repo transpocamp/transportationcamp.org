@@ -29,6 +29,8 @@ Review the list and help the best topics become sessions. Leave responses and us
 
 Bring your ideas to expand the opportunities we have to improve mobility through recent advances in technology, such as web 2.0, mobile computing, open source software, open data and APIs, and spatial analysis. Participants will also examine ways to build connections between disparate innovators in public administration, transportation operations, information design, and software engineering.
 
+Our sponsors are organizing panel discussions that will be part of the first period of breakout sessions.
+
 ## Details
 We open registration and a light breakfast at 8:30am. Lunch and breakfast are included with your registration. Camp starts promptly with Reveille at 9:00am. The schedule will have four periods of breakout sessions, spread out among ten rooms. We will have 3-4 pre-set panels, with topics to be announced later. The program wraps up at 5:00pm, after which everyone is invited to a local pub for a Post-Camp Happy Hour!
 
