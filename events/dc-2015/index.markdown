@@ -13,7 +13,7 @@ The 4th Annual Transportation Camp Washington DC will be held on Saturday, Janua
 
 Registration is at [transportationcamp2015dc.eventbrite.com](https://transportationcamp2015dc.eventbrite.com). Keep in touch with us on Twitter via [@transpocamp](https://twitter.com/transpocamp).
 
-On Friday, January 2, we sold out all 400 tickets. The limit was raised to 425, but those were sold out on January 6. There is no waiting list for this event.
+On Friday, January 2, we sold out all 400 tickets. The limit was raised to 425, but those were sold out on January 5. There is no waiting list for this event.
 
 The “unconference” is designed to bring together transportation professionals, technologists, and others interested in the intersection of urban transportation and technology. Anyone who wants to improve mobility is welcome! Here's our handy guide: [How TransportationCamp works: the essential guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/).
 
