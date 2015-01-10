@@ -22,6 +22,8 @@ There will be four periods for breakout sessions. The sessions will be proposed 
 
 The event will be followed by a happy hour at [Spider Kelly's](http://spiderkellys.com/), courtesy of [TransitCenter](http://transitcenter.org/).
 
+Curious to see who else is in attendance? Download the [directory](https://www.dropbox.com/s/hvekcmad296y3k0/tcampattendeesv1.pdf?dl=0) (this file will be removed at the end of the month).
+
 ## Share your ideas!
 TransportationCamp attendees are submitting ideas on the Twitter [collaboration site](http://ideas.transportationcamp.org). Some fascinating discussions are underway, and the list keeps growing. Any of those topics can become a session at Camp, if someone is willing to lead it.
 
