@@ -8,7 +8,7 @@ title: Transportation Camp DC 2015
 wordpress_id: 1623
 published: true
 ---
-<b>We are posting the schedule online: [transportationcamp.org/events/dc-2015/schedule.html](http://transportationcamp.org/events/dc-2015/schedule.html).</b>
+<b>We are posting the schedule online:<br> [transportationcamp.org/events/dc-2015/schedule.html](http://transportationcamp.org/events/dc-2015/schedule.html).</b>
 
 The 4th Annual Transportation Camp Washington DC will be held on Saturday, January 10, 2015. The event will be the day before the start of the [Transportation Research Board 94th Annual Meeting](http://www.trb.org/AnnualMeeting2015/AnnualMeeting2015.aspx). We are being hosted by the [George Mason University School of Policy, Government, and International Affairs](http://spgia.gmu.edu/), at [Founders Hall](http://arlington.gmu.edu/).
 
