@@ -27,7 +27,7 @@ Some of this year’s session topics will included:
 
 Register [here](http://www.eventbrite.com/e/transportationcamp-new-england-2015-tickets-13577902873) for TransportationCamp New England 2015!
 
-Follow us on Twitter for the latest updates, [@TranspoCampNE](https://twitter.com/TranspoCampNE). You can also like us on Facebook.
+Follow us on Twitter for the latest updates, [@TranspoCampNE](https://twitter.com/TranspoCampNE). You can also like us on [Facebook](https://www.facebook.com/pages/TransportationCamp-New-England/219391578269518).
 
 If you are interested becoming a sponsor of TransportationCamp New England 2015, please read our [sponsorship information](TransportationCamp_Flyer.pdf).
 
