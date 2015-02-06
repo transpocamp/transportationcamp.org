@@ -41,6 +41,6 @@ TransportationCamp New England 2015 will be hosted by MIT and the [MIT Transport
 
 Located two blocks west of the Kendall T-Station (Red Line) and between several garages, the Stata Center is easily accessible by car or public transit, parking information and directions from the T are available [here](http://www.gbcacm.org/venues/cambridge/mit-building-32-stata-center.html).
 
-There will be four periods for breakout sessions. The sessions will be proposed throughout the event and scheduled after the introductory session. Each session will have notes available on shared documents via [Hackpad](https://hackpad.com/) that everyone is encouraged to edit (in real time). If you're in a session and mention a link, it's a good idea to add the link to the notes for that session.
+There will be four periods for breakout sessions. The sessions will be proposed throughout the event and scheduled after the introductory session. Each session will have notes available on shared documents via [Hackpad](https://tcamp2015ne.hackpad.com/) that everyone is encouraged to edit (in real time). If you're in a session and mention a link, it's a good idea to add the link to the notes for that session.
 
 The [Young Professionals in Transportation (YPT) Boston Chapter](http://www.yptboston.org/) will host a happy hour after the event.  Stay tuned for more details to come!
