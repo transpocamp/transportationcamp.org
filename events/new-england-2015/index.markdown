@@ -12,7 +12,7 @@ The 2nd Annual Transportation Camp New England will be held on Saturday, April 1
 
 Following on the success of last year's event, TransportationCamp New England 2015 will continue to foster open conversation and collaboration between all parties interested in mobility and the  radical changes the near-future promises in transportation.
 
-Our goal is to assemble planners, dreamers, programmers, students, and professionals for an exciting day of “un-conferencing.“ Unlike a traditional conference, the specific session topics are determined by participants, which provides each attendee an opportunity to lead and shape the event. Therefore, we want to see what you are doing; we want to ask how it will impact our lives; and we want to help you to find answers.
+Our goal is to assemble planners, dreamers, programmers, students, and professionals for an exciting day of "un-conferencing." Unlike a traditional conference, the specific session topics are determined by participants, which provides each attendee an opportunity to lead and shape the event. Therefore, we want to see what you are doing; we want to ask how it will impact our lives; and we want to help you to find answers.
 
 Some of this year’s session topics will included:
 
