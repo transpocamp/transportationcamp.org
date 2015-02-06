@@ -39,7 +39,7 @@ TransportationCamp New England 2015 will be hosted by MIT and the [MIT Transport
 > 32 Vassar Street<br>
 > Cambridge, MA 02139 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2948.0926789748933!2d-71.0905626!3d42.3618641!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370abe1db5703%3A0xd3b042dc26a8b515!2s32+Vassar+St%2C+Massachusetts+Institute+of+Technology%2C+Cambridge%2C+MA+02139!5e0!3m2!1sen!2sus!4v1423241426388" width="600" height="450" frameborder="0" style="border:0" align=center ></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2948.0926789748933!2d-71.0905626!3d42.3618641!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370abe1db5703%3A0xd3b042dc26a8b515!2s32+Vassar+St%2C+Massachusetts+Institute+of+Technology%2C+Cambridge%2C+MA+02139!5e0!3m2!1sen!2sus!4v1423241426388" width="600" height="40" frameborder="0" style="border:0"></iframe>
 
 Located two blocks west of the Kendall T-Station (Red Line) and between several garages, the Stata Center is easily accessible by car or public transit, parking information and directions from the T are available [here](http://www.gbcacm.org/venues/cambridge/mit-building-32-stata-center.html).
 
