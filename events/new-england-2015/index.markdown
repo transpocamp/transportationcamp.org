@@ -16,14 +16,14 @@ Our goal is to assemble planners, dreamers, programmers, students, and professio
 
 Some of this year’s session topics will included:
 
-*Bike share applications and technology
-*Open source data and standards
-*Impacts of autonomous and connected vehicles
-*Drones, current applications and future implications
-*The science behind Hyperloop -the conceptual high-speed transportation system
-*Making data matter
-*Improving mobility in Boston (and beyond!)
-*Transformative trends in transportation
+* Bike share applications and technology
+* Open source data and standards
+* Impacts of autonomous and connected vehicles
+* Drones, current applications and future implications
+* The science behind Hyperloop -the conceptual high-speed transportation system
+* Making data matter
+* Improving mobility in Boston (and beyond!)
+* Transformative trends in transportation
 
 Register [here](http://www.eventbrite.com/e/transportationcamp-new-england-2015-tickets-13577902873) for TransportationCamp New England 2015!
 
