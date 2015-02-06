@@ -31,7 +31,7 @@ Follow us on Twitter for the latest updates, [@TranspoCampNE](https://twitter.co
 
 If you are interested becoming a sponsor of TransportationCamp New England 2015, please read our [sponsorship information](TransportationCamp_Flyer.pdf).
 
-##Schedule and Events
+###Schedule and Events
 
 TransportationCamp New England 2015 will be hosted by MIT and the [MIT Transportation Club](http://t-club.mit.edu/) at:
 
