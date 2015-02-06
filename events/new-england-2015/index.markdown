@@ -35,9 +35,9 @@ If you are interested becoming a sponsor of TransportationCamp New England 2015,
 
 TransportationCamp New England 2015 will be hosted by MIT and the [MIT Transportation Club](http://t-club.mit.edu/) at:
 
->Stata Center, Main Floor
->32 Vassar Street
->Cambridge, MA 02139
+> Stata Center, Main Floor
+> 32 Vassar Street
+> Cambridge, MA 02139
 
 Located two blocks west of the Kendall T-Station (Red Line) and between several garages, the Stata Centeris easily accessible by car or public transit, parking information and directions from the T are available [here](http://www.gbcacm.org/venues/cambridge/mit-building-32-stata-center.html).
 
