@@ -4,12 +4,10 @@ comments: false
 date: {}
 layout: event
 slug: "new-england-2015"
-title: Transportation Camp New England 2015
+title: TransportationCamp NE 2015
 wordpress_id: 1623
 published: true
 ---
-#TransportationCamp NE 2015
-
 The 2nd Annual Transportation Camp New England will be held on Saturday, April 11, 2015.
 
 Following on the success of last year's event, TransportationCamp New England 2015 will continue to foster open conversation and collaboration between all parties interested in mobility and the  radical changes the near-future promises in transportation.
