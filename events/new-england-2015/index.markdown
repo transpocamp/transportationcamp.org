@@ -25,7 +25,7 @@ Some of this year’s session topics will included:
 * Improving mobility in Boston (and beyond!)
 * Transformative trends in transportation
 
-We are pleased to announce that the keynote speaker at this year's event will be Richard Davey, former Massachusetts Secretary of Transportation and current CEO of [Boston 2024](http://www.2024boston.org/), the nonprofit organization working to bring the 2024 Summer Olympic Games to Boston. Prior to these roles, he also served as General Manager for both the Massachusetts Bay Transportation Authority and the Massachusetts Bay Commuter Railroad Company.
+<img width=140 height=160 src="Secretary_Davey140x160.jpg" align=right >We are pleased to announce that the keynote speaker at this year's event will be Richard Davey, former Massachusetts Secretary of Transportation and current CEO of [Boston 2024](http://www.2024boston.org/), the nonprofit organization working to bring the 2024 Summer Olympic Games to Boston. Prior to these roles, he also served as General Manager for both the Massachusetts Bay Transportation Authority and the Massachusetts Bay Commuter Railroad Company.
 
 Register [here](http://www.eventbrite.com/e/transportationcamp-new-england-2015-tickets-13577902873) for TransportationCamp New England 2015!
 
