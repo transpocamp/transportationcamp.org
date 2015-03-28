@@ -49,6 +49,6 @@ The doors open/registration begins at 8:30am and opening session begins at 9:00a
 
 There will be four periods for breakout sessions. The sessions will be proposed throughout the event and scheduled after the introductory session. Each session will have notes available on shared documents via [Hackpad](https://tcamp2015ne.hackpad.com/) that everyone is encouraged to edit (in real time). If you're in a session and mention a link, it's a good idea to add the link to the notes for that session.
 
-The [Young Professionals in Transportation (YPT) Boston Chapter](http://www.yptboston.org/) will host a happy hour after the event, atFirebrand Saints: 1 Broadway St, Cambridge, MA 02142.
+The [Young Professionals in Transportation (YPT) Boston Chapter](http://www.yptboston.org/) will host a happy hour after the event, at Firebrand Saints: 1 Broadway St, Cambridge, MA 02142.
 
 <a href="cltTonUej9.jpeg"><img src="cltTonUej9small.jpeg" width=120 height=160 ></a> <a href="bFD0ljslwL.jpeg"><img src="bFD0ljslwLsmall.jpeg" width=241 height=160 ></a> <a href="x1DAoy1T8V.jpeg"><img src="x1DAoy1T8Vsmall.jpeg" width=241 height=160 ></a>
