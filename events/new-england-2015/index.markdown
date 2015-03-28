@@ -8,9 +8,9 @@ title: TransportationCamp NE 2015
 wordpress_id: 1623
 published: true
 ---
-The 2nd Annual Transportation Camp New England will be held on Saturday, April 11, 2015.Doors open and registration begins at 8:30am and the event kicks off at 9:00am. The event will end around 4:00pm.
+The 2nd Annual Transportation Camp New England will be held on Saturday, April 11, 2015. Doors open and registration begins at 8:30am and the event kicks off at 9:00am. The event will end around 4:00pm.
 
-Following on the success of last year's event, TransportationCamp New England 2015 will continue to foster open conversation and collaboration between all parties interested in mobility and the  radical changes the near-future promises in transportation.
+Following on the success of last year's event, TransportationCamp New England 2015 will continue to foster open conversation and collaboration between all parties interested in mobility and the radical changes the near-future promises in transportation.
 
 Our goal is to assemble planners, dreamers, programmers, students, and professionals for an exciting day of "un-conferencing." Unlike a traditional conference, the specific session topics are determined by participants, which provides each attendee an opportunity to lead and shape the event. Therefore, we want to see what you are doing; we want to ask how it will impact our lives; and we want to help you to find answers.
 
@@ -45,10 +45,10 @@ TransportationCamp New England 2015 will be hosted by MIT and the [MIT Transport
 
 Located two blocks west of the Kendall T-Station (Red Line) and between several garages, the Stata Center is easily accessible by car or public transit, parking information and directions from the T are available [here](http://www.gbcacm.org/venues/cambridge/mit-building-32-stata-center.html).
 
-The doors open/registration begins at 8:30am and opening session begins at 9:00am. The event ends at 5:00pm.
+The doors open/registration begins at 8:30am and opening session begins at 9:00am. The event ends at 4:00pm.
 
 There will be four periods for breakout sessions. The sessions will be proposed throughout the event and scheduled after the introductory session. Each session will have notes available on shared documents via [Hackpad](https://tcamp2015ne.hackpad.com/) that everyone is encouraged to edit (in real time). If you're in a session and mention a link, it's a good idea to add the link to the notes for that session.
 
-The [Young Professionals in Transportation (YPT) Boston Chapter](http://www.yptboston.org/) will host a happy hour after the event.  Stay tuned for more details to come!
+The [Young Professionals in Transportation (YPT) Boston Chapter](http://www.yptboston.org/) will host a happy hour after the event, atFirebrand Saints: 1 Broadway St, Cambridge, MA 02142.
 
 <a href="cltTonUej9.jpeg"><img src="cltTonUej9small.jpeg" width=120 height=160 ></a> <a href="bFD0ljslwL.jpeg"><img src="bFD0ljslwLsmall.jpeg" width=241 height=160 ></a> <a href="x1DAoy1T8V.jpeg"><img src="x1DAoy1T8Vsmall.jpeg" width=241 height=160 ></a>
