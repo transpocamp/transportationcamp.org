@@ -55,7 +55,9 @@ The [Young Professionals in Transportation (YPT) Boston Chapter](http://www.yptb
 
 Many thanks to our sponsors:
 
-<img src="http://mvjantzen.com/mobility/sponsor-airsage.jpg" width=160 height=160 > <img src="http://mvjantzen.com/mobility/sponsor-cartodb.png" width=320 height=160 > <img src="http://mvjantzen.com/mobility/sponsor-ecolane.png" width=160 height=160 > <img src="http://mvjantzen.com/mobility/sponsor-neite.png" width=320 height=160 > <img src="http://mvjantzen.com/mobility/sponsor-zipcar.jpg" width=314 height=160 >
+<img src="http://mvjantzen.com/mobility/sponsor-airsage.jpg" width=160 height=160 ><br>
+<img src="http://mvjantzen.com/mobility/sponsor-neite.png" width=320 height=160 > <img src="http://mvjantzen.com/mobility/sponsor-zipcar.jpg" width=314 height=160 > <img src="http://mvjantzen.com/mobility/sponsor-iBiz.png" width=179 height=95 ><br><img src="http://mvjantzen.com/mobility/sponsor-Kinisi.png" width=179 height=95 ><br>
+<img src="http://mvjantzen.com/mobility/sponsor-ecolane.png" width=160 height=160 > <img src="http://mvjantzen.com/mobility/sponsor-cartodb.png" width=320 height=160 >   
 
 Transportation Camp New England 2015 is organized by Cambridge Systematics, in partnership with Mobility Lab, MIT, and the Boston Chapter of Young Professionals in Transportation.
 
