@@ -62,4 +62,4 @@ Many thanks to our sponsors:
 Transportation Camp New England 2015 is organized by Cambridge Systematics, in partnership with Mobility Lab, MIT, and the Boston Chapter of Young Professionals in Transportation.
 
 <img src="organizer-camsys.png" width=494 height=120 ><br>
-<img src="http://mvjantzen.com/mobility/organizer-mit.png" width=309 height=160 > <img src="http://mvjantzen.com/mobility/organizer-MobilityLab.jpg" width=160 height=160 > <img src="http://mvjantzen.com/mobility/organizer-ypt.jpg" width=160 height=160 >
+<img src="organizer-mit.png" width=167 height=86 > &nbsp; <img src="organizer-MobilityLab.png" width=120 height=120 > &nbsp; <img src="organizer-ypt.png" width=120 height=120 >
