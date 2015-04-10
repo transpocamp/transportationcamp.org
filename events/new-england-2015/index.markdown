@@ -55,7 +55,7 @@ The [Young Professionals in Transportation (YPT) Boston Chapter](http://www.yptb
 
 Many thanks to our sponsors:
 
-<img src="sponsor-airsage.png" width=160 height=160 ><br>
+<img src="sponsor-airsage.png" width=160 height=160 > <img src="sponsor-bridj.jpg" width=160 height=160 ><br>
 <img src="sponsor-neite.png" width=160 height=80 > <img src="sponsor-zipcar.png" width=160 height=80 > <img src="sponsor-iBiz.png" width=160 height=80 ><br><img src="sponsor-Kinisi.png" width=120 height=120 ><br>
 <img src="sponsor-ecolane.png" width=120 height=120 > <img src="sponsor-cartodb.png" width=200 height=80 >   
 
