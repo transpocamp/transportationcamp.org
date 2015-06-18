@@ -4,7 +4,7 @@ date: 2015-11-14 12:00:00+00:00
 layout: event
 slug: "nyc-2015"
 title: TransportationCamp NYC 2015
-published: true
+published: false
 ---
 
 ## General Info
