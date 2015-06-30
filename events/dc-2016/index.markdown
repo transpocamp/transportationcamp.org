@@ -4,7 +4,8 @@ comments: false
 date: {}
 layout: event
 slug: "dc-2016"
-title: Transportation Camp DC 2016 published: true
+title: Transportation Camp DC 2016 
+published: true
 ---
 Mark your calendars for the 5th annual Transportation Camp in Washington, DC. Mobility Lab is putting together plans to hold this event on Saturday, January 9, 2015, the day before the start of the [Transportation Research Board 95th Annual Meeting](http://www.trb.org/AnnualMeeting/AnnualMeeting.aspx). 
 
