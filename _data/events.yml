@@ -67,3 +67,8 @@
   url: /events/new-england-2015
   register_url: http://www.eventbrite.com/e/transportationcamp-new-england-2015-tickets-13577902873
   background_img: ne-2015.png
+
+- title: Washington DC 2016
+  date: 2015-01-09 23:59:59
+  url: /events/dc-2016 
+  background_img: dc-2015-c.jpg
