@@ -72,3 +72,8 @@
   date: 2015-11-14 23:59:59
   url: /events/nyc-2015
   background_img: nyc-2015.jpg
+
+- title: Washington DC 2016
+  date: 2016-01-09 23:59:59
+  url: /events/dc-2016 
+  background_img: dc-2015-c.jpg
