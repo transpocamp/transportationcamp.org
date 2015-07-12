@@ -16,6 +16,6 @@ Thinking of attending TransportationCamp but worried about lodging or travel exp
 
 A very limited number of travel stipends (of $500 each) are available to **students, non-profit or government representatives** who would like to attend TransportationCamp.
 
-If you would like to request a travel stipend, please email janetti AT openplans DOT org, with the subject line "Transportation Camp Travel Stipend Request."  Assistance requests for both EAST and WEST events are available until filled, on a first-come, first-serve basis.
+If you would like to request a travel stipend, please email janetti AT openplans DOT org, with the subject line "TransportationCamp Travel Stipend Request."  Assistance requests for both EAST and WEST events are available until filled, on a first-come, first-serve basis.
 
 We can't wait to see you at TransportationCamp!

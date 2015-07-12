@@ -12,7 +12,7 @@ categories:
 
 As the [buzz continues](http://twitter.com/#!/search/%23transpo) from TransportationCamp East, we're getting ready for the West edition. **TransportationCamp West** is coming to San Francisco on Saturday and Sunday, March 18th and 20th.
 
-Find venue details and the overall structure of the day on the [Schedule](http://transportationcamp.org/west) page. The actual sessions will be decided on the day, read our [Essential Guide to Transportation Camp](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/) for details.
+Find venue details and the overall structure of the day on the [Schedule](http://transportationcamp.org/west) page. The actual sessions will be decided on the day, read our [Essential Guide to TransportationCamp](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/) for details.
 
 
   
