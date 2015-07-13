@@ -4,11 +4,11 @@ comments: false
 date: {}
 layout: event
 slug: "dc-2015"
-title: Transportation Camp DC 2015
+title: TransportationCamp DC 2015
 wordpress_id: 1623
 published: true
 ---
-The 4th Annual Transportation Camp Washington DC was held on Saturday, January 10, 2015, the day before the start of the [Transportation Research Board 94th Annual Meeting](http://www.trb.org/AnnualMeeting2015/AnnualMeeting2015.aspx). We were hosted by the [George Mason University School of Policy, Government, and International Affairs](http://spgia.gmu.edu/), at [Founders Hall](http://arlington.gmu.edu/).
+The 4th Annual TransportationCamp Washington DC was held on Saturday, January 10, 2015, the day before the start of the [Transportation Research Board 94th Annual Meeting](http://www.trb.org/AnnualMeeting2015/AnnualMeeting2015.aspx). We were hosted by the [George Mason University School of Policy, Government, and International Affairs](http://spgia.gmu.edu/), at [Founders Hall](http://arlington.gmu.edu/).
 
 Registration was at [transportationcamp2015dc.eventbrite.com](https://transportationcamp2015dc.eventbrite.com). We had 440 attendees.
 
@@ -35,7 +35,7 @@ Our sponsors are organizing panel discussions that will be part of the first per
 ## Details
 We open registration and a light breakfast at 8:30am. Lunch and breakfast are included with your registration. Camp starts promptly with Reveille at 9:00am. The schedule will have four periods of breakout sessions, spread out among ten rooms. We will have 3-4 pre-set panels, with topics to be announced later. The program wraps up at 5:00pm, after which everyone is invited to a local pub for a Post-Camp Happy Hour!
 
-You can read about last year's Transportation Camp on [mobilitylab.org](http://mobilitylab.org/tag/transportationcamp/), and visit the sites for previous years: [2012](http://transportationcamp.org/events/dc/), [2013](http://transportationcamp.org/events/dc-2013/), and [2014](http://transportationcamp.org/events/dc-2014/). 
+You can read about last year's TransportationCamp on [mobilitylab.org](http://mobilitylab.org/tag/transportationcamp/), and visit the sites for previous years: [2012](http://transportationcamp.org/events/dc/), [2013](http://transportationcamp.org/events/dc-2013/), and [2014](http://transportationcamp.org/events/dc-2014/). 
 
 We'll be returning this year to GMU Founders Hall, at 3351 Fairfax Drive, Arlington, VA 22201. The campus is easy to get to:
 
@@ -49,4 +49,4 @@ Here's a map of the [Arlington campus](http://info.gmu.edu/Maps/ArlingtonMap14.p
 
 If you're in town early, the [Transportation Techies](http://www.meetup.com/Transportation-Techies/) meetup group will have a meetup on Thursday, January 8 called [Autotopia Night](http://www.meetup.com/Transportation-Techies/events/213357602/), about traffic/parking and technology (contact the group if interested in presenting an app or data visualization). More info via [@techiesdc](https://twitter.com/techiesdc).
 
-TransportationCamp DC '15 is organized by [Mobility Lab](http://mobilitylab.org/), [TransitCenter](http://transitcenter.org/), [Open Plans](http://openplans.org/), the [GMU School of Policy, Government, and International Affairs](http://spgia.gmu.edu/), the [American Association of State Highway and Transportation Officials](http://www.transportation.org/), the [Institute of Transportation Engineers](http://www.ite.org/), [Young Professionals in Transportation](http://yptransportation.org/), and [Transportation Research Board](http://www.trb.org/).
+TransportationCamp DC '15 is organized by [Mobility Lab](http://mobilitylab.org/), [TransitCenter](http://transitcenter.org/), [OpenPlans](http://openplans.org/), the [GMU School of Policy, Government, and International Affairs](http://spgia.gmu.edu/), the [American Association of State Highway and Transportation Officials](http://www.transportation.org/), the [Institute of Transportation Engineers](http://www.ite.org/), [Young Professionals in Transportation](http://yptransportation.org/), and [Transportation Research Board](http://www.trb.org/).

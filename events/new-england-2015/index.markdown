@@ -8,7 +8,7 @@ title: TransportationCamp NE 2015
 wordpress_id: 1623
 published: true
 ---
-<a href="bFD0ljslwL.jpeg"><img src="bFD0ljslwLsmall.jpeg" width=241 height=160 align=right ></a>The 2nd Annual Transportation Camp New England will be held on Saturday, April 11, 2015. 
+<a href="bFD0ljslwL.jpeg"><img src="bFD0ljslwLsmall.jpeg" width=241 height=160 align=right ></a>The 2nd Annual TransportationCamp New England will be held on Saturday, April 11, 2015. 
 
 Following on the success of last year's event, TransportationCamp New England 2015 will continue to foster open conversation and collaboration between all parties interested in mobility and the radical changes the near-future promises in transportation.
 
@@ -59,7 +59,7 @@ Many thanks to our sponsors:
 <img src="sponsor-neite.png" width=160 height=80 > <img src="sponsor-zipcar.png" width=160 height=80 > <img src="sponsor-iBiz.png" width=160 height=80 ><br><img src="sponsor-Kinisi.png" width=120 height=120 ><br>
 <img src="sponsor-ecolane.png" width=120 height=120 > <img src="sponsor-cartodb.png" width=200 height=80 >   
 
-Transportation Camp New England 2015 is organized by Cambridge Systematics, in partnership with Mobility Lab, MIT, and the Boston Chapter of Young Professionals in Transportation.
+TransportationCamp New England 2015 is organized by Cambridge Systematics, in partnership with Mobility Lab, MIT, and the Boston Chapter of Young Professionals in Transportation.
 
 <img src="organizer-camsys.png" width=494 height=120 ><br>
 <img src="organizer-mit.png" width=167 height=86 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="organizer-MobilityLab.png" width=120 height=120 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="organizer-ypt.png" width=120 height=120 >

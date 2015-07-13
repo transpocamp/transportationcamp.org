@@ -27,7 +27,7 @@ What's been really interesting is that the data that has been created largely to
 
 We're seeing that the data that was created for the public purposes are actually surpassing this other data and allowing us to really rethink the way that we use information tools to drive these sorts of problems. That's allowing us to expand the scope of what people can do with computer simulation and planning.
 
-<strong>Transportation Camp is all about the intersection of technology and transportation. As you're thinking about your work and the future of the field, what's most interesting to you right now on the technology side? </strong>
+<strong>TransportationCamp is all about the intersection of technology and transportation. As you're thinking about your work and the future of the field, what's most interesting to you right now on the technology side? </strong>
 
 It's definitely related to that notion of using it for public planning purposes. What's going on that's actually really exciting is people are starting to realize that these data systems are actually fundamentally part of the infrastructure that's being built as well.
 
@@ -63,7 +63,7 @@ The leadership in the U.S. has been a bit more conservative, in the sense of say
 
 That's something all of us in the community are working to change, but it's been a long process.
 
-<strong>Is this what you want to talk about at Transportation Camp? What are some of the sessions you want to see?</strong>
+<strong>Is this what you want to talk about at TransportationCamp? What are some of the sessions you want to see?</strong>
 
 It's certainly one of the things I want to talk about. We have an opportunity every year to come to DC as a community of people interested in this stuff and really have a dialogue about things that matter, not just at a local level or for individual communities across the country, but actually talk about it from a national policy perspective, and some of those people are in the room when we do this.
 
@@ -75,7 +75,7 @@ That's where we are as a group, right now; very much focused on the analysis too
 
 That's been something that's been really exciting to see over the last year or so; that community that's starting to gel around very specific questions. We're doing work now with members of it, but we want to make sure the dialogue is open and inclusive, so that people who are interested in adopting these sorts of questions and conversations in their local community understand what's going on with other players, and willing to coordinate their activity.
 
-<strong>For</strong> <strong>people who haven't been to Transportation Camp before, what advice would you have for them, coming to their first one?</strong>
+<strong>For</strong> <strong>people who haven't been to TransportationCamp before, what advice would you have for them, coming to their first one?</strong>
 
 Bring something you care about to share. The most important part of it is that everyone shows up with ideas and things that they are passionate about, and puts them out there.
 
@@ -83,8 +83,4 @@ It's not enough just to expect that you're going to hear interesting things. You
 
 People, even from outside the technology community or outside the traditional norms of transportation, still have a lot to offer in terms of helping shape the conversation.
 
-(T<em>his interview has been edited for clarity and length.</em>)
-
-&nbsp;
-
-&nbsp;
+(<em>This interview has been edited for clarity and length.</em>)

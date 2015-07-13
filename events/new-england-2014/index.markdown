@@ -11,7 +11,7 @@ published: true
 
 The 1st Annual TransportationCamp New England will be held on Saturday, April 5, 2014.
 
-Following on the success of previous Transportation Camps, TransportationCamp New England '14 will continue to examine ways to build connections between disparate innovators in public administration, transportation planning, transportation operations, information design, and software engineering.
+Following on the success of previous TransportationCamps, TransportationCamp New England '14 will continue to examine ways to build connections between disparate innovators in public administration, transportation planning, transportation operations, information design, and software engineering.
 
 You can [register here](http://www.eventbrite.com/e/transportation-camp-new-england-14-tickets-10281011783). Share your session ideas on our collaborative [ideas site](http://ideas.transportationcamp.org). Follow us on Twitter for the latest updates, @TranspoCampNE. You can also like us on [Facebook](https://www.facebook.com/pages/TransportationCamp-New-England/219391578269518).
 
@@ -27,8 +27,8 @@ TransportationCamp New England '14 is organized by [Cambridge Systematics](http:
 
 If you are interested becoming a sponsor of TransportationCamp New England '14, please read our [sponsorship information](https://www.dropbox.com/s/cxxtdk95gr2a5jw/Transpocamp%20Flyer_Sponsor%20NE%202014.pdf).
 
-Transportation Camp New England 2014 is collaborating with the 37 Billion Mile Data Challenge.  This is a month-long challenge to explore anonymous vehicle-use data and discover insights that can help the Commonwealth build a model, estimated mileage, fuel efficiency of every registered vehicle in MA, as well as vehicles per household and green house gas emissions.
+TransportationCamp New England 2014 is collaborating with the 37 Billion Mile Data Challenge.  This is a month-long challenge to explore anonymous vehicle-use data and discover insights that can help the Commonwealth build a model, estimated mileage, fuel efficiency of every registered vehicle in MA, as well as vehicles per household and green house gas emissions.
 
 Participants are encouraged to submit data-driven visualizations, infographics, maps, web tools to answer driving questions about transportation, energy, and land use. The most compelling entries will receive cash prizes, Zipcar memberships, Hubway memberships, pre-loaded Charlie Cards, and more. The submission period closes April 19,2014 and winners announced by May 1st.
 
-For more information on the datathon [go here](http://www.37billionmilechallenge.org). Groups involved in the datathon will be presenting their ideas at Transportation Camp New England.
+For more information on the datathon [go here](http://www.37billionmilechallenge.org). Groups involved in the datathon will be presenting their ideas at TransportationCamp New England.

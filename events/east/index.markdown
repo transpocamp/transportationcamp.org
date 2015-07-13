@@ -8,7 +8,7 @@ title: East - NYC
 wordpress_id: 77
 ---
 
-TransportationCamp East was held in **New York City **on **Saturday March 5 and Sunday March 6, 2011. **
+TransportationCamp East was held in **New York City** on **Saturday March 5 and Sunday March 6, 2011**.
 
 We'd like to thank the group of [partners and advisors](http://transportationcamp.org/partners-and-advisors/) for their support in organizing this event.
 
@@ -51,7 +51,7 @@ Afternoon tours, [details here](http://transportationcamp.org/2011/02/join-a-tou
 #### 9am
 
 
-** Morning program**
+**Morning program**
 
 
 

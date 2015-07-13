@@ -19,9 +19,9 @@ It's through a variety of programs that include outreach to employers to make su
 
 The interest of the government in these types of initiatives is highway road congestion, but now our research and analysis goes beyond that to looking the health implications, improvements, outcomes, and other sustainability natures of our programs.
 
-Additionally we're involved in the development of new types of tools to make it easy for people to get out of their cars. This includes technology tools--of course our involvement in Transportation Camp--and we do a variety of hack nights, and we're sponsoring the deployment of OneBusAway here in the DC region.
+Additionally we're involved in the development of new types of tools to make it easy for people to get out of their cars. This includes technology tools--of course our involvement in TransportationCamp--and we do a variety of hack nights, and we're sponsoring the deployment of OneBusAway here in the DC region.
 
-We are also engaged in a lot of collaborations with other organizations that have overlapping mission statements like Open Plans and a variety of other groups even that are involved in housing or other areas. It's finding that common space so we can work together to make things better.
+We are also engaged in a lot of collaborations with other organizations that have overlapping mission statements like OpenPlans and a variety of other groups even that are involved in housing or other areas. It's finding that common space so we can work together to make things better.
 
 **What's the most exciting thing that Mobility Lab is working on right now?**
 
@@ -31,7 +31,7 @@ That has been deployed now in several cities around the country including New Yo
 
 So OneBusAway will bring it all together into one space and I think it will really make our development of tools so much better and we'll be able to take advantage of some of the open source tools that have already been developed on that platform.
 
-**As you know Transportation Camp is all about the intersection of technology and transportation and this year we're trying to advance the level of conversation about tech's role in the future of transportation both at the event and hopefully more widely. As you think about the future, what's most interesting to you right now on the technology side of transportation?**
+**As you know TransportationCamp is all about the intersection of technology and transportation and this year we're trying to advance the level of conversation about tech's role in the future of transportation both at the event and hopefully more widely. As you think about the future, what's most interesting to you right now on the technology side of transportation?**
 
 I think we have a long way to go. My belief is that individuals who occupy our most exciting cities are largely shunning their automobile. And when it comes to transportation, everyone has preferences. It's like in food; some people like Thai, some people like Italian, whatever.
 
@@ -58,8 +58,8 @@ And at a certain point someone might say, "Forget about that agency because it's
 
 You're right and there need to be places where everyone can get this information and also say that we need to be aware that some of those options are more readily available to everyone than others as well.
 
-Not everyone is going to jump in Uber Car and that will probably never change. But even Bikeshare, you have to have credit in order to get a bike currently for most of the citizens around the world. So there are some obstacles on that side.
-But from an information standpoint, smart phones are obviously very important but there's also an open source project that we developed here at Mobility Lab that's been taken on by a commercial developer to take to the marketplace called Transit Screen.
+Not everyone is going to jump in Uber car and that will probably never change. But even Bikeshare, you have to have credit in order to get a bike currently for most of the citizens around the world. So there are some obstacles on that side.
+But from an information standpoint, smart phones are obviously very important but there's also an open source project that we developed here at Mobility Lab that's been taken on by a commercial developer to take to the marketplace called TransitScreen.
 
 That's a project where all of the options are displayed and put up in locations where individuals can see them. This might be at Metro stations. They might be in lobbies of buildings. They could be in store windows. It could be in a whole variety of places where anyone would be able to get that information.
 
@@ -73,9 +73,9 @@ The health implications of being on a bike, obviously that's a great activity an
 
 Will cars be considered the cigarettes of tomorrow? I don't know, but I think we're heading in that direction where we can hopefully at some point have a reasonable conversation that cars are very unhealthy for our country and for the world.
 
-**January 11th is coming up fast. What advice do you have for a new Transportation Camp participant to get the most out of the day?**
+**January 11th is coming up fast. What advice do you have for a new TransportationCamp participant to get the most out of the day?**
 
-First, be there.  I think that the best way to understand and to get in the spirit of the game is to just arrive and come realizing that we're all in this together. There are a lot of folks that are coming in together from around the country and around the world with it being the day before TRB begins. People arrive in the DC region from everywhere to take advantage of the activities around TRB with Transportation Camp being one of them.
+First, be there.  I think that the best way to understand and to get in the spirit of the game is to just arrive and come realizing that we're all in this together. There are a lot of folks that are coming in together from around the country and around the world with it being the day before TRB begins. People arrive in the DC region from everywhere to take advantage of the activities around TRB with TransportationCamp being one of them.
 
 So first come, but secondly come with your ideas and come with the idea of participating. I know that we humans are sometimes reticent to just dive into an unknown crowd, but everyone is coming into an unknown crowd here and it's fun.
 

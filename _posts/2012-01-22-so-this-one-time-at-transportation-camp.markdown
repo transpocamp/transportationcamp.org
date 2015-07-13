@@ -4,7 +4,7 @@ comments: true
 date: 2012-01-22 01:39:45+00:00
 layout: post
 slug: so-this-one-time-at-transportation-camp
-title: '"So this one time, at Transportation Camp..."'
+title: '"So this one time, at TransportationCamp..."'
 wordpress_id: 1503
 categories:
 - Latest News

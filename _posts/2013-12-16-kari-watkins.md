@@ -66,8 +66,8 @@ The older folks don't tend to own the smartphone. When you've got this grandma, 
 
 We need to think from a user‑centered design perspective. Thinking about some of the different persons who are being missed and making sure that we're still getting information to them as they need to have it.
 
-<b>January 11th is coming up soon. What advice do you have for someone coming to Transportation Camp for the first time, to get the most out of the day?</b>
+<b>January 11th is coming up soon. What advice do you have for someone coming to TransportationCamp for the first time, to get the most out of the day?</b>
 
-Jump in with two feet, and don't be afraid to really participate, even if you feel you are younger. It's all about discussion, so this is a chance to actually to be an active participant. I would say to older participants--because there were some jokes at the last Transportation Camp among some of my crowd as well as older--they need the older professionals in transportation at a place like Transportation Camp. Jump in and don't be afraid to participate because you're a little bit less technology savvy or something like that. They've got so much to add to this group, and you can really get a great vibe going.
+Jump in with two feet, and don't be afraid to really participate, even if you feel you are younger. It's all about discussion, so this is a chance to actually to be an active participant. I would say to older participants--because there were some jokes at the last TransportationCamp among some of my crowd as well as older--they need the older professionals in transportation at a place like TransportationCamp. Jump in and don't be afraid to participate because you're a little bit less technology savvy or something like that. They've got so much to add to this group, and you can really get a great vibe going.
 
 (<i>This interview has been edited for clarity and length.</i>)
