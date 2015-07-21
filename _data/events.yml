@@ -80,6 +80,12 @@
   register_url: https://transportationcamp2015la.eventbrite.com/
   background_img: la-2015.jpg
 
+- title: California 2015
+  date: 2015-10-20 23:59:59
+  url: /events/california-2015
+  register_url: http://www.eventbrite.com/e/transportationcamp-calact-tickets-17462853866
+  background_img: california-2015.jpg
+
 - title: NYC 2015
   date: 2015-11-14 23:59:59
   url: /events/nyc-2015
