@@ -6,7 +6,7 @@ layout: event
 slug: "california-2015"
 title: TransportationCamp California 2015
 wordpress_id:
-published: false
+published: true
 ---
 TransportationCamp California 2015 is a partnership with [CalACT](https://www.calact.org/home), the California Association for Coordinated Transportation, to bring together diverse views and perspectives on public transportation. The event will take place on Tuesday, October 20, 2015, the first day of the CalACT Fall conference in Rohnert Park, California. By hosting TransportationCamp at their semi-annual conference, CalACT is helping to create a unique TransportationCamp atmosphere, where technologists, advocates, and riders can come together in open conversation with the operators of California’s small, rural, and specialized public transit providers.
 
