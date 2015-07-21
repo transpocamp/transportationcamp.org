@@ -22,11 +22,11 @@ If you’re a member of CalACT, or wish to attend the full conference, register 
 
 If you’re travelling on the day of the event, you can reach Rohnert Park from San Francisco by public transit in just over 2 hours hours by the [Golden Gate Transit](http://www.goldengate.org/)’s 101 bus, and a shuttle to be provided on the day of the event.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d100105.16553029949!2d-122.70780200000002!3d38.365495!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdefaa459e9760fd5!2sDoubleTree+by+Hilton+Sonoma+Wine+Country!5e0!3m2!1sen!2sus!4v1434915493016" width="800" height="400" frameborder="0" style="border:0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d100105.16553029949!2d-122.70780200000002!3d38.365495!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdefaa459e9760fd5!2sDoubleTree+by+Hilton+Sonoma+Wine+Country!5e0!3m2!1sen!2sus!4v1434915493016" width="672" height="336" frameborder="0" style="border:0"></iframe>
 
 ##Reasonable Accommodations
 
-If you need any accommodations to make your trip to TransportationCamp California possible, contact thomas@trilliumtransit.com for assistance.
+If you need any accommodations to make your trip to TransportationCamp California possible, contact <thomas@trilliumtransit.com> for assistance.
 
 <img src="tcamp-banner.png" width=800 height=400 >
 
