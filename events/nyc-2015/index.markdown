@@ -10,8 +10,7 @@ published: true
 Do you love transportation? Do you love New York City? 
 TransportationCamp New York City 2015 will be held on Saturday, November 14, 2015 at 
 [City College of New York](http://www.ccny.cuny.edu/). 
-Following on the success of [TransportationCamp East in 2011](http://transportationcamp.org/events/east/),  
-[Planning Camp](http://planningcamp.org/) NYC in 2013 and TransportationCamps across the country, we're bringing it back to New York City. 
+Following on the success of [TransportationCamp East in 2011](http://transportationcamp.org/events/east/), [Planning Camp](http://planningcamp.org/) NYC in 2013 and TransportationCamps across the country, we're bringing it back to New York City. 
 TransportationCamp NYC 2015 will continue to foster open conversation and collaboration between all parties 
 interested in mobility and the radical changes the near-future promises in transportation.
 
