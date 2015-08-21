@@ -22,7 +22,7 @@ This is not a traditional conference. The organizers don't pick a set of panels 
 
 ## Schedule & Venue
 
-The event program will run from 9:30 AM to 5:00 PM on Saturday, February 9, 2013, with breakfast/registration from 8:30 to 9:30. A light breakfast, box lunch, and coffee breaks will be provided for all participants and are included in the $10 registration fee. There is also a Starbucks located on-site.
+The event program will run from 9:30 AM to 5:00 PM on Saturday, September 26, 2015, with breakfast/registration from 8:30 to 9:30. A light breakfast, box lunch, and coffee breaks will be provided for all participants and are included in the $10 registration fee. There is also a Starbucks located on-site.
 
 The venue for TransportationCamp South will be the [Clough Undergraduate Learning Commons](http://clough.gatech.edu/), a state-of-the-art, sustainably-designed educational facility located at the heart of the Georgia Tech campus. 
 
