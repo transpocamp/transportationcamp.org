@@ -35,3 +35,7 @@ Transportation Camp NYC will be held at City College of New York in Shepard Hall
 Registration information will be coming soon! In the meantime, if you have any questions, 
 reach out at <nyc@transportationcamp.org> or at [@transpocamp](https://twitter.com/transpocamp).
  See you November 14, 2015!
+
+<hr>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/transportationcamp/albums/72157626076427679" title="TransportationCamp East Sat AM"><img src="https://farm6.staticflickr.com/5299/5500007388_3ce0b8794f_b.jpg" width="1024" height="768" alt="TransportationCamp East Sat AM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
