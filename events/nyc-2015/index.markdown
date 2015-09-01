@@ -36,6 +36,38 @@ Registration for TransportationCamp NYC 2015 [is now open](https://www.eventbrit
 If you have any questions, reach out at <nyc@transportationcamp.org> or at [@transpocamp](https://twitter.com/transpocamp).
 See you November 14, 2015!
 
+### Sponsors
+
+#### Gold
+
+<table align="center">
+<tr>
+<td style="vertical-align: center;"><a href="http://transitcenter.org/"><img src="sponsors/transitcenter.jpg" height="32" width="175" alt="TransitCenter"></a></td>
+<td style="vertical-align: center;"><a href="https://www.mastercard.us/en-us.html"><img src="sponsors/mastercard.png" height="105" width="140" alt="MasterCard"></a></td>
+<td style="vertical-align: center;"><a href="http://www.cubic.com/"><img src="sponsors/cubic.png" height="31" width="170" alt="Cubic"></a></td>
+</tr>
+</table>
+
+#### Silver
+
+<table align="center">
+<tr>
+<td style="vertical-align: center;"><a href="https://www.car2go.com/en/newyorkcity/"><img src="sponsors/car2go.png" height="77" width="120" alt="car2go"></a></td>
+<td style="vertical-align: center;"><a href="http://www.samschwartz.com/"><img src="sponsors/sam_schwartz.png" height="112" width="140" alt="Sam Schwartz Consulting, LLC"></a></td>
+<td style="vertical-align: center;"><a href="http://ridewithvia.com/"><img src="sponsors/via.png" height="64" width="140" alt="Via"></a></td>
+</tr>
+</table>
+
+### Hosts
+
+<table align="center">
+<tr>
+<td style="vertical-align: center;"><a href="http://www.utrc2.org/"><img src="hosts/utrc.png" height="108" width="140" alt="Region 2 University Transportation Research Center"></a></td>
+<td style="vertical-align: center;"><a href="http://yptransportation.org/chapters/yptnyc/"><img src="hosts/ypt.png" height="140" width="140" alt="YPT New York City"></a></td>
+</tr>
+</table>
+
+
 <hr>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/transportationcamp/albums/72157626076427679" title="TransportationCamp East Sat AM"><img src="https://farm6.staticflickr.com/5299/5500007388_3ce0b8794f_b.jpg" width="1024" height="768" alt="TransportationCamp East Sat AM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
