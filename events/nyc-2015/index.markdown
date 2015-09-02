@@ -26,9 +26,23 @@ and we want to help you to find answers.
 
 ### Venue
 
-Transportation Camp NYC will be held at City College of New York in Shepard Hall (160 Convent Avenue New York, NY 10031 - at the intersection of Convent Avenue and W 140th St., close to the 1, B, and C trains)
-<p align=center>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3107.8048111647026!2d-73.95016290760027!3d40.82021094185493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x63248bb077f4f293!2sShepard+Hall!5e0!3m2!1sen!2sus!4v1439503246663" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+Transportation Camp NYC will be held at City College of New York in Shepard Hall (160 Convent Avenue New York, NY 10031 - at the intersection of Convent Avenue and W 140th St., close to the 1, A, C, and D trains)
+<p align="center">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3107.8048111647026!2d-73.95016290760027!3d40.82021094185493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x63248bb077f4f293!2sShepard+Hall!5e0!3m2!1sen!2sus!4v1439503246663" width="600" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
+### Tentative Schedule
+
+* **8:00 AM** - Registration, breakfast, and networking
+* **9:00 AM** - Introductions
+* **10:00 AM** - Keynote session
+* **11:00 AM** - Break, agendizing, and networking
+* **11:15 AM** - Session Block 1 (multiple sessions in different rooms)
+* **12:15 PM** - Lunch and more agendizing
+* **1:15 PM to 2:15 PM** - Session Block 2
+* **2:30 PM to 3:30 PM** - Session Block 3
+* **3:45 PM to 4:45 PM** - Session Block 3
+* **4:45 PM** - Adjourn to happy hour, location to be announced
 
 ### Registration
 
@@ -71,3 +85,8 @@ See you November 14, 2015!
 <hr>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/transportationcamp/albums/72157626076427679" title="TransportationCamp East Sat AM"><img src="https://farm6.staticflickr.com/5299/5500007388_3ce0b8794f_b.jpg" width="1024" height="768" alt="TransportationCamp East Sat AM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<style type="text/css">
+li {padding-bottom: 0;}
+li p {margin-bottom: 0;}
+</style>
