@@ -67,7 +67,7 @@ See you November 14, 2015!
 <table align="center">
 <tr>
 <td style="vertical-align: center;"><a href="https://www.car2go.com/en/newyorkcity/"><img src="sponsors/car2go.png" height="77" width="120" alt="car2go"></a></td>
-<td style="vertical-align: center;"><a href="http://www.samschwartz.com/"><img src="sponsors/sam_schwartz.png" height="112" width="140" alt="Sam Schwartz Consulting, LLC"></a></td>
+<td style="vertical-align: center;"><a href="http://www.samschwartz.com/"><img src="sponsors/sam_schwartz.png" height="112" width="140" alt="Sam Schwartz Engineering, DPC"></a></td>
 <td style="vertical-align: center;"><a href="http://ridewithvia.com/"><img src="sponsors/via.png" height="64" width="140" alt="Via"></a></td>
 </tr>
 </table>
