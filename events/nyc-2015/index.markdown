@@ -41,7 +41,7 @@ Transportation Camp NYC will be held at City College of New York in Shepard Hall
 * **12:15 PM** - Lunch and more agendizing
 * **1:15 PM to 2:15 PM** - Session Block 2
 * **2:30 PM to 3:30 PM** - Session Block 3
-* **3:45 PM to 4:45 PM** - Session Block 3
+* **3:45 PM to 4:45 PM** - Session Block 4
 * **4:45 PM** - Adjourn to happy hour, location to be announced
 
 ### Registration
