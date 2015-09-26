@@ -8,6 +8,31 @@ title: TransportationCamp South 2015
 wordpress_id:
 published: true
 ---
+
+## Live Schedule
+
+#### 11:30 - 12:30
+
+* **Room 102**: [Bike Plan for Georgia State Univ.](https://tcs2015.hackpad.com/Bike-Plan-for-Georgia-State-Univ.-pNNRbuhmi8o)
+* **Room 123**: [Better Regional Collaboration / Partnerships](https://tcs2015.hackpad.com/Better-Regional-Collaboration-Partnerships-gPAxxq4PFed)
+* **Room 125**: [Frequent Bus Networks: Is Atlanta Ready?](https://tcs2015.hackpad.com/Frequent-Bus-Networks-Is-Atlanta-Ready-oVlVSGDGs1a)
+* **Room 127**: [Transit Equity](https://tcs2015.hackpad.com/Transit-Equity-LQ9C5Az1C1L)
+* **Room 129**: [Alternative Media + Alternative Transportation](https://tcs2015.hackpad.com/Alternative-Media-Alternative-Transportation-de4QC3IkYAO)
+* **Room 131**: [Metrics for Transportation Planning](https://tcs2015.hackpad.com/Metrics-for-Transportation-Planning-xpCHUhdnSE6)
+* **Room 262**: [Multimodal Access to Stadiums](https://tcs2015.hackpad.com/Multimodal-Access-to-Stadiums-01gRBFpJitj)
+* **Room 272**: [A Brief History of Atlanta Freeways](https://tcs2015.hackpad.com/A-Brief-History-of-Atlanta-Freeways-9s86e676kan)
+
+#### 1:30 - 2:30
+
+#### 2:45 - 3:45
+
+#### 4:00 - 5:00
+
+
+
+
+## General Info
+
 TransportationCamp South returns to Atlanta on Saturday, September 26th, 2015. 
 
 TransportationCamp is an “unconference” – where sessions are proposed and led by attendees – bringing together thinkers and doers in the fields of transportation and technology for a day of learning, debating, connecting, and creating. Created by [OpenPlans](http://openplans.org/) in 2011, this will be the 3rd TransportationCamp South (others have been held in New York, Washington, San Francisco, Montreal, and Boston), following on the success of previous events in 2013 and 2014. For coverage of past year's events, see [the writeup in Creative Loafing](http://clatl.com/freshloaf/archives/2013/02/13/transportationcamp-south-is-a-wonks-heaven) ("TransportationCamp South a Wonk's Heaven") and the [photo gallery on Facebook](https://www.facebook.com/media/set/?set=a.158375964315742.35811.138477536305585&type=3).
