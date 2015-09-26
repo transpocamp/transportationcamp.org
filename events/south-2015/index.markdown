@@ -46,14 +46,11 @@ published: true
 
 #### 4:00 - 5:00
 
-* **Room 102**: []()
-* **Room 123**: []()
-* **Room 125**: []()
-* **Room 127**: []()
-* **Room 129**: []()
-* **Room 131**: []()
-* **Room 262**: []()
-* **Room 272**: []()
+* **Room 102**: [Atlanta Bike Conference Discussion/Planning](https://tcs2015.hackpad.com/Atlanta-Bike-Conference-DiscussionPlanning-ozoEI5ahk87)
+* **Room 123**: [Student Activism in Transportation](https://tcs2015.hackpad.com/Student-Activism-in-Transportation-EJlftqqJWL9)
+* **Room 125**: [Human Transit: Jarrett Walker Fan Club](https://tcs2015.hackpad.com/Human-Transit-Jarrett-Walker-Fan-Club-9Yua5gc9fAQ)
+* **Room 127**: [Savannah State TIGER Group Research](https://tcs2015.hackpad.com/Savannah-State-TIGER-Group-Research-K7FhetqdWD8)
+* **Room 129**: [atltransit: Regional Transit through Better Information](https://tcs2015.hackpad.com/atltransit-Regional-Transit-through-Better-Information-gMd3eUvrreU)
 
 
 ## General Info
