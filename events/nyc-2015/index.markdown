@@ -33,6 +33,7 @@ TransportationCamp NYC will be held at City College of New York in Shepard Hall 
 
 ### Schedule
 
+* **8:30 AM** - Doors open
 * **9:00 AM** - Welcome and Kick-off in the Great Hall
 * **9:45 AM** - Keynote addresses in the Great Hall
 * **11:15 AM** - First Breakout Session (in classrooms)
@@ -40,7 +41,7 @@ TransportationCamp NYC will be held at City College of New York in Shepard Hall 
 * **1:15 PM** - Second Breakout Session (in classrooms)
 * **2:30 PM** - Third Breakout Session (in classrooms)
 * **3:45 PM** - Fourth Breakout Session (in classrooms)
-* **5:00 PM** - Adjourn to happy hour at [The Grange Bar & Eatery](http://thegrangebarnyc.com/)
+* **5:00 PM** - Adjourn to happy hour at [The Grange Bar & Eatery](http://thegrangebarnyc.com/), sponsored by [Young Professionals in Transportation](http://yptransportation.org/chapters/yptnyc/)
 
 ### Registration
 
