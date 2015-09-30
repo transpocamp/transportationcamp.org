@@ -33,7 +33,7 @@ TransportationCamp NYC will be held at City College of New York in Shepard Hall 
 
 ### Schedule
 
-* **8:30 AM** - Doors open
+* **8:00 AM** - Doors open
 * **9:00 AM** - Welcome and Kick-off in the Great Hall
 * **9:45 AM** - Keynote addresses in the Great Hall
 * **11:15 AM** - First Breakout Session (in classrooms)
