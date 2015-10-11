@@ -22,6 +22,7 @@ in the Public Affairs Building (651 Charles E Young Dr, Los Angeles, CA 90095).
 Registration is $25 ($15 for students), via [transportationcamp2015la.eventbrite.com](https://transportationcamp2015la.eventbrite.com/). 
 
 More information at [its.ucla.edu/event/transportation-camp-2015](http://www.its.ucla.edu/event/transportation-camp-2015/).
+We're creating shared notes at [transportationcampla.hackpad.com](https://transportationcampla.hackpad.com/).
 
 Stay tuned to [@transpocamp](https://twitter.com/transpocamp) for news about this event and other Transportation Camps as they are announced.
  
