@@ -60,7 +60,7 @@ _**Media inquiries:** Please contact <nyc@transportationcamp.org>._
 <td style="vertical-align: center;"><a href="http://transitcenter.org/"><img src="sponsors/transitcenter.jpg" height="32" width="175" alt="TransitCenter"></a></td>
 <td style="vertical-align: center;"><a href="https://www.mastercard.us/en-us.html"><img src="sponsors/mastercard.png" height="105" width="140" alt="MasterCard"></a></td>
 <td style="vertical-align: center;"><a href="http://www.cubic.com/"><img src="sponsors/cubic.png" height="31" width="170" alt="Cubic"></a></td>
-<td style="vertical-align: center;"><a href="http://www.uber.com/"><img src="sponsors/uber.png" width="140" alt="Cubic"></a></td>
+<td style="vertical-align: center;"><a href="http://www.uber.com/"><img src="sponsors/uber.png" width="140" alt="Uber"></a></td>
 </tr>
 </table>
 
