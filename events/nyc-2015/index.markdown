@@ -74,6 +74,14 @@ _**Media inquiries:** Please contact <nyc@transportationcamp.org>._
 </tr>
 </table>
 
+##### With Assistance From
+
+<table align="center">
+<tr>
+<td style="vertical-align: center;"><a href="https://ite-metsection.org/"><img src="sponsors/ite.png" width="140" alt="ITE Met Section"></a></td>
+</tr>
+</table>
+
 ### Hosts
 
 <table align="center">
