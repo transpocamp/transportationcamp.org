@@ -15,8 +15,11 @@ Bring your ideas to expand the opportunities we have to improve mobility through
 
 Learn about last year's event by browsing the hackpads linked to from the [schedule](http://transportationcamp.org/events/dc-2015/schedule.html) or via [tcamp2015dc.hackpad.com](https://tcamp2015dc.hackpad.com/). Pages for previous years: [2012](http://transportationcamp.org/events/dc/), [2013](http://transportationcamp.org/events/dc-2013/), [2014](http://transportationcamp.org/events/dc-2014/), and [2015](http://transportationcamp.org/events/dc-2015/). 
 
-The [Cameron Rian Hays Outside the Box Competition](http://outsidethebox.gmu.edu/) will be held the same weekend. 
-We invite everyone to enter the competition - First prize is $10,000.
+The [Cameron Rian Hays Outside the Box Competition](http://outsidethebox.gmu.edu/) will be held the same day, immediately after Transportation Camp. 
+We invite everyone to enter the competition - First prize is $10,000. 
+There is no cost to register to attend the competition; 
+the [registration](https://www.eventbrite.com/e/2016-hays-outside-the-box-conference-tickets-19211319574) is separate, so be sure to sign up for both events.
 
-Stay tuned to [@transpocamp](https://twitter.com/transpocamp) (and the [#transpo16](https://twitter.com/search?q=%23transpo16) hashtag) for news about this event and other TransportationCamps as they are announced.
+Stay tuned to [@transpocamp](https://twitter.com/transpocamp) (and the [#transpo16](https://twitter.com/search?q=%23transpo16) hashtag) 
+for news about this event and other TransportationCamps as they are announced.
  
