@@ -31,16 +31,34 @@ TransportationCamp NYC will be held at City College of New York in Shepard Hall 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3107.8048111647026!2d-73.95016290760027!3d40.82021094185493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x63248bb077f4f293!2sShepard+Hall!5e0!3m2!1sen!2sus!4v1439503246663" width="600" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
+### Keynote Speakers<a name="speakers"></a>
+
+##### Chris Ward
+<img src="speakers/Ward.jpg" class="biopic">Chris served as the Executive Director of the Port Authority of New York and New Jersey from 2008 to 2011. During his tenure, Chris oversaw the transformation of Ground Zero and prepared the memorial plaza in time for the 10th anniversary of the September 11th attacks. He was also charged with overseeing the planned expansion of Pennsylvania Station to the James Farley Post Office, which will be named Moynihan Station. Prior to his role at the Port Authority, Chris held several positions in New York City government, including roles at the Department of Consumer Affairs and the Economic Development Corporation.
+
+##### Donny Uselmann
+<img src="speakers/Uselmann.jpg" class="biopic">Donny is the General Manager, Airport Operations for JetBlue at John F. Kennedy International Airport and has been with the airline for over 9 years. Prior to his role at JFK, Donny served as JetBlue's "customer experience guru", spearheading the airline's redesign of the interior of their A321 fleet. As part of this redesign, Donny had to delicately balance limited space issues and the provision of customer amenities against the bottom line. He has also held roles in product development, business development, and sales.
+
+##### Shin-pei Tsay
+<img src="speakers/Tsay.jpg" class="biopic">Shin-pei’s experience in practice and policy converges on transforming the built environment so that it is more accessible, equitable, and sustainable. Prior to TransitCenter, Shin-pei served as Director of Cities and Transportation at the Carnegie Endowment for International Peace; the Deputy Director of Transportation Alternatives; a founding member of the NYC office for ZGF Architects; the Chief Operating Officer of Project for Public Spaces; and a strategy consultant with a company serving the Fortune 500. She co-founded and directed Planning Corps, an organization that matches urban planners with community-based projects, whose work was selected for the U.S. Pavilion at the 2012 Venice Biennale for Architecture.
+
+Shin-pei serves on the Board of Directors for Transportation Alternatives, ioby, and Gehl Institute.
+
+##### Moderator: Buz Paaswell
+<img src="speakers/Paaswell.jpg" class="biopic">Dr. Robert "Buz" Paaswell, Distinguished Professor of Civil Engineering at the City College of New York serves as Director of the federally-supported University Transportation Research Center (UTRC). Previously he served as Executive Director (CEO) of the Chicago Transit Authority, the nation’s 2nd largest transit company.
+
+Paaswell is extremely active in public transportation issues and consulting. He has reported on governance structures for U.S. transit organizations, public-private issues in New York and Chicago, and labor union/management issues. Most recently, he served as an advisor to the Israeli government concerning restructuring of their bus companies, and issues of competition.
+
 ### Schedule
 
 * **8:00 AM** - Doors open
 * **9:00 AM** - Welcome and Kick-off in the Great Hall
-* **9:45 AM** - Keynote addresses in the Great Hall
-* **11:15 AM** - First Breakout Session (in classrooms)
+* **9:45 AM** - <a href="#speakers">Keynote addresses</a> in the Great Hall
+* **11:15 AM** - First breakout session (in classrooms)
 * **12:15 PM** - Lunch in the Great Hall
-* **1:15 PM** - Second Breakout Session (in classrooms)
-* **2:30 PM** - Third Breakout Session (in classrooms)
-* **3:45 PM** - Fourth Breakout Session (in classrooms)
+* **1:15 PM** - Second breakout session (in classrooms)
+* **2:30 PM** - Third breakout session (in classrooms)
+* **3:45 PM** - Fourth breakout session (in classrooms)
 * **5:00 PM** - Adjourn to happy hour at [The Grange Bar & Eatery](http://thegrangebarnyc.com/), sponsored by [Young Professionals in Transportation](http://yptransportation.org/chapters/yptnyc/)
 
 ### Registration
@@ -99,4 +117,5 @@ _**Media inquiries:** Please contact <nyc@transportationcamp.org>._
 <style type="text/css">
 li {padding-bottom: 0;}
 li p {margin-bottom: 0;}
+img.biopic {float:right; margin-left: 0.5em;}
 </style>
