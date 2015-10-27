@@ -7,7 +7,8 @@ slug: "dc-2016"
 title: TransportationCamp DC 2016 
 published: true
 ---
-Mark your calendars for the 5th annual TransportationCamp in Washington, DC: [Mobility Lab](http://mobilitylab.org/) is putting together plans to hold this event on Saturday, January 9, 2016, the day before the start of the [Transportation Research Board 95th Annual Meeting](http://www.trb.org/AnnualMeeting/AnnualMeeting.aspx). 
+Mark your calendars for the 5th annual TransportationCamp in Washington, DC, coming Saturday, January 9, 2016. 
+This is the day before the start of the [Transportation Research Board 95th Annual Meeting](http://www.trb.org/AnnualMeeting/AnnualMeeting.aspx). 
 
 TransportationCamp is an “unconference” that brings together transportation professionals, technologists, and others interested in the intersection of urban transportation and technology. Want to learn more about unconferences? Here's our handy guide: [How TransportationCamp works: the essential guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/).
 
@@ -19,6 +20,13 @@ The [Cameron Rian Hays Outside the Box Competition](http://outsidethebox.gmu.edu
 We invite everyone to enter the competition - First prize is $10,000. 
 There is no cost to register to attend the competition; 
 the [registration](https://www.eventbrite.com/e/2016-hays-outside-the-box-conference-tickets-19211319574) is separate, so be sure to sign up for both events.
+
+TransportationCamp DC 2016 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
+[TransitCenter](http://transitcenter.org/), 
+[the GMU School of Policy, Government, and International Affairs](http://spgia.gmu.edu/), 
+[the American Association of State Highway and Transportation Officials](http://www.transportation.org/), 
+[the Eno Center for Transportation](https://www.enotrans.org/), and 
+[Young Professionals in Transportation](http://yptransportation.org/).
 
 Stay tuned to [@transpocamp](https://twitter.com/transpocamp) (and the [#transpo16](https://twitter.com/search?q=%23transpo16) hashtag) 
 for news about this event and other TransportationCamps as they are announced.
