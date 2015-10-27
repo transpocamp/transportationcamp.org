@@ -39,6 +39,13 @@ TransportationCamp DC 2016 is being organized by [Mobility Lab](http://mobilityl
 [the Eno Center for Transportation](https://www.enotrans.org/), and 
 [Young Professionals in Transportation](http://yptransportation.org/).
 
+<img src="logo-mobilitylab.png">
+<img src="logo-transitcenter.png">
+<img src="logo-gmu.png">
+<img src="logo-aashto.png">
+<img src="logo-eno.png">
+<img src="logo-ypt.png">
+
 Stay tuned to [@transpocamp](https://twitter.com/transpocamp) (and the [#transpo16](https://twitter.com/search?q=%23transpo16) hashtag) 
 for news about this event and other TransportationCamps as they are announced.
  
