@@ -26,11 +26,11 @@ _**Media and Sponsorship Inquiries:** Please contact <TranspoCamp@camsys.com>._
 TransportationCamp New England 2016 is organized by Cambridge Systematics, in partnership with Mobility Lab, MIT, and the Boston Chapter of Young Professionals in Transportation.
 
 <table align="center">
-<tr><td style="vertical-align: center;"><a href="http://www.camsys.com/"><img src="hosts/organizer_cs.png" height="120" width="494" alt="Cambridge Systematics"></a></td></tr>
+<tr><td style="vertical-align: center;"><a href="http://www.camsys.com/"><img src="hosts/organizer_cs.png" height="120" width="350" alt="Cambridge Systematics"></a></td></tr>
 <tr>
-<td style="vertical-align: center;"><a href="http://web.mit.edu/"><img src="hosts/organizer_mit.png" height="86" width="167" alt="YPT New York City"></a></td>
-<td style="vertical-align: center;"><a href="http://mobilitylab.org/"><img src="hosts/organizer_mobiliylab.png" height="120" width="120" alt="Mobility Labs"></a></td>
-<td style="vertical-align: center;"><a href="http://www.yptboston.org/"><img src="hosts/ypt.png" height="120" width="120" alt="YPT New York City"></a></td>
+<td style="vertical-align: center;"><a href="http://web.mit.edu/"><img src="hosts/organizer_mit.png" height="86" width="167" alt="YPT New York City"></a>
+<a href="http://mobilitylab.org/"><img src="hosts/organizer_mobilitylab.png" height="86" width="86" alt="Mobility Labs"></a>
+<a href="http://www.yptboston.org/"><img src="hosts/organizer_ypt.png" height="86" width="86" alt="YPT"></a>
 </tr>
 </table>
 
