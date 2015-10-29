@@ -45,7 +45,7 @@ TransportationCamp NYC will be held at City College of New York in Shepard Hall 
 Shin-pei serves on the Board of Directors for Transportation Alternatives, ioby, and Gehl Institute.
 
 ##### Moderator: Buz Paaswell
-<img src="speakers/Paaswell.jpg" class="biopic">Dr. Robert "Buz" Paaswell, Distinguished Professor of Civil Engineering at the City College of New York serves as Director of the federally-supported University Transportation Research Center (UTRC). Previously he served as Executive Director (CEO) of the Chicago Transit Authority, the nation’s 2nd largest transit company.
+<img src="speakers/Paaswell.jpg" class="biopic">Dr. Robert "Buz" Paaswell, Distinguished Professor of Civil Engineering at the City College of New York serves as Director Emeritus of the federally-supported University Transportation Research Center (UTRC). Previously he served as Executive Director (CEO) of the Chicago Transit Authority, the nation’s 2nd largest transit company.
 
 Paaswell is extremely active in public transportation issues and consulting. He has reported on governance structures for U.S. transit organizations, public-private issues in New York and Chicago, and labor union/management issues. Most recently, he served as an advisor to the Israeli government concerning restructuring of their bus companies, and issues of competition.
 
