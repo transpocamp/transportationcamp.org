@@ -21,6 +21,14 @@ We invite everyone to enter the competition - First prize is $10,000.
 There is no cost to register to attend the competition; 
 the [registration](https://www.eventbrite.com/e/2016-hays-outside-the-box-conference-tickets-19211319574) is separate, so be sure to sign up for both events.
 
+### Tentative Schedule
+
+8:30am doors open; breakfast available
+9:30am Transportation Camp begins
+5:00pm Transportation Camp begins; Cameron Rian Hays Outside the Box Competition begins
+6:00pm Joint reception
+8:00pm End of event!
+
 ### Location
 
 We'll be returning this year to Founders Hall, in GMU's [Arlington Campus](http://arlington.gmu.edu/) ([campus map](http://info.gmu.edu/Maps/ArlingtonMap15.pdf)). 
