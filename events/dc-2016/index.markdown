@@ -23,10 +23,10 @@ the [registration](https://www.eventbrite.com/e/2016-hays-outside-the-box-confer
 
 ### Tentative Schedule
 
-8:30am doors open; breakfast available
-9:30am Transportation Camp begins
-5:00pm Transportation Camp begins; Cameron Rian Hays Outside the Box Competition begins
-6:00pm Joint reception
+8:30am doors open; breakfast available<br>
+9:30am Transportation Camp begins<br>
+5:00pm Transportation Camp begins; Cameron Rian Hays Outside the Box Competition begins<br>
+6:00pm Joint reception<br>
 8:00pm End of event!
 
 ### Location
