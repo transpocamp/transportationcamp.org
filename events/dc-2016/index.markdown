@@ -45,11 +45,11 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 TransportationCamp DC 2016 is made possible thanks to our sponsors:
 <p align=center >
 <img src="logo-zipcar.png"><br>
-[Zipcar](http://www.zipcar.com/) - Gold Sponsor
+[Zipcar](http://www.zipcar.com/) - Silver Sponsor
 </p>
 <p align=center >
 <img src="logo-lyft.png"> &nbsp;&nbsp;&nbsp; <img src="logo-kimleyhorn.png"><br>
-[Lyft](http://www.lyft.com/), [Kimley-Horn](http://www.kimley-horn.com/) - Silver Sponsors
+[Lyft](http://www.lyft.com/), [Kimley-Horn](http://www.kimley-horn.com/) - Bronze Sponsors
 </p>
 TransportationCamp DC 2016 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
 [TransitCenter](http://transitcenter.org/), 
