@@ -9,6 +9,7 @@ published: true
 ---
 Mark your calendars for the 5th annual TransportationCamp in Washington, DC, coming Saturday, January 9, 2016. 
 This is the day before the start of the [Transportation Research Board 95th Annual Meeting](http://www.trb.org/AnnualMeeting/AnnualMeeting.aspx). 
+Registration will begin Friday, November 6, 2015, at [transportationcamp2016dc.eventbrite.com](https://transportationcamp2016dc.eventbrite.com).
 
 TransportationCamp is an “unconference” that brings together transportation professionals, technologists, and others interested in the intersection of urban transportation and technology. Want to learn more about unconferences? Here's our handy guide: [How TransportationCamp works: the essential guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/).
 
