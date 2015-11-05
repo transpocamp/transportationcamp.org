@@ -48,7 +48,7 @@ TransportationCamp DC 2016 is made possible thanks to our sponsors:
 [Zipcar](http://www.zipcar.com/) - Gold Sponsor
 </p>
 <p align=center >
-<img src="logo-lyft.png"> <img src="logo-kimleyhorn.png"><br>
+<img src="logo-lyft.png"> &nbsp;&nbsp;&nbsp; <img src="logo-kimleyhorn.png"><br>
 [Lyft](http://www.lyft.com/), [Kimley-Horn](http://www.kimley-horn.com/) - Silver Sponsors
 </p>
 TransportationCamp DC 2016 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
