@@ -17,7 +17,7 @@ Bring your ideas to expand the opportunities we have to improve mobility through
 
 Learn about last year's event by browsing the hackpads linked to from the [schedule](http://transportationcamp.org/events/dc-2015/schedule.html) or via [tcamp2015dc.hackpad.com](https://tcamp2015dc.hackpad.com/). Pages for previous years: [2012](http://transportationcamp.org/events/dc/), [2013](http://transportationcamp.org/events/dc-2013/), [2014](http://transportationcamp.org/events/dc-2014/), and [2015](http://transportationcamp.org/events/dc-2015/). 
 
-The [Cameron Rian Hays Outside the Box Competition](http://outsidethebox.gmu.edu/) will be held the same day, immediately after Transportation Camp. 
+The [Cameron Rian Hays Outside the Box Competition](http://outsidethebox.gmu.edu/) will be held the same day, immediately after TransportationCamp. 
 We invite everyone to enter the competition - First prize is $10,000. 
 There is no cost to register to attend the competition; 
 the [registration](https://www.eventbrite.com/e/2016-hays-outside-the-box-conference-tickets-19211319574) is separate, so be sure to sign up for both events.
@@ -25,8 +25,8 @@ the [registration](https://www.eventbrite.com/e/2016-hays-outside-the-box-confer
 ### Tentative Schedule
 
 8:30am doors open; breakfast available<br>
-9:30am Transportation Camp begins<br>
-5:00pm Transportation Camp ends; Outside the Box Competition begins<br>
+9:30am TransportationCamp begins<br>
+5:00pm TransportationCamp ends; Outside the Box Competition begins<br>
 6:00pm Joint reception<br>
 8:00pm End of event!
 
@@ -65,7 +65,7 @@ TransportationCamp DC 2016 is being organized by [Mobility Lab](http://mobilityl
 <img src="logo-mobilitylab120x100.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="logo-transitcenter.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="logo-gmu.png"><br>
-<img src="logo-aashto.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="logo-aashto120x100.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="logo-eno.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="logo-ypt.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="logo-ite.png">
@@ -76,8 +76,8 @@ Stay tuned to [@transpocamp](https://twitter.com/transpocamp) (and the [#transpo
 for news about this event and other TransportationCamps as they are announced.
 
 <p align=center>
-<a href="https://www.flickr.com/photos/mvjantzen/15662555003/" title="Transportation Camp DC 2015"><img src="https://farm8.staticflickr.com/7496/15662555003_46ee1c9fa6_m.jpg" width="198" height="132" alt="Transportation Camp DC 2015"></a> 
-<a href="https://www.flickr.com/photos/mvjantzen/15663480523/" title="The Board"><img src="https://farm9.staticflickr.com/8641/15663480523_4180b79746_m.jpg" width="198" height="132" alt="Transportation Camp DC 2015"></a> 
-<a href="https://www.flickr.com/photos/mvjantzen/16281595951/" title="Founders Hall"><img src="https://farm8.staticflickr.com/7512/16281595951_b0d6039a92_m.jpg" width="198" height="132" alt="Transportation Camp DC 2015"></a> 
+<a href="https://www.flickr.com/photos/mvjantzen/15662555003/" title="TransportationCamp DC 2015"><img src="https://farm8.staticflickr.com/7496/15662555003_46ee1c9fa6_m.jpg" width="198" height="132" alt="TransportationCamp DC 2015"></a> 
+<a href="https://www.flickr.com/photos/mvjantzen/15663480523/" title="The Board"><img src="https://farm9.staticflickr.com/8641/15663480523_4180b79746_m.jpg" width="198" height="132" alt="TransportationCamp DC 2015"></a> 
+<a href="https://www.flickr.com/photos/mvjantzen/16281595951/" title="Founders Hall"><img src="https://farm8.staticflickr.com/7512/16281595951_b0d6039a92_m.jpg" width="198" height="132" alt="TransportationCamp DC 2015"></a> 
 
  
