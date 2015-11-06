@@ -53,8 +53,8 @@ TransportationCamp DC 2016 is made possible thanks to our sponsors:
 [Lyft](http://www.lyft.com/), [Kimley-Horn](http://www.kimley-horn.com/) - Bronze Sponsors
 </p>
 TransportationCamp DC 2016 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
-[TransitCenter](http://transitcenter.org/), 
-[the GMU School of Policy, Government, and International Affairs](http://spgia.gmu.edu/), 
+[TransitCenter](http://transitcenter.org/), the
+[Center for Transportation Public-Private Partnership Policy at the George Mason University School of Policy, Government and International Affairs](http://p3policy.gmu.edu/), 
 [the American Association of State Highway and Transportation Officials](http://www.transportation.org/), 
 [the Eno Center for Transportation](https://www.enotrans.org/), 
 [Young Professionals in Transportation](http://yptransportation.org/), and the 
@@ -64,7 +64,7 @@ TransportationCamp DC 2016 is being organized by [Mobility Lab](http://mobilityl
 <tr><td width=100% align=center valign=middle >
 <img src="logo-mobilitylab120x100.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="logo-transitcenter.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="logo-gmu.png"><br>
+<img src="logo-gmuctpppp.png"><br>
 <img src="logo-aashto120x100.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="logo-eno.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="logo-ypt.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
