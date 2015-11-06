@@ -62,12 +62,12 @@ TransportationCamp DC 2016 is being organized by [Mobility Lab](http://mobilityl
 
 <table cellpadding=0 cellspacing=0 border=0 width=100% >
 <tr><td width=100% align=center valign=middle >
-<img src="logo-mobilitylab.png">
-<img src="logo-transitcenter.png">
-<img src="logo-gmu.png">
-<img src="logo-aashto.png">
-<img src="logo-eno.png">
-<img src="logo-ypt.png">
+<img src="logo-mobilitylab120x100.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="logo-transitcenter.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="logo-gmu.png"><br>
+<img src="logo-aashto.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="logo-eno.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="logo-ypt.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="logo-ite.png">
 </td></tr>
 </table>
