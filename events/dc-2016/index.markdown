@@ -56,8 +56,9 @@ TransportationCamp DC 2016 is being organized by [Mobility Lab](http://mobilityl
 [TransitCenter](http://transitcenter.org/), 
 [the GMU School of Policy, Government, and International Affairs](http://spgia.gmu.edu/), 
 [the American Association of State Highway and Transportation Officials](http://www.transportation.org/), 
-[the Eno Center for Transportation](https://www.enotrans.org/), and 
-[Young Professionals in Transportation](http://yptransportation.org/).
+[the Eno Center for Transportation](https://www.enotrans.org/), 
+[Young Professionals in Transportation](http://yptransportation.org/), and the 
+[Institute of Transportation Engineers](http://www.ite.org/).
 
 <table cellpadding=0 cellspacing=0 border=0 width=100% >
 <tr><td width=100% align=center valign=middle >
@@ -67,6 +68,7 @@ TransportationCamp DC 2016 is being organized by [Mobility Lab](http://mobilityl
 <img src="logo-aashto.png">
 <img src="logo-eno.png">
 <img src="logo-ypt.png">
+<img src="logo-ite.png">
 </td></tr>
 </table>
 
