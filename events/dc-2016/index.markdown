@@ -27,7 +27,7 @@ the [registration](https://www.eventbrite.com/e/2016-hays-outside-the-box-confer
 8:30am doors open; breakfast available<br>
 9:30am TransportationCamp begins<br>
 5:00pm TransportationCamp ends; Outside the Box Competition begins<br>
-6:00pm Joint reception<br>
+6:00pm Joint reception, co-sponsored by [TransitCenter](http://transitcenter.org/) and [GMU](http://p3policy.gmu.edu/)<br>
 8:00pm End of event!
 
 ### Location
