@@ -7,20 +7,32 @@ slug: "dc-2016"
 title: TransportationCamp DC 2016 
 published: true
 ---
-Mark your calendars for the 5th annual TransportationCamp in Washington, DC, coming Saturday, January 9, 2016. 
-This is the day before the start of the [Transportation Research Board 95th Annual Meeting](http://www.trb.org/AnnualMeeting/AnnualMeeting.aspx). 
-Registration will begin Friday, November 6, 2015, at [transportationcamp2016dc.eventbrite.com](https://transportationcamp2016dc.eventbrite.com).
+The 5th annual TransportationCamp in Washington, DC, is coming Saturday, January 9, 2016. 
+Registration is at [transportationcamp2016dc.eventbrite.com](https://transportationcamp2016dc.eventbrite.com).
 
-TransportationCamp is an “unconference” that brings together transportation professionals, technologists, and others interested in the intersection of urban transportation and technology. Want to learn more about unconferences? Here's our handy guide: [How TransportationCamp works: the essential guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/).
+TransportationCamp DC is the premier transportation un-conference of the year. 
+Held on the Saturday before the National Academy of Sciences' [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting/),  
+we attract over 400 industry thought leaders, young professionals, and students from around the country. 
+As an unconference, all of the sessions are created by the participants themselves. 
+This format fosters excellent exchange of innovative ideas in a high-energy environment. 
+Be a part of shaping the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment, 
+and a host of other issues. 
+Bring us your ideas and lead a session!
 
-Bring your ideas to expand the opportunities we have to improve mobility through recent advances in technology, such as Web 2.0, mobile computing, open source software, open data and APIs, and spatial analysis. Participants will also examine ways to build connections between disparate innovators in public administration, transportation operations, information design, and software engineering. 
+In addition to a full day of TransportationCamp excitement, your ticket also includes breakfast, lunch, and drinks at the reception afterwards. 
+For $35 it is an amazing deal (limited number of student tickets for $10).
 
-Learn about last year's event by browsing the hackpads linked to from the [schedule](http://transportationcamp.org/events/dc-2015/schedule.html) or via [tcamp2015dc.hackpad.com](https://tcamp2015dc.hackpad.com/). Pages for previous years: [2012](http://transportationcamp.org/events/dc/), [2013](http://transportationcamp.org/events/dc-2013/), [2014](http://transportationcamp.org/events/dc-2014/), and [2015](http://transportationcamp.org/events/dc-2015/). 
+This year our event is pairing up with George Mason University's [Cameron Rian Hays Outside the Box Competition](http://outsidethebox.gmu.edu/), 
+which will take place at the end of Transportation Camp as an exciting end to the day. 
+[Registration](https://www.eventbrite.com/e/2016-hays-outside-the-box-conference-tickets-19211319574) for the Outside the Box event is separate. 
+Capacity is more limited, but the event is free, so be sure to sign up. 
+The competition offers over $17,000 in prizes, so submit an entry before the Nov 30 deadline. 
+After the competition we will have a joint reception in Founders Hall, the site of both events.
 
-The [Cameron Rian Hays Outside the Box Competition](http://outsidethebox.gmu.edu/) will be held the same day, immediately after TransportationCamp. 
-We invite everyone to enter the competition - First prize is $10,000. 
-There is no cost to register to attend the competition; 
-the [registration](https://www.eventbrite.com/e/2016-hays-outside-the-box-conference-tickets-19211319574) is separate, so be sure to sign up for both events.
+Learn about last year's TransportationCamp by browsing the hackpads linked to from the 
+[schedule](http://transportationcamp.org/events/dc-2015/schedule.html) or via [tcamp2015dc.hackpad.com](https://tcamp2015dc.hackpad.com/). 
+Pages for previous years: [2012](http://transportationcamp.org/events/dc/), [2013](http://transportationcamp.org/events/dc-2013/), 
+[2014](http://transportationcamp.org/events/dc-2014/), and [2015](http://transportationcamp.org/events/dc-2015/). 
 
 ### Tentative Schedule
 
