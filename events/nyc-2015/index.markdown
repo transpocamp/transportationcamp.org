@@ -31,6 +31,15 @@ TransportationCamp NYC will be held at City College of New York in Shepard Hall 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3107.8048111647026!2d-73.95016290760027!3d40.82021094185493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x63248bb077f4f293!2sShepard+Hall!5e0!3m2!1sen!2sus!4v1439503246663" width="600" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
+#### Things To Know
+
+If you're joining us at TransportationCamp NYC 2015, here are a few things you'll want to know about the event:
+
+* **Dress code**: It's an unconference—tasteful casual is fine!
+* **Internet access**: Free Wi-Fi will be available in all event spaces—we'll have more information when you check in.
+* **Presentation pointers**: Many of the breakout rooms are equipped with a projector, so if you're thinking of proposing a session and you'd like to present, bring a laptop. We'll supply a VGA cable; remember to bring an adaptor for VGA if your laptop needs one.  Most breakout rooms will also have a chalkboard.
+* **First time at an unconference?**: Check out [How TransportationCamp works: the essential guide](/2011/02/how-transportationcamp-works-the-essential-guide) for a quick introduction!
+
 ### Keynote Speakers<a name="speakers"></a>
 
 ##### Chris Ward
@@ -63,7 +72,7 @@ Paaswell is extremely active in public transportation issues and consulting. He 
 
 ### Registration
 
-Registration for TransportationCamp NYC 2015 [is now open](https://www.eventbrite.com/e/transportationcamp-nyc-2015-tickets-18250335244). Tickets are limited, so get yours now!
+TransportationCamp NYC 2015 has sold out.
 If you have any questions, reach out at <nyc@transportationcamp.org> or at [@transpocamp](https://twitter.com/transpocamp).
 See you November 14, 2015!
 
