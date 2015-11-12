@@ -130,4 +130,5 @@ _**Media inquiries:** Please contact <nyc@transportationcamp.org>._
 li {padding-bottom: 0;}
 li p {margin-bottom: 0;}
 img.biopic {float:right; margin-left: 0.5em;}
+td img {padding: 0.5em;}
 </style>
