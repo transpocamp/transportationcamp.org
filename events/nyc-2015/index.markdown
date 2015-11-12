@@ -42,9 +42,6 @@ If you're joining us at TransportationCamp NYC 2015, here are a few things you'l
 
 ### Keynote Speakers<a name="speakers"></a>
 
-##### Chris Ward
-<img src="speakers/Ward.jpg" class="biopic">Chris served as the Executive Director of the Port Authority of New York and New Jersey from 2008 to 2011. During his tenure, Chris oversaw the transformation of Ground Zero and prepared the memorial plaza in time for the 10th anniversary of the September 11th attacks. He was also charged with overseeing the planned expansion of Pennsylvania Station to the James Farley Post Office, which will be named Moynihan Station. Prior to his role at the Port Authority, Chris held several positions in New York City government, including roles at the Department of Consumer Affairs and the Economic Development Corporation.
-
 ##### Donny Uselmann
 <img src="speakers/Uselmann.jpg" class="biopic">Donny is the General Manager, Airport Operations for JetBlue at John F. Kennedy International Airport and has been with the airline for over 9 years. Prior to his role at JFK, Donny served as JetBlue's "customer experience guru", spearheading the airline's redesign of the interior of their A321 fleet. As part of this redesign, Donny had to delicately balance limited space issues and the provision of customer amenities against the bottom line. He has also held roles in product development, business development, and sales.
 
