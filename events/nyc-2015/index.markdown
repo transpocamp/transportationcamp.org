@@ -96,6 +96,8 @@ _**Media inquiries:** Please contact <nyc@transportationcamp.org>._
 <td style="vertical-align: center;"><a href="http://www.samschwartz.com/"><img src="sponsors/sam_schwartz.png" height="112" width="140" alt="Sam Schwartz Engineering, DPC"></a></td>
 <td style="vertical-align: center;"><a href="http://ridewithvia.com/"><img src="sponsors/via.png" height="64" width="140" alt="Via"></a></td>
 </tr>
+</table>
+<table align="center">
 <tr>
 <td style="vertical-align: center;"><a href="http://www.camsys.com/"><img src="sponsors/cs.jpg" width="140" alt="Cambridge Systematics"></a></td>
 <td style="vertical-align: center;"><a href="http://www.motivateco.com/"><img src="sponsors/motivate.png" width="140" alt="Motivate"></a></td>
