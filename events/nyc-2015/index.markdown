@@ -42,13 +42,16 @@ If you're joining us at TransportationCamp NYC 2015, here are a few things you'l
 
 ### Keynote Speakers<a name="speakers"></a>
 
-##### Donny Uselmann
-<img src="speakers/Uselmann.jpg" class="biopic">Donny is the General Manager, Airport Operations for JetBlue at John F. Kennedy International Airport and has been with the airline for over 9 years. Prior to his role at JFK, Donny served as JetBlue's "customer experience guru", spearheading the airline's redesign of the interior of their A321 fleet. As part of this redesign, Donny had to delicately balance limited space issues and the provision of customer amenities against the bottom line. He has also held roles in product development, business development, and sales.
+##### Michael King
+<img src="speakers/King.jpg" class="biopic">In his 20+ year career Michael King has been at the forefront of mobility, accessibility, and sustainability, working globally from New York to New Orleans, Buenos Aires to Bangkok. He was the first director of traffic calming for New York City; designed the second shared street in the United States (Santa Monica); helped originate the nation’s first Safe Routes to School program (Bronx); and has designed bicycle facilities for the largest bus rapid transit system in Asia (Guangzhou). He helped craft the City of Chicago’s complete and sustainable streets strategy and oversaw the creation of the NACTO Urban Street Design Guide. In 2013, Michael was awarded the Association of Pedestrian and Bicycle Professionals Private Sector Professional of the Year.
 
 ##### Shin-pei Tsay
 <img src="speakers/Tsay.jpg" class="biopic">Shin-pei’s experience in practice and policy converges on transforming the built environment so that it is more accessible, equitable, and sustainable. Prior to TransitCenter, Shin-pei served as Director of Cities and Transportation at the Carnegie Endowment for International Peace; the Deputy Director of Transportation Alternatives; a founding member of the NYC office for ZGF Architects; the Chief Operating Officer of Project for Public Spaces; and a strategy consultant with a company serving the Fortune 500. She co-founded and directed Planning Corps, an organization that matches urban planners with community-based projects, whose work was selected for the U.S. Pavilion at the 2012 Venice Biennale for Architecture.
 
 Shin-pei serves on the Board of Directors for Transportation Alternatives, ioby, and Gehl Institute.
+
+##### Donny Uselmann
+<img src="speakers/Uselmann.jpg" class="biopic">Donny is the General Manager, Airport Operations for JetBlue at John F. Kennedy International Airport and has been with the airline for over 9 years. Prior to his role at JFK, Donny served as JetBlue's "customer experience guru", spearheading the airline's redesign of the interior of their A321 fleet. As part of this redesign, Donny had to delicately balance limited space issues and the provision of customer amenities against the bottom line. He has also held roles in product development, business development, and sales.
 
 ##### Moderator: Buz Paaswell
 <img src="speakers/Paaswell.jpg" class="biopic">Dr. Robert "Buz" Paaswell, Distinguished Professor of Civil Engineering at the City College of New York serves as Director Emeritus of the federally-supported University Transportation Research Center (UTRC). Previously he served as Executive Director (CEO) of the Chicago Transit Authority, the nation’s 2nd largest transit company.
