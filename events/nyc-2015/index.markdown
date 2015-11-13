@@ -72,7 +72,7 @@ Paaswell is extremely active in public transportation issues and consulting. He 
 
 ### Registration
 
-TransportationCamp NYC 2015 has sold out.
+TransportationCamp NYC 2015 has sold out, but you can still <a href="https://www.eventbrite.com/e/transportationcamp-nyc-2015-tickets-18250335244">join the waitlist</a>.
 If you have any questions, reach out at <nyc@transportationcamp.org> or at [@transpocamp](https://twitter.com/transpocamp).
 See you November 14, 2015!
 
