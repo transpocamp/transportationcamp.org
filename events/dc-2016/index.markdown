@@ -58,7 +58,7 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 TransportationCamp DC 2016 is made possible thanks to our sponsors:
 <p align=center >
 <img src="logo-uber.png"><br>
-[Zipcar](http://www.uber.com/) - Gold Sponsor
+[Uber](http://www.uber.com/) - Gold Sponsor
 </p>
 <p align=center >
 <img src="logo-zipcar.png"><br>
