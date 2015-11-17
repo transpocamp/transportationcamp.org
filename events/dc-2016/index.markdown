@@ -61,7 +61,7 @@ TransportationCamp DC 2016 is made possible thanks to our sponsors:
 [Uber](http://www.uber.com/) - Gold Sponsor
 </p>
 <p align=center >
-<img src="logo-camsys"> &nbsp;&nbsp;&nbsp; <img src="logo-zipcar.png"><br>
+<img src="logo-camsys.png"> &nbsp;&nbsp;&nbsp; <img src="logo-zipcar.png"><br>
 [Cambridge Systematics](http://www.camsys.com/), [Zipcar](http://www.zipcar.com/) - Silver Sponsors
 </p>
 <p align=center >
