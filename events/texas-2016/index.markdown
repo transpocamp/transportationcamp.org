@@ -3,7 +3,7 @@ author: Michael Schade
 comments: false
 date: {}
 layout: event
-slug: "dc-2016"
+slug: "texas-2016"
 title: TransportationCamp Texas 2016 
 published: true
 ---
