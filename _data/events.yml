@@ -96,9 +96,9 @@
   date: 2016-01-09 23:59:59
   url: /events/dc-2016 
   register_url: https://transportationcamp2016dc.eventbrite.com/
-background_img: dc-2015-d.jpg
+  background_img: dc-2015-d.jpg
 
 - title: New England 2016
-date: 2016-04-09 23:59:59
-url: /events/new-england-2016
-background_img: ne-2016.jpg
+  date: 2016-04-09 23:59:59
+  url: /events/new-england-2016
+  background_img: ne-2016.jpg
