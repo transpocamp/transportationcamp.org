@@ -65,8 +65,8 @@ TransportationCamp DC 2016 is made possible thanks to our sponsors:
 [Cambridge Systematics](http://www.camsys.com/), [Zipcar](http://www.zipcar.com/) - Silver Sponsors
 </p>
 <p align=center >
-<img src="logo-lyft.png"> &nbsp;&nbsp;&nbsp; <img src="logo-kimleyhorn.png"><br>
-[Lyft](http://www.lyft.com/), [Kimley-Horn](http://www.kimley-horn.com/) - Bronze Sponsors
+<img src="logo-lyft.png"> &nbsp;&nbsp;&nbsp; <img src="logo-kimleyhorn.png"> &nbsp;&nbsp;&nbsp; <img src="logo-globesherpa.png"><br>
+[Lyft](http://www.lyft.com/), [Kimley-Horn](http://www.kimley-horn.com/), [GlobeSherpa](http://www.globesherpa.com/) - Bronze Sponsors
 </p>
 TransportationCamp DC 2016 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
 [TransitCenter](http://transitcenter.org/), the
