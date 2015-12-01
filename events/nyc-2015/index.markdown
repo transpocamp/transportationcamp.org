@@ -130,7 +130,7 @@ _**Media inquiries:** Please contact <nyc@transportationcamp.org>._
 
 <hr>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/transportationcamp/albums/72157626076427679" title="TransportationCamp East Sat AM"><img src="https://farm6.staticflickr.com/5299/5500007388_3ce0b8794f_b.jpg" width="1024" height="768" alt="TransportationCamp East Sat AM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/138183373@N06/albums/72157661188895289" title="Transportation Camp 2015"><img src="https://farm1.staticflickr.com/594/22810434624_03f5854523_b.jpg" width="1024" height="768" alt="Transportation Camp 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <style type="text/css">
 li {padding-bottom: 0;}
