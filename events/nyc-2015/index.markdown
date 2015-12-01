@@ -7,9 +7,6 @@ title: TransportationCamp NYC 2015
 published: true
 ---
 
-<h1>Welcome to TransportationCamp! View the <a href="http://transportationcamp.org/events/nyc-2015/schedule/">live event schedule</a>.</h1>
-
-
 Do you love transportation? Do you love New York City? 
 TransportationCamp New York City 2015 will be held on Saturday, November 14, 2015 at 
 [City College of New York](http://www.ccny.cuny.edu/). Following on the success 
