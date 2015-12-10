@@ -7,8 +7,8 @@ slug: "colorado-2016"
 title: TransportationCamp Colorado 2016
 published: true
 ---
-<img float=right width=240 height=120 src="tcco.jpg">Do you have creative ideas for how Boulder,
-Metro Denver & Colorado can grow and move more sustainably? 
+<img float=right align=right width=240 height=120 src="tcco.jpg">Do you have creative ideas for how Boulder,
+Metro Denver & Colorado can grow and move more sustainably?
 Do you wish Colorado had more ride/bike/carsharing, open data, mobility apps and transit­oriented development?
 Then TransportationCamp Colorado 2016 is for you. On <b>Sunday, May 15, 2016</b>,
 the inaugural TransportationCamp Colorado will bring together a community of like­minded people interested in
