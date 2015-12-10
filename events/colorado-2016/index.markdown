@@ -7,7 +7,7 @@ slug: "colorado-2016"
 title: TransportationCamp Colorado 2016
 published: true
 ---
-<img float=right align=right width=240 height=120 src="tcco.jpg">Do you have creative ideas for how Boulder,
+Do you have creative ideas for how Boulder,
 Metro Denver & Colorado can grow and move more sustainably?
 Do you wish Colorado had more ride/bike/carsharing, open data, mobility apps and transit­oriented development?
 Then TransportationCamp Colorado 2016 is for you. On <b>Sunday, May 15, 2016</b>,
@@ -16,11 +16,12 @@ discussing and collaborating on innovative solutions to Colorado’s transportat
 
 ### Goal
 
-We aim to gather urban planners, software developers, datascientists, engineers,
+<img float=right align=right width=240 height=120 src="tcco.jpg">We aim to gather urban planners,
+software developers, data scientists, engineers,
 designers, entrepreneurs, students, officials,and innovators for an exciting “un­conference”.
 Unlike a traditional conference, at TransportationCamp the breakout session topics are determined by the participants,
 based on their interests and skills. This provides a unique opportunity for you to contribute to and shape the event.
-Bring your ideas and lead asession!
+Bring your ideas and lead a session!
 
 
 ### Schedule
@@ -38,5 +39,5 @@ TransportationCamp Colorado will be held at [Galvanize Boulder](http://www.galva
 ### Contact Us
 
 Registration for TransportationCamp Colorado is not yet open.
-Stay tuned here or on Twitter ([]@TranspoCampCO](https://twitter.com/TranspoCampCO)) for more event details.
+Stay tuned here or on Twitter ([@TranspoCampCO](https://twitter.com/TranspoCampCO)) for more event details.
 Email us with questions or media/sponsorship inquiries at <transpocampCO@gmail.com>.
