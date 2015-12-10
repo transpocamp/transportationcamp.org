@@ -16,7 +16,7 @@ discussing and collaborating on innovative solutions to Colorado’s transportat
 
 ### Goal
 
-<img float=right align=right width=240 height=120 src="tcco.jpg">We aim to gather urban planners,
+<img float=right align=right width=192 height=96 src="tcco.jpg">We aim to gather urban planners,
 software developers, data scientists, engineers,
 designers, entrepreneurs, students, officials,and innovators for an exciting “un­conference”.
 Unlike a traditional conference, at TransportationCamp the breakout session topics are determined by the participants,
