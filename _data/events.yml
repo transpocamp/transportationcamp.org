@@ -103,6 +103,11 @@
   url: /events/new-england-2016
   background_img: ne-2016.jpg
 
+- title: Colorado 2016
+  date: 2016-05-15 23:59:59
+  url: /events/colorado-2016
+  background_img: colorado-2016.jpg
+
 - title: Midwest 2016
   date: 2016-06-04 23:59:59
   url: /events/midwest-2016
