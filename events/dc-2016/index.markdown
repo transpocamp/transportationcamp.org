@@ -34,6 +34,8 @@ Learn about last year's TransportationCamp by browsing the hackpads linked to fr
 Pages for previous years: [2012](http://transportationcamp.org/events/dc/), [2013](http://transportationcamp.org/events/dc-2013/),
 [2014](http://transportationcamp.org/events/dc-2014/), and [2015](http://transportationcamp.org/events/dc-2015/).
 
+We encourage everyone to take notes via hackpad; our site is [tcamp2016dc.hackpad.com](https://tcamp2016dc.hackpad.com/).
+
 ### Tentative Schedule
 
 8:30am doors open; breakfast available<br>
