@@ -38,16 +38,16 @@ We encourage everyone to take notes via hackpad; our site is [tcamp2016dc.hackpa
 
 ### Tentative Schedule
 
-8:30am - 9:30am 	Doors open; breakfast (sponsor gallery, ground floor)
-9:30am - 9:40am 	Welcome statements (multi-purpose room, ground floor)
-9:40am - 10:50am 	Self-introductions, logistics
-11:10am - 12:10pm 	Session 1 (all sessions on 1st, 3rd, and 4th floors)
-12:20pm - 1:20pm 	Session 2
-1:30pm - 2:30pm 	Lunch (multi-purpose room)
-2:40pm - 3:40pm 	Session 3
-3:50pm - 4:50pm 	Session 4
-5:00pm - 6:05pm 	Outside the Box Competition (auditorium, ground floor)
-6:05pm - 8:00pm 	Joint reception (multi-purpose room)
+8:30am - 9:30am 	Doors open; breakfast (sponsor gallery, ground floor)<br>
+9:30am - 9:40am 	Welcome statements (multi-purpose room, ground floor)<br>
+9:40am - 10:50am 	Self-introductions, logistics<br>
+11:10am - 12:10pm 	Session 1 (all sessions on 1st, 3rd, and 4th floors)<br>
+12:20pm - 1:20pm 	Session 2<br>
+1:30pm - 2:30pm 	Lunch (multi-purpose room)<br>
+2:40pm - 3:40pm 	Session 3<br>
+3:50pm - 4:50pm 	Session 4<br>
+5:00pm - 6:05pm 	Outside the Box Competition (auditorium, ground floor)<br>
+6:05pm - 8:00pm 	Joint reception (multi-purpose room)<br>
 
 ### Location
 
