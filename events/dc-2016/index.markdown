@@ -38,6 +38,7 @@ We encourage everyone to take notes via hackpad; our site is [tcamp2016dc.hackpa
 
 ### Tentative Schedule
 
+|
 ------------- | -------------
 8:30am - 9:30am |	Doors open; breakfast (sponsor gallery, ground floor)<br>
 9:30am - 9:40am |	Welcome statements (multi-purpose room, ground floor)<br>
