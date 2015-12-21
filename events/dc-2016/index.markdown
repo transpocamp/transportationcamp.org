@@ -51,6 +51,7 @@ We encourage everyone to take notes via hackpad; our site is [tcamp2016dc.hackpa
 <tr><td>6:05pm - 8:00pm</td><td>Joint reception (multi-purpose room)</td></tr>
 </table>
 
+
 ### Location
 
 We'll be returning this year to Founders Hall, in GMU's [Arlington Campus](http://arlington.gmu.edu/) ([campus map](http://info.gmu.edu/Maps/ArlingtonMap15.pdf)).
