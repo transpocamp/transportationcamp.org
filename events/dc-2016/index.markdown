@@ -39,7 +39,7 @@ We encourage everyone to take notes via hackpad; our site is [tcamp2016dc.hackpa
 
 The current attendee list is available at [transpo16attendees.pdf](transpo16attendees.pdf).
 
-### Tentative Schedule
+### Schedule
 
 <table cellpadding=0 cellspacing=0 border=0 >
 <tr><td>8:30am - 9:30am</td><td>Doors open; breakfast (sponsor gallery, ground floor)</td></tr>
