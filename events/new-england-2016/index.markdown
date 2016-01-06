@@ -15,7 +15,15 @@ Following on the success of last year's event, TransportationCamp New England 20
 Our goal is to assemble planners, dreamers, programmers, students, and professionals for an exciting day of "un-conferencing." Unlike a traditional conference, the specific session topics are determined by participants, which provides each attendee an opportunity to lead and shape the event. Therefore, we want to see what you are doing; we want to ask how it will impact our lives; and we want to help you to find answers.
 
 ###Venue
-The venue for TransportationCamp NE is in the process of being booked. We expect to be located on the MIT campus at the Stata Center, but will update the website upon final confirmation.
+TransportationCamp New England 2016 will be hosted on the MIT campus at the Stata Center.
+
+> Stata Center, Main Floor<br>
+> 32 Vassar Street<br>
+> Cambridge, MA 02139 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.103113345732!2d-71.09250915653865!3d42.361641718433624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370a95d3025a9%3A0xb1de557289ff6bbe!2sRay+and+Maria+Stata+Center%2C+Cambridge%2C+MA+02142!5e0!3m2!1sen!2sus!4v1452117338124" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+Located two blocks west of the Kendall T-Station (Red Line) and between several garages, the Stata Center is easily accessible by car or public transit, parking information and directions from the T are available [here](http://www.gbcacm.org/venues/cambridge/mit-building-32-stata-center.html).
 
 ###Registration
 Registration for TransportationCamp NE 2016 is not yet open. Stay tuned for more details, or if you have any questions, reach out at <TranspoCamp@camsys.com> or [@TranspoCampNE](https://twitter.com/TranspoCampNE). You can also like us on [Facebook](https://www.facebook.com/pages/TransportationCamp-New-England/219391578269518).
