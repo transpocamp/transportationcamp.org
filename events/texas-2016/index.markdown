@@ -29,6 +29,6 @@ Transportation Camp Texas will be held at the 
 Texas beginning at 10 AM on June 26, 2016 (coffee and networking begin at 9 AM).
 Coffee will be included in the registration fee of $25, but guests will be expected to provide lunch on their own.
 
-Registration is now open, at [asce-ictd.org/transportationcamp](http://www.asce-ictd.org/transportationcamp/)
+Registration is now open, at [asce-ictd.org/transportationcamp](http://www.asce-ictd.org/transportationcamp/).
 <p align=center >
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13854.26501199385!2d-95.4592956!3d29.76126390000002!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x855269a9c60f8290!2sOmni+Houston+Hotel!5e0!3m2!1sen!2sus!4v1448252126841" width="550" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
