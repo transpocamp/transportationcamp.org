@@ -63,6 +63,8 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
   * Founders Hall is located two blocks east of the [Virginia Square-GMU](http://www.wmata.com/rail/station_detail.cfm?station_id=98) Metro station (on the Orange and Silver lines).
   * There is a [Capital Bikeshare](http://www.capitalbikeshare.com/) station in front of Founders Hall.
   * Metro [bus 38B](http://www.wmata.com/bus/timetables/view.cfm?line=12) runs between Ballston (Virginia) and Farragut Square (DC, via Georgetown).
+  * For drivers, the [Founders Hall Parking Garage](http://parking.gmu.edu/arlingtoncampusparking.html)
+  has a daily rate of $7 (enter via Kirkwood Rd).
 
 <iframe align=center src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1552.8558231973786!2d-77.10089523808!3d38.88483864213981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b6828ba038d9%3A0xdc8b8bb98b169604!2sGeorge+Mason+University-Arlington+Campus!5e0!3m2!1sen!2sus!4v1412725299805" width="680" height="340" frameborder="0" style="border:0"></iframe>
 <p></p>
