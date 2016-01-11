@@ -30,12 +30,12 @@ Capacity is more limited, but the event is free, so be sure to sign up.
 The competition offers over $17,000 in prizes, so submit an entry before the Nov 30 deadline.
 After the competition we will have a joint reception in Founders Hall, the site of both events.
 
+We encourage everyone to take notes via hackpad; our site is [tcamp2016dc.hackpad.com](https://tcamp2016dc.hackpad.com/). The [Sessions Schedule](https://tcamp2016dc.hackpad.com/64PUDcCMTX5) is also on Hackpad.
+
 Learn about last year's TransportationCamp by browsing the hackpads linked to from the
 [schedule](http://transportationcamp.org/events/dc-2015/schedule.html) or via [tcamp2015dc.hackpad.com](https://tcamp2015dc.hackpad.com/).
 Pages for previous years: [2012](http://transportationcamp.org/events/dc/), [2013](http://transportationcamp.org/events/dc-2013/),
 [2014](http://transportationcamp.org/events/dc-2014/), and [2015](http://transportationcamp.org/events/dc-2015/).
-
-We encourage everyone to take notes via hackpad; our site is [tcamp2016dc.hackpad.com](https://tcamp2016dc.hackpad.com/).
 
 The current attendee list is available at [transpo16attendees.pdf](transpo16attendees.pdf).
 
