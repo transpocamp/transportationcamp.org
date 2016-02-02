@@ -1,5 +1,5 @@
 name: TransportationCamp
-markdown: kramdown
+markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
 paginate: 5
