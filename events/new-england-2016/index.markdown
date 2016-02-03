@@ -36,7 +36,7 @@ _**Media and Sponsorship Inquiries:** Please contact <TranspoCamp@camsys.com>._
 
 <table align="center">
 <tr>
-<td style="vertical-align: center;"><a href="http://www.bridj.com/"><img src="hosts/sponsor-Bridj.jpg" height="100" width="100" alt="Bridj"></a></td>
+<td style="vertical-align: center;"><a href="http://www.bridj.com/"><img src="hosts/sponsor-Bridj.jpg" height="125" width="125" alt="Bridj"></a></td>
 <tr>
 </table>
 
@@ -45,6 +45,15 @@ _**Media and Sponsorship Inquiries:** Please contact <TranspoCamp@camsys.com>._
 <tr>
 <td style="vertical-align: center;"><a href="http://www.ecolane.com/"><img src="hosts/sponsor-ecolane.png" height="86" width="200" alt="Ecolane"></a></td>
 <td style="vertical-align: center;"><a href="http://transitapp.com/"><img src="hosts/sponsor-transit_app.png" height="86" width="200" alt="TransitApp"></a></td>
+</tr>
+</table>
+
+####With Assistance From
+<table align="center">
+<tr>
+<td style="vertical-align: center;"><a href="http://neite.org/"><img src="hosts/NEITE-logo_round.png" height="125" width="125" alt="neite"></a></td>
+<td style="vertical-align: center;"><a href="http://www.zipcar.com/"><img src="hosts/Zipcar Logo New Shield Horizontal ( JPEG ).jpg" height="86" width="200" alt="Zipcar"></a></td>
+<td style="vertical-align: center;"><a href="https://cartodb.com/"><img src="hosts/logos_full_cartodb_light.png" height="86" width="200" alt="CartoDB"></a></td>
 </tr>
 </table>
 
@@ -59,6 +68,7 @@ TransportationCamp New England 2016 is organized by Cambridge Systematics, in pa
 <a href="http://www.yptboston.org/"><img src="hosts/organizer_ypt.png" height="86" width="86" alt="YPT"></a>
 </tr>
 </table>
+
 
 <style type="text/css">
 li {padding-bottom: 0;}
