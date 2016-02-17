@@ -63,7 +63,7 @@ TransportationCamp New England 2016 is organized by Cambridge Systematics, in pa
 <table align="center">
 <tr><td style="vertical-align: center;"><a href="http://www.camsys.com/"><img src="hosts/organizer_cs_2.png" height="120" width="350" alt="Cambridge Systematics"></a></td></tr>
 <tr>
-<td style="vertical-align: center;"><a href="http://web.mit.edu/"><img src="hosts/organizer_mit.png" height="86" width="167" alt="YPT New York City"></a>
+<td style="vertical-align: center;"><a href="http://web.mit.edu/"><img src="hosts/tclub.png" height="86" width="276" alt="YPT New York City"></a>
 <a href="http://mobilitylab.org/"><img src="hosts/organizer_mobilitylab.png" height="86" width="86" alt="Mobility Labs"></a>
 <a href="http://www.yptboston.org/"><img src="hosts/organizer_ypt.png" height="86" width="86" alt="YPT"></a>
 </tr>
