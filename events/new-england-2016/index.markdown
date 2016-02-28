@@ -23,7 +23,7 @@ TransportationCamp New England 2016 will be hosted on the MIT campus at the Stat
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.103113345732!2d-71.09250915653865!3d42.361641718433624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370a95d3025a9%3A0xb1de557289ff6bbe!2sRay+and+Maria+Stata+Center%2C+Cambridge%2C+MA+02142!5e0!3m2!1sen!2sus!4v1452117338124" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-Located two blocks west of the Kendall T-Station (Red Line) and between several garages, the Stata Center is easily accessible by car or public transit, parking information and directions from the T are available [here](http://www.gbcacm.org/venues/cambridge/mit-building-32-stata-center.html).
+Located two blocks west of the Kendall T station (Red Line) and between several garages, the Stata Center is easily accessible by car or public transit, parking information and directions from the T are available [here](http://www.gbcacm.org/venues/cambridge/mit-building-32-stata-center.html).
 
 ###Registration
 Registration for TransportationCamp NE 2016 is now open! Please [Click Here](https://www.eventbrite.com/e/transportationcamp-new-england-2016-tickets-19296075080) to register. If you have any questions, reach out at <TranspoCamp@camsys.com> or [@TranspoCampNE](https://twitter.com/TranspoCampNE). You can also like us on [Facebook](https://www.facebook.com/pages/TransportationCamp-New-England/219391578269518).
@@ -32,15 +32,17 @@ _**Media and Sponsorship Inquiries:** Please contact <TranspoCamp@camsys.com>._
 
 ###Sponsors
 
-####Lunch Sponsors
+#### Lunch Sponsors
 
 <table align="center">
 <tr>
 <td style="vertical-align: center;"><a href="http://www.bridj.com/"><img src="hosts/sponsor-Bridj.jpg" height="125" width="125" alt="Bridj"></a></td>
-<tr>
+</tr>
 </table>
 
-####Breakfast Sponsors
+
+#### Breakfast Sponsors
+
 <table align="center">
 <tr>
 <td style="vertical-align: center;"><a href="http://www.ecolane.com/"><img src="hosts/sponsor-ecolane.png" height="86" width="200" alt="Ecolane"></a></td>
@@ -49,6 +51,7 @@ _**Media and Sponsorship Inquiries:** Please contact <TranspoCamp@camsys.com>._
 </table>
 
 ####With Assistance From
+
 <table align="center">
 <tr>
 <td style="vertical-align: center;"><a href="http://neite.org/"><img src="hosts/NEITE-logo_round.png" height="125" width="125" alt="neite"></a></td>
@@ -58,6 +61,7 @@ _**Media and Sponsorship Inquiries:** Please contact <TranspoCamp@camsys.com>._
 </table>
 
 ###Hosts
+
 TransportationCamp New England 2016 is organized by Cambridge Systematics, in partnership with Mobility Lab, MIT, and the Boston Chapter of Young Professionals in Transportation.
 
 <table align="center">

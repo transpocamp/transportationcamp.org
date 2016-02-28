@@ -22,7 +22,7 @@ TransportationCamp DC is underway, with record attendance.
 
 **Transpo Benefit-Cost Analysis**. Room 121.
 
-**Gender and safety on the Delhi Metro. **Room 310.
+**Gender and safety on the Delhi Metro.** Room 310.
 
 **Are we representin'?** Bikes, infrastructure, crowd sourcing, equity, digital divide. Room 311.
 
@@ -93,7 +93,7 @@ TransportationCamp DC is underway, with record attendance.
 
 **OneBusAway for DC** - integrated real-time information. Room 313
 
-**Have faith! **How to diversify your advocacy coalition without pulling your hair out. Room 317
+**Have faith!** How to diversify your advocacy coalition without pulling your hair out. Room 317
 
 **Marketing Transportation.** Brainstorms. Room 318
 
@@ -136,7 +136,7 @@ TransportationCamp DC is underway, with record attendance.
 
 **US Bicycle Routes**. Making the local connection and using the USBR to leverage better local routes. Room 317
 
-**Who is listening? ****Persuasion that worked! tell us about your wins with politicians, decision-makers, businesses and communities that improved transit, ped and driver mobility.**** R**oom 318
+**Who is listening?** Persuasion that worked! tell us about your wins with politicians, decision-makers, businesses and communities that improved transit, ped and driver mobility. Room 318
 
 **Transit for the R. E. S. T.** Retired, Elderly, Suburban, Transit-dependent. Challenges and opportunity. Room 466
 
