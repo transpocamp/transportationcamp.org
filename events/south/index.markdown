@@ -42,16 +42,10 @@ Media/blog coverage:
 
   * Progressive Transit: [Education, debates, demos, and discussion at Transportation Camp South](http://progressivetransit.wordpress.com/2013/02/12/education-debates-demos-and-discussion-at-transportation-camp-south/)
 
-
-
-
-
-
-
 ### Sponsors & Partners
 
 
-TransportationCamp is a project of **[OpenPlans](http://openplans.org/)**. TransportationCamp South is sponsored by the **[Georgia Tech University Transportation Center](http://www.utc.gatech.edu/)**, [**Knight Foundation**](http://www.knightfoundation.org/), [**RideCell**](http://ridecell.com/), **[InstantCab](http://instantcab.com/)**, [**Cambridge Systematics**](http://www.camsys.com/), **[Zipcar](http://www.zipcar.com/)**, and the **[Georgia Chapter of the Sierra Club](http://georgia.sierraclub.org/)**. Organizers for the 2013 event include the **[Georgia Tech Urban Transportation Information Lab](http://watkins.ce.gatech.edu/)**,** ****[Citizens for Progressive Transit](http://www.cfpt.org/)**, and **[Imag](http://www.imagineatlanta.com/)****[ine Atlanta](http://www.imagineatlanta.com/)**.
+TransportationCamp is a project of **[OpenPlans](http://openplans.org/)**. TransportationCamp South is sponsored by the **[Georgia Tech University Transportation Center](http://www.utc.gatech.edu/)**, [**Knight Foundation**](http://www.knightfoundation.org/), [**RideCell**](http://ridecell.com/), **[InstantCab](http://instantcab.com/)**, [**Cambridge Systematics**](http://www.camsys.com/), **[Zipcar](http://www.zipcar.com/)**, and the **[Georgia Chapter of the Sierra Club](http://georgia.sierraclub.org/)**. Organizers for the 2013 event include the **[Georgia Tech Urban Transportation Information Lab](http://watkins.ce.gatech.edu/)**, **[Citizens for Progressive Transit](http://www.cfpt.org/)**, and **[Imagine Atlanta](http://www.imagineatlanta.com/)**.
 
 ![](http://shared.cfpt.org/files/tcs_sponsors.png)
 

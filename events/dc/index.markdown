@@ -8,7 +8,7 @@ title: Washington DC 2012
 wordpress_id: 1274
 ---
 
-TransportationCamp is coming to Washington DC on **January 21, 2012, **after two successful TransportationCamp events in 2011 ([East](http://transportationcamp.org/east/) and [West](http://transportationcamp.org/west/)).
+TransportationCamp is coming to Washington DC on  **January 21, 2012**, after two successful TransportationCamp events in 2011 ([East](http://transportationcamp.org/east/) and [West](http://transportationcamp.org/west/)).
 
 
 ### Registration

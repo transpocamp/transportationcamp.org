@@ -12,10 +12,6 @@ TransportationCamp East was held in **New York City** on **Saturday March 5 and 
 
 We'd like to thank the group of [partners and advisors](http://transportationcamp.org/partners-and-advisors/) for their support in organizing this event.
 
-Jump to: Friday Schedule | Saturday Schedule | Sunday Schedule | Sponsors
-
-
-
 
 ## Schedule
 
@@ -39,9 +35,6 @@ Afternoon tours, [details here](http://transportationcamp.org/2011/02/join-a-tou
 
 ## Saturday March 5th
 
-
-
-
 #### 8am
 
 
@@ -52,9 +45,6 @@ Afternoon tours, [details here](http://transportationcamp.org/2011/02/join-a-tou
 
 
 **Morning program**
-
-
-
 
   * Welcome & introductions.
 
@@ -75,54 +65,45 @@ Afternoon tours, [details here](http://transportationcamp.org/2011/02/join-a-tou
 
 #### 11:15am-12pm
 
-
 **Session #1**. Concurrent participant-led sessions.
 
 
 ##### FacLounge
-
 
 **Behavior Change!** for transit. Led by Drew Snyder.
 
 
 ##### 303
 
-
 **How to Plan Transit Trips Using a Combination of Google Transit & Real-time Info Across Systems.** Led by Holly Parker, Yale, and Dominique from TransLoc.
 
 
 ##### 320
-
 
 **DIY/Grassroots Advocacy** - to support/give feedback on transit at a contentious time.
 
 
 ##### 504
 
-
 **Q&A with Giovanni Carnaroli, Peter Appel, and Charlie Monheim**
 
 
 ##### 505
-
 
 **Open Payments in Transit, Taxis, Bike Sharing, etc…**. Led by Candy.
 
 
 ##### 520
 
-
 **Remove PARKING, Increase Road Capacity**. Led by [@weeels](http://twitter.com/weeels).
 
 
 ##### 403
 
-
 **Games to Enhance the Transit Experience**
 
 
 ##### 5th Fl Cafe
-
 
 **How to Get Localized Discussions About What's Happening on Your Subway Line, Station, Railroad Line, Bus Route**
 
@@ -135,136 +116,110 @@ Afternoon tours, [details here](http://transportationcamp.org/2011/02/join-a-tou
 
 #### 12:15pm
 
-
-** Luncheon program**
-
-
-
+**Luncheon program**
 
   * Remarks from **Chris Vein**, Deputy United States Chief Technology Officer for Government Innovation, Office of Science and Technology Policy.
-
-
-  * Remarks from** Brad Burnham**, Partner, Union Square Ventures.
+  * Remarks from **Brad Burnham**, Partner, Union Square Ventures.
 
 
 
 
 #### 1:45pm-2:45pm
 
-
 **Session #2**. Concurrent participant-led sessions.
 
 
 ##### FacLounge
-
 
 **Getting Non-Riders to Use Public Transit** Identifying info deficits, overcoming objections, specialized timetables. Discussion, led by [@bus15237](http://twitter.com/bus15237), @[transitguru](http://twitter.com/transitguru).
 
 
 ##### 303
 
-
 **Social Media for Transportation** Info delivery, public transportation, public relations, networking/knowledge sharing.
 
 
 ##### 320
-
 
 **Q&A with Chris Vein, US Deputy CTO for Government Innovation, and Brad Burnham, Partner, Union Square Ventures**
 
 
 ##### 504
 
-
 **Revenues to fund transportation needs** Highway trust fund trends and challenges, documented infrastructure needs, transition to mileage-based user fee, corresponding deployment of technology. With Joung Lee, AASHTO, and Greg Dierkers, NGA.
 
 
 ##### 505
-
 
 **Open Source Software for Small–Medium Transit Agencies** Dispatch, route planning, trip planner, bus tracker, etc. Discussion led by Adam Sherson.
 
 
 ##### 520
 
-
 **Taxi App Pageant** with NYC TLC and Wheeels, Cabulous, Taxi Magic, Cab Corner, and Fare Share.
 
 
 ##### 403
-
 
 **How to Build a successful Planning Blog** Presentation by Greater Greater Washington.
 
 
 ##### 5th Fl Cafe
 
-
 **Shared Transit -> Shared Cars -> Shared Bikes -> Shared ???** What's next in sharing? What tech/apps can we use? Discussion with Ari Ofsevit.
 
 
 ##### Basement
-
 
 **Creating a New Business Model for Selling Integrated Mobility**. Discussion, with Sue Zielinski and Dwight Mengel.
 
 
 #### 3pm-4pm
 
-
 **Session #3**. Concurrent participant-led sessions
 
 
 ##### FacLounge
-
 
 **Open511** Standards for traffic/transit, conditions, API for reporting transpo issues (e.g. accidents), data routing and aggregation for transit schedules, automatic discovery of regional GTFS. Discussion led by Phil Ashlock.
 
 
 ##### 303
 
-
 **How to Collaborate with Government to Make Technology & Data the Foundation of Transport** Discussion led by Chris P, USDOT.
 
 
 ##### 320
-
 
 **Mobility, access, experience, transmobility: What? How? Why? When?** with Adam Greenfield & the UrbanScale Crew, Sue Zielinski, Ana Baye, Greater Greater Washington, Eric Fidler, Eric Weber, Marcus Bowman.
 
 
 ##### 504
 
-
 **Subway Signaling, Train Tracking & RT Customer Info on the 1-6 lines**. Discussion, led by Mike Frumin, MTA.
 
 
 ##### 505
-
 
 **Fixing the Great Mistake… Reducing Car Traffic in NYC by 90% in 20 Years (10?)**. Presentation and discussion, led by Mark Gorton.
 
 
 ##### 520
 
-
 **Open Taxi Access: San Francisco Innovation or Hippie Dream?**
 
 
 ##### 403
-
 
 **What the hell is a smart street?** Presentation, with Vincent Riscica, ARUP and Phil Carter, ARUP.
 
 
 ##### 5th Fl Cafe
 
-
 **Sustaining Collaboration Between Civic Technologists & Public Organizations** Public good - from technologists and government point of view; cultural barriers for collaboration; strategies for collaboration.
 
 
 ##### Basement
-
 
 **Efficient Creation of Stylized Transit Maps (demo of new Transit Sketchpad)**. Demo of new "transit sketchpad" software with David Emory, discussion of potential for auto-generation from GTFS, etc.
 
@@ -274,54 +229,39 @@ Afternoon tours, [details here](http://transportationcamp.org/2011/02/join-a-tou
 
 **Session #4**. Concurrent participant-led sessions.
 
-
 ##### FacLounge
-
 
 **Carpooling for salespeople** Shared transportation among vendors calling on retail locations. With broadwayhistory.
 
-
 ##### 303
-
 
 **University roles in advancing all this!** Universities connecting with reality, feeding the next generation. Research education, tech transfer. Discussion, with Sue Zielinski and Molly.
 
-
 ##### 504
-
 
 **Open Data and Apps for planning and civic engagement.** How? What?. Discussion with Georgia Bullen.
 
 
 ##### 505
 
-
 **Hiring and Getting Hired.** Organizations with open positions and potential employees networking, featuring OpenPlans, USDOT, others and you.
-
 
 ##### 520
 
-
 **Social Bicycles** Using wireless tech to enhance personal mobility. Discussion, led by Ryan Rzepecki.
-
 
 ##### 403
 
-
 **Designing transit service to meet demand.** System design based on trip generators, ped/bike paths, etc. Discussion, led by [@bus15237](http://twitter.com/bus15237), @[transitguru](http://twitter.com/transitguru), Ana Bayne.
-
 
 ##### Basement
 
-
 **Beyond the Countdown Clock...** A Q&A session about OpenPlan's design competition. Get your questions answered, with Jeff Maki.
-
 
 #### 5:30pm
 
 
 **Closing remarks** In the evening, make your own plans for dinner, or join us at a #transpo group reservation nearby.
-
 
 #### 8pm
 
@@ -330,9 +270,6 @@ Afternoon tours, [details here](http://transportationcamp.org/2011/02/join-a-tou
 
 
 ## Sunday March 6th
-
-
-
 
 
 #### 9:30am
@@ -533,23 +470,20 @@ Waze is a social mobile application that enables drivers to build and use real-t
 [![]({{ site.baseurl }}/assets/uploads/2010/12/3gmobilitylogo.jpg)](http://www.3gmobility.ws/)
 3G Mobility promotes the next generation of transportation, encouraging faster, ecological, cost-effective grassroots solutions
 through social media publishing, strategic consulting, and innovative research.
-** **
+
 
 **Tour sponsors:**
-
 
 [![]({{ site.baseurl }}/assets/uploads/2010/12/mtasymbolpms286.jpg)]({{ site.baseurl }}/assets/uploads/2010/12/mtasymbolpms286.jpg)
 
 
-[![]({{ site.baseurl }}/assets/uploads/2010/12/TTN1-300x92.jpg)]({{ site.baseurl }}/assets/uploads/2010/12/TTN1.jpg)** **
-** **
+[![]({{ site.baseurl }}/assets/uploads/2010/12/TTN1-300x92.jpg)]({{ site.baseurl }}/assets/uploads/2010/12/TTN1.jpg)
 
 **Event supporters & partners:**
-**[![]({{ site.baseurl }}/assets/uploads/2010/12/spur-logo_bw.jpg)]({{ site.baseurl }}/assets/uploads/2010/12/spur-logo_bw.jpg)
-**
-**[![](https://evbdn.eventbrite.com/s3-s3/eventlogos/9246459/mediapartnersaslogo960x2001.jpg)](http://secondavenuesagas.com/)**
-**
-**
+
+* [![]({{ site.baseurl }}/assets/uploads/2010/12/spur-logo_bw.jpg)]({{ site.baseurl }}/assets/uploads/2010/12/spur-logo_bw.jpg)
+* [![](https://evbdn.eventbrite.com/s3-s3/eventlogos/9246459/mediapartnersaslogo960x2001.jpg)](http://secondavenuesagas.com/)
+
 [![]({{ site.baseurl }}/assets/uploads/2010/12/LOGOTYPE_4-300x47.jpg)]({{ site.baseurl }}/assets/uploads/2010/12/LOGOTYPE_4.jpg)
 [![]({{ site.baseurl }}/assets/uploads/2010/12/blinktag-logo.jpg)](http://blinktag.com/)
 [![]({{ site.baseurl }}/assets/uploads/2010/12/CityCampSF.png)](http://citycampsf.govfresh.com/)

@@ -28,6 +28,6 @@ If you’re travelling on the day of the event, you can reach Rohnert Park from 
 
 If you need any accommodations to make your trip to TransportationCamp California possible, contact <thomas@trilliumtransit.com> for assistance.
 
-<img src="tcamp-banner.png" width=800 height=400 >
+<img src="tcamp-banner.png" width="800" height="400">
 
 

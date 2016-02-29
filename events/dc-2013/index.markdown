@@ -8,7 +8,7 @@ title: Washington DC 2013
 wordpress_id: 1529
 ---
 
-TransportationCamp is returning to Washington DC on January 12, 2013, after a successful event in 2012 ([DC '12](http://transportationcamp.org/dc/)).
+TransportationCamp is returning to Washington DC on January 12, 2013, after a successful event in 2012 ([DC '12](http://transportationcamp.org/dc/)).
 
 
 ### Registration
@@ -28,19 +28,12 @@ We're excited to be hosted by the GMU School of Public Policy, at GMU Founders H
 
 The location is easy to get to:
 
-
-
-
   * Founders Hall is located two blocks east of the Virginia Square Metro Station (Orange Line).
-
-
   * Two Capital Bikeshare stations are also within two blocks, at Virginia Square Metro and at Fairfax Dr/Wilson Blvd.
+  * Metrobus 38B runs from K St, NW and Georgetown.
 
 
-  * Metro bus 38B runs from K St, NW and Georgetown.
-
-
-​Here's more info including [parking and a ](http://transportationcamp.us2.list-manage.com/track/click?u=f737d6aae1136fa999b210fdf&id=7ab72b9baa&e=057c25a61a)[map of the campus](http://info.gmu.edu/Maps/ArlingtonMap12.pdf).
+Here's more info including [parking and a ](http://transportationcamp.us2.list-manage.com/track/click?u=f737d6aae1136fa999b210fdf&id=7ab72b9baa&e=057c25a61a)[map of the campus](http://info.gmu.edu/Maps/ArlingtonMap12.pdf).
 
 
 ### Get ready!

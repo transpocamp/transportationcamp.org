@@ -12,8 +12,6 @@ categories:
 
 The TransportationCamp buzz continues, with great discussions [on Twitter](http://twitter.com/#!/search/%23transpo) and [the Topics page](http://transportationcamp.org/topics).  We're especially excited to see longer blog posts --  today's crop includes a discussion of "real time", the future of the smart city, and some reflections on information tech and transportation equality. If you want to participate, [submit to Open Transportation](http://opentransportation.tumblr.com/submit), or let us know that you're blogging elsewhere.
 
- <!-- more -->
-
 
 
 ### [What’s holding up “real time”? Costs and standards.](http://opentransportation.tumblr.com/post/3620907071/whats-holding-up-real-time-costs-and-standards)
@@ -25,10 +23,6 @@ The TransportationCamp buzz continues, with great discussions [on Twitter](http:
 
 
 > From riders to developers to transit agencies, it’s hard to find anyone who wouldn’t agree that we should be pushing for real-time in all forms, and with good reason.  Real-time transit info for riders has all sorts of positive impacts: increased satisfaction, decreased wait times, improved perception of safety, and ultimately more trips made using public transit.  So what’s the hold up?  There are two big issues at play: cost and standards. 
-
-
-
-
 
 ### [There is a battle brewing over the future of the smart city.](http://opentransportation.tumblr.com/post/3620910060/there-is-a-battle-brewing-over-the-future-of-the-smart)
 
