@@ -11,11 +11,11 @@ The 3rd Annual TransportationCamp New England will be held on Saturday, April 9,
 
 Following on the success of last year's event, TransportationCamp New England 2016 will continue to foster open conversation and collaboration between all parties interested in mobility and the radical changes the near-future promises in transportation.
 
-###Goal
+### Goal
 
 Our goal is to assemble planners, dreamers, programmers, students, and professionals for an exciting day of "un-conferencing." Unlike a traditional conference, the specific session topics are determined by participants, which provides each attendee an opportunity to lead and shape the event. Therefore, we want to see what you are doing; we want to ask how it will impact our lives; and we want to help you to find answers.
 
-###Venue
+### Venue
 
 TransportationCamp New England 2016 will be hosted on the MIT campus at the Stata Center.
 
@@ -27,13 +27,13 @@ TransportationCamp New England 2016 will be hosted on the MIT campus at the Stat
 
 Located two blocks west of the Kendall T station (Red Line) and between several garages, the Stata Center is easily accessible by car or public transit, parking information and directions from the T are available [here](http://www.gbcacm.org/venues/cambridge/mit-building-32-stata-center.html).
 
-###Registration
+### Registration
 
 Registration for TransportationCamp NE 2016 is now open! Please [Click Here](https://www.eventbrite.com/e/transportationcamp-new-england-2016-tickets-19296075080) to register. If you have any questions, reach out at <TranspoCamp@camsys.com> or [@TranspoCampNE](https://twitter.com/TranspoCampNE). You can also like us on [Facebook](https://www.facebook.com/pages/TransportationCamp-New-England/219391578269518).
 
 _**Media and Sponsorship Inquiries:** Please contact <TranspoCamp@camsys.com>._
 
-###Sponsors
+### Sponsors
 
 #### Lunch Sponsors
 
@@ -53,7 +53,7 @@ _**Media and Sponsorship Inquiries:** Please contact <TranspoCamp@camsys.com>._
 </tr>
 </table>
 
-####With Assistance From
+#### With Assistance From
 
 <table align="center">
 <tr>
@@ -63,7 +63,7 @@ _**Media and Sponsorship Inquiries:** Please contact <TranspoCamp@camsys.com>._
 </tr>
 </table>
 
-###Hosts
+### Hosts
 
 TransportationCamp New England 2016 is organized by Cambridge Systematics, in partnership with Mobility Lab, MIT, and the Boston Chapter of Young Professionals in Transportation.
 
