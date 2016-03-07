@@ -8,13 +8,13 @@ title: TransportationCamp NE 2015
 wordpress_id: 1623
 published: true
 ---
-<a href="bFD0ljslwL.jpeg"><img src="bFD0ljslwLsmall.jpeg" width=241 height=160 align=right ></a>The 2nd Annual TransportationCamp New England will be held on Saturday, April 11, 2015. 
+<a href="bFD0ljslwL.jpeg"><img src="bFD0ljslwLsmall.jpeg" width="241" height="160" align="right" ></a>The 2nd Annual TransportationCamp New England will be held on Saturday, April 11, 2015. 
 
 Following on the success of last year's event, TransportationCamp New England 2015 will continue to foster open conversation and collaboration between all parties interested in mobility and the radical changes the near-future promises in transportation.
 
 Our goal is to assemble planners, dreamers, programmers, students, and professionals for an exciting day of "un-conferencing." Unlike a traditional conference, the specific session topics are determined by participants, which provides each attendee an opportunity to lead and shape the event. Therefore, we want to see what you are doing; we want to ask how it will impact our lives; and we want to help you to find answers.
 
-<a href="x1DAoy1T8V.jpeg"><img src="x1DAoy1T8Vsmall.jpeg" width=241 height=160 align=right ></a>Some of this year’s session topics will included:
+<a href="x1DAoy1T8V.jpeg"><img src="x1DAoy1T8Vsmall.jpeg" width="241" height="160" align="right" ></a>Some of this year’s session topics will included:
 
 * Bike share applications and technology
 * Open source data and standards
@@ -25,7 +25,7 @@ Our goal is to assemble planners, dreamers, programmers, students, and professio
 * Improving mobility in Boston (and beyond!)
 * Transformative trends in transportation
 
-<img width=140 height=160 src="Secretary_Davey140x160.jpg" align=right title="Richard Davey">We are pleased to announce that the keynote speaker at this year's event will be Richard Davey, former Massachusetts Secretary of Transportation and current CEO of [Boston 2024](http://www.2024boston.org/), the nonprofit organization working to bring the 2024 Summer Olympic Games to Boston. Prior to these roles, he also served as General Manager for both the Massachusetts Bay Transportation Authority and the Massachusetts Bay Commuter Railroad Company.
+<img width="140" height="160" src="Secretary_Davey140x160.jpg" align="right" title="Richard Davey">We are pleased to announce that the keynote speaker at this year's event will be Richard Davey, former Massachusetts Secretary of Transportation and current CEO of [Boston 2024](http://www.2024boston.org/), the nonprofit organization working to bring the 2024 Summer Olympic Games to Boston. Prior to these roles, he also served as General Manager for both the Massachusetts Bay Transportation Authority and the Massachusetts Bay Commuter Railroad Company.
 
 Register [here](http://www.eventbrite.com/e/transportationcamp-new-england-2015-tickets-13577902873) for TransportationCamp New England 2015!
 
@@ -35,7 +35,7 @@ If you are interested becoming a sponsor of TransportationCamp New England 2015,
 
 ###Schedule and Events
 
-<a href="cltTonUej9.jpeg"><img src="cltTonUej9small.jpeg" width=120 height=160 align=right ></a> TransportationCamp New England 2015 will be hosted by MIT and the [MIT Transportation Club](http://t-club.mit.edu/) at:
+<a href="cltTonUej9.jpeg"><img src="cltTonUej9small.jpeg" width="120" height="160" align="right" ></a> TransportationCamp New England 2015 will be hosted by MIT and the [MIT Transportation Club](http://t-club.mit.edu/) at:
 
 > Stata Center, Main Floor<br>
 > 32 Vassar Street<br>
@@ -55,11 +55,11 @@ The [Young Professionals in Transportation (YPT) Boston Chapter](http://www.yptb
 
 Many thanks to our sponsors:
 
-<img src="sponsor-airsage.png" width=160 height=160 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="sponsor-bridj.jpg" width=160 height=160 ><br>
-<img src="sponsor-neite.png" width=160 height=80 > <img src="sponsor-zipcar.png" width=160 height=80 > <img src="sponsor-iBiz.png" width=160 height=80 ><br><img src="sponsor-Kinisi.png" width=120 height=120 ><br>
-<img src="sponsor-ecolane.png" width=120 height=120 > <img src="sponsor-cartodb.png" width=200 height=80 >   
+<img src="sponsor-airsage.png" width="160" height="160" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="sponsor-bridj.jpg" width="160" height="160" ><br>
+<img src="sponsor-neite.png" width="160" height="80" > <img src="sponsor-zipcar.png" width="160" height="80" > <img src="sponsor-iBiz.png" width="160" height="80" ><br><img src="sponsor-Kinisi.png" width="120" height="120" ><br>
+<img src="sponsor-ecolane.png" width="120" height="120" > <img src="sponsor-cartodb.png" width="200" height="80" >   
 
 TransportationCamp New England 2015 is organized by Cambridge Systematics, in partnership with Mobility Lab, MIT, and the Boston Chapter of Young Professionals in Transportation.
 
-<img src="organizer-camsys.png" width=494 height=120 ><br>
-<img src="organizer-mit.png" width=167 height=86 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="organizer-MobilityLab.png" width=120 height=120 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="organizer-ypt.png" width=120 height=120 >
+<img src="organizer-camsys.png" width="494" height="120" ><br>
+<img src="organizer-mit.png" width="167" height="86" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="organizer-MobilityLab.png" width="120" height="120" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="organizer-ypt.png" width="120" height="120" >

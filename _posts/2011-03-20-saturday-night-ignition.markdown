@@ -16,6 +16,6 @@ Truly torrential downpour did not stop TransportationCamp West's day one Ignite 
 
 Many thanks again to our MC, Josette Melchor from Gray Area Foundation  for the Arts (below), our [seven great presenters](transportationcamp.org/ignite), and our open bar sponsor, Red  Hat.
 
-[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3514-1024x768.jpg)](../wp-content/uploads/2011/03/IMG_3514.jpg)
+[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_3514-1024x768.jpg)](../assets/uploads/2011/03/IMG_3514.jpg)
 
 Check the Transpocamp Flickr feed for all the [#Transpo Ignite pix](http://www.flickr.com/photos/transportationcamp/sets/72157626184711157/).

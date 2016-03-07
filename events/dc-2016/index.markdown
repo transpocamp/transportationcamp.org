@@ -41,7 +41,7 @@ The current attendee list is available at [transpo16attendees.pdf](transpo16atte
 
 ### Schedule
 
-<table cellpadding=0 cellspacing=0 border=0 >
+<table cellpadding="0" cellspacing="0" border="0" >
 <tr><td>8:30am - 9:30am</td><td>Doors open; breakfast (sponsor gallery, ground floor)</td></tr>
 <tr><td>9:30am - 9:40am</td><td>Welcome statements (multi-purpose room, ground floor)</td></tr>
 <tr><td>9:40am - 10:50am</td><td>Self-introductions, logistics</td></tr>
@@ -66,24 +66,27 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
   * For drivers, the [Founders Hall Parking Garage](http://parking.gmu.edu/arlingtoncampusparking.html)
   has a daily rate of $7 (enter via Kirkwood Rd).
 
-<iframe align=center src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1552.8558231973786!2d-77.10089523808!3d38.88483864213981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b6828ba038d9%3A0xdc8b8bb98b169604!2sGeorge+Mason+University-Arlington+Campus!5e0!3m2!1sen!2sus!4v1412725299805" width="680" height="340" frameborder="0" style="border:0"></iframe>
-<p></p>
+<iframe align="center" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1552.8558231973786!2d-77.10089523808!3d38.88483864213981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b6828ba038d9%3A0xdc8b8bb98b169604!2sGeorge+Mason+University-Arlington+Campus!5e0!3m2!1sen!2sus!4v1412725299805" width="680" height="340" frameborder="0" style="border:0"></iframe>
+
 ### Sponsors
 
 TransportationCamp DC 2016 is made possible thanks to our sponsors:
-<p align=center >
-<img src="logo-uber.png"><br>
-[Uber](http://www.uber.com/) - Gold Sponsor
+
+<p align="center" >
+<img src="logo-uber.png"><br> [Uber](http://www.uber.com/) - Gold Sponsor
 </p>
-<p align=center >
-<img width=260 height=100 src="logo-camsys.png"> &nbsp;&nbsp;&nbsp; <img width=260 height=100 src="logo-zipcar.png"><br>
-<img width=260 height=100 src="logo-car2go.png"> &nbsp;&nbsp;&nbsp; <img width=260 height=100 src="logo-lmi.png"><br>
+
+<p align="center">
+<img width="260" height="100" src="logo-camsys.png"> &nbsp;&nbsp;&nbsp; <img width="260" height="100" src="logo-zipcar.png"><br>
+<img width="260" height="100" src="logo-car2go.png"> &nbsp;&nbsp;&nbsp; <img width="260" height="100" src="logo-lmi.png"><br>
 [Cambridge Systematics](http://www.camsys.com/), [Zipcar](http://www.zipcar.com/), [Car2Go](https://www.car2go.com/), [LMI Research Institute](http://www.lmi.org/) - Silver Sponsors
 </p>
-<p align=center >
+
+<p align="center" >
 <img src="logo-lyft.png"> &nbsp;&nbsp;&nbsp; <img src="logo-kimleyhorn.png"> &nbsp;&nbsp;&nbsp; <img src="logo-globesherpa.png"><br>
 [Lyft](http://www.lyft.com/), [Kimley-Horn](http://www.kimley-horn.com/), [GlobeSherpa](http://www.globesherpa.com/) - Bronze Sponsors
 </p>
+
 TransportationCamp DC 2016 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
 [TransitCenter](http://transitcenter.org/),
 [Young Professionals in Transportation](http://yptransportation.org/),
@@ -93,8 +96,8 @@ the [Center for Transportation Public-Private Partnership Policy at the George M
 [Institute of Transportation Engineers](http://www.ite.org/), and
 the [Transportation Research Board](http://www.trb.org/) of the [National Academies](http://www.nationalacademies.org/).
 
-<table cellpadding=0 cellspacing=0 border=0 width=100% >
-<tr><td width=100% align=center valign=middle >
+<table cellpadding="0" cellspacing="0" border="0" width="100%" >
+<tr><td width="100%" align="center" valign="middle" >
 <img src="logo-mobilitylab120x100.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="logo-transitcenter.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="logo-ypt.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -109,7 +112,8 @@ the [Transportation Research Board](http://www.trb.org/) of the [National Academ
 Stay tuned to [@transpocamp](https://twitter.com/transpocamp) (and the [#transpo16](https://twitter.com/search?q=%23transpo16) hashtag)
 for news about this event and other TransportationCamps as they are announced.
 
-<p align=center>
+<p align="center">
 <a href="https://www.flickr.com/photos/mvjantzen/15662555003/" title="TransportationCamp DC 2015"><img src="https://farm8.staticflickr.com/7496/15662555003_46ee1c9fa6_m.jpg" width="198" height="132" alt="TransportationCamp DC 2015"></a>
 <a href="https://www.flickr.com/photos/mvjantzen/15663480523/" title="The Board"><img src="https://farm9.staticflickr.com/8641/15663480523_4180b79746_m.jpg" width="198" height="132" alt="TransportationCamp DC 2015"></a>
 <a href="https://www.flickr.com/photos/mvjantzen/16281595951/" title="Founders Hall"><img src="https://farm8.staticflickr.com/7512/16281595951_b0d6039a92_m.jpg" width="198" height="132" alt="TransportationCamp DC 2015"></a>
+</p>

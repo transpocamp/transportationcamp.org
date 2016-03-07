@@ -12,7 +12,7 @@ categories:
 
 Sunday's TransportationCamp [program](http://transportationcamp.org/east) got off to a civilized mid-morning start.
 
-Kick-off topics in Session Five ranged from **Networked vehicle systems** (led by [@weeels](http://twitter.com/weeels)) to **Can we do a road pricing system for really cheap with existing tech?**. Georgia Bullen drew a capacity crowd for a **Data vis and policy **session.
+Kick-off topics in Session Five ranged from **Networked vehicle systems** (led by [@weeels](http://twitter.com/weeels)) to **Can we do a road pricing system for really cheap with existing tech?**. Georgia Bullen drew a capacity crowd for a **Data vis and policy** session.
 
 **[![]({{ site.baseurl }}/assets/uploads/2011/03/IMG_2924-1024x768.jpg)]({{ site.baseurl }}/assets/uploads/2011/03/IMG_2924.jpg)**
 

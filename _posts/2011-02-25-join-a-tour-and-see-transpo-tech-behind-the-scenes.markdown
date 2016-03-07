@@ -16,7 +16,7 @@ Signup for these tours opens **Monday 2/28 at 11am ET**. Details below, check ba
 
 TransportationCamp gratefully acknowledges tour support from NYCDOT, the MTA, and Clear Channel. We're especially grateful to the staff who will lead the tours!
 
-(Wonderful time lapse of the Corona Subway depot coming to life at dawn, from [the MTA's YouTube channel](http://www.youtube.com/user/mtainfo)).<!-- more -->
+(Wonderful time lapse of the Corona Subway depot coming to life at dawn, from [the MTA's YouTube channel](http://www.youtube.com/user/mtainfo)).
 
 For all tours, meeting point information will be available once registration opens. Full details will be given to successful applicants. Tour spots are only available to registered TransportationCamp attendees.
 

@@ -21,27 +21,25 @@ The morning started with warm welcomes from NYLS's Beth Noveck and OpenPlans Dir
 Group introductions were the standard "unconference" model:  name, affiliation, three words that describe why you are here. Some examples that demonstrate the range of interests and expertise in the room:
 
 
+  * Sarah Goodyear = "journalism, bicycles, new york"
 
 
-  * Sarah Goodyear =      "journalism, bicycles, new york"
+  * Omar Peters = "I, love, cities"
 
 
-  * Omar Peters = "      I, love, cities"
+  * Adam Greenfield = "open, public, objects"
 
 
-  * Adam Greenfield =      "open, public, objects"
+  * Mike Arrow = "subways, buses, engineer"
 
 
-  * Mike Arrow =      "subways, buses, engineer"
+  * Stuart Strickland = "anything, but, cars"
 
 
-  * Stuart Strickland =      "anything, but, cars"
+  * Liz Paul MTA = "open, payments, transit"
 
 
-  * Liz Paul MTA =      "open, payments, transit"
-
-
-  * Darren Levy =      "free, open, data"
+  * Darren Levy = "free, open, data"
 
 
 Giovanni Carnaroli, Senior Accountable Official for Open Gov, USDOT opened the morning keynotes.  Carnaroli expressed his office's openness to suggestions from the TransportationCamp audience:  "I’m here to listen to you guys, to find out what other data sets you want and need."

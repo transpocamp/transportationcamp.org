@@ -12,10 +12,6 @@ TransportationCamp East was held in **San Francisco **on **Saturday March 19 and
 
 We'd like to thank the group of [partners and advisors](http://transportationcamp.org/partners-and-advisors/) for their support in organizing this event.
 
-Jump to: Friday Schedule | Saturday Schedule | Ignite | Sunday Schedule | Sponsors
-
-
-
 
 ## Schedule
 
