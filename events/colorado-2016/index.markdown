@@ -55,7 +55,7 @@ CO 2016.
 
 A warm thank you to our inaugural event sponsors, [CartoDB](https://cartodb.com/).
 
-<img width="774" height="200" src="cartodb.png">
+<img width="387" height="100" src="cartodb.png">
 
 ### Organizers
 
