@@ -33,9 +33,9 @@ and how to prepare a compelling session [here](http://transportationcamp.org/201
 
 ### Tentative Schedule
 
-8:30am – Coffee, light breakfast and registration
-Midday – Break for lunch
-5:00pm – Happy hour (location TBD)
+    8:30am – Coffee, light breakfast and registration
+    Midday – Break for lunch
+    5:00pm – Happy hour (location TBD)
 
 ### Venue
 
