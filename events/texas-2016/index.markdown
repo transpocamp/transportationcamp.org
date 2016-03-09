@@ -18,8 +18,8 @@ in Houston, Texas. By hosting TransportationCamp at their semi-annual conference
 are helping to create a unique TransportationCamp atmosphere, where technologists, transportation advocates,
 and users can come together in open conversation with the operators of Texas’ transportation providers.
 
-<p align="center" >
-<img src="skyline.png" width=550 height=300 >
+<p align="center">
+<img src="skyline.png" width="550" height="300">
 </p>
 
 Though it will take place during a conference,
