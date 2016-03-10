@@ -39,8 +39,8 @@ and how to prepare a compelling session [here](http://transportationcamp.org/201
 
 ### Venue
 
-TransportationCamp CO 2016 will be held at the University of Colorado Boulder’s
-Environmental Design (ENVD) building, 314 UCB, 1060 18
+TransportationCamp CO 2016 will be held at the University of Colorado Boulder’s  
+[Environmental Design](http://www.colorado.edu/envd/) (ENVD) building, 314 UCB, 1060 18th Street, Boulder, CO 80302. 
 The venue is two blocks from the intersection of Broadway Street and Euclid Avenue and
 accessible by bus, bicycle, and car.
 
