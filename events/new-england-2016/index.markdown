@@ -60,6 +60,7 @@ _**Media and Sponsorship Inquiries:** Please contact <TranspoCamp@camsys.com>._
 <td style="vertical-align: center;"><a href="http://neite.org/"><img src="hosts/NEITE-logo_round.png" height="125" width="125" alt="neite"></a></td>
 <td style="vertical-align: center;"><a href="http://www.zipcar.com/"><img src="hosts/Zipcar Logo New Shield Horizontal ( JPEG ).jpg" height="86" width="200" alt="Zipcar"></a></td>
 <td style="vertical-align: center;"><a href="https://cartodb.com/"><img src="hosts/logos_full_cartodb_light.png" height="86" width="200" alt="CartoDB"></a></td>
+<td style="vertical-align: center;"><a href="http://transitapp.com/"><img src="hosts/IBI Primary Logo - Black.jpg" height="125" width="125" alt="TransitApp"></a></td>
 </tr>
 </table>
 
