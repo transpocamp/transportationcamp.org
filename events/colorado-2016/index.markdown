@@ -55,7 +55,7 @@ CO 2016.
 
 A warm thank you to our inaugural event sponsors, [CartoDB](https://cartodb.com/) and [WTS Colorado](http://www.wtsinternational.org/colorado/).
 
-<img width="387" height="100" src="cartodb.png"><img width="220" height="100" src="wts.png">
+<img width="387" height="100" src="cartodb.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="220" height="100" src="wts.png">
 
 ### Organizers
 
