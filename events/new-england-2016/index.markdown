@@ -27,7 +27,7 @@ TransportationCamp New England 2016 will be hosted on the MIT campus at the Stat
 
 Located two blocks west of the Kendall T station (Red Line) and between several garages, the Stata Center is easily accessible by car or public transit, parking information and directions from the T are available [here](http://www.gbcacm.org/venues/cambridge/mit-building-32-stata-center.html).
 
-#### Things To Know
+### Things To Know
 
 If you're joining us at TransportationCamp NYC 2015, here are a few things you'll want to know about the event:
 
