@@ -27,6 +27,15 @@ TransportationCamp New England 2016 will be hosted on the MIT campus at the Stat
 
 Located two blocks west of the Kendall T station (Red Line) and between several garages, the Stata Center is easily accessible by car or public transit, parking information and directions from the T are available [here](http://www.gbcacm.org/venues/cambridge/mit-building-32-stata-center.html).
 
+#### Things To Know
+
+If you're joining us at TransportationCamp NYC 2015, here are a few things you'll want to know about the event:
+
+* **Dress code**: It's an unconference—tasteful casual is fine!
+* **Internet access**: Free Wi-Fi will be available in all event spaces—we'll have more information when you check in.
+* **Presentation pointers**: Many of the breakout rooms are equipped with a projector, so if you're thinking of proposing a session and you'd like to present, bring a laptop. We'll supply a VGA cable; we will bring as many adaptors as possible, but you sould bring an adaptor for VGA if your laptop needs one just in case.  Most breakout rooms will also have a chalkboard.
+* **First time at an unconference?**: Check out [How TransportationCamp works: the essential guide](/2011/02/how-transportationcamp-works-the-essential-guide) for a quick introduction!
+
 ### Registration
 
 Registration for TransportationCamp NE 2016 is now open! Please [Click Here](https://www.eventbrite.com/e/transportationcamp-new-england-2016-tickets-19296075080) to register. If you have any questions, reach out at <TranspoCamp@camsys.com> or [@TranspoCampNE](https://twitter.com/TranspoCampNE). You can also like us on [Facebook](https://www.facebook.com/pages/TransportationCamp-New-England/219391578269518).
