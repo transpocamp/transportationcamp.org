@@ -33,6 +33,17 @@ Registration for TransportationCamp NE 2016 is now open! Please [Click Here](htt
 
 _**Media and Sponsorship Inquiries:** Please contact <TranspoCamp@camsys.com>._
 
+### Schedule
+
+* **8:00AM-9:00AM** - Doors open & Registration
+* **9:00AM-10:30AM** - Welcome Session (Stata 32-123)
+* **10:45AM-11:45AM** - First breakout session (in classrooms)
+* **12:00PM-1:00PM** - Second breakout session (in classrooms)
+* **1:00PM-2:00PM** - Lunch 
+* **2:15PM-3:15PM** - Third breakout session (in classrooms)
+* **3:30PM-4:30PM** - Fourth breakout session (in classrooms)
+* **4:30PM** - Closing and Adjourn to happy hour at [Firebrand Saints](http://firebrandsaints.com/), sponsored by [Young Professionals in Transportation](http://yptransportation.org/chapters/yptnyc/)
+
 ### Sponsors
 
 #### Lunch Sponsors
