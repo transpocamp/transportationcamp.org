@@ -32,10 +32,11 @@ about what you’re working on. Find some guidance on how TransportationCamps wo
 and how to prepare a compelling session [here](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/).
 
 ### New! Data Challenge
-We're including a data challenge in <a href="http://transportationcamp.org/events/colorado-2016/">TransportationCamp CO</a>.
+We're including a data challenge in TransportationCamp CO.
 Data enthusiasts are invited to explore various open datasets and develop a cool, visually inspiring data analysis of any part of the Colorado transportation system.  There will be an afternoon breakout session where participants can present their solutions.
 
 Here are some datasets to help get you started:
+
 * Boulder BCycle - 2011-2015 trip data [here](https://www.dropbox.com/s/l32w80hhcbqcsm3/Boulder%20B-cycle%20May%202011-December%202015%20Trip%20Data.xlsx?dl=0);
 * Denver BCycle - 2010-2015 trip data [here](https://denver.bcycle.com/company);
 * Open Colorado - various city, county & state datasets [here](http://data.opencolorado.org/);
