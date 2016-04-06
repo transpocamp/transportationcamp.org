@@ -37,7 +37,7 @@ and how to prepare a compelling session [here](http://transportationcamp.org/201
     Midday – Break for lunch
     5:00pm – Happy hour (location TBD)
 
-We'll be including a [Data Challenge](data.markdown) as part of the schedule.
+We'll be including a [Data Challenge](data.html) as part of the schedule.
 
 ### Venue
 
