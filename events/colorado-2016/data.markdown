@@ -1,12 +1,3 @@
----
-author: Michael Schade
-comments: false
-date: {}
-layout: event
-slug: "colorado-2016"
-title: Data Challenge - TransportationCamp Colorado 2016
-published: true
----
 **New! Data Challenge**
 
 We’re including a data challenge in [TransportationCamp CO](http://transportationcamp.org/events/colorado-2016/). Data enthusiasts are invited to explore various open datasets and develop a cool, visually inspiring data analysis of any part of the Colorado transportation system.  There will be an afternoon breakout session where participants can present their solutions.
