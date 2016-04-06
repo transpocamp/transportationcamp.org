@@ -37,6 +37,8 @@ and how to prepare a compelling session [here](http://transportationcamp.org/201
     Midday – Break for lunch
     5:00pm – Happy hour (location TBD)
 
+We'll be including a [Data Challenge](data.markdown) as part of the schedule.
+
 ### Venue
 
 TransportationCamp CO 2016 will be held at the University of Colorado Boulder’s  
