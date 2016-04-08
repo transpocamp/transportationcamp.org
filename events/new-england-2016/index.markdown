@@ -55,7 +55,7 @@ _**Media and Sponsorship Inquiries:** Please contact <TranspoCamp@camsys.com>._
 
 ### Hackpad
 
-We will use Hackpad to take collaborative notes throughout the day. We encourage you to bring your computer and take notes during sessions that you attend so that everyone can go back and review even if they missed a session. We will update the hackpad after sessions have been selected, but [click here] (https://tcamp2016ne.hackpad.com/SCHEDULE-YqduXgS1Whd) to see the initial link.
+We will use Hackpad to take collaborative notes throughout the day. We encourage you to bring your computer and take notes during sessions that you attend so that everyone can go back and review even if they missed a session. We will update the hackpad after sessions have been selected, but [click here](https://tcamp2016ne.hackpad.com/SCHEDULE-YqduXgS1Whd) to see the initial link.
 
 ### Sponsors
 
