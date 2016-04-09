@@ -122,6 +122,11 @@
   register_url: http://www.asce-ictd.org/transportationcamp/
   background_img: houston-2016.jpg
 
+- title: Anaheim 2016
+  date: 2016-08-14 23:59:59
+  url: /events/anaheim-2016
+  background_img: anaheim.jpg
+
 - title: NYC 2016
   date: 2016-09-24 23:59:59
   url: /events/nyc-2016
