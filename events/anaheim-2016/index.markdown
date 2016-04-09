@@ -55,8 +55,8 @@ Unconference sessions have a lot of energy, and flexibility. Here are some tips:
 
 ### Questions?
 
-Contact Colleen Agan at cagan@ite.org.
+Contact Colleen Agan at [cagan@ite.org](cagan@ite.org).
 
-**TranportationCamp Anaheim is being hosted by ITE and YPT in partnership with Mobility Lab.**
+**TranportationCamp Anaheim is being hosted by ITE and YPT in partnership with [Mobility Lab](http://mobilitylab.org/).**
 
-<img src="ite.png" width="255" height="210"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="ypt.png" width="255" height="210">
+<img src="ite.png" width="255" height="210"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="ypt.png" width="255" height="210">
