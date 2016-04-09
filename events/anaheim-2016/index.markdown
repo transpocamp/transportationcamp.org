@@ -4,7 +4,7 @@ comments: false
 date: {}
 layout: event
 slug: "anaheim-2016"
-title: TransportationCamp Anaheim August 14th, 2016
+title: TransportationCamp Anaheim 2016
 published: true
 ---
 ### It’s time to sign up for summer camp!
@@ -13,11 +13,11 @@ Join hundreds of innovative thinkers and doers to talk about the future of trans
 
 This unconference is about connecting all types of transportation professionals and giving each of you an opportunity to voice your outlook, ideas and opinions on how we all can work together to create better communities and positively affect the quality of life for millions of people.   
 
-[Registration is Open](http://ecommerce.ite.org/imis/iCommerce/Events/Event_Display.aspx?EventKey=ITE2016AM) and the fee is $35 per person. TransportationCamp will take place on Sunday, August 14, prior to the start of the ITE Annual Meeting & Exhibit. Registration for TransportationCamp is not included in the registration fee for the ITE Annual Meeting & Exhibit. It is a separate fee. Registration for the Annual Meeting & Exhibit is not required to participate in TransportationCamp.  Non-ITE Members will have to create an account to register. For questions on registration, contact Colleen Agan at [cagan@ite.org](cagan@ite.org).
-]
+[Registration is Open](http://ecommerce.ite.org/imis/iCommerce/Events/Event_Display.aspx?EventKey=ITE2016AM) and the fee is $35 per person. TransportationCamp will take place on **Sunday, August 14**, prior to the start of the ITE Annual Meeting & Exhibit. Registration for TransportationCamp is not included in the registration fee for the ITE Annual Meeting & Exhibit. It is a separate fee. Registration for the Annual Meeting & Exhibit is not required to participate in TransportationCamp.  Non-ITE Members will have to create an account to register. For questions on registration, contact Colleen Agan at [cagan@ite.org](cagan@ite.org).
+
 ### Location
 
-We will be at the Anaheim Marriott []@ 700 W Convention Way, Anaheim, CA](https://www.google.com/maps/place/700+Convention+Way,+Anaheim,+CA+92802/@33.7987583,-117.9213164,17z/data=!3m1!4b1!4m2!3m1!1s0x80dcd7e75102d611:0x63dc4a6e195a4d63). Parking is available for $25 per day. We encourage participants to use [public transportation](http://www.ite.org/annualmeeting/around.asp) and carpooling as much as possible.
+We will be at the Anaheim Marriott [@ 700 W Convention Way, Anaheim, CA](https://goo.gl/maps/5bdFXi9KBPC2). Parking is available for $25 per day. We encourage participants to use [public transportation](http://www.ite.org/annualmeeting/around.asp) and carpooling as much as possible.
 
 ### Tentative schedule
 
@@ -59,4 +59,4 @@ Contact Colleen Agan at cagan@ite.org.
 
 **TranportationCamp Anaheim is being hosted by ITE and YPT in partnership with Mobility Lab.**
 
-<img src="ite.png" width=255 height=210> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="ypt.png" width=255 height=210>
+<img src="ite.png" width="255" height="210"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="ypt.png" width="255" height="210">
