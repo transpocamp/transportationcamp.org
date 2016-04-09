@@ -125,6 +125,7 @@
 - title: Anaheim 2016
   date: 2016-08-14 23:59:59
   url: /events/anaheim-2016
+  register_url: http://ecommerce.ite.org/imis/iCommerce/Events/Event_Display.aspx?EventKey=ITE2016AM
   background_img: anaheim.jpg
 
 - title: NYC 2016
