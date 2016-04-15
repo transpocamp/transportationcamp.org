@@ -9,11 +9,11 @@ published: true
 ---
 ### It’s time to sign up for summer camp!
 
-Join hundreds of innovative thinkers and doers to talk about the future of transportation at TransportationCamp in Anaheim brought to you by the Institute of Transportation Engineers and Young Professionals in Transportation.
+Join hundreds of innovative thinkers and doers to talk about the future of transportation at TransportationCamp in Anaheim brought to you by the [Institute of Transportation Engineers](http://www.ite.org/) and [Young Professionals in Transportation](https://yptransportation.org/).
 
 This unconference is about connecting all types of transportation professionals and giving each of you an opportunity to voice your outlook, ideas and opinions on how we all can work together to create better communities and positively affect the quality of life for millions of people.   
 
-[Registration is Open](http://ecommerce.ite.org/imis/iCommerce/Events/Event_Display.aspx?EventKey=ITE2016AM) and the fee is $35 per person. TransportationCamp will take place on **Sunday, August 14**, prior to the start of the ITE Annual Meeting & Exhibit. Registration for TransportationCamp is not included in the registration fee for the ITE Annual Meeting & Exhibit. It is a separate fee. Registration for the Annual Meeting & Exhibit is not required to participate in TransportationCamp.  Non-ITE Members will have to create an account to register. For questions on registration, contact Colleen Agan at [cagan@ite.org](cagan@ite.org).
+[Registration is Open](http://ecommerce.ite.org/imis/iCommerce/Events/Event_Display.aspx?EventKey=ITE2016AM) and the fee is $35 per person. TransportationCamp will take place on **Sunday, August 14**, prior to the start of the [ITE Annual Meeting & Exhibit](http://www.ite.org/annualmeeting/). Registration for TransportationCamp is not included in the registration fee for the ITE Annual Meeting & Exhibit. It is a separate fee. Registration for the Annual Meeting & Exhibit is not required to participate in TransportationCamp.  Non-ITE Members will have to create an account to register. For questions on registration, contact Colleen Agan at [cagan@ite.org](cagan@ite.org).
 
 ### Location
 
@@ -59,4 +59,4 @@ Contact Colleen Agan at [cagan@ite.org](cagan@ite.org).
 
 **TranportationCamp Anaheim is being hosted by [ITE](http://www.ite.org/) and [YPT](https://yptransportation.org/) in partnership with [Mobility Lab](http://mobilitylab.org/).**
 
-<img src="ite.png" width="255" height="210"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="ypt.png" width="255" height="210">
+<a href="http://www.ite.org/"><img src="ite.png" width="255" height="210"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://yptransportation.org/"><img src="ypt.png" width="255" height="210"></a>
