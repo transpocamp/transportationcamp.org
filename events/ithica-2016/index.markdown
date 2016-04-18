@@ -3,8 +3,8 @@ author: Michael Schade
 comments: false
 date: {}
 layout: event
-slug: "ithica-2016"
-title: TransportationCamp Ithica 2016
+slug: "ithaca-2016"
+title: TransportationCamp Ithaca 2016
 published: true
 ---
 <img width="136" height="136" src="cornell.png" float="right">TransportationCamp Ithaca 2016 will foster open conversation and collaboration between all parties interested in community mobility and the radical changes the near-future promises in transportation.
