@@ -17,8 +17,8 @@ As an unconference, all of the sessions are created by the participants themselv
 In addition to a full day of TransportationCamp excitement, your ticket also includes breakfast & lunch. For $30 it is an amazing deal (limited number of student tickets for $15).
 
 For more information, go to [nymobilitymanager.org/transportationcamp.html](http://www.nymobilitymanager.org/transportationcamp.html).
-[Register here](https://www.eventbrite.com/e/transportationcamp-ithaca-ny-2016-tickets-24515459399) ($30 regular, $15 student).
+[Register here](https://www.eventbrite.com/e/transportationcamp-ithaca-ny-2016-tickets-24515459399).
 
 You can follow the schedule on [Hackpad](https://hackpad.com/lvgK5Js1e5d).
 
-For questions, contact Dwight Mengel, ​dwight.mengel@dfa.state.ny.us.
+For questions, contact Dwight Mengel, ​[dwight.mengel@dfa.state.ny.us](dwight.mengel@dfa.state.ny.us).
