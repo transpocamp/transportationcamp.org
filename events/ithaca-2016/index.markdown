@@ -21,4 +21,4 @@ For more information, go to [nymobilitymanager.org/transportationcamp.html](http
 
 You can follow the schedule on [Hackpad](https://hackpad.com/lvgK5Js1e5d).
 
-For questions, contact Dwight Mengel, ​[dwight.mengel@dfa.state.ny.us](dwight.mengel@dfa.state.ny.us).
+For questions, contact Dwight Mengel, ​[dwight.mengel@dfa.state.ny.us](mailto:dwight.mengel@dfa.state.ny.us).
