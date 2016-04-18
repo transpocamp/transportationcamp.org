@@ -9,7 +9,8 @@ published: true
 ---
 <img src="cornell.png" style="float:right;width:136px;height:136px;">TransportationCamp Ithaca 2016 will foster open conversation and collaboration between all parties interested in community mobility and the radical changes the near-future promises in transportation.
 
-For participants in the June 23-24 Mobility Solutions Summit and Design Thinking Training, camp is an opportunity to explore questions, ideas and to network with fellow participants.
+For participants in the June 23-24 [Mobility Solutions Summit](http://www.nymobilitymanager.org/mobility-solutions-summit.html) and
+[Design Thinking Training](http://www.nymobilitymanager.org/ncmm-design-thinking-workshop.html), camp is an opportunity to explore questions, ideas and to network with fellow participants.
 
 As an unconference, all of the sessions are created by the participants themselves. This format fosters excellent exchange of innovative ideas in a high-energy environment. Be a part of shaping the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment, and a host of other issues. Bring us your ideas and lead a session!
 
