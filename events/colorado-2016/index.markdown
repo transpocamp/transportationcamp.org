@@ -48,14 +48,24 @@ Here are two examples of similar data challenges to help provide ideas and get y
 
 ### Schedule
 
-    **8:30** – Coffee, breakfast and registration
-    **9:15** – Welcome session (opening remarks, call for session proposals, introductions)
-    **10:15** – 1st breakout session (including “Future of Colorado Transportation” panel discussion)
-    **11:30** – 2nd breakout session
-    **12:30** – Lunch
-    **1:45** – 3rd breakout session
-    **3:00** – 4th breakout session (including transport data challenge presentations)
-    **4:00** – Adjourn, depart for happy hour (location TBA)
+**8:30** – Coffee, breakfast and registration
+**9:15** – Welcome session (opening remarks, call for session proposals, introductions)
+**10:15** – 1st breakout session (including “Future of Colorado Transportation” panel discussion)
+**11:30** – 2nd breakout session
+**12:30** – Lunch
+**1:45** – 3rd breakout session
+**3:00** – 4th breakout session (including transport data challenge presentations)
+**4:00** – Adjourn, depart for happy hour (location TBA)
+
+### Things to Know
+
++ **First time at an unconference?** Check out How TransportationCamp works: the essential guide for a quick introduction!
+
++ **Dress code:** It’s an unconference—tasteful casual is fine!
+
++ **Presentation aids:** Most of the breakout rooms have a projector and chalk/white boards. You should bring a laptop if you need one for your presentation. Keep this in mind when planning a session you want to lead.
+
++ **Laptops/tablets:** Do bring a laptop or tablet to help take notes during the day. We’ll use Hackpad to compile and share notes from each session.
 
 ### Venue
 
