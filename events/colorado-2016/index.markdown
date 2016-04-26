@@ -59,13 +59,13 @@ Here are two examples of similar data challenges to help provide ideas and get y
 
 ### Things to Know
 
-+ **First time at an unconference?** Check out How TransportationCamp works: the essential guide for a quick introduction!
++ **First time at an unconference?** Check out [How TransportationCamp works: the essential guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide) for a quick introduction!
 
-+ **Dress code:** It’s an unconference—tasteful casual is fine!
++ **Dress code:** It’s an unconference — tasteful casual is fine!
 
 + **Presentation aids:** Most of the breakout rooms have a projector and chalk/white boards. You should bring a laptop if you need one for your presentation. Keep this in mind when planning a session you want to lead.
 
-+ **Laptops/tablets:** Do bring a laptop or tablet to help take notes during the day. We’ll use Hackpad to compile and share notes from each session.
++ **Laptops/tablets:** Do bring a laptop or tablet to help take notes during the day. We’ll use [Hackpad](https://hackpad.com/) to compile and share notes from each session.
 
 ### Venue
 
@@ -90,7 +90,7 @@ Thank you to our inaugural event sponsors, [Uber](https://www.uber.com/cities/de
 ### Organizers
 
 TransportationCamp CO 2016 is organized by [Bespoke Transit Solutions](http://www.bespoketransit.com/), a Boulder-
-based boutique transportation consulting firm.
+based boutique transportation consulting firm, with support from [Mobility Lab](http://mobilitylab.org/).
 
 ### Contact Us
 
