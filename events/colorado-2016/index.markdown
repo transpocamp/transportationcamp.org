@@ -46,11 +46,16 @@ Here are two examples of similar data challenges to help provide ideas and get y
 [Hubway Data Visualization Challenge](http://hubwaydatachallenge.org/) and
 [Chicago Bike Equity](http://www.stevevance.net/slowrollchicago/).  Good luck! We are excited to see what you come up with.
 
-### Tentative Schedule
+### Schedule
 
-    8:30am – Coffee, light breakfast and registration
-    Midday – Break for lunch
-    5:00pm – Happy hour (location TBD)
+    **8:30** – Coffee, breakfast and registration
+    **9:15** – Welcome session (opening remarks, call for session proposals, introductions)
+    **10:15** – 1st breakout session (including “Future of Colorado Transportation” panel discussion)
+    **11:30** – 2nd breakout session
+    **12:30** – Lunch
+    **1:45** – 3rd breakout session
+    **3:00** – 4th breakout session (including transport data challenge presentations)
+    **4:00** – Adjourn, depart for happy hour (location TBA)
 
 ### Venue
 
