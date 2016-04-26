@@ -89,7 +89,7 @@ Thank you to our inaugural event sponsors, [Uber](https://www.uber.com/cities/de
 TransportationCamp CO 2016 is organized by [Bespoke Transit Solutions](http://www.bespoketransit.com/), a Boulder-
 based boutique transportation consulting firm, with support from [Mobility Lab](http://mobilitylab.org/).
 
-<img width="425" height="150" src="organizer.png">
+<img width="660" height="110" src="organizer.png">
 
 ### Contact Us
 
