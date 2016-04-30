@@ -38,6 +38,7 @@ of the Colorado transportation system.  There will be an afternoon breakout se
 participants can present their solutions.
 
 Some datasets to help get you started:
+
 * Bikeshare: Trip data from [Boulder BCycle](https://www.dropbox.com/s/l32w80hhcbqcsm3/Boulder%20B-cycle%20May%202011-December%202015%20Trip%20Data.xlsx?dl=0)
 and [Denver BCycle](https://denver.bcycle.com/company)
 * Transit: GTFS resources for [RTD](https://www.dropbox.com/s/vw0q9tcofu0lhit/Instructions%20to%20access%20RTD%20Bus%20Data.docx?dl=0) and [Transfort](http://www.ridetransfort.com/developers);
