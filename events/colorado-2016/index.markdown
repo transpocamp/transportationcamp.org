@@ -83,9 +83,10 @@ CO 2016.
 
 ### Sponsors
 
-Thank you to our inaugural event sponsors, [Uber](https://www.uber.com/cities/denver/), [CartoDB](https://cartodb.com/) and [WTS Colorado](http://www.wtsinternational.org/colorado/).
+Thank you to our inaugural event sponsors, [Uber](https://www.uber.com/cities/denver/), [Cambridge Systematics](https://www.camsys.com/),
+[CartoDB](https://cartodb.com/) and [WTS Colorado](http://www.wtsinternational.org/colorado/) and the [Mountain Plains Consortium](http://www.mountain-plains.org/).
 
-<img width="660" height="360" src="sponsors.png">
+<img width="660" height="270" src="sponsors.png">
 
 ### Organizers
 
