@@ -71,10 +71,10 @@ We are excited to see what you come up with.
 
 TransportationCamp CO 2016 will be held at the University of Colorado Boulder’s  
 [Environmental Design](http://www.colorado.edu/envd/) (ENVD) building, 314 UCB, 1060 18th Street, Boulder, CO 80302.
-The venue is two blocks from the intersection of Broadway Street and Euclid Avenue and
-accessible by bus, bicycle, and car.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3056.0629536049787!2d-105.27002260538976!3d40.00704135233603!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbff7a59f1bab6b00!2sEnvironmental+Design!5e0!3m2!1sen!2sus!4v1457415724781" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+The ENVD building is two blocks from the intersection of Broadway Street and Euclid Avenue, and very accessible by [RTD bus routes](http://www.rtd-denver.com/GoogleTripPlanner.shtml) (FF, Hop, Skip, Dash, AB, 204 & 225). There is ample bike parking in front of the ENVD building and at the CU Bike Station across the street. The closest [Boulder BCycle](https://boulder.bcycle.com/) station is at Broadway & Euclid. The [Euclid Autopark garage](http://www.colorado.edu/campusmap/map.html?bldg=EPRK), located on campus between Broadway and 18th Streets, has a weekend flat rate of $4.
 
 ### Registration
 
