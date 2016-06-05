@@ -7,7 +7,7 @@ slug: "midwest-2016"
 title: TransportationCamp Midwest 2016
 published: true
 ---
-Date: Saturday, June 4<br>
+Date: Saturday, August 13<br>
 Time: 9:00 AM to 5:00 PM<br>
 Location: [Mid-America Regional Council](http://www.marc.org/), 600 Broadway, Kansas City, MO<br>
 Price: $20 (includes breakfast and lunch) - [register here](https://www.eventbrite.com/e/transportation-camp-midwest-tickets-24289693126)<br>
