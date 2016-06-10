@@ -116,11 +116,6 @@
   register_url: https://www.eventbrite.com/e/transportation-camp-midwest-tickets-24289693126
   background_img: midwest-2016.jpg
 
-- title: Vancouver 2016
-  date: 2016-06-07 23:59:59
-  url: /events/vancouver-2016
-  background_img: vancouver.jpg
-
 - title: Ithaca 2016
   date: 2016-06-25 23:59:59
   url: /events/ithaca-2016
