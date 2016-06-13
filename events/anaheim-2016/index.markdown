@@ -60,3 +60,5 @@ Contact Colleen Agan at [cagan@ite.org](cagan@ite.org).
 **TranportationCamp Anaheim is being hosted by [ITE](http://www.ite.org/) and [YPT](https://yptransportation.org/) in partnership with [Mobility Lab](http://mobilitylab.org/).**
 
 <a href="http://www.ite.org/"><img src="ite.png" width="255" height="210"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://yptransportation.org/"><img src="ypt.png" width="255" height="210"></a>
+
+<a href="https://www.apacalifornia.org/" title="American Planning Association California Chapter"><img src="apa.jpg" width="355" height="355"></a>
