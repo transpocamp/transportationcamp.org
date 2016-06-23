@@ -139,6 +139,11 @@
   url: /events/nyc-2016
   background_img: nyc-2016.jpg
 
+- title: Pittsburgh 2016
+  date: 2016-11-19 23:59:59
+  url: /events/pgh-2016
+  background_img: pittsburgh.jpg
+
 - title: DC 2017
   date: 2017-01-07 23:59:59
   url: /events/dc-2017
