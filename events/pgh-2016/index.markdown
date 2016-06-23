@@ -7,10 +7,10 @@ slug: "pgh-2016"
 title: TransportationCamp Pittsburgh 2016
 published: true
 ---
-Date: November 19, 2016<br>
+<img src="cmu.jpg" style="float:right;width:136px;height:136px;">Date: November 19, 2016<br>
 Place: [Carnegie Mellon University](http://www.cmu.edu/), [Hamburg Hall](http://www.cmu.edu/cdfd/heinz-hamburg-hall/)
 
-<img src="cmu.jpg" style="float:right;width:136px;height:136px;">If you’re into transportation, now’s the time to engage, and the TransportationCamp PGH unconference is the place to do it.
+If you’re into transportation, now’s the time to engage, and the TransportationCamp PGH unconference is the place to do it.
 
 At **TransportationCamp PGH**, possibilities about future mobility are up for grabs, and your ideas will power the conversation. Big and small - from train to bike lane to app - come share with like-minded, leading thinkers and doers who are revolutionizing the transportation field.  Maybe you’ll even find some new friends to move your idea forward.
 
