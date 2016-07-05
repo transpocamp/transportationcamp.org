@@ -111,10 +111,16 @@
   background_img: colorado-2016-a.jpg
 
 - title: Midwest 2016
-  date: 2016-06-04 23:59:59
+  date: 2016-08-13 23:59:59
   url: /events/midwest-2016
   register_url: https://www.eventbrite.com/e/transportation-camp-midwest-tickets-24289693126
   background_img: midwest-2016.jpg
+
+- title: Ithaca 2016
+  date: 2016-06-25 23:59:59
+  url: /events/ithaca-2016
+  register_url: https://www.eventbrite.com/e/transportationcamp-ithaca-ny-2016-tickets-24515459399
+  background_img: ithaca-cornell.jpg
 
 - title: Texas 2016
   date: 2016-06-26 23:59:59
@@ -122,7 +128,23 @@
   register_url: http://www.asce-ictd.org/transportationcamp/
   background_img: houston-2016.jpg
 
+- title: Anaheim 2016
+  date: 2016-08-14 23:59:59
+  url: /events/anaheim-2016
+  register_url: http://ecommerce.ite.org/imis/iCommerce/Events/Event_Display.aspx?EventKey=ITE2016AM
+  background_img: anaheim.jpg
+
 - title: NYC 2016
   date: 2016-09-24 23:59:59
   url: /events/nyc-2016
   background_img: nyc-2016.jpg
+
+- title: Pittsburgh 2016
+  date: 2016-11-19 23:59:59
+  url: /events/pgh-2016
+  background_img: pittsburgh.jpg
+
+- title: DC 2017
+  date: 2017-01-07 23:59:59
+  url: /events/dc-2017
+  background_img: dc-2015-e.jpg

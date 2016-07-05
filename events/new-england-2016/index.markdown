@@ -53,6 +53,10 @@ _**Media and Sponsorship Inquiries:** Please contact <TranspoCamp@camsys.com>._
 * **3:30PM-4:30PM** - Fourth breakout session (in classrooms)
 * **4:30PM** - Closing and Adjourn to happy hour at [Firebrand Saints](http://firebrandsaints.com/), sponsored by [Young Professionals in Transportation](http://yptransportation.org/chapters/yptnyc/)
 
+### Hackpad
+
+We will use Hackpad to take collaborative notes throughout the day. We encourage you to bring your computer and take notes during sessions that you attend so that everyone can go back and review even if they missed a session. We will update the hackpad after sessions have been selected, but [click here](https://tcamp2016ne.hackpad.com/SCHEDULE-YqduXgS1Whd) to see the initial link.
+
 ### Sponsors
 
 #### Lunch Sponsors
