@@ -6,8 +6,7 @@ slug: "nyc-2016"
 title: TransportationCamp NYC 2016
 published: true
 ---
-
-**Registration for TransportationCamp NYC 2016 is now open!**
+##### September 24, 2016—Shepard Hall, City College of New York
 
 TransportationCamp NYC 2016 will foster open conversation and collaboration between all parties interested in mobility and the radical changes the near-future promises in transportation.
 
@@ -15,7 +14,7 @@ Our goal is to assemble planners, software developers, engineers, students, drea
 
 ### Registration
 
-Registration for TransportationCamp NYC 2016 [is now open](http://www.eventbrite.com/e/transportationcamp-nyc-2016-tickets-26252052596). Tickets are limited, so get yours now!
+**Registration for TransportationCamp NYC 2016 [is now open](http://www.eventbrite.com/e/transportationcamp-nyc-2016-tickets-26252052596).** Tickets are limited, so get yours now!
 
 General admission is $25, and students attend **free**!
 
@@ -35,7 +34,7 @@ See you September 24, 2016!
 
 ### Venue
 
-TransportationCamp NYC will be held at the [City College of New York](https://www.ccny.cuny.edu/) in Shepard Hall (160 Convent Avenue, New York, NY 10031, at the intersection of Convent Avenue and W 140th St., close to the 1, A, C, and D trains).
+TransportationCamp NYC will be held at the [City College of New York](https://www.ccny.cuny.edu/) in Shepard Hall, 160 Convent Avenue, New York, NY 10031 (at the intersection of Convent Avenue and W 140th St., close to the 1, A, C, and D trains).
 
 <p align="center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3107.8048111647026!2d-73.95016290760027!3d40.82021094185493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x63248bb077f4f293!2sShepard+Hall!5e0!3m2!1sen!2sus!4v1439503246663" width="600" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
