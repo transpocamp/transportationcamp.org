@@ -6,8 +6,7 @@ slug: "nyc-2016"
 title: TransportationCamp NYC 2016
 published: true
 ---
-
-**Registration for TransportationCamp NYC 2016 is now open!**
+##### September 24, 2016—Shepard Hall, City College of New York
 
 TransportationCamp NYC 2016 will foster open conversation and collaboration between all parties interested in mobility and the radical changes the near-future promises in transportation.
 
@@ -15,7 +14,7 @@ Our goal is to assemble planners, software developers, engineers, students, drea
 
 ### Registration
 
-Registration for TransportationCamp NYC 2016 [is now open](http://www.eventbrite.com/e/transportationcamp-nyc-2016-tickets-26252052596). Tickets are limited, so get yours now!
+**Registration for TransportationCamp NYC 2016 [is now open](http://www.eventbrite.com/e/transportationcamp-nyc-2016-tickets-26252052596).** Tickets are limited, so get yours now!
 
 General admission is $25, and students attend **free**!
 
@@ -35,7 +34,7 @@ See you September 24, 2016!
 
 ### Venue
 
-TransportationCamp NYC will be held at the [City College of New York](https://www.ccny.cuny.edu/) in Shepard Hall (160 Convent Avenue, New York, NY 10031, at the intersection of Convent Avenue and W 140th St., close to the 1, A, C, and D trains).
+TransportationCamp NYC will be held at the [City College of New York](https://www.ccny.cuny.edu/) in Shepard Hall, 160 Convent Avenue, New York, NY 10031 (at the intersection of Convent Avenue and W 140th St., close to the 1, A, C, and D trains).
 
 <p align="center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3107.8048111647026!2d-73.95016290760027!3d40.82021094185493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x63248bb077f4f293!2sShepard+Hall!5e0!3m2!1sen!2sus!4v1439503246663" width="600" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -44,26 +43,43 @@ TransportationCamp NYC will be held at the [City College of New York](https://ww
 
 ### Sponsors
 
-<table align="center">
+<table align="center" class="sponsors">
   <tr>
-    <td style="vertical-align: center;"><a href="http://transitcenter.org/"><img src="sponsors/transitcenter.jpg" alt="TransitCenter" height="32" width="175"></a></td>
-    <td style="vertical-align: center;"><a href="https://cartodb.com/"><img src="sponsors/cartodb.jpg" alt="CartoDB" height="51" width="198"></a></td>
-    <td style="vertical-align: center;"><a href="http://www.cubic.com/"><img src="sponsors/cubic.png" alt="Cubic" height="31" width="170"></a></td>
+    <td><a href="http://www.cubic.com/"><img src="sponsors/cubic.png" alt="Cubic" height="31" width="170"></a></td>
+    <td><a href="http://transitcenter.org/"><img src="sponsors/transitcenter.jpg" alt="TransitCenter" height="32" width="175"></a></td>
+    <td><a href="https://www.uber.com/"><img src="sponsors/uber.png" alt="Uber" width="175"></a></td>
   </tr>
 </table>
-<table align="center">
+
+
+<table align="center" class="sponsors">
   <tr>
-    <td style="vertical-align: center;"><a href="https://ite-metsection.org/"><img src="sponsors/ite.png" alt="ITE Met Section" width="140"></a></td>
-    <td style="vertical-align: center;"><a href="http://gpinet.com/"><img src="sponsors/gpi.png" alt="GPI" height="104" width="183"></a></td>
+    <td><a href="https://cartodb.com/"><img src="sponsors/cartodb.jpg" alt="CartoDB" height="51" width="198"></a></td>
+    <td><a href="http://www.motivateco.com/"><img src="sponsors/motivate.png" alt="Motivate" width="200"></a></td>
+    <td><a href="http://www.nycedc.com/"><img src="sponsors/nycedc.png" alt="NYCEDC" width="200"></a></td>
+  </tr>
+</table>
+
+<table align="center" class="sponsors">
+  <tr>
+    <td><a href="https://ite-metsection.org/"><img src="sponsors/ite.png" alt="ITE Met Section" width="140"></a></td>
+    <td><a href="http://gpinet.com/"><img src="sponsors/gpi.png" alt="GPI" height="104" width="183"></a></td>
+  </tr>
+</table>
+
+<table align="center" class="sponsors">
+  <tr>
+    <td><a href="http://www.ridersny.org/"><img src="sponsors/ridersalliance.png" alt="Riders Alliance" width="200"></a></td>
+    <td><a href="http://www.simcopc.com/"><img src="sponsors/simco.png" alt="SIMCO" width="200"></a></td>
   </tr>
 </table>
 
 ### Hosts
 
-<table align="center">
+<table align="center" class="sponsors">
   <tr>
-    <td style="vertical-align: center;"><a href="http://www.utrc2.org/"><img src="hosts/utrc.png" height="108" width="140" alt="Region 2 University Transportation Research Center"></a></td>
-    <td style="vertical-align: center;"><a href="http://yptransportation.org/chapters/yptnyc/"><img src="hosts/ypt.gif" height="140" width="140" alt="YPT New York City"></a></td>
+    <td><a href="http://www.utrc2.org/"><img src="hosts/utrc.png" height="108" width="140" alt="Region 2 University Transportation Research Center"></a></td>
+    <td><a href="http://yptransportation.org/chapters/yptnyc/"><img src="hosts/ypt.gif" height="140" width="140" alt="YPT New York City"></a></td>
   </tr>
 </table>
 
@@ -72,3 +88,10 @@ TransportationCamp NYC will be held at the [City College of New York](https://ww
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/138183373@N06/albums/72157661188895289" title="Transportation Camp 2015"><img src="https://farm1.staticflickr.com/594/22810434624_03f5854523_b.jpg" width="1024" height="768" alt="Transportation Camp 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
+<style type="text/css">
+table.sponsors td {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  vertical-align: center;
+}
+</style>
