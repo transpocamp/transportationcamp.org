@@ -44,26 +44,43 @@ TransportationCamp NYC will be held at the [City College of New York](https://ww
 
 ### Sponsors
 
-<table align="center">
+<table align="center" class="sponsors">
   <tr>
-    <td style="vertical-align: center;"><a href="http://transitcenter.org/"><img src="sponsors/transitcenter.jpg" alt="TransitCenter" height="32" width="175"></a></td>
-    <td style="vertical-align: center;"><a href="https://cartodb.com/"><img src="sponsors/cartodb.jpg" alt="CartoDB" height="51" width="198"></a></td>
-    <td style="vertical-align: center;"><a href="http://www.cubic.com/"><img src="sponsors/cubic.png" alt="Cubic" height="31" width="170"></a></td>
+    <td><a href="http://www.cubic.com/"><img src="sponsors/cubic.png" alt="Cubic" height="31" width="170"></a></td>
+    <td><a href="http://transitcenter.org/"><img src="sponsors/transitcenter.jpg" alt="TransitCenter" height="32" width="175"></a></td>
+    <td><a href="https://www.uber.com/"><img src="sponsors/uber.png" alt="Uber" width="175"></a></td>
   </tr>
 </table>
-<table align="center">
+
+
+<table align="center" class="sponsors">
   <tr>
-    <td style="vertical-align: center;"><a href="https://ite-metsection.org/"><img src="sponsors/ite.png" alt="ITE Met Section" width="140"></a></td>
-    <td style="vertical-align: center;"><a href="http://gpinet.com/"><img src="sponsors/gpi.png" alt="GPI" height="104" width="183"></a></td>
+    <td><a href="https://cartodb.com/"><img src="sponsors/cartodb.jpg" alt="CartoDB" height="51" width="198"></a></td>
+    <td><a href="http://www.motivateco.com/"><img src="sponsors/motivate.png" alt="Motivate" width="200"></a></td>
+    <td><a href="http://www.nycedc.com/"><img src="sponsors/nycedc.png" alt="NYCEDC" width="200"></a></td>
+  </tr>
+</table>
+
+<table align="center" class="sponsors">
+  <tr>
+    <td><a href="https://ite-metsection.org/"><img src="sponsors/ite.png" alt="ITE Met Section" width="140"></a></td>
+    <td><a href="http://gpinet.com/"><img src="sponsors/gpi.png" alt="GPI" height="104" width="183"></a></td>
+  </tr>
+</table>
+
+<table align="center" class="sponsors">
+  <tr>
+    <td><a href="http://www.ridersny.org/"><img src="sponsors/ridersalliance.png" alt="Riders Alliance" width="200"></a></td>
+    <td><a href="http://www.simcopc.com/"><img src="sponsors/simco.png" alt="SIMCO" width="200"></a></td>
   </tr>
 </table>
 
 ### Hosts
 
-<table align="center">
+<table align="center" class="sponsors">
   <tr>
-    <td style="vertical-align: center;"><a href="http://www.utrc2.org/"><img src="hosts/utrc.png" height="108" width="140" alt="Region 2 University Transportation Research Center"></a></td>
-    <td style="vertical-align: center;"><a href="http://yptransportation.org/chapters/yptnyc/"><img src="hosts/ypt.gif" height="140" width="140" alt="YPT New York City"></a></td>
+    <td><a href="http://www.utrc2.org/"><img src="hosts/utrc.png" height="108" width="140" alt="Region 2 University Transportation Research Center"></a></td>
+    <td><a href="http://yptransportation.org/chapters/yptnyc/"><img src="hosts/ypt.gif" height="140" width="140" alt="YPT New York City"></a></td>
   </tr>
 </table>
 
@@ -72,3 +89,10 @@ TransportationCamp NYC will be held at the [City College of New York](https://ww
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/138183373@N06/albums/72157661188895289" title="Transportation Camp 2015"><img src="https://farm1.staticflickr.com/594/22810434624_03f5854523_b.jpg" width="1024" height="768" alt="Transportation Camp 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
+<style type="text/css">
+table.sponsors td {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  vertical-align: center;
+}
+</style>
