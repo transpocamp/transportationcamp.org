@@ -54,7 +54,7 @@ TransportationCamp NYC will be held at the [City College of New York](https://ww
 
 <table align="center" class="sponsors">
   <tr>
-    <td><a href="https://cartodb.com/"><img src="sponsors/cartodb.jpg" alt="CartoDB" height="51" width="198"></a></td>
+    <td><a href="https://carto.com/"><img src="sponsors/carto.png" alt="Carto"></a></td>
     <td><a href="http://www.motivateco.com/"><img src="sponsors/motivate.png" alt="Motivate" width="200"></a></td>
     <td><a href="http://www.nycedc.com/"><img src="sponsors/nycedc.png" alt="NYCEDC" width="200"></a></td>
   </tr>
