@@ -46,11 +46,11 @@ Transportation Camp will take place on Sunday September 11th , 2016 from 1-5pm.
 
 This is a tentative schedule. For details and up-to-date information, please visit [yptransportation.org/ypt-vancouver-bc](https://yptransportation.org/ypt-vancouver-bc/).
 
-1:00pm: Welcome and Introduction
-1:30pm: First Session
-2:15pm: Second Session
-3:00pm: Break
-3:15pm: Third Session
+1:00pm: Welcome and Introduction<br>
+1:30pm: First Session<br>
+2:15pm: Second Session<br>
+3:00pm: Break<br>
+3:15pm: Third Session<br>
 4:00pm: Fourth Session
 
 ### Registration
