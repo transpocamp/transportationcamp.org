@@ -7,21 +7,27 @@ slug: "vancouver-2016"
 title: TransportationCamp Vancouver 2016
 published: true
 ---
-The 2016 [Canadian Institute of Transportation Engineers (CITE)](https://www.cite7.org/) annual conference will be held in Kelowna, BC this year from June 5-8th. [YPT Vancouver](https://yptransportation.org/ypt-vancouver-bc/) is excited to announce that we will be hosting an Unconference session on Tuesday, June 7th.
+Hosted in conjunction with the [Pro Walk Pro Bike Pro Place Conference](http://walkbikeplaces.org/), [YPT Vancouver](https://yptransportation.org/ypt-vancouver-bc/)
+is bringing Transportation Camp to Vancouver this fall. Come connect with a diverse
+range of transportation professionals and enthusiasts, both young and young at heart!
 
-What is an unconference?
+### What is Transportation Camp?
 
-* There will be multiple rounds of sessions with different topics, group sizes, and formats which are all proposed by attendees themselves;
+Transportation Camp brings together people interested in all aspects of
+transportation and provides attendees with the unique opportunity to propose, lead
+and shape sessions.
+
+There will be multiple rounds of sessions with different topics, group sizes, and
+formats which are all proposed and led by attendees themselves;
+
 * Attendees can join and propose any session they’re interested in;
 * Sessions can take the form of a presentation, group discussion, Q+A, workshop etc.; and
 * The unconference format fosters open and engaging conversations about transportation.
 
-Do you have a burning transportation topic you want to talk about? Want to learn more about what other people and agencies are doing in transportation?  This unconference will provide you with a unique opportunity to propose, lead and shape sessions.
-
-Potential topics include:
+### Potential topics include:
 
 * Uber and public ride sharing;
-* Emerging technology in transportation (driverless vehicles, electric ;vehicles, autonomous vehicles, etc.);
+* Emerging technology in transportation (driverless vehicles, electric vehicles, autonomous vehicles, etc.);
 * Advocacy responsibilities for transportation professionals;
 * Youth engagement in transportation;
 * The role of technology in transportation (tolls, fare collection, Uber, “the Internet of things”, big data);
@@ -29,10 +35,35 @@ Potential topics include:
 * Transit Oriented Development;
 * Sustainable Transportation and Land Use;
 * Road Safety; and
-* …Many MORE!
+* Any other transportation topic you feel passionate about!
 
-This unconference is perfect for attendees who want to generate ideas, talk about topics they feel passionate about, or inspire others in the field of transportation!
+Transportation Camp is perfect for attendees who want to generate ideas, talk about
+topics they feel passionate about, or inspire others in the field of transportation!
 
-To find out more about the CITE conference in Kelowna click [here](http://my.yptransportation.org/sites/all/modules/civicrm/extern/url.php?u=12520&qid=857265).
+### Schedule
 
-If you have topics you would like to propose or have questions about the Unconference, email us at YPTVancouver@Gmail.com
+Transportation Camp will take place on Sunday September 11th , 2016 from 1-5pm.
+
+This is a tentative schedule. For details and up-to-date information, please visit [yptransportation.org/ypt-vancouver-bc](https://yptransportation.org/ypt-vancouver-bc/).
+
+1:00pm: Welcome and Introduction
+1:30pm: First Session
+2:15pm: Second Session
+3:00pm: Break
+3:15pm: Third Session
+4:00pm: Fourth Session
+
+### Registration
+
+To register, please visit [yptransportation.org/ypt-vancouver-bc](https://yptransportation.org/ypt-vancouver-bc/). Spaces are limited so register now!
+
+### Venue
+
+Transportation Camp will be held at the Sheraton Wall Centre located at 1088 Burrard St. in downtown Vancouver.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2602.8003669916025!2d-123.12888754858378!3d49.28017987876734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548673d526270ceb%3A0x3392fb600a9680c1!2sSheraton+Vancouver+Wall+Centre!5e0!3m2!1sen!2sca!4v1470947068173" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+###  More Information
+
+To find out more about the Pro Walk Pro Bike and Pro Place conference in Vancouver, please visit [walkbikeplaces.org](http://walkbikeplaces.org/).
+
+If you have topics you would like to propose or have questions about Transportation Camp Vancouver 2016, email us at [YPTVancouver@Gmail.com](YPTVancouver@Gmail.com).
