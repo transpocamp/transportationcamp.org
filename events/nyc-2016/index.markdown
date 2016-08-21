@@ -43,6 +43,8 @@ TransportationCamp NYC will be held at the [City College of New York](https://ww
 
 ### Sponsors
 
+#### Herald Square
+
 <table align="center" class="sponsors">
   <tr>
     <td><a href="http://www.cubic.com/"><img src="sponsors/cubic.png" alt="Cubic" height="31" width="170"></a></td>
@@ -51,6 +53,7 @@ TransportationCamp NYC will be held at the [City College of New York](https://ww
   </tr>
 </table>
 
+#### Union Square
 
 <table align="center" class="sponsors">
   <tr>
@@ -60,12 +63,16 @@ TransportationCamp NYC will be held at the [City College of New York](https://ww
   </tr>
 </table>
 
+#### Madison Square
+
 <table align="center" class="sponsors">
   <tr>
     <td><a href="https://ite-metsection.org/"><img src="sponsors/ite.png" alt="ITE Met Section" width="140"></a></td>
     <td><a href="http://gpinet.com/"><img src="sponsors/gpi.png" alt="GPI" height="104" width="183"></a></td>
   </tr>
 </table>
+
+#### Columbus Circle
 
 <table align="center" class="sponsors">
   <tr>
