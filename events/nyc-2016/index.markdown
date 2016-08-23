@@ -23,7 +23,7 @@ Here's what you get for $25:
 * Full day of TransportationCamp NYC
 * Breakfast, lunch, and midday refreshments at Camp
 * Admission to additional events over the Camp weekend
-* New friends and memories for a lifetime! 
+* New friends and memories for a lifetime!
 
 If you have any questions, reach out at <nyc@transportationcamp.org> or at [@transpocamp](https://twitter.com/transpocamp).
 See you September 24, 2016!
@@ -39,6 +39,18 @@ TransportationCamp NYC will be held at the [City College of New York](https://ww
 <p align="center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3107.8048111647026!2d-73.95016290760027!3d40.82021094185493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x63248bb077f4f293!2sShepard+Hall!5e0!3m2!1sen!2sus!4v1439503246663" width="600" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
+
+### Schedule
+
+* **9:00 AM** - Doors open; breakfast in the Great Hall
+* **10:00 AM** - Welcome remarks, introductions, and session planning in the Great Hall
+* **11:10 AM** - Session 1 (in classrooms)
+* **12:15 PM** - Lunch in the Great Hall
+* **1:30 PM** - Session 2 (in classrooms)
+* **2:30 PM** - Session 3 (in classrooms)
+* **3:30 PM** - Snack
+* **4:00 PM** - Session 4 (in classrooms)
+* **5:00 PM** - Reception at [Harlem Tavern](http://harlemtavern.com/), sponsored by [Young Professionals in Transportation](http://yptransportation.org/chapters/yptnyc/)
 
 
 ### Sponsors
