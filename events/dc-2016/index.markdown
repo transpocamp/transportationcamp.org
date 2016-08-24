@@ -72,20 +72,21 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 
 TransportationCamp DC 2016 is made possible thanks to our sponsors:
 
-<p align="center" >
-<img src="logo-uber.png"><br> [Uber](http://www.uber.com/) - Gold Sponsor
-</p>
+<div style="text-align:center">
+<img src="logo-uber.png">
+</div>
+[Uber](http://www.uber.com/) - Gold Sponsor
 
 <div style="text-align:center">
 <img width="260" height="100" src="logo-camsys.png"> &nbsp;&nbsp;&nbsp; <img width="260" height="100" src="logo-zipcar.png"><br>
-<img width="260" height="100" src="logo-car2go.png"> &nbsp;&nbsp;&nbsp; <img width="260" height="100" src="logo-lmi.png"><br>
+<img width="260" height="100" src="logo-car2go.png"> &nbsp;&nbsp;&nbsp; <img width="260" height="100" src="logo-lmi.png">
 </div>
 [Cambridge Systematics](http://www.camsys.com/), [Zipcar](http://www.zipcar.com/), [Car2Go](https://www.car2go.com/), [LMI Research Institute](http://www.lmi.org/) - Silver Sponsors
 
-<p align="center" >
-<img src="logo-lyft.png"> &nbsp;&nbsp;&nbsp; <img src="logo-kimleyhorn.png"> &nbsp;&nbsp;&nbsp; <img src="logo-globesherpa.png"><br>
+<div style="text-align:center">
+<img src="logo-lyft.png"> &nbsp;&nbsp;&nbsp; <img src="logo-kimleyhorn.png"> &nbsp;&nbsp;&nbsp; <img src="logo-globesherpa.png">
+</div>
 [Lyft](http://www.lyft.com/), [Kimley-Horn](http://www.kimley-horn.com/), [GlobeSherpa](http://www.globesherpa.com/) - Bronze Sponsors
-</p>
 
 TransportationCamp DC 2016 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
 [TransitCenter](http://transitcenter.org/),
