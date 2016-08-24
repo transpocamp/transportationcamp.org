@@ -76,11 +76,11 @@ TransportationCamp DC 2016 is made possible thanks to our sponsors:
 <img src="logo-uber.png"><br> [Uber](http://www.uber.com/) - Gold Sponsor
 </p>
 
-<p align="center">
+<div style="text-align:center">
 <img width="260" height="100" src="logo-camsys.png"> &nbsp;&nbsp;&nbsp; <img width="260" height="100" src="logo-zipcar.png"><br>
 <img width="260" height="100" src="logo-car2go.png"> &nbsp;&nbsp;&nbsp; <img width="260" height="100" src="logo-lmi.png"><br>
 [Cambridge Systematics](http://www.camsys.com/), [Zipcar](http://www.zipcar.com/), [Car2Go](https://www.car2go.com/), [LMI Research Institute](http://www.lmi.org/) - Silver Sponsors
-</p>
+</div>
 
 <p align="center" >
 <img src="logo-lyft.png"> &nbsp;&nbsp;&nbsp; <img src="logo-kimleyhorn.png"> &nbsp;&nbsp;&nbsp; <img src="logo-globesherpa.png"><br>
