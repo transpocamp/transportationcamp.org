@@ -16,6 +16,8 @@ This is the most interactive way to learn; topics range from transit technology 
 
 <img width="680" height="127" src="banner.png">
 
+We'll be using [transpocampcalact.hackpad.com](https://transpocampcalact.hackpad.com/) for collaborative note-taking.
+
 For more information, contact Tenley Borchman at [Tenley@calact.org](Tenley@calact.org).
 
 Location: [Manhattan Beach Marriott](http://www.marriott.com/hotels/travel/laxmn-manhattan-beach-marriott/), 1400 Parkview Ave, Manhattan Beach (Los Angeles County), CA 90266
