@@ -62,6 +62,7 @@ TransportationCamp NYC will be held at the [City College of New York](https://ww
     <td><a href="http://www.cubic.com/"><img src="sponsors/cubic.png" alt="Cubic" height="31" width="170"></a></td>
     <td><a href="http://transitcenter.org/"><img src="sponsors/transitcenter.jpg" alt="TransitCenter" height="32" width="175"></a></td>
     <td><a href="https://www.uber.com/"><img src="sponsors/uber.png" alt="Uber" width="175"></a></td>
+    <td><a href="https://www.xerox.com/"><img src="sponsors/xerox.png" alt="Xerox" width="175"></a></td>
   </tr>
 </table>
 
@@ -79,6 +80,7 @@ TransportationCamp NYC will be held at the [City College of New York](https://ww
 
 <table align="center" class="sponsors">
   <tr>
+    <td><a href="https://www.camsys.com/"><img src="sponsors/camsys.png" alt="Cambridge Systematics" width="175"></a></td>
     <td><a href="https://ite-metsection.org/"><img src="sponsors/ite.png" alt="ITE Met Section" width="140"></a></td>
     <td><a href="http://gpinet.com/"><img src="sponsors/gpi.png" alt="GPI" height="104" width="183"></a></td>
   </tr>
