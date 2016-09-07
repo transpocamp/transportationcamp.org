@@ -8,8 +8,7 @@ title: TransportationCamp DC 2017
 published: true
 ---
 The 6th annual TransportationCamp in Washington, DC, is scheduled for Saturday, January 7, 2017.
-Registration will open in the Fall.
-We'll be returning to Founders Hall, in George Mason University's [Arlington Campus](http://arlington.gmu.edu/).
+Registration will open in the Fall. We'll be returning to Founders Hall, in George Mason University's [Arlington Campus](http://arlington.gmu.edu/).
 
 TransportationCamp DC happens the Saturday before the National Academy of Sciences' [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting/). We
 attract over 400 industry thought leaders, young professionals, and students from around the country.

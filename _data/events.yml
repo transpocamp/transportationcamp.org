@@ -134,6 +134,18 @@
   register_url: http://ecommerce.ite.org/imis/iCommerce/Events/Event_Display.aspx?EventKey=ITE2016AM
   background_img: anaheim.jpg
 
+- title: West 2016
+  date: 2016-09-10 23:59:59
+  url: /events/west-2016
+  register_url: https://www.eventbrite.com/e/transportation-camp-west-hosted-by-calact-tickets-27058435509
+  background_img: west-2016.jpg
+
+- title: Vancouver 2016
+  date: 2016-09-11 23:59:59
+  url: /events/vancouver-2016
+  register_url: https://yptransportation.org/ypt-vancouver-bc/
+  background_img: vancouver-b.jpg
+
 - title: NYC 2016
   date: 2016-09-24 23:59:59
   url: /events/nyc-2016
@@ -143,6 +155,7 @@
 - title: Pittsburgh 2016
   date: 2016-11-19 23:59:59
   url: /events/pgh-2016
+  register_url: http://pghtranspocamp16.eventbrite.com/
   background_img: pittsburgh.jpg
 
 - title: DC 2017
