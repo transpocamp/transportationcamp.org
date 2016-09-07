@@ -60,7 +60,12 @@ TransportationCamp NYC will be held at the [City College of New York](https://ww
 <table align="center" class="sponsors">
   <tr>
     <td><a href="http://www.cubic.com/"><img src="sponsors/cubic.png" alt="Cubic" height="31" width="170"></a></td>
+    <td><a href="https://www.mastercard.us/en-us.html"><img src="../nyc-2015/sponsors/mastercard.png" height="105" width="140" alt="MasterCard"></a></td>
     <td><a href="http://transitcenter.org/"><img src="sponsors/transitcenter.jpg" alt="TransitCenter" height="32" width="175"></a></td>
+</tr>
+</table>
+<table align="center" class="sponsors">
+<tr>    
     <td><a href="https://www.uber.com/"><img src="sponsors/uber.png" alt="Uber" width="175"></a></td>
     <td><a href="https://www.xerox.com/"><img src="sponsors/xerox.png" alt="Xerox" width="175"></a></td>
   </tr>
