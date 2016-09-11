@@ -12,8 +12,8 @@ Registration is at [transportationcamp2016dc.eventbrite.com](https://transportat
 (Sorry, but we have sold out).
 
 TransportationCamp DC is the premier transportation un-conference of the year.
-Held on the Saturday before the National Academy of Sciences' [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting/), we
-attract over 400 industry thought leaders, young professionals, and students from around the country.
+Held on the Saturday before the National Academy of Sciences' [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting/),
+we attract over 400 industry thought leaders, young professionals, and students from around the country.
 As an unconference, all of the sessions are created by the participants themselves.
 This format fosters excellent exchange of innovative ideas in a high-energy environment.
 Be a part of shaping the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment,
