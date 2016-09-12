@@ -16,7 +16,7 @@ Registration is at [pghtranspocamp16.eventbrite.com](http://pghtranspocamp16.eve
 
 At **TransportationCamp PGH**, all possibilities about the future of mobility are up for grabs, and your ideas will power the conversation. From big to small, train to bike lane to app - come share with like-minded, leading thinkers and doers who are revolutionizing the transportation field here in Western PA. Who knows, maybe you’ll even find some new friends to move your idea forward.
 
-At an 'unconference', all of the sessions are created by you — the participants. This format fosters innovative idea exchanges in a high-energy environment.
+<a href="https://www.wrallp.com/"><img src="wra.png" style="float:right;width:272px;height:140px;"></a>At an 'unconference', all of the sessions are created by you — the participants. This format fosters innovative idea exchanges in a high-energy environment.
 
 We welcome the [National League of Cities](http://www.nlc.org/)’ [City Summit](http://citysummit.nlc.org/) 2016 attendees to continue their transportation discussions at TransportationCampPGH. The event takes place on November 19 at Carnegie Mellon University’s Hamburg Hall, following the City Summit. Please note that the two are separate events and registration for one does not include registration for the other.
 
