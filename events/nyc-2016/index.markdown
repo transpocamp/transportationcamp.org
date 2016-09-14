@@ -86,8 +86,9 @@ TransportationCamp NYC will be held at the [City College of New York](https://ww
 <table align="center" class="sponsors">
   <tr>
     <td><a href="https://www.camsys.com/"><img src="sponsors/camsys.png" alt="Cambridge Systematics" width="175"></a></td>
-    <td><a href="https://ite-metsection.org/"><img src="sponsors/ite.png" alt="ITE Met Section" width="140"></a></td>
     <td><a href="http://gpinet.com/"><img src="sponsors/gpi.png" alt="GPI" height="104" width="183"></a></td>
+    <td><a href="https://ite-metsection.org/"><img src="sponsors/ite.png" alt="ITE Met Section" width="140"></a></td>
+    <td><a href="https://www.transalt.org/"><img src="sponsors/transalt.png" alt="Transportation Alternatives" width="140"></a></td>
   </tr>
 </table>
 
@@ -95,6 +96,7 @@ TransportationCamp NYC will be held at the [City College of New York](https://ww
 
 <table align="center" class="sponsors">
   <tr>
+    <td><a href="http://carolynaschultz.com/"><img src="sponsors/cas.jpg" alt="Carolyn A. Schultz Marketing & Communications" width="200"></a></td>
     <td><a href="http://www.ridersny.org/"><img src="sponsors/ridersalliance.png" alt="Riders Alliance" width="200"></a></td>
     <td><a href="http://www.simcopc.com/"><img src="sponsors/simco.png" alt="SIMCO" width="200"></a></td>
   </tr>
