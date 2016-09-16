@@ -17,6 +17,9 @@ This format fosters excellent exchange of innovative ideas in a high-energy envi
 Be a part of shaping the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment, and a host of other issues.
 Bring us your ideas and lead a session!
 
+We'll once again team up with [Hays Outside the Box Competition](http://outsidethebox.gmu.edu), to be held the same day, during the final
+period of TransportationCamp.
+
 Curious what happened last year at TransportationCamp DC 2016? Browse the [Session Schedule](http://transportationcamp.org/events/dc-2016/schedule.html) to see which topics were discussed,
 and read the notes that were taken.  
 
