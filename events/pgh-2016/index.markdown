@@ -27,5 +27,8 @@ Bring your ideas and lead a session! Be a part of shaping the explosive pace of 
 Sponsors:
 
 <a href="http://www.mbakerintl.com/"><img src="michaelbaker.png" style="width:463px;height:140px;"></a>
-
+<a href="http://www.itspennsylvania.com/"><img src="itspa.png" style="width:449px;height:140px;"></a>
+<a href="http://samschwartz.com/"><img src="samschwartz.png" style="width:140px;height:140px;"></a>
+<a href="https://www.uber.com/"><img src="uber.png" style="width:320px;height:140px;"></a>
 <a href="https://www.wrallp.com/"><img src="wra.png" style="width:272px;height:140px;"></a>
+<a href="http://www.gannettfleming.com/"><img src="gannettfleming.png" style="width:530px;height:70px;"></a>
