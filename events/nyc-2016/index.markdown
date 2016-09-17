@@ -14,31 +14,35 @@ Our goal is to assemble planners, software developers, engineers, students, drea
 
 ### Registration
 
-**Registration for TransportationCamp NYC 2016 [is now open](http://www.eventbrite.com/e/transportationcamp-nyc-2016-tickets-26252052596).** Tickets are limited, so get yours now!
-
-General admission is $25, and students attend **free**!
-
-Here's what you get for $25:
-
-* Full day of TransportationCamp NYC
-* Breakfast, lunch, and midday refreshments at Camp
-* Admission to additional events over the Camp weekend
-* New friends and memories for a lifetime!
+**Registration for TransportationCamp NYC 2016 has sold out!**
 
 If you have any questions, reach out at <nyc@transportationcamp.org> or at [@transpocamp](https://twitter.com/transpocamp).
 See you September 24, 2016!
 
 **Media inquiries:** Please contact <nyc@transportationcamp.org>.
 
-**Interested in helping to make TransportationCamp NYC 2016 possible? [Sponsorship opportunities are available.](TransportationCamp NYC 2016 Sponsorship.pdf)**
-
 ### Venue
 
-TransportationCamp NYC will be held at the [City College of New York](https://www.ccny.cuny.edu/) in Shepard Hall, 160 Convent Avenue, New York, NY 10031 (at the intersection of Convent Avenue and W 140th St., close to the 1, A, C, and D trains).
+TransportationCamp NYC will be held at the [City College of New York](https://www.ccny.cuny.edu/) in Shepard Hall, 160 Convent Avenue, New York, NY 10031 (at the intersection of Convent Avenue and W. 140th St., close to the 1, A, C, and D trains).
 
 <p align="center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3107.8048111647026!2d-73.95016290760027!3d40.82021094185493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x63248bb077f4f293!2sShepard+Hall!5e0!3m2!1sen!2sus!4v1439503246663" width="600" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
+
+### Things To Know
+
+If you're joining us at TransportationCamp NYC 2016, here are a few things you'll want to know about the event:
+
+* **Dress code**: It's an unconference—casual is fine!
+
+* **Internet access**: Limited Wi-Fi will be available in some event spaces—we’ll have more information when you check in. You may also want to bring your own connectivity (like a phone you can tether or a mobile hotspot), especially if you'll need it for a demo you're planning.
+
+* **Presentation pointers**: Many of the breakout rooms are equipped with a projector, so if you're thinking of proposing a session and you'd like to present, bring a laptop. We'll supply a VGA cable; remember to bring an adaptor for VGA if your laptop needs one. Most breakout rooms will also have a chalkboard.
+
+* **First time at an unconference?**: Check out [How TransportationCamp works: the essential guide](/2011/02/how-transportationcamp-works-the-essential-guide) for a quick introduction!
+
+Finally, please note that this event will be photographed and filmed. TransportationCamp is built on openness and transparency, and we want to continue with that tradition by capturing the action at Camp and sharing it with the broader community. In fact, we encourage everyone to share what goes on here, but please be respectful of your fellow Campers.
+
 
 ### Schedule
 
