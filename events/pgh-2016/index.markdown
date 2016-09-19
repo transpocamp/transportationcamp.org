@@ -34,16 +34,16 @@ We welcome the [National League of Cities](http://www.nlc.org/)’ [City Summit]
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3036.4762200321534!2d-79.94707243460327!3d40.44259562936226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sporter+hall+carnegie+mellon!5e0!3m2!1sen!2sus!4v1471321519621" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-Presented by:
-<img src="presenters.jpg" style="width:420px;height:210px;"><br>
+Presented by:<br>
+<img src="presenters.png" style="width:420px;height:210px;"><br>
 <a href="http://traffic21.heinz.cmu.edu/">Traffic21</a>,
 <a href="http://www.pcrg.org/">PCRG</a>,
 <a href="http://www.spcregion.org/">SPC</a>,
 <a href="http://pittsburghpa.gov/dcp/">Pittsburgh City Planning</a>,
 <a href="http://www.alleghenyconference.org/">Allegheny Conference on Community Development</a>
 
-Sponsored by:
-<img src="sponsors.jpg" style="width:420px;height:210px;"><br>
+Sponsored by:<br>
+<img src="sponsors.png" style="width:420px;height:210px;"><br>
 <a href="https://www.uber.com/">Uber</a>,
 <a href="https://www.wrallp.com/">WRA</a>,
 <a href="http://www.itspennsylvania.com/">ITS Pennsylvania</a>,
