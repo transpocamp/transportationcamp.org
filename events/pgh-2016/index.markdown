@@ -7,7 +7,7 @@ slug: "pgh-2016"
 title: TransportationCamp Pittsburgh 2016
 published: true
 ---
-<img src="t21.jpg" style="float:right;width:272px;height:272px;">Date: November 19, 2016<br>
+Date: November 19, 2016<br>
 Place: [Carnegie Mellon University](http://www.cmu.edu/), [Porter Hall](http://www.myatlascms.com/map/index.php?id=192#!s/key=Porter%20Hall?m/72750)
 
 Childcare provided by Whetstone Workgroup
@@ -28,20 +28,25 @@ There is a real-time, cloud based "white board," if you will, and all the notes 
 
 At **TransportationCamp PGH**, all possibilities about the future of mobility are up for grabs, and your ideas will power the conversation. From big to small, train to bike lane to app - come share with like-minded, leading thinkers and doers who are revolutionizing the transportation field here in Western PA. Who knows, maybe you’ll even find some new friends to move your idea forward.
 
-__Register at__ [pghtranspocamp16.eventbrite.com](http://pghtranspocamp16.eventbrite.com/).
+**Register at** [pghtranspocamp16.eventbrite.com](http://pghtranspocamp16.eventbrite.com/).
 
 We welcome the [National League of Cities](http://www.nlc.org/)’ [City Summit](http://citysummit.nlc.org/) 2016 attendees to continue their transportation discussions at TransportationCampPGH, following the City Summit. Please note that the two are separate events and registration for one does not include registration for the other.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3036.4762200321534!2d-79.94707243460327!3d40.44259562936226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sporter+hall+carnegie+mellon!5e0!3m2!1sen!2sus!4v1471321519621" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-Sponsors:
+Presented by:
+<img src="presenters.jpg" style="width:420px;height:210px;"><br>
+<a href="http://traffic21.heinz.cmu.edu/">Traffic21</a>,
+<a href="http://www.pcrg.org/">PCRG</a>,
+<a href="http://www.spcregion.org/">SPC</a>,
+<a href="http://pittsburghpa.gov/dcp/">Pittsburgh City Planning</a>,
+<a href="http://www.alleghenyconference.org/">Allegheny Conference on Community Development</a>
 
-<a href="http://samschwartz.com/"><img src="samschwartz.png" style="width:140px;height:140px;"></a> &nbsp;&nbsp;&nbsp;
-<a href="http://www.itspennsylvania.com/"><img src="itspa.png" style="width:449px;height:140px;"></a>
-
-<a href="https://www.wrallp.com/"><img src="wra.png" style="width:272px;height:140px;"></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.uber.com/"><img src="uber.png" style="width:320px;height:140px;"></a>
-
-<a href="http://www.mbakerintl.com/"><img src="michaelbaker.png" style="width:463px;height:140px;"></a>
-
-<a href="http://www.gannettfleming.com/"><img src="gannettfleming.png" style="width:530px;height:70px;"></a>
+Sponsored by:
+<img src="sponsors.jpg" style="width:420px;height:210px;"><br>
+<a href="https://www.uber.com/">Uber</a>,
+<a href="https://www.wrallp.com/">WRA</a>,
+<a href="http://www.itspennsylvania.com/">ITS Pennsylvania</a>,
+<a href="http://samschwartz.com/">Sam Schwartz Engineering</a>,
+<a href="http://www.mbakerintl.com/">Michael Baker International</a>,
+<a href="http://www.gannettfleming.com/">Gannett Fleming</a>
