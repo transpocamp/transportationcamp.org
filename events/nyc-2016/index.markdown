@@ -64,7 +64,7 @@ Finally, please note that this event will be photographed and filmed. Transporta
 <table align="center" class="sponsors">
   <tr>
     <td><a href="http://www.cubic.com/"><img src="sponsors/cubic.png" alt="Cubic" height="31" width="170"></a></td>
-    <td><a href="https://www.mastercard.us/en-us.html"><img src="../nyc-2015/sponsors/mastercard.png" height="105" width="140" alt="MasterCard"></a></td>
+    <td><a href="https://www.mastercard.us/en-us.html"><img src="sponsors/mastercard.png" width="170" alt="MasterCard"></a></td>
     <td><a href="http://transitcenter.org/"><img src="sponsors/transitcenter.jpg" alt="TransitCenter" height="32" width="175"></a></td>
 </tr>
 </table>
