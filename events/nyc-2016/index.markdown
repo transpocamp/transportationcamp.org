@@ -8,6 +8,8 @@ published: true
 ---
 ##### September 24, 2016—Shepard Hall, City College of New York
 
+**Joining us at TransportCamp NYC today? <a href="http://transportationcamp.org/events/nyc-2016/board/">View the Board!</a>**
+
 TransportationCamp NYC 2016 will foster open conversation and collaboration between all parties interested in mobility and the radical changes the near-future promises in transportation.
 
 Our goal is to assemble planners, software developers, engineers, students, dreamers, and professionals for an exciting day of "un-conferencing." Unlike a traditional conference, the specific session topics are determined by participants, which provides each attendee an opportunity to lead and shape the event.
