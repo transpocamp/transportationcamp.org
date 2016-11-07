@@ -38,7 +38,7 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 
 &nbsp;
 
-TransportationCamp DC 2016 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
+TransportationCamp DC 2017 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
 [TransitCenter](http://transitcenter.org/),
 [Young Professionals in Transportation](http://yptransportation.org/),
 [the American Association of State Highway and Transportation Officials](http://www.transportation.org/),
