@@ -56,8 +56,9 @@ time | program
 4:40pm | Session 5 and Hayes Out-of-the-Box competition
 6:00pm | Reception
 
-`` 8:30pm   End``<br>
-``8:30pm   End``<br>
+``8:30pm   End`` 
+`` 8:30pm   End``
+``8:30pm   End``
 
 &nbsp;
 
