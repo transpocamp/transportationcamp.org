@@ -36,6 +36,23 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 
 <iframe align="center" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1552.8558231973786!2d-77.10089523808!3d38.88483864213981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b6828ba038d9%3A0xdc8b8bb98b169604!2sGeorge+Mason+University-Arlington+Campus!5e0!3m2!1sen!2sus!4v1412725299805" width="680" height="340" frameborder="0" style="border:0"></iframe>
 
+### Schedule (tentative!)
+
+<pre> 8:30am</pre> Doors open, breakfast
+<pre> 9:30am</pre> Welcome/how to submit proposals
+<pre> 9:45am</pre> Self introductions (proposals due by 10:00am)
+<pre>10:45am</pre> Logistics/Schedule
+<pre>10:50am</pre> session schedule announced
+<pre>11:10am</pre> Session 1
+<pre>12:20pm</pre> Session 2
+<pre> 1:20pm</pre> Lunch  
+<pre> 1:50pm</pre> sponsor greetings (as lunch continues)
+<pre> 2:20pm</pre> Session 3
+<pre> 3:30pm</pre> Session 4
+<pre> 4:40pm</pre> Session 5 and Hayes Out-of-the-Box competition
+<pre> 6:00pm</pre> Reception/"party"
+<pre> 8:30pm</pre> End 
+
 &nbsp;
 
 TransportationCamp DC 2017 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
