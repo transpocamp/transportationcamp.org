@@ -38,20 +38,20 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 
 ### Schedule (tentative!)
 
-<pre> 8:30am</pre> Doors open, breakfast
-<pre> 9:30am</pre> Welcome/how to submit proposals
-<pre> 9:45am</pre> Self introductions (proposals due by 10:00am)
-<pre>10:45am</pre> Logistics/Schedule
-<pre>10:50am</pre> session schedule announced
-<pre>11:10am</pre> Session 1
-<pre>12:20pm</pre> Session 2
-<pre> 1:20pm</pre> Lunch  
-<pre> 1:50pm</pre> sponsor greetings (as lunch continues)
-<pre> 2:20pm</pre> Session 3
-<pre> 3:30pm</pre> Session 4
-<pre> 4:40pm</pre> Session 5 and Hayes Out-of-the-Box competition
-<pre> 6:00pm</pre> Reception/"party"
-<pre> 8:30pm</pre> End 
+`` 8:30am`` Doors open, breakfast
+`` 9:30am`` Welcome/how to submit proposals
+`` 9:45am`` Self introductions (proposals due by 10:00am)
+``10:45am`` Logistics/Schedule
+``10:50am`` session schedule announced
+``11:10am`` Session 1
+``12:20pm`` Session 2
+`` 1:20pm`` Lunch  
+`` 1:50pm`` sponsor greetings (as lunch continues)
+`` 2:20pm`` Session 3
+`` 3:30pm`` Session 4
+`` 4:40pm`` Session 5 and Hayes Out-of-the-Box competition
+`` 6:00pm`` Reception/"party"
+`` 8:30pm`` End 
 
 &nbsp;
 
