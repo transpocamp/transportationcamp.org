@@ -57,7 +57,7 @@ time | program
 6:00pm | Reception
 
 ``
-8:30pm   End
+8:30pm   End<br>
  8:30pm   End``
 
 &nbsp;
