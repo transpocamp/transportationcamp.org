@@ -36,24 +36,24 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 
 <iframe align="center" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1552.8558231973786!2d-77.10089523808!3d38.88483864213981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b6828ba038d9%3A0xdc8b8bb98b169604!2sGeorge+Mason+University-Arlington+Campus!5e0!3m2!1sen!2sus!4v1412725299805" width="680" height="340" frameborder="0" style="border:0"></iframe>
 
+&nbsp;
+
 ### Schedule (tentative!)
 
-`` 8:30am`` Doors open, breakfast
-`` 9:30am`` Welcome/how to submit proposals
-`` 9:45am`` Self introductions (proposals due by 10:00am)
-``10:45am`` Logistics/Schedule
-``10:50am`` session schedule announced
-``11:10am`` Session 1
-``12:20pm`` Session 2
-`` 1:20pm`` Lunch  
-`` 1:50pm`` sponsor greetings (as lunch continues)
-`` 2:20pm`` Session 3
-`` 3:30pm`` Session 4
-`` 4:40pm`` Session 5 and Hayes Out-of-the-Box competition
-`` 6:00pm`` Reception/"party"
-`` 8:30pm`` End 
-
-&nbsp;
+`` 8:30am`` Doors open, breakfast<br>
+`` 9:30am`` Welcome/how to submit proposals<br>
+`` 9:45am`` Self introductions (proposals due by 10:00am)<br>
+``10:45am`` Logistics/Schedule<br>
+``10:50am`` session schedule announced<br>
+``11:10am`` Session 1<br>
+``12:20pm`` Session 2<br>
+`` 1:20pm`` Lunch<br>
+`` 1:50pm`` sponsor greetings (as lunch continues)<br>
+`` 2:20pm`` Session 3<br>
+`` 3:30pm`` Session 4<br>
+`` 4:40pm`` Session 5 and Hayes Out-of-the-Box competition<br>
+`` 6:00pm`` Reception/"party"<br>
+`` 8:30pm`` End<p>
 
 TransportationCamp DC 2017 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
 [TransitCenter](http://transitcenter.org/),
