@@ -40,21 +40,24 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 
 ### Schedule (tentative!)
 
+time | program
 ---* | ---
-8:30am | Doors open, breakfast<br>
-9:30am | Welcome/how to submit proposals<br>
-9:45am | Self introductions (proposals due by 10:00am)<br>
-10:45am | Logistics/Schedule<br>
-10:50am | session schedule announced<br>
-11:10am | Session 1<br>
-12:20pm | Session 2<br>
-1:20pm | Lunch<br>
-1:50pm | sponsor greetings (as lunch continues)<br>
-2:20pm | Session 3<br>
-3:30pm | Session 4<br>
-4:40pm | Session 5 and Hayes Out-of-the-Box competition<br>
-6:00pm | Reception/"party"<br>
-`8:30pm | End
+8:30am | Doors open, breakfast
+9:30am | Welcome/how to submit proposals
+9:45am | Self introductions (proposals due by 10:00am)
+10:45am | Logistics/Schedule
+10:50am | session schedule announced
+11:10am | Session 1
+12:20pm | Session 2
+1:20pm | Lunch
+1:50pm | sponsor greetings (as lunch continues)
+2:20pm | Session 3
+3:30pm | Session 4
+4:40pm | Session 5 and Hayes Out-of-the-Box competition
+6:00pm | Reception/"party"
+8:30pm | End
+
+&nbsp;
 
 TransportationCamp DC 2017 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
 [TransitCenter](http://transitcenter.org/),
