@@ -41,7 +41,7 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 ### Schedule (tentative!)
 
 time | program
----* | ---
+---: | ---
 8:30am | Doors open, breakfast
 9:30am | Welcome/how to submit proposals
 9:45am | Self introductions (proposals due by 10:00am)
