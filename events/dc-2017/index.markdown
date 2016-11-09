@@ -7,7 +7,7 @@ slug: "dc-2017"
 title: TransportationCamp DC 2017
 published: true
 ---
-The 6th annual TransportationCamp in Washington, DC, is Saturday, January 7, 2017. 
+The 6th annual TransportationCamp in Washington, DC, is Saturday, January 7, 2017.
 We'll be returning to Founders Hall, in George Mason University's [Arlington Campus](http://arlington.gmu.edu/).
 
 Registration is now open: [nvite.com/transpo17](https://nvite.com/transpo17/d325). Ticket prices are $45. Thanks to a generous grant from [AASHTO](http://www.transportation.org/), we have a limited number of student tickets at $25 (students must register using a ".edu" email, and must bring ID to the registration desk).
@@ -19,8 +19,8 @@ This format fosters excellent exchange of innovative ideas in a high-energy envi
 Be a part of shaping the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment, and a host of other issues.
 Bring us your ideas and lead a session!
 
-We'll once again team up with the [Hays Outside the Box Competition](http://outsidethebox.gmu.edu), to be held the same day, during the final
-period of TransportationCamp. Both events will be followed by a joint reception at GMU, from 6:00 to 8:00.
+We'll once again team up with the [Hays Outside the Box Competition](http://outsidethebox.gmu.edu), to be held the same day,
+during the final period of TransportationCamp. Both events will be followed by a joint reception at GMU.
 
 Curious what happened last year at TransportationCamp DC 2016? Browse the [Session Schedule](http://transportationcamp.org/events/dc-2016/schedule.html) to see which topics were discussed,
 and read the notes that were taken.
