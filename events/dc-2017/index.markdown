@@ -53,7 +53,7 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 ``03:30pm   Session 4``<br>
 ``04:40pm   Session 5 and Hayes Out-of-the-Box competition``<br>
 ``06:00pm   Reception``<br>
-``08:30pm   End``
+``08:00pm   End``
 
 TransportationCamp DC 2017 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
 [TransitCenter](http://transitcenter.org/),
