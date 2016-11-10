@@ -20,7 +20,7 @@ Be a part of shaping the explosive pace of change in technology, shared use mobi
 Bring us your ideas and lead a session!
 
 We'll once again team up with the [Hays Outside the Box Competition](http://outsidethebox.gmu.edu), to be held the same day,
-during the final period of TransportationCamp. Both events will be followed by a joint reception at GMU.
+during the final period of TransportationCamp. Both events will be followed by a joint reception at GMU. The Hays event is free, but requires its own [registration](https://www.eventbrite.com/e/2017-hays-outside-the-box-conference-tickets-29304386208).
 
 Curious what happened last year at TransportationCamp DC 2016? Browse the [Session Schedule](http://transportationcamp.org/events/dc-2016/schedule.html) to see which topics were discussed,
 and read the notes that were taken.
