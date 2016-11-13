@@ -73,7 +73,7 @@ the [Center for Transportation Public-Private Partnership Policy at the George M
 <img src="logo-trb120x100.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 <img src="logo-transitcenter120x100.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="logo-ite100x100.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="logo-ypt120x100.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="logo-ypt100x100.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="logo-aashto120x100.png">
 </td></tr>
 </table>
