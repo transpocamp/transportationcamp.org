@@ -43,10 +43,11 @@ Presented by:<br>
 <a href="http://www.alleghenyconference.org/">Allegheny Conference on Community Development</a>
 
 Sponsored by:<br>
-<img src="sponsors.png" style="width:420px;height:210px;"><br>
-<a href="https://www.uber.com/">Uber</a>,
+<img src="sponsors.png" style="width:460px;height:220px;"><br>
+<a href="https://www.uber.com/">Uber</a>, 
 <a href="https://www.wrallp.com/">WRA</a>,
 <a href="http://www.itspennsylvania.com/">ITS Pennsylvania</a>,
 <a href="http://samschwartz.com/">Sam Schwartz Engineering</a>,
 <a href="http://www.mbakerintl.com/">Michael Baker International</a>,
-<a href="http://www.gannettfleming.com/">Gannett Fleming</a>
+<a href="http://www.gannettfleming.com/">Gannett Fleming</a>,
+<a href="https://www.ztrip.com/">zTrip</a>
