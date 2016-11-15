@@ -59,7 +59,8 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 
 ### Sponsors
 
-TransportationCamp DC 2017 is being sponsored by [Uber](https://www.uber.com/) and [Noblis](http://www.noblis.org/).
+TransportationCamp DC 2017 is being sponsored by [Uber](https://www.uber.com/), [Noblis](http://www.noblis.org/),
+and [Zipcar](http://www.zipcar.com/).
 
 <img src="sponsors.png">
 
