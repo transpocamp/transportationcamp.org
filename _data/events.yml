@@ -162,3 +162,8 @@
   url: /events/dc-2017
   register_url: https://nvite.com/transpo17/d325
   background_img: dc-2015-e.jpg
+
+- title: Toronto 2017
+  date: 2017-07-30 23:59:59
+  url: /events/toronto 
+  background_img: toronto.jpg
