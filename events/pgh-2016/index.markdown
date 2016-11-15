@@ -7,7 +7,7 @@ slug: "pgh-2016"
 title: TransportationCamp Pittsburgh 2016
 published: true
 ---
-Date: November 19, 2016<br>
+Date: November 19, 2016, 8:00am to 5:00pm<br>
 Place: [Carnegie Mellon University](http://www.cmu.edu/), [Porter Hall](http://www.myatlascms.com/map/index.php?id=192#!s/key=Porter%20Hall?m/72750)
 
 Childcare provided by Whetstone Workgroup
@@ -44,7 +44,7 @@ Presented by:<br>
 
 Sponsored by:<br>
 <img src="sponsors.png" style="width:460px;height:220px;"><br>
-<a href="https://www.uber.com/">Uber</a>, 
+<a href="https://www.uber.com/">Uber</a>,
 <a href="https://www.wrallp.com/">WRA</a>,
 <a href="http://www.itspennsylvania.com/">ITS Pennsylvania</a>,
 <a href="http://samschwartz.com/">Sam Schwartz Engineering</a>,
