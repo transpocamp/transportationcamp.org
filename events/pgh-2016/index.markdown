@@ -32,6 +32,20 @@ At **TransportationCamp PGH**, all possibilities about the future of mobility ar
 
 We welcome the [National League of Cities](http://www.nlc.org/)’ [City Summit](http://citysummit.nlc.org/) 2016 attendees to continue their transportation discussions at TransportationCampPGH, following the City Summit. Please note that the two are separate events and registration for one does not include registration for the other.
 
+### Schedule
+
+* **8:00 AM** - Doors open, breakfast and coffee available (Porter Hall 100 aka Gregg Hall)
+* **9:00 AM** - Opening remarks and kickoff!
+* **10:15 AM - 11:05 AM** - Session 1
+* **11:20 AM - 12:10 PM** - Session 2
+* **12:15 PM - 1:15 PM** - Lunch
+* **1:25 PM - 2:15 PM** - Session 3
+* **2:20 PM - 2:50 PM** - Snack
+* **3:00 PM - 3:50 PM** - Session 4
+* **4:00 PM** - Closing remarks
+
+Keep the conversation going at the [Porch at Schenley](http://www.theporchatschenley.com/) afterwards! (221 Schenley Drive, a 10 minute walk)
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3036.4762200321534!2d-79.94707243460327!3d40.44259562936226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sporter+hall+carnegie+mellon!5e0!3m2!1sen!2sus!4v1471321519621" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 Presented by:<br>
