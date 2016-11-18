@@ -12,9 +12,9 @@ Place: [Carnegie Mellon University](http://www.cmu.edu/), [Porter Hall](http://w
 
 Childcare provided by Whetstone Workgroup
 
-If you’re into transportation, now’s the time to engage, and the TransportationCamp PGH unconference is the place to do it.  Bring your ideas and lead a session! Be a part of shaping the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment, and a host of other issues. Join us November 19, and watch this space for updates. Welcome to the Burgh!
+<a href="https://docs.google.com/spreadsheets/d/1pBSDfHknH6AyQs77eUL4Hz5ulJup9PFAbgsExmPEr18/pubhtml?gid=1321426310"><img src="board.jpg" alt="View the Board!" style="width:680px;height:228px;"></a>
 
-Follow [The Board](https://docs.google.com/spreadsheets/d/1pBSDfHknH6AyQs77eUL4Hz5ulJup9PFAbgsExmPEr18/pubhtml?gid=1321426310) online for live updates as your sessions are scheduled.
+If you’re into transportation, now’s the time to engage, and the TransportationCamp PGH unconference is the place to do it.  Bring your ideas and lead a session! Be a part of shaping the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment, and a host of other issues. Join us November 19, and watch this space for updates. Welcome to the Burgh!
 
 ### What is an unconference?
 An unconference is when people that attend determine the sessions.  
