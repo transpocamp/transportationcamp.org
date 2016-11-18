@@ -48,6 +48,8 @@ We welcome the [National League of Cities](http://www.nlc.org/)’ [City Summit]
 
 Keep the conversation going at the [Porch at Schenley](http://www.theporchatschenley.com/) afterwards! (221 Schenley Drive, a 10 minute walk)
 
+Follow [@transpocampPGH](https://twitter.com/transpocampPGH) for updates, and use the  [#transpocampPGH](https://twitter.com/search?q=%23transpocampPGH) hashtag for your own posts. 
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3036.4762200321534!2d-79.94707243460327!3d40.44259562936226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sporter+hall+carnegie+mellon!5e0!3m2!1sen!2sus!4v1471321519621" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 Presented by:<br>
