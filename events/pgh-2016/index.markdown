@@ -16,8 +16,7 @@ Childcare provided by Whetstone Workgroup
 
 If you’re into transportation, now’s the time to engage, and the TransportationCamp PGH unconference is the place to do it.  Bring your ideas and lead a session! Be a part of shaping the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment, and a host of other issues. Join us November 19, and watch this space for updates. Welcome to the Burgh!
 
-In addition, join CMU's Transportation Club on Sunday morning November 20th at 10am for a tour of Port Authority of Allegheny County's West Mifflin Garage! This will be a unique “behind the scenes” look at the daily operations of operating a transportation service, including the tasks that transportation planners and riders often take for granted (maintenance, cleaning, etc.). Included with the tour will be a discussion of how planning is impacted by the realities of garage locations, operator schedules, union rules, and other agency constraints. 
-[Sign up here!] (https://docs.google.com/forms/d/e/1FAIpQLSfS2X6pnJAqPTz2qg_XBnvcICM2CSdUnbe0Q-NduNVKEcgFUg/viewform) 
+In addition, join CMU's Transportation Club on Sunday morning November 20th at 10am for a tour of Port Authority of Allegheny County's West Mifflin Garage! This will be a unique “behind the scenes” look at the daily operations of operating a transportation service, including the tasks that transportation planners and riders often take for granted (maintenance, cleaning, etc.). Included with the tour will be a discussion of how planning is impacted by the realities of garage locations, operator schedules, union rules, and other agency constraints. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfS2X6pnJAqPTz2qg_XBnvcICM2CSdUnbe0Q-NduNVKEcgFUg/viewform">Sign up here!</a> 
 *Maximum 20 attendees, first come first served. Must be registered for TransportationCamp PGH in order to attend.*
 
 ### What is an unconference?
