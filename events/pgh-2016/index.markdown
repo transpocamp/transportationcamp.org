@@ -29,11 +29,9 @@ Attendees take post it notes and write what they want to talk about/discuss on T
 Instead of the conference host deciding what’s important, the attendees decide.  Plus each session is a conversation, not talking heads.  Attendees get access to the people they want to have discussions with right in the session and get to open it up to a room of people, rather than waiting in line after a “talk” and exchanging a few sentences. Furthermore, it’s localized.  There are a lot of issues/ideas that will bubble up that are unique to Pittsburgh.   Our hope is that planners/practitioners/politicians/engineers/thinkers/students/ordinary people can have meaningful discussions about Pittsburgh and its regional transportation system and its future.
 
 ### Documentation and follow up
-There is a real-time, cloud based "white board," if you will, and all the notes from each session are crowdsourced and documented.  People can share their contact info and follow up with each other.  Check out DC’s Transpo Camp early this year: [transportationcamp.org/events/dc-2016/schedule.html](http://transportationcamp.org/events/dc-2016/schedule.html).
+There is a real-time, cloud based "white board," if you will, and all the notes from each session are crowdsourced and documented.  People can share their contact info and follow up with each other.  Check out DC’s Transpo Camp earlier this year: [transportationcamp.org/events/dc-2016/schedule.html](http://transportationcamp.org/events/dc-2016/schedule.html).
 
 At **TransportationCamp PGH**, all possibilities about the future of mobility are up for grabs, and your ideas will power the conversation. From big to small, train to bike lane to app - come share with like-minded, leading thinkers and doers who are revolutionizing the transportation field here in Western PA. Who knows, maybe you’ll even find some new friends to move your idea forward.
-
-**Register at** [pghtranspocamp16.eventbrite.com](http://pghtranspocamp16.eventbrite.com/).
 
 We welcome the [National League of Cities](http://www.nlc.org/)’ [City Summit](http://citysummit.nlc.org/) 2016 attendees to continue their transportation discussions at TransportationCampPGH, following the City Summit. Please note that the two are separate events and registration for one does not include registration for the other.
 
