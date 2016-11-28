@@ -64,17 +64,17 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 
 TransportationCamp DC 2017 is made possible thanks to our sponsors:
 
-Gold sponsor: [Cubic](http://www.cubic.com/transportation)
-
 <img src="sponsors-gold.png">
 
-Silver sponsors: [Zipcar](http://www.zipcar.com/), [Destination Sales & Marketing Group (DS&MG)](http://destinationsalesandmarketinggroup.com/)
+Gold sponsor: [Cubic](http://www.cubic.com/transportation)
 
 <img src="sponsors-silver.png">
 
-Bronze sponsors: [Noblis](http://www.noblis.org/),  [Lyft](https://www.lyft.com/), [Kimley-Horn](http://www.kimley-horn.com/)
+Silver sponsors: [Zipcar](http://www.zipcar.com/), [Destination Sales & Marketing Group (DS&MG)](http://destinationsalesandmarketinggroup.com/)
 
 <img src="sponsors-bronze.png">
+
+Bronze sponsors: [Noblis](http://www.noblis.org/),  [Lyft](https://www.lyft.com/), [Kimley-Horn](http://www.kimley-horn.com/)
 
 TransportationCamp DC 2017 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
 [TransitCenter](http://transitcenter.org/),
