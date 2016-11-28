@@ -10,7 +10,10 @@ published: true
 The 6th annual TransportationCamp in Washington, DC, is Saturday, January 7, 2017.
 We'll be returning to Founders Hall, in George Mason University's [Arlington Campus](http://arlington.gmu.edu/).
 
-Registration is now open: [nvite.com/transpo17](https://nvite.com/transpo17/d325). Ticket prices are $45. Thanks to a generous grant from [AASHTO](http://www.transportation.org/), we have a limited number of student tickets at $25 (students must register using a ".edu" email, and must bring ID to the registration desk).
+Registration is now open: [nvite.com/transpo17](https://nvite.com/transpo17/d325). Ticket prices are $45.
+Thanks to a generous grant from [AASHTO](http://www.transportation.org/),
+we have a limited number of student tickets at $25 (students must register using a ".edu" email,
+and must bring ID to the registration desk). <span style="color: red; font-style: italic">[Student tickets have sold out.]</span>
 
 TransportationCamp DC happens the Saturday before the National Academy of Sciences' [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting/). We
 attract over 400 industry thought leaders, young professionals, and students from around the country.
