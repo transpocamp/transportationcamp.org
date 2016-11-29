@@ -60,6 +60,9 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 ``06:00pm   Reception``<br>
 ``08:00pm   End``
 
+In town for TRB? Join Mobility Lab for [Bike Hack Night VII](https://www.meetup.com/Transportation-Techies/events/235892038/),
+Tuesday evening, January 10th in the Washington Convention Center. You do not have to a TRB attendee in order to RSVP for the meetup.
+
 ### Sponsors
 
 TransportationCamp DC 2017 is made possible thanks to our sponsors:
