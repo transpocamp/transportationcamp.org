@@ -69,7 +69,7 @@ TransportationCamp DC 2017 is made possible thanks to our sponsors:
 
 <img src="sponsors-gold.png">
 
-Gold sponsor: [Cubic](http://www.cubic.com/transportation)
+Gold sponsors: [Cubic](http://www.cubic.com/transportation), [Uber](https://www.uber.com/)
 
 <img src="sponsors-silver.png">
 
