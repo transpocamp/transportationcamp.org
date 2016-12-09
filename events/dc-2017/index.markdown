@@ -23,9 +23,6 @@ This format fosters excellent exchange of innovative ideas in a high-energy envi
 Be a part of shaping the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment, and a host of other issues.
 Bring us your ideas and lead a session!
 
-We'll once again team up with the [Hays Outside the Box Competition](http://outsidethebox.gmu.edu), to be held the same day,
-during the final period of TransportationCamp. Both events will be followed by a joint reception at GMU. The Hays event is free, but requires its own [registration](https://www.eventbrite.com/e/2017-hays-outside-the-box-conference-tickets-29304386208).
-
 Curious what happened last year at TransportationCamp DC 2016? Browse the [Session Schedule](http://transportationcamp.org/events/dc-2016/schedule.html) to see which topics were discussed,
 and read the notes that were taken.
 
@@ -51,13 +48,13 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 ``09:45am   Self introductions (proposals due by 10:00am)``<br>
 ``10:45am   Logistics/Schedule``<br>
 ``10:50am   session schedule announced``<br>
-``11:10am   Session 1``<br>
-``12:20pm   Session 2``<br>
+``11:10am   Period 1``<br>
+``12:20pm   Period 2``<br>
 ``01:20pm   Lunch``<br>
 ``01:50pm   sponsor greetings (as lunch continues)``<br>
-``02:20pm   Session 3``<br>
-``03:30pm   Session 4``<br>
-``04:40pm   Session 5 and Hayes Out-of-the-Box competition``<br>
+``02:20pm   Period 3``<br>
+``03:30pm   Period 4``<br>
+``04:40pm   Period 5``<br>
 ``06:00pm   Reception``<br>
 ``08:00pm   End``
 
