@@ -77,6 +77,8 @@ Silver sponsors: [Zipcar](http://www.zipcar.com/), [Destination Sales & Marketin
 
 Bronze sponsors: [Noblis](http://www.noblis.org/),  [Lyft](https://www.lyft.com/), [Kimley-Horn](http://www.kimley-horn.com/)
 
+Supporting sponsor: [Cambridge Systematics](https://www.camsys.com/)
+
 TransportationCamp DC 2017 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from  
 [TransitCenter](http://transitcenter.org/),
 [Young Professionals in Transportation](http://yptransportation.org/),
