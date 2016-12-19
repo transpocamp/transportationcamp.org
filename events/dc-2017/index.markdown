@@ -41,7 +41,7 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 
 &nbsp;
 
-### Schedule (tentative!)
+### Schedule
 
 ``08:30am   Doors open, breakfast``<br>
 ``09:30am   Welcome/how to submit proposals``<br>
@@ -58,8 +58,17 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 ``06:00pm   Reception``<br>
 ``08:00pm   End``
 
-In town for TRB? Join Mobility Lab for [Bike Hack Night VII](https://www.meetup.com/Transportation-Techies/events/235892038/),
-Tuesday evening, January 10th in the Washington Convention Center. You do not have to a TRB attendee in order to RSVP for the meetup.
+### Related Events
+
+New this year at TRB is the [Innovation Caucus](trb.pdf) event on Sunday, January 8,
+from 5:30pm to 6:30pm.
+If you aren't registered for TRB, they are introducing a one-day pass to the TRB Exhibit Hall
+from 4:00pm to 7:00pm, for $50, which includes the Innovation Caucus.
+
+On Tuesday evening, January 10th, you can join the Transportation Techies meetup group
+for [Bike Hack Night VII](https://www.meetup.com/Transportation-Techies/events/235892038/),
+in the Washington Convention Center. This event is free (but does require an RSVP);
+you do not have to be a TRB attendee in order to attend the meetup.
 
 ### Sponsors
 
