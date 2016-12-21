@@ -60,10 +60,10 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 
 ### Related Events
 
-New this year at TRB is the [Innovation Caucus](http://onlinepubs.trb.org/onlinepubs/idea/TRBInnovationCaucus2017.pdf) event on Sunday, January 8,
-from 5:30pm to 6:30pm.
-If you aren't registered for TRB, they are introducing a one-day pass to the TRB Exhibit Hall
-from 4:00pm to 7:00pm, for $50, which includes the Innovation Caucus.
+New this year at TRB is the [Innovation Caucus](http://onlinepubs.trb.org/onlinepubs/idea/TRBInnovationCaucus2017.pdf)
+on Sunday, January 8, from 5:30pm to 6:30pm.
+You must [register for TRB](http://www.trb.org/AnnualMeeting/Registration.aspx) to attend the Innovation Caucus. 
+The cheapest option is the $50 one-day Exhibits Only pass.
 
 On Tuesday evening, January 10th, you can join the Transportation Techies meetup group
 for [Bike Hack Night VII](https://www.meetup.com/Transportation-Techies/events/235892038/),
