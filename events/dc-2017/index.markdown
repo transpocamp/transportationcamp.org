@@ -31,9 +31,10 @@ and read the notes that were taken.
 We'll be returning this year to Founders Hall, in GMU's [Arlington Campus](http://arlington.gmu.edu/) ([campus map](http://info.gmu.edu/Maps/ArlingtonMap15.pdf)).
 The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get to:
 
-  * Founders Hall is two blocks east of the [Virginia Square-GMU](http://www.wmata.com/rail/station_detail.cfm?station_id=98) Metro station (on the Orange and Silver lines). While the [Safetrack](https://www.wmata.com/service/SafeTrack.cfm) program is on hold until February, newly-announced construction work will interfere with service. See [Weekend service adjustments January 6-8 for rebuilding](https://www.wmata.com/service/status/details/2017-01-06-weekend-adjustments.cfm).
+  * Founders Hall is two blocks east of the [Virginia Square-GMU](http://www.wmata.com/rail/station_detail.cfm?station_id=98) Metro station (on the Orange ~~and Silver~~ lines). While the [Safetrack](https://www.wmata.com/service/SafeTrack.cfm) program is on hold until February, newly-announced construction work will interfere with service. See [Weekend service adjustments January 6-8 for rebuilding](https://www.wmata.com/service/status/details/2017-01-06-weekend-adjustments.cfm).
   * There is a [Capital Bikeshare](http://www.capitalbikeshare.com/) station in front of Founders Hall.
   * Metro [bus 38B](http://www.wmata.com/bus/timetables/view.cfm?line=12) runs between Ballston (Virginia) and Farragut Square (DC, via Georgetown).
+  * Arlington's [ART 41](http://www.arlingtontransit.com/pages/routes/art-41/) bus runs between Court House, Clarendon, and Columbia Pike.
   * The [Founders Hall Parking Garage](http://parking.gmu.edu/arlingtoncampusparking.html)
   has a daily rate of $7 (enter via Kirkwood Rd).
 
