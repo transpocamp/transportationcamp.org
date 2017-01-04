@@ -53,10 +53,10 @@ For WiFi access at GMU, select the MASON network, then go to [itservices.gmu.edu
 ``11:00am   Period 1``<br>
 ``12:10pm   Period 2``<br>
 ``01:20pm   Lunch``<br>
-``01:45pm   sponsor greetings (as lunch continues)``<br>
-``02:20pm   Period 3``<br>
-``03:30pm   Period 4``<br>
-``04:40pm   Period 5``<br>
+``01:50pm   sponsor greetings (as lunch continues)``<br>
+``02:30pm   Period 3``<br>
+``03:40pm   Period 4``<br>
+``04:50pm   Period 5``<br>
 ``06:00pm   Reception``<br>
 ``08:00pm   End``
 
