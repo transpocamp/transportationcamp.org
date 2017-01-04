@@ -1,5 +1,3 @@
-@alongthepike
-@MetroReasons / GGWash Contributor
 23 Urban Strategies
 A Curious Citizen
 AARP Public Policy Institute
@@ -51,8 +49,7 @@ Community Transp. Assn. of America
 Community Transportation Association of America
 Commuter Solutions, Inc 
 Consultant
-Conveyal 
-Cornell
+Conveyal  
 Cornell University 
 County of Los Angeles
 Crowdsourced-Transport.com
@@ -66,8 +63,7 @@ Deloitte
 Department of Defense
 Destination Sales & Marketing Group
 DFW Organization for New Urban Transit
-District Department of Transportation (DDOT)
-District of Columbia Department of Transportation
+District Department of Transportation (DDOT) 
 DKS Associates
 DOT/Federal Highway Administration
 Easterseals
@@ -266,8 +262,7 @@ University of Washington
 Urban Land Institute (ULI)
 UrbanLabs LLC
 US Department of State
-US Department of Transportation 
-USDOT
+US Department of Transportation  
 USDOT - Federal Transit Administration
 USDOT Volpe
 UTA - Utah Transit Authority
