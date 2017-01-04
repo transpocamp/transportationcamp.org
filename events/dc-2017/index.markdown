@@ -50,8 +50,8 @@ For WiFi access at GMU, select the MASON network, then go to [itservices.gmu.edu
 ``09:45am   Self introductions (proposals due by 10:00am)``<br>
 ``10:45am   Logistics/Schedule``<br>
 ``10:50am   session schedule announced``<br>
-``11:10am   Period 1``<br>
-``12:20pm   Period 2``<br>
+``11:00am   Period 1``<br>
+``12:10pm   Period 2``<br>
 ``01:20pm   Lunch``<br>
 ``01:50pm   sponsor greetings (as lunch continues)``<br>
 ``02:20pm   Period 3``<br>
