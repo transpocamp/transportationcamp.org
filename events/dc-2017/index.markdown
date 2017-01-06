@@ -10,6 +10,8 @@ published: true
 The 6th annual TransportationCamp in Washington, DC, is Saturday, January 7, 2017.
 We'll be returning to Founders Hall, in George Mason University's [Arlington Campus](http://arlington.gmu.edu/).
 
+<span style="color: red">Metro alert: No Silver Line service at Virginia Sq; Orange Line will have 20-min headways; downtown DC segment to use buses. See [Weekend service adjustments](https://www.wmata.com/service/status/details/2017-01-06-weekend-adjustments.cfm).</span>
+
 Registration is now open: [nvite.com/transpo17](https://nvite.com/transpo17/d325). Ticket prices are $45.
 Thanks to a generous grant from [AASHTO](http://www.transportation.org/),
 we have a limited number of student tickets at $25 (students must register using a ".edu" email,
