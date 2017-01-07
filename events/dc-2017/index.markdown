@@ -16,7 +16,9 @@ In the event of a weather delay, we will ❄️
 
 1. announce via [@transpocamp](https://twitter.com/transpocamp) (also watch [@mobilitylabteam](https://twitter.com/mobilitylabteam))
 2. post message on this page
-3. email attendees using the address they registered with via [nVite](nvite.com/transpo17/). 
+3. email attendees using the address they registered with via [nVite](nvite.com/transpo17/).
+
+As sessions are added to the Board, we will update the schedule online: [tiny.cc/tcamp17](http://tiny.cc/tcamp17)
 
 Registration is now open: [nvite.com/transpo17](https://nvite.com/transpo17/d325). Ticket prices are $45.
 Thanks to a generous grant from [AASHTO](http://www.transportation.org/),
@@ -65,7 +67,7 @@ For WiFi access at GMU, select the MASON network, then go to [itservices.gmu.edu
 ``02:20pm   Period 3``<br>
 ``03:30pm   Period 4``<br>
 ``04:40pm   Period 5``<br>
-``06:00pm   Reception``<br>
+``05:50pm   Reception``<br>
 ``08:00pm   End``
 
 ### Session Proposals
