@@ -8,11 +8,7 @@ title: TransportationCamp DC 2017
 published: true
 ---
 The 6th annual TransportationCamp in Washington, DC, is Saturday, January 7, 2017.
-We'll be returning to Founders Hall, in George Mason University's [Arlington Campus](http://arlington.gmu.edu/).
-
-<span style="color: red">Metro alert: No Silver Line service at Virginia Sq; Orange Line will have 20-min headways; downtown DC segment to use buses. See [Weekend service adjustments](https://www.wmata.com/service/status/details/2017-01-06-weekend-adjustments.cfm).</span>
-
-It is cold but there is no weather delay! ❄️ 
+We'll be returning to Founders Hall, in George Mason University's [Arlington Campus](http://arlington.gmu.edu/). 
 
 As sessions are added to the Board, we will update the schedule online: [tiny.cc/tcamp17](http://tiny.cc/tcamp17)
 
@@ -20,7 +16,6 @@ Registration is now open: [nvite.com/transpo17](https://nvite.com/transpo17/d325
 Thanks to a generous grant from [AASHTO](http://www.transportation.org/),
 we have a limited number of student tickets at $25 (students must register using a ".edu" email,
 and must bring ID to the registration desk).
-<span style="color: red; font-style: italic">[Student tickets have sold out.]</span>
 
 TransportationCamp DC happens the Saturday before the National Academy of Sciences' [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting/). We
 attract over 400 industry thought leaders, young professionals, and students from around the country.
