@@ -130,5 +130,3 @@ for news about this event and other TransportationCamps as they are announced.
 <a href="https://www.flickr.com/photos/mvjantzen/15663480523/" title="The Board"><img src="https://farm9.staticflickr.com/8641/15663480523_4180b79746_m.jpg" width="198" height="132" alt="TransportationCamp DC 2015"></a>
 <a href="https://www.flickr.com/photos/mvjantzen/16281595951/" title="Founders Hall"><img src="https://farm8.staticflickr.com/7512/16281595951_b0d6039a92_m.jpg" width="198" height="132" alt="TransportationCamp DC 2015"></a>
 </p>
-
-<script async src="//widgets.nvite.com/1.6/tickets.js" data-resource="d325"></script>
