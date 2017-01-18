@@ -11,4 +11,4 @@ published: true
 
 For more information, contact Dwight Mengel at Dwight.mengel@dfa.state.ny.us or 607-274-5605.
 
-<img src="cornell.png" style="textAlign:center;width:557px;height:133px;">
+<img src="logo.png" style="textAlign:center;width:557px;height:133px;">
