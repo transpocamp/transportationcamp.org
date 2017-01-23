@@ -167,6 +167,11 @@
   url: /events/ithaca-2017
   background_img: ithaca-cornell.jpg
 
+- title: South 2017
+  date: 2017-03-25 23:59:59
+  url: /events/south-2017
+  background_img: south-2017.jpg
+
 - title: Toronto 2017
   date: 2017-07-30 23:59:59
   url: /events/toronto
