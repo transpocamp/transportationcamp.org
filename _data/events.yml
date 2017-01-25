@@ -172,6 +172,11 @@
   url: /events/south-2017
   background_img: south-2017.jpg
 
+- title: Great Lakes 2017
+  date: 2017-06-11 23:59:59
+  url: /events/detroit
+  background_img: detroit-airport.jpg
+
 - title: Toronto 2017
   date: 2017-07-30 23:59:59
   url: /events/toronto
