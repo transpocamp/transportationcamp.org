@@ -3,7 +3,7 @@ author: Michael Schade
 comments: false
 date: 2017-01-21 12:00:00+00:00
 layout: event
-slug: "detroit"
+slug: "detroit-2017"
 title: TransportationCamp Great Lakes 2017
 wordpress_id:
 published: true
