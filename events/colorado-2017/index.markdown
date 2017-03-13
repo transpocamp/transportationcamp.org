@@ -9,7 +9,7 @@ published: true
 ---
 Save the Date!
 
-TransportationCamp Colorado is back for its second year, Saturday June 3, 2017 at [CU Denver](http://www.ucdenver.edu/).
+TransportationCamp Colorado is back for its second year, Saturday June 3, 2017 at [CU&nbsp;Denver](http://www.ucdenver.edu/).
 More details coming soon. Follow us on Twitter [@TranspoCampCO](https://twitter.com/TranspoCampCO) too.
 
 Email us with questions or media/sponsorship inquiries at <transpocampCO@gmail.com>.
