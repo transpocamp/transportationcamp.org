@@ -27,7 +27,7 @@ published: true
 * **Room 123**: GTFS for the Rest of Us / GTFS Best Practices
 * **Room 125**: Taking Transit Scalable Urbanism to the Next Level
 * **Room 127**: Design your Own Bus Route
-* **Room 129**: MARTA Light Rail: Built Today, Operational Tomorrow
+* **Room 129**: Greyhound Could be Not Unbelievably Unbearable if...
 * **Room 131**: Transportation Behavior and Mode Shift
 * **Room 262**: Trail/Transit Oriented Development
 
@@ -39,7 +39,7 @@ published: true
 * **Room 127**: How about Redesigning Bus Maps?
 * **Room 129**: Lessons Learned from the Atlanta Streetcar
 * **Room 131**: Resilience and Climate Change: Adaptation of Transport Infrastructure
-* **Room 262**: Greyhound Could be Not Unbelievably Unbearable if...
+* **Room 262**: MARTA Light Rail: Built Today, Operational Tomorrow
 
 #### 4:00 - 5:00
 
