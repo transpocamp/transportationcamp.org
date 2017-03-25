@@ -9,6 +9,48 @@ wordpress_id:
 published: true
 ---
 
-Save the Date! TransportationCamp South is returning to Atlanta on **Saturday, March 25, 2017**. Once again we will be hosted by Georgia Tech at the Clough Undergraduate Learning Commons. **Sign up today at [transpocampsouth2017.eventbrite.com](http://transpocampsouth2017.eventbrite.com)**. 
+## Live Schedule
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3316.4601498978436!2d-84.396048!3d33.7746136!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f50489e24c4cc7%3A0x2f07c28c3abda31b!2sClough+Undergraduate+Learning+Commons!5e0!3m2!1sen!2sus!4v1430236093920" width="640" height="320" frameborder="0" style="border:0"></iframe>
+#### 11:15 - 12:15
+
+* **Room 102**: North Ave Smart Corridor
+* **Room 123**: Vision Zero and Pedestrian Improvements
+* **Room 125**: The Future of Smart Transit
+* **Room 127**: Ethics of Driverless Cars
+* **Room 129**: Better Transit Alerts
+* **Room 131**: Increasing Access to Intermodal Data
+* **Room 262**: Nature ITP
+
+#### 1:30 - 2:30
+
+* **Room 102**:
+* **Room 123**:
+* **Room 125**:
+* **Room 127**:
+* **Room 129**:
+* **Room 131**:
+* **Room 262**:
+
+#### 2:45 - 3:45
+
+* **Room 102**:
+* **Room 123**:
+* **Room 125**:
+* **Room 127**:
+* **Room 129**:
+* **Room 131**:
+* **Room 262**:
+
+#### 4:00 - 5:00
+
+* **Room 102**:
+* **Room 123**:
+* **Room 125**:
+* **Room 127**:
+* **Room 129**:
+* **Room 131**:
+* **Room 262**:
+
+Session
+
+Save the Date! TransportationCamp South is returning to Atlanta on **Saturday, March 25, 2017**. Once again we will be hosted by Georgia Tech at the Clough Undergraduate Learning Commons. **Sign up today at [transpocampsouth2017.eventbrite.com](http://transpocampsouth2017.eventbrite.com)**.
