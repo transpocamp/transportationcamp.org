@@ -51,6 +51,10 @@ published: true
 * **Room 131**:
 * **Room 262**:
 
-Session
+### Event Sponsors
 
-Save the Date! TransportationCamp South is returning to Atlanta on **Saturday, March 25, 2017**. Once again we will be hosted by Georgia Tech at the Clough Undergraduate Learning Commons. **Sign up today at [transpocampsouth2017.eventbrite.com](http://transpocampsouth2017.eventbrite.com)**.
+![sponsors](https://cdn.evbuc.com/eventlogos/23389130/sponsors-1.png)
+
+### Event Organizers
+
+![organizers](https://cdn.evbuc.com/eventlogos/23389130/tcs17organizers2860029-1.png)
