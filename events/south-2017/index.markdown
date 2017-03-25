@@ -33,23 +33,24 @@ published: true
 
 #### 2:45 - 3:45
 
-* **Room 102**:
-* **Room 123**:
-* **Room 125**:
-* **Room 127**:
-* **Room 129**:
-* **Room 131**:
-* **Room 262**:
+* **Room 102**: Disrupting Public Engagement in Transportation Planning
+* **Room 123**: Open Transportation Data
+* **Room 125**: Mini-TODs to Influence Urban Form and Future Development
+* **Room 127**: How about Redesigning Bus Maps?
+* **Room 129**: Lessons Learned from the Atlanta Streetcar
+* **Room 131**: Resilience and Climate Change: Adaptation of Transport Infrastructure
+* **Room 262**: Greyhound Could be Not Unbelievably Unbearable if...
 
 #### 4:00 - 5:00
 
-* **Room 102**:
-* **Room 123**:
-* **Room 125**:
-* **Room 127**:
-* **Room 129**:
-* **Room 131**:
-* **Room 262**:
+* **Room 102**: Integrating Bike Share into Atlanta's Civic Fabric
+* **Room 123**: OneBusAway Task Force
+* **Room 125**: Advance Atlanta
+* **Room 127**: Connected Autonomous Vehicles
+* **Room 129**: Co-opting Vanpools: Using Existing Tools to Connect Underserved Communities
+* **Room 131**: How to Solve Wheelchair-Accessible Transportation
+* **Room 262**: Generational Change in Transportation Priorities
+* **Room 325**: Bankhead Bridge
 
 ### Event Sponsors
 
