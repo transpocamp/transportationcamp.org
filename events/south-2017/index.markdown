@@ -59,3 +59,7 @@ published: true
 ### Event Organizers
 
 ![organizers](https://cdn.evbuc.com/eventlogos/23389130/tcs17organizers2860029-1.png)
+
+### Event Partners
+
+![partners](https://cdn.evbuc.com/eventlogos/23389130/partnersfinal2860029.png)
