@@ -7,9 +7,9 @@ slug: "colorado-2016"
 title: TransportationCamp Colorado 2017
 published: true
 ---
-The 2nd annual TransportationCamp Colorado, is **Saturday, June 3, 2017**, in Downtown Denver.
+The 2nd annual TransportationCamp Colorado, is __Saturday, June 3, 2017__, in Downtown Denver.
 
-**Early bird registration is open** now through May 12, 2017. Discounted student tickets
+__Early bird registration is open__ now through May 12, 2017. Discounted student tickets
 are also available. [Click here](https://nvite.com/TranspoCamp/vzopn9) to purchase your tickets for TransportationCamp CO 2017.
 
 Do you have creative ideas for how Colorado’s cities can grow and move more
