@@ -32,19 +32,19 @@ their ideas for sessions to lead. To speed up assembling the agenda, the week be
 Camp registered attendees will be invited to submit session proposals for the first period.
 This provides a unique opportunity for you to contribute to and shape the agenda. Bring
 your ideas and lead a session! Find some more information about how
-TransportationCamps work and how to prepare a compelling session here.
+TransportationCamps work and how to prepare a compelling session [here](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/).
 
 Like last year, the agenda will include one transport data show & tell session.
 Attendees are invited to present an analysis, visualization or app they’ve built based on
 (preferably) Colorado transport data. A sample of datasets to get you started: bikeshare
-trip data from Denver BCycle; GTFS resources for RTD and Transfort; and city, county &
-state data from Open Colorado and Colorado Information Marketplace.
+trip data from [Denver BCycle](http://denver.bcycle.com/docs/librariesprovider34/default-document-library/2016denverbcycletripdata_public.xlsx?sfvrsn=2); GTFS resources for [RTD](http://www.rtd-denver.com/Developer.shtml) and [Transfort](http://www.ridetransfort.com/developers); and city, county &
+state data from [Open Colorado](http://data.opencolorado.org/) and [Colorado Information Marketplace](https://data.colorado.gov/browse?category=Transportation).
 
 ### Tentative Schedule
 
-8:45am – Registration, coffee
-9:30am - 3:45pm – TransportationCamp Colorado
-4pm – Happy hour (location TBD)
+8:45am – Registration, coffee  
+9:30am - 3:45pm – TransportationCamp Colorado  
+4pm – Happy hour (location TBD)  
 
 ### Venue
 
@@ -59,6 +59,6 @@ urban transportation consultant, with the support of several volunteers.
 
 ### Contact Us
 
-Email us with questions or media/sponsorship inquiries at <transpocampCO@gmail.com>. 
+Email us with questions or media/sponsorship inquiries at <transpocampCO@gmail.com>.
 
 <img src="tcampco.jpg">
