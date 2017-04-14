@@ -10,7 +10,8 @@ published: true
 The 2nd annual TransportationCamp Colorado, is __Saturday, June 3, 2017__, in Downtown Denver.
 
 __Early bird registration is open__ now through May 12, 2017. Discounted student tickets
-are also available. [Click here](https://nvite.com/TranspoCamp/vzopn9) to purchase your tickets for TransportationCamp CO 2017.
+are also available.
+[Click here](https://www.eventbrite.com/e/transportationcamp-colorado-2017-tickets-33699196203) to purchase your tickets for TransportationCamp CO 2017.
 
 Do you have creative ideas for how Colorado’s cities can grow and move more
 sustainably? Do you wish the Front Range had more ride/bike/carsharing, open data and
@@ -48,9 +49,9 @@ state data from [Open Colorado](http://data.opencolorado.org/) and [Colorado Inf
 
 ### Venue
 
-TransportationCamp CO 2017 will be held at [CU&nbsp;Denver](http://www.ucdenver.edu/)’s campus in Downtown Denver.
+TransportationCamp CO 2017 will be held at [CU&nbsp;Denver](http://www.ucdenver.edu/)’s campus in Downtown Denver, in the Student Commons Building.
 
-The venue is near the ["University" RTD Light Rail station](http://www.rtd-denver.com/LightRail_Map.shtml#universityofdenver), and is also accessible by other modes.
+The venue is near the [Auraria West and Theatre District/Convention Center light rail stations](http://www.rtd-denver.com/LightRail_Map.shtml#aurariawest). It’s also accessible by the [Flatiron Flyer FF1 via Union Station](http://www3.rtd-denver.com/schedules/getSchedule.action?runboardId=2096&routeId=FF&routeType=30&branch=FF1&&direction=E-Bound&serviceType=1#day), [Denver Bicycle](https://denver.bcycle.com/pages-in-top-navigation/map), [Car2Go](https://www.car2go.com/US/en/denver/where/), [Uber](https://www.uber.com/fare-estimate/) and [Lyft](https://www.lyft.com/cities/denver-co).
 
 ### Organizers
 
