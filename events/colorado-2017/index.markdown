@@ -53,12 +53,16 @@ TransportationCamp CO 2017 will be held at [CU&nbsp;Denver](http://www.ucdenver.
 
 The venue is near the [Auraria West and Theatre District/Convention Center light rail stations](http://www.rtd-denver.com/LightRail_Map.shtml#aurariawest). It’s also accessible by the [Flatiron Flyer FF1 via Union Station](http://www3.rtd-denver.com/schedules/getSchedule.action?runboardId=2096&routeId=FF&routeType=30&branch=FF1&&direction=E-Bound&serviceType=1#day), [Denver Bicycle](https://denver.bcycle.com/pages-in-top-navigation/map), [Car2Go](https://www.car2go.com/US/en/denver/where/), [Uber](https://www.uber.com/fare-estimate/) and [Lyft](https://www.lyft.com/cities/denver-co).
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3067.6999888964424!2d-105.0045211846243!3d39.746389479448645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876c78c58a72e987%3A0x54a48f33430fc01c!2s1201+Larimer+St%2C+Denver%2C+CO+80204!5e0!3m2!1sen!2sus!4v1492359290579" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 ### Organizers
 
 TransportationCamp CO 2016 is being organized by [Aileen Carrigan](http://www.bespoketransit.com/), a Boulder-based
 urban transportation consultant, with the support of several volunteers.
 
 ### Contact Us
+
+Follow us on Twitter at [@transpocampco](https://twitter.com/transpocampco).
 
 Email us with questions or media/sponsorship inquiries at <transpocampCO@gmail.com>.
 
