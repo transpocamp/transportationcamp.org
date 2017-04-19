@@ -62,7 +62,7 @@ urban transportation consultant, with the support of several volunteers.
 
 ### Contact Us
 
-Follow us on Twitter at [@transpocampco](https://twitter.com/transpocampco).
+Follow us on Twitter at [@transpocampco](https://twitter.com/transpocampco). We'll use the [#transpo17](https://twitter.com/hashtag/transpo17) hashtag.
 
 Email us with questions or media/sponsorship inquiries at <transpocampCO@gmail.com>.
 
