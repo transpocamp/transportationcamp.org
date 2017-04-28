@@ -11,4 +11,6 @@ The [Institute of Transportation Engineers](http://www.ite.org/) (ITE) is organi
 Toronto's first TransportationCamp, to be held July 30, 2017 in conjunction with
 the [Joint ITE/CITE 2017 Annual Meeting and Exhibit](http://www.ite.org/annualmeeting/).
 
-Stay tuned for details! For more information, contact Colleen Agan at [cagan@ite.org](cagan@ite.org).
+Details at [ite.org/annualmeeting/transportationcamp](http://www.ite.org/annualmeeting/transportationcamp/).
+
+For more information, contact Colleen Agan at [cagan@ite.org](cagan@ite.org).
