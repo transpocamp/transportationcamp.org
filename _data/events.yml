@@ -168,11 +168,6 @@
   register_url: http://transpocampsouth2017.eventbrite.com
   background_img: south-2017.jpg
 
-- title: Colorado 2017
-  date: 2017-06-03 23:59:59
-  url: /events/colorado-2017
-  background_img: colorado-2017.jpg
-
 - title: Great Lakes 2017
   date: 2017-06-11 23:59:59
   url: /events/detroit
