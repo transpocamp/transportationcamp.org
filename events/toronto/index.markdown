@@ -13,4 +13,4 @@ the [Joint ITE/CITE 2017 Annual Meeting and Exhibit](http://www.ite.org/annualme
 
 Details at [ite.org/annualmeeting/transportationcamp](http://www.ite.org/annualmeeting/transportationcamp/).
 
-For more information, contact Colleen Agan at [cagan@ite.org](cagan@ite.org).
+For more information, contact Colleen&nbsp;Agan at [cagan@ite.org](cagan@ite.org).
