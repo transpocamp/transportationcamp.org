@@ -185,6 +185,11 @@
   url: /events/toronto
   background_img: toronto.jpg
 
+- title: Seattle 2017
+  date: 2017-07-30 23:59:59
+  url: /events/seattle
+  background_img: seattle.jpg
+
 - title: NYC 2017
   date: 2017-10-21 23:59:59
   url: /events/nyc-2017
