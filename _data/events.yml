@@ -188,6 +188,7 @@
 - title: Seattle 2017
   date: 2017-07-30 23:59:59
   url: /events/seattle
+  register_url: https://seattletransportationcamp.eventbrite.com/
   background_img: seattle.jpg
 
 - title: NYC 2017
