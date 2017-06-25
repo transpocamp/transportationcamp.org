@@ -7,8 +7,8 @@ slug: "seattle"
 title: TransportationCamp Seattle 2017
 published: true
 ---
-**When:** Saturday, August 12, 2017    |    10:00 AM - 5:30 PM<br>
-**Where:** Offices of MG2, 1101 2nd Ave #100, Seattle, WA 98101<br>
+**When:** Saturday, August 12, 2017 | 10:00 AM - 5:30 PM<br>
+**Where:** Offices of [MG2](https://mg2.com/), 1101 2nd Ave #100, Seattle, WA 98101<br>
 **Who:** Transportation nerds, enthusiasts, and professionals of all stripes!
 
 **Registration:** [seattletransportationcamp.eventbrite.com](https://seattletransportationcamp.eventbrite.com)
