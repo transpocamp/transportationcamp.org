@@ -22,7 +22,7 @@ and read the notes that were taken.
 
 ### Location
 
-We'll be returning this year to Founders Hall, in GMU's [Arlington Campus](http://arlington.gmu.edu/) ([campus map](http://info.gmu.edu/Maps/ArlingtonMap15.pdf)).
+We'll be returning to Founders Hall, in GMU's [Arlington Campus](http://arlington.gmu.edu/) ([campus map](http://info.gmu.edu/Maps/ArlingtonMap15.pdf)).
 The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get to:
 
   * Founders Hall is two blocks east of the [Virginia Square-GMU](http://www.wmata.com/rail/station_detail.cfm?station_id=98) Metro station (on the Orange and Silver lines).
@@ -34,7 +34,6 @@ The address is 3351 Fairfax Dr, Arlington, VA 22201. The campus is easy to get t
 
 <iframe align="center" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1552.8558231973786!2d-77.10089523808!3d38.88483864213981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b6828ba038d9%3A0xdc8b8bb98b169604!2sGeorge+Mason+University-Arlington+Campus!5e0!3m2!1sen!2sus!4v1412725299805" width="680" height="340" frameborder="0" style="border:0"></iframe>
 
-For WiFi access at GMU, select the MASON network, then go to [itservices.gmu.edu](http://itservices.gmu.edu/) to trigger the self-registration portal, where you can create an account.   
 
 TransportationCamp DC 2018 is being organized by [Mobility Lab](http://mobilitylab.org/) with help from
 the [Center for Transportation Public-Private Partnership Policy at the George Mason University School of Policy, Government and International Affairs](http://p3policy.gmu.edu/).
@@ -46,4 +45,3 @@ for news about this event and other TransportationCamps as they are announced.
 <a href="https://www.flickr.com/photos/mvjantzen/32258714465/" title="TransportationCamp DC"><img src="https://c1.staticflickr.com/1/559/32258714465_81508fe2ca_n.jpg" width="320" height="213" alt="TransportationCamp DC"></a>
 <a href="https://www.flickr.com/photos/mvjantzen/31417146734/" title="TransportationCamp DC"><img src="https://c1.staticflickr.com/1/456/31417146734_4a18f26055_n.jpg" width="320" height="213" alt="TransportationCamp DC"></a>
 </p>
-/play nyan
