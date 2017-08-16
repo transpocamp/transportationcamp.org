@@ -9,3 +9,6 @@ published: true
 TransportationCamp NYC, the original home of Camp, is coming back for its third straight year, this October 21st in Brooklyn! As there are more challenges and opportunities than ever for the sector and our region, we look forward to seeing you at Camp this fall!
 
 As more details become available, stay tuned to this page and [@TranspoCampNYC](https://twitter.com/transpocampnyc)!
+
+
+**Interested in helping to make TransportationCamp NYC 2017 possible? [Sponsorship opportunities are available.](TransportationCampNYCSponsorship2017.pdf)**
