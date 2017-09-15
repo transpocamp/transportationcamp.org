@@ -197,6 +197,12 @@
   register_url: https://www.eventbrite.com/e/transportationcamp-nyc-2017-tickets-34557142343
   background_img: nyc-2017.jpg
 
+- title: DC 2018
+  date: 2018-01-06 23:59:59
+  url: /events/dc-2018
+  register_url: https://nvite.com/Transpo18
+  background_img: dc-2018.jpg
+
 - title: South 2018
   date: 2018-02-24 23:59:59
   url: /events/south-2018
