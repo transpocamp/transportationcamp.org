@@ -9,7 +9,7 @@ published: true
 ---
 Each year, TransportationCamp DC brings together a sell-out crowd of 500 thinkers and doers in the fields of transportation and technology. It’s not your traditional conference. In addition to talks and presentations from big names in the field, the heart of TransportationCamp is sessions and activities led by attendees themselves. Held on the Saturday before Transportation Research Board Annual Meeting, it is a high-energy, exciting day of presentations, panels, and networking opportunities—all created and led by the diverse innovators who attend.
 
-Join us for DC’s 7th annual event on **Saturday, January 6, 2017**. We’ll be returning to Founders Hall, at George Mason University’s Arlington Campus.
+Join us for DC’s 7th annual event on **Saturday, January 6, 2018**. We’ll be returning to Founders Hall, at George Mason University’s Arlington Campus.
 
 Tickets are $50 each and include breakfast, lunch, and a brief reception with food and drink after the event.
 
