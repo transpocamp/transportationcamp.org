@@ -49,6 +49,7 @@ If you have any questions, reach out at [nyc@transportationcamp.org](mailto:nyc@
 #### Gold
 
 <div class="sponsors">
+<div class="sponsor"><a href="http://motivateco.com/"><img src="sponsors/gold/motivate.png" alt="Motivate"></a></div>
 <div class="sponsor"><a href="http://samschwartz.com/"><img src="sponsors/gold/sam_schwartz.jpg" alt="Sam Schwartz Engineering"></a></div>
 </div>
 
