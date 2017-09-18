@@ -43,6 +43,7 @@ If you have any questions, reach out at [nyc@transportationcamp.org](mailto:nyc@
 
 <div class="sponsors">
 <div class="sponsor"><a href="https://www.cubic.com/Transportation"><img src="sponsors/platinum/cubic.jpg" alt="Cubic"></a></div>
+<div class="sponsor"><a href="http://transitcenter.org/"><img src="sponsors/platinum/transitcenter.png" alt="TransitCenter"></a></div>
 </div>
 
 #### Gold
@@ -54,6 +55,8 @@ If you have any questions, reach out at [nyc@transportationcamp.org](mailto:nyc@
 #### Silver
 
 <div class="sponsors">
+<div class="sponsor"><a href="https://www.akrf.com/"><img src="sponsors/silver/akrf.jpg" alt="AKRF, Inc."></a></div>
+<div class="sponsor"><a href="https://www.nycedc.com/"><img src="sponsors/silver/edc.png" alt="NYCEDC"></a></div>
 <div class="sponsor"><a href="http://www.gpinet.com/"><img src="sponsors/silver/gpi.png" alt="GPI"></a></div>
 </div>
 
@@ -67,7 +70,7 @@ If you have any questions, reach out at [nyc@transportationcamp.org](mailto:nyc@
 ### Hosts
 
 <div class="sponsors">
-<div class="sponsor"><a href="http://engineering.nyu.edu/"><img src="hosts/nyu_tandon.png" alt="NYU Tandon School of Engineering"></a></div>
+<div class="sponsor"><a href="http://c2smart.engineering.nyu.edu/"><img src="hosts/c2smart.png" alt="Connected Cities for Smart Mobility toward Accessible and Resilient Transportation (C2SMART)"></a></div>
 </div>
 
 <style type="text/css">
@@ -79,5 +82,6 @@ If you have any questions, reach out at [nyc@transportationcamp.org](mailto:nyc@
   max-width: 200px;
   display: inline-block;
   padding: 0.5em;
+  vertical-align: middle;
 }
 </style>
