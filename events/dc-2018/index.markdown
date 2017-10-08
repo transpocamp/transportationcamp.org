@@ -13,8 +13,6 @@ Join us for DC’s 7th annual event on **Saturday, January 6, 2018**. We’ll be
 
 Tickets are $50 each and include breakfast, lunch, and a brief reception with food and drink after the event.
 
-[REGISTER NOW](https://nvite.com/Transpo18)
-
 <script async src="//widgets.nvite.com/1.6/tickets.js" data-resource="7wyy1p"></script>
 
 ### Propose a Session
