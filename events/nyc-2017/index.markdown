@@ -41,21 +41,21 @@ If you have any questions, reach out at [nyc@transportationcamp.org](mailto:nyc@
 
 #### Platinum
 
-<div class="sponsors">
+<div class="sponsors platinum">
 <div class="sponsor"><a href="https://www.cubic.com/Transportation"><img src="sponsors/platinum/cubic.jpg" alt="Cubic"></a></div>
 <div class="sponsor"><a href="http://transitcenter.org/"><img src="sponsors/platinum/transitcenter.png" alt="TransitCenter"></a></div>
 </div>
 
 #### Gold
 
-<div class="sponsors">
+<div class="sponsors gold">
 <div class="sponsor"><a href="http://motivateco.com/"><img src="sponsors/gold/motivate.png" alt="Motivate"></a></div>
 <div class="sponsor"><a href="http://samschwartz.com/"><img src="sponsors/gold/sam_schwartz.jpg" alt="Sam Schwartz Engineering"></a></div>
 </div>
 
 #### Silver
 
-<div class="sponsors">
+<div class="sponsors silver">
 <div class="sponsor"><a href="https://www.akrf.com/"><img src="sponsors/silver/akrf.jpg" alt="AKRF, Inc."></a></div>
 <div class="sponsor"><a href="https://www.nycedc.com/"><img src="sponsors/silver/edc.png" alt="NYCEDC"></a></div>
 <div class="sponsor"><a href="http://www.gpinet.com/"><img src="sponsors/silver/gpi.png" alt="GPI"></a></div>
@@ -63,8 +63,11 @@ If you have any questions, reach out at [nyc@transportationcamp.org](mailto:nyc@
 
 #### Bronze
 
-<div class="sponsors">
+<div class="sponsors bronze">
+<div class="sponsor"><a href="https://www.camsys.com/"><img src="sponsors/bronze/camsys.png" alt="Cambridge Systematics"></a></div>
+<div class="sponsor"><a href="https://completegeorge.org/"><img src="sponsors/bronze/completegeorge.png" alt="Complete George"></a></div>
 <div class="sponsor"><a href="https://ite-metsection.org/"><img src="sponsors/bronze/ite_met.png" alt="ITE Met Section"></a></div>
+<div class="sponsor"><a href="http://kmjinc.com/"><img src="sponsors/bronze/kmj.jpg" alt="KMJ Consulting Inc."></a></div>
 <div class="sponsor"><a href="http://www.lkma.com/"><img src="sponsors/bronze/lkma.jpg" alt="L. K. McLean Associates, P.C."></a></div>
 </div>
 
@@ -80,9 +83,24 @@ If you have any questions, reach out at [nyc@transportationcamp.org](mailto:nyc@
 }
 
 .sponsor {
-  max-width: 200px;
   display: inline-block;
   padding: 0.5em;
   vertical-align: middle;
+}
+
+.platinum .sponsor {
+  max-width: 600px;
+}
+
+.gold .sponsor {
+  max-width: 250px;
+}
+
+.silver .sponsor {
+  max-width: 200px;
+}
+
+.bronze .sponsor {
+  max-width: 175px;
 }
 </style>
