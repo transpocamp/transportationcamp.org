@@ -13,7 +13,8 @@ Join us for DC’s 7th annual event on **Saturday, January 6, 2018**. We’ll be
 
 Tickets are $50 each and include breakfast, lunch, and a brief reception with food and drink after the event.
 
-<script async src="//widgets.nvite.com/1.6/tickets.js" data-resource="7wyy1p"></script>
+<script async src="//widgets.nvite.com/1.6/tickets.js" data-resource="7wyy1p"
+style="marginTop:-40px"></script>
 
 ### Propose a Session
 Help shape the conversation around the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment, and a host of other issues by leading a session at this year’s TransportationCamp DC!
