@@ -12,10 +12,9 @@ Each year, TransportationCamp DC brings together a sell-out crowd of 500 thinker
 Join us for DC’s 7th annual event on **Saturday, January 6, 2018**. We’ll be returning to Founders Hall, at George Mason University’s Arlington Campus.
 
 Tickets are $50 each and include breakfast, lunch, and a brief reception with food and drink after the event.
-
-<script async src="//widgets.nvite.com/1.6/tickets.js" data-resource="7wyy1p"
-style="marginTop:-40px"></script>
-
+<div style="marginTop:-90px;backgroundColor:pink">
+<script async src="//widgets.nvite.com/1.6/tickets.js" data-resource="7wyy1p"></script>
+</div>
 ### Propose a Session
 Help shape the conversation around the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment, and a host of other issues by leading a session at this year’s TransportationCamp DC!
 
