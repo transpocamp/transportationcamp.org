@@ -61,7 +61,7 @@ But that’s still not enough!
 
 Mobility Lab has teamed up with the Transportation Research Board to deliver a fun-filled weekend immediately before the full slate of TRB sessions. The weekend kicks off with your favorite unconference, TransportationCamp DC 2018, and is followed by a series of  professional development opportunities including the Careers in Motion Networking Fair, TRB Welcome and Attendee Orientation Session, Sunday Expo, and Reception.
 
-To learn more and register visit [transportationweekend.org](http://www.transportationweekend.org).
+To learn more, see the [Transportation Weekend](http://transportationcamp.org/events/dc-2018/transportationweekend.html) page.
 
 
 ### Our Sponsors
