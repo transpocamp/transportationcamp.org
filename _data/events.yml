@@ -207,3 +207,8 @@
   date: 2018-02-24 23:59:59
   url: /events/south-2018
   background_img: south-2017.jpg
+
+- title: Philadelphia 2018
+  date: 2018-04-14 23:59:59
+  url: /events/philly2018
+  background_img: philly-septa.jpg
