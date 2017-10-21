@@ -9,6 +9,8 @@ published: true
 
 ##### October 21, 2017—NYU Tandon School of Engineering
 
+##### Joining us for Camp today? [View the board online here!](https://docs.google.com/spreadsheets/d/e/2PACX-1vTEKtPxGJKzL2go1h3s1AG1A0gDR2yCtA68AAiSWs_8gytc8CnhiMSYjShessGcP9Fc669EyM1f-mGG/pubhtml?gid=1321426310&single=true)
+
 TransportationCamp NYC 2017 will foster open conversation and collaboration between all parties interested in mobility and the radical changes the near-future promises in transportation.
 
 Our goal is to assemble planners, software developers, engineers, students, dreamers, professionals, and civic leaders for an exciting day of "un-conferencing." Unlike a traditional conference, the specific session topics are determined by participants, which provides each attendee an opportunity to lead and shape the event.
