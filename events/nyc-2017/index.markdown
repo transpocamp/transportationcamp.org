@@ -13,9 +13,42 @@ TransportationCamp NYC 2017 will foster open conversation and collaboration betw
 
 Our goal is to assemble planners, software developers, engineers, students, dreamers, professionals, and civic leaders for an exciting day of "un-conferencing." Unlike a traditional conference, the specific session topics are determined by participants, which provides each attendee an opportunity to lead and shape the event.
 
+### Schedule
+
+* 9:00AM: Doors open; breakfast in Pfizer Auditorium
+* 10:00AM: Welcome and Kick Off in Pfizer Auditorium
+* 10:15AM: Registration closes
+* 11:10AM: Session 1 - Classrooms in 6 MetroTech
+* 12:15PM: Lunch in EventSpace
+* 1:30PM: Session 2 - Classrooms in 6 MetroTech
+* 2:30PM: Session 3 - Classrooms in 6 MetroTech
+* 3:30PM: Snack in EventSpace
+* 4:00PM: Session 4 - Classrooms in 6 MetroTech
+* 5:00PM Happy Hour at Hill Country Brooklyn - 345 Adams, 2nd Floor (ADA Accessible)
+
+### Presenting?
+
+Thinking about presenting at a session? Many of the breakout rooms are equipped with a projector, so if you plan to propose a session and present, please bring a laptop. We'll supply a VGA cable for Windows and have a limited supply of adapters for Macs. Most breakout rooms will also have a whiteboard.
+
+We will be handing out session idea cards throughout registration. If you have an idea for a session, feel free to write it down in advance.
+
+### Social + WiFi
+
+#tcnyc17
+
+Twitter: @TranspoCampNYC
+
+WiFi Network: nyuguest
+
+Guest ID: TCNYC2017
+
+Password: TranspoCamp2017@NYU
+
+Keep in touch with our Twitter @TranspoCampNYC for all the latest news and updates about #TCNYC17
+
 ### Registration
 
-**[Registration for TransportationCamp NYC 2017 is open!](https://www.eventbrite.com/e/transportationcamp-nyc-2017-tickets-34557142343)**
+**[Registration for TransportationCamp NYC 2017 is almost sold out!](https://www.eventbrite.com/e/transportationcamp-nyc-2017-tickets-34557142343)**
 
 General admission is $25, and students attend FREE!
 
