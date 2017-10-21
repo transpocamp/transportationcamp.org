@@ -57,8 +57,9 @@ If you have any questions, reach out at [nyc@transportationcamp.org](mailto:nyc@
 
 <div class="sponsors silver">
 <div class="sponsor"><a href="https://www.akrf.com/"><img src="sponsors/silver/akrf.jpg" alt="AKRF, Inc."></a></div>
-<div class="sponsor"><a href="https://www.nycedc.com/"><img src="sponsors/silver/edc.png" alt="NYCEDC"></a></div>
+<div class="sponsor"><a href="http://www.futuremobilityvehicles.com/">Future Mobility Vehicles</a></div>
 <div class="sponsor"><a href="http://www.gpinet.com/"><img src="sponsors/silver/gpi.png" alt="GPI"></a></div>
+<div class="sponsor"><a href="https://www.nycedc.com/"><img src="sponsors/silver/edc.png" alt="NYCEDC"></a></div>
 </div>
 
 #### Bronze
