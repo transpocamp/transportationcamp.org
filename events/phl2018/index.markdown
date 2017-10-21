@@ -3,7 +3,7 @@ author: Michael Schade
 comments: false
 date: {}
 layout: event
-slug: "philly2018"
+slug: "phl2018"
 title: TransportationCamp PHL 2018
 published: true
 ---
@@ -29,3 +29,5 @@ We are pleased to host the inaugural TransportationCamp PHL on 4/14/2018, right 
     </div>
 </form>
 </div>
+
+Contact: [transportationcampphl@gmail.com](transportationcampphl@gmail.com) 
