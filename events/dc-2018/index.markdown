@@ -69,7 +69,7 @@ To learn more, see the [Transportation Weekend](http://transportationcamp.org/ev
 
 This year, we’re debuting exciting new sponsorship offerings, designed to maximise partner exposure and benefit. When you become a sponsor, you're engaging in direct conversations with the greatest minds and influencers in transportation from across the nation. You’re also showing your support to the transportation community and the work that these great innovators and researchers are doing.
 
-[LEARN MORE ABOUT BECOMING A TRANSPORTATIONCAMP DC 2018 SPONSOR](https://drive.google.com/drive/folders/0B8U8mNIU_GsnV2JWTnlOa2o3Zjg)
+[LEARN MORE ABOUT BECOMING A TRANSPORTATIONCAMP DC 2018 SPONSOR](https://drive.google.com/file/d/0B8U8mNIU_GsnLWg4b294Zk11WFk/view)
 
 ### Keep Up              
 Stay tuned to [@transpocamp](https://twitter.com/transpocamp) (and the [#transpo18](https://twitter.com/hashtag/transpo18) hashtag) for news about this event and other TransportationCamps as they are announced.
