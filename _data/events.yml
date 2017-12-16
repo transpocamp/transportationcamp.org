@@ -212,3 +212,13 @@
   date: 2018-04-14 23:59:59
   url: /events/phl2018
   background_img: philly-septa.png
+
+- title: New England 2018
+  date: 2018-04-21 23:59:59
+  url: /events/new-england-2018
+  background_img: newengland-stata.jpg
+
+- title: Baltimore 2018
+  date: 2018-05-12 23:59:59
+  url: /events/baltimore2018
+  background_img: baltimore.jpg
