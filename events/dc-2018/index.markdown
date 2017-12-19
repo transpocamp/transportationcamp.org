@@ -11,11 +11,8 @@ Each year, TransportationCamp DC brings together a sell-out crowd of 500 thinker
 
 Join us for DC’s 7th annual event on **Saturday, January 6, 2018**. We’ll be returning to Founders Hall, at George Mason University’s Arlington Campus.
 
-Tickets are $50 each and include breakfast, lunch, and a brief reception with food and drink after the event. Use the widget below or go directly to [nvite.com/Transpo18](https://nvite.com/Transpo18/).
-<div style="margin-top:-20px;min-height:20px">
-<!-- this is a style hack because nvite has way too much white space on top of their widget -->
-<script async src="//widgets.nvite.com/1.6/tickets.js" data-resource="7wyy1p"></script>
-</div>
+Tickets are $50 each and include breakfast, lunch, and a brief reception with food and drink after the event. Registration is at [nvite.com/Transpo18](https://nvite.com/Transpo18/).
+
 ### Propose a Session
 Help shape the conversation around the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment, and a host of other issues by leading a session at this year’s TransportationCamp DC!
 
