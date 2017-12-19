@@ -68,5 +68,15 @@ This year, we’re debuting exciting new sponsorship offerings, designed to maxi
 
 [LEARN MORE ABOUT BECOMING A TRANSPORTATIONCAMP DC 2018 SPONSOR](https://drive.google.com/file/d/0B8U8mNIU_GsnLWg4b294Zk11WFk/view)
 
+Our sponsors for 2018 are:
+
+GOLD: [Uber](https://www.uber.com)
+
+SILVER: TransitCenter
+
+BRONZE: APTA, Lyft, Car2go, Zipcar, AASHTO
+
+SUPPORTING: Kimley-Horne, TransitScreen, Cubic
+
 ### Keep Up              
 Stay tuned to [@transpocamp](https://twitter.com/transpocamp) (and the [#transpo18](https://twitter.com/hashtag/transpo18) hashtag) for news about this event and other TransportationCamps as they are announced.
