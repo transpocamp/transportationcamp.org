@@ -72,9 +72,9 @@ GOLD: [Uber](https://www.uber.com)
 
 SILVER: [TransitCenter](http://transitcenter.org/)
 
-BRONZE: [APTA](https://www.apta.com/), [Lyft](https://www.lyft.com/), [Car2go](https://www.car2go.com), [Zipcar](http://www.zipcar.com/), [AASHTO](https://www.transportation.org/)
+BRONZE: [APTA](https://www.apta.com/), [Lyft](https://www.lyft.com/), [car2go](https://www.car2go.com), [Zipcar](http://www.zipcar.com/), [AASHTO](https://www.transportation.org/)
 
-SUPPORTING: [Kimley-Horne](https://www.kimley-horn.com/), [TransitScreen](https://transitscreen.com/), [Cubic](https://www.cubic.com/)
+SUPPORTING: [Kimley-Horn](https://www.kimley-horn.com/), [TransitScreen](https://transitscreen.com/), [Cubic Corporation](https://www.cubic.com/)
 
 [LEARN MORE ABOUT BECOMING A TRANSPORTATIONCAMP DC 2018 SPONSOR](https://drive.google.com/file/d/0B8U8mNIU_GsnLWg4b294Zk11WFk/view)
 
