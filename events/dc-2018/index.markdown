@@ -62,21 +62,21 @@ To learn more, see the [Transportation Weekend](http://transportationcamp.org/ev
 
 
 ### Our Sponsors
-[Mobility Lab](http://mobilitylab.org/), Arlington County’s living laboratory for research and development, hosts and organizes the event each year. But the strength of TransportationCamp DC is in the prestige and diversity of its sponsor organizations. Past partners include APTA, AASHTO, the Eno Center for Transportation, ITE, TransitCenter, TRB, Young Professionals in Transportation, and more.
+[Mobility Lab](http://mobilitylab.org/), Arlington County’s living laboratory for research and development, hosts and organizes the event each year. But the strength of TransportationCamp DC is in the prestige and diversity of its sponsor organizations.
 
-This year, we’re debuting exciting new sponsorship offerings, designed to maximise partner exposure and benefit. When you become a sponsor, you're engaging in direct conversations with the greatest minds and influencers in transportation from across the nation. You’re also showing your support to the transportation community and the work that these great innovators and researchers are doing.
-
-[LEARN MORE ABOUT BECOMING A TRANSPORTATIONCAMP DC 2018 SPONSOR](https://drive.google.com/file/d/0B8U8mNIU_GsnLWg4b294Zk11WFk/view)
+<img src="tcamp2018sponsors.png">
 
 Our sponsors for 2018 are:
 
 GOLD: [Uber](https://www.uber.com)
 
-SILVER: TransitCenter
+SILVER: [TransitCenter](http://transitcenter.org/)
 
-BRONZE: APTA, Lyft, Car2go, Zipcar, AASHTO
+BRONZE: [APTA](https://www.apta.com/), [Lyft](https://www.lyft.com/), [Car2go](https://www.car2go.com), [Zipcar](http://www.zipcar.com/), [AASHTO](https://www.transportation.org/)
 
-SUPPORTING: Kimley-Horne, TransitScreen, Cubic
+SUPPORTING: [Kimley-Horne](https://www.kimley-horn.com/), [TransitScreen](https://transitscreen.com/), [Cubic](https://www.cubic.com/)
+
+[LEARN MORE ABOUT BECOMING A TRANSPORTATIONCAMP DC 2018 SPONSOR](https://drive.google.com/file/d/0B8U8mNIU_GsnLWg4b294Zk11WFk/view)
 
 ### Keep Up              
 Stay tuned to [@transpocamp](https://twitter.com/transpocamp) (and the [#transpo18](https://twitter.com/hashtag/transpo18) hashtag) for news about this event and other TransportationCamps as they are announced.
