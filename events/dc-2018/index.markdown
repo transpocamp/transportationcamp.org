@@ -16,7 +16,7 @@ Tickets are $50 each and include breakfast, lunch, and a brief reception with fo
 ### Propose a Session
 Help shape the conversation around the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment, and a host of other issues by leading a session at this year’s TransportationCamp DC!
 
-This year, the first period (14 sessions) will be pre-selected by our Board Girl, Ashley Robbins. Click the link below to submit a proposal—and no sweat if yours isn’t chosen in advance. Simply submit again on Saturday morning (using the provided paper sheets) as you normally would.
+This year, the first period (14 sessions) will be pre-selected by our Board Captain. Click the link below to submit a proposal — and no sweat if yours isn’t chosen in advance. Simply submit again on Saturday morning (using the provided paper sheets) as you normally would.
 
 [SUBMIT A FIRST PERIOD SESSION PROPOSAL](https://goo.gl/forms/HkWybiA4IsdPrdGO2)
 
