@@ -51,6 +51,13 @@ This year, we’ll be returning to Founders Hall, located at GMU’s [Arlington 
  5:50pm Reception<br>
  8:00pm End
 
+Mobility Lab has been working with our partners to plan some sessions in advance:
+
+* Period 2: Dr. Terry Clower of George Mason University on why having a healthy transportation grid is important to the economic health of the DC region.
+* Period 3: Polly Trottenberg, Commissioner of the New York City Department of Transportation, on “How Do We Think About Technology?: The View from Inside America’s Largest Urban DOT.”
+* Period 4: GMU’s Kelley Coyner leading a discussion with May Mobility, Transdev, and A3Ventures (the venture-capital fund for AAA) on the business of deploying AVs in relation to the latest research and community transit.
+* Period 5: “At the Movies,” a participatory discussion led by Mobility Lab, the Coalition for Smarter Growth, and TRB on which transit videos are really great and which ones aren’t.
+
 ### Transportation Weekend
 You want to go to the TransportationCamp unconference.<br>
 You want to go to the Transportation Research Board’s 97th Annual Meeting.<br>
