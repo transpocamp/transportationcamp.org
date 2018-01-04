@@ -16,7 +16,7 @@ Tickets are $50 each and include breakfast, lunch, and a brief reception with fo
 ### Propose a Session
 Help shape the conversation around the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment, and a host of other issues by leading a session at this year’s TransportationCamp DC!
 
-This year, the first period (14 sessions) will be pre-selected by our Board Captain. Click the link below to submit a proposal — and no sweat if yours isn’t chosen in advance. Simply submit again on Saturday morning (using the provided paper sheets) as you normally would.
+This year, the first period (14 sessions) will be pre-selected by our Board Captain. We've received many fantastic submissions and will be announcing the first period's sessions on Friday. 
 
 [SUBMIT A FIRST PERIOD SESSION PROPOSAL](https://goo.gl/forms/HkWybiA4IsdPrdGO2)
 
@@ -27,12 +27,11 @@ This year, the first period (14 sessions) will be pre-selected by our Board Capt
 ### Get Here
 This year, we’ll be returning to Founders Hall, located at GMU’s [Arlington Campus](http://arlington.gmu.edu/) ([campus map](http://www.gmu.edu/resources/welcome/ArlingtonMap2017.pdf)).
 
-  * Founders Hall is two blocks east of the [Virginia Square-GMU](http://www.wmata.com/rail/station_detail.cfm?station_id=98) Metro station (on the Orange and Silver lines).
+  * Founders Hall is two blocks east of the [Virginia Square-GMU](http://www.wmata.com/rail/station_detail.cfm?station_id=98) Metro station (on the Orange and Silver lines). See [Weekend service adjustments](https://www.wmata.com/service/status/details/weekend.cfm).
   * There is a [Capital Bikeshare](http://www.capitalbikeshare.com/) station in front of Founders Hall.
   * Metro [bus 38B](https://buseta.wmata.com/m/?q=38B) runs between Ballston (Virginia) and Farragut Square (DC, via Georgetown).
   * Arlington's [ART 41](http://www.arlingtontransit.com/pages/routes/art-41/) bus runs between Court House, Clarendon, and Columbia Pike.
-  * The [Founders Hall Parking Garage](http://parking.gmu.edu/arlingtoncampusparking.html)
-  has a daily rate of $7 (enter via Kirkwood Rd).
+  * The [Founders Hall Parking Garage](http://parking.gmu.edu/arlingtoncampusparking.html) has a daily rate of $8 (enter via Kirkwood Rd).
 
 <iframe align="center" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1552.8558231973786!2d-77.10089523808!3d38.88483864213981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b6828ba038d9%3A0xdc8b8bb98b169604!2sGeorge+Mason+University-Arlington+Campus!5e0!3m2!1sen!2sus!4v1412725299805" width="680" height="340" frameborder="0" style="border:0"></iframe>
 
