@@ -7,18 +7,19 @@ slug: "dc-2018"
 title: TransportationCamp DC 2018
 published: true
 ---
-Each year, TransportationCamp DC brings together a sell-out crowd of 500 thinkers and doers in the fields of transportation and technology. It’s not your traditional conference. In addition to talks and presentations from big names in the field, the heart of TransportationCamp is sessions and activities led by attendees themselves. Held on the Saturday before Transportation Research Board Annual Meeting, it is a high-energy, exciting day of presentations, panels, and networking opportunities—all created and led by the diverse innovators who attend.
+Each year, TransportationCamp DC brings together a sell-out crowd of 400 thinkers and doers in the fields of transportation and technology. It’s not your traditional conference. In addition to talks and presentations from big names in the field, the heart of TransportationCamp is sessions and activities led by attendees themselves. Held on the Saturday before Transportation Research Board Annual Meeting, it is a high-energy, exciting day of presentations, panels, and networking opportunities—all created and led by the diverse innovators who attend.
 
 Join us for DC’s 7th annual event on **Saturday, January 6, 2018**. We’ll be returning to Founders Hall, at George Mason University’s Arlington Campus.
 
 Tickets are $50 each and include breakfast, lunch, and a brief reception with food and drink after the event. Registration is at [nvite.com/Transpo18](https://nvite.com/Transpo18/).
 
 ### Propose a Session
+
+The official Board will be in the multipurpose room, but we will maintain a copy at [bit.ly/transpo18](http://bit.ly/transpo18).
+
 Help shape the conversation around the explosive pace of change in technology, shared use mobility, the integration of transportation and the built environment, and a host of other issues by leading a session at this year’s TransportationCamp DC!
 
-This year, the first period (14 sessions) will be pre-selected by our Board Captain. We've received many fantastic submissions and will be announcing the first period's sessions on Friday. 
-
-[SUBMIT A FIRST PERIOD SESSION PROPOSAL](https://goo.gl/forms/HkWybiA4IsdPrdGO2)
+This year, the first period (14 sessions) will be pre-selected by our Board Captain. We've received many fantastic submissions and will be announcing the first period's sessions on Friday.
 
 **As sessions are added to the Board during the event, we will update the schedule online. Stay tuned!**
 
