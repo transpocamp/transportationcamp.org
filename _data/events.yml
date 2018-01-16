@@ -222,3 +222,8 @@
   date: 2018-05-12 23:59:59
   url: /events/baltimore2018
   background_img: baltimore.jpg
+
+- title: Ithaca 2018
+  date: 2018-06-16 23:59:59
+  url: /events/ithaca-2018
+  background_img: ithaca-cornell-b.jpg
