@@ -10,6 +10,8 @@ published: true
 
 TransportationCamp New England is back! It’s not your traditional conference. In addition to talks and presentations from big names in the field, the heart of TransportationCamp is sessions and activities led by attendees themselves. It is a high-energy, exciting day of presentations, panels, and networking opportunities—all created and led by the diverse innovators who attend.
 
+<img src="banner.jpg" width="680">
+
 Join us on **Saturday, April 21st, 2018** for New Englands 4th annual camp. We will be returning to Massachusetts Institute of Technology ([MIT](http://web.mit.edu/))'s Stata Center.
 
 Tickets are $30 for General Registration and $15 for Full-Time Students (limitted quantity) and include breakfast, lunch, snacks, and coffee! There will be a happy hour after the event. Register for the event is now open. [CLICK HERE](https://www.eventbrite.com/e/transportationcamp-new-england-2018-tickets-19295921621) to register.
@@ -25,7 +27,7 @@ TransportationCamp New England 2018 will be hosted on the MIT campus at the Stat
 
 > Stata Center, Main Floor<br>
 > 32 Vassar Street<br>
-> Cambridge, MA 02139 
+> Cambridge, MA 02139
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.1032700262726!2d-71.09285873454364!3d42.36163837918683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370a95d3025a9%3A0xb1de557289ff6bbe!2sRay+and+Maria+Stata+Center%2C+Cambridge%2C+MA+02142!5e0!3m2!1sen!2sus!4v1513384065723" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -59,7 +61,7 @@ If you have any questions, reach us at <transpocampne@gmail.com>.
 * **9:00AM-10:30AM** - Welcome Session (Stata 32-123)
 * **10:45AM-11:45AM** - First breakout session (in classrooms)
 * **12:00PM-1:00PM** - Second breakout session (in classrooms)
-* **1:00PM-2:00PM** - Lunch 
+* **1:00PM-2:00PM** - Lunch
 * **2:15PM-3:15PM** - Third breakout session (in classrooms)
 * **3:30PM-4:30PM** - Fourth breakout session (in classrooms)
 * **4:30PM** - Closing and adjourn to our happy hour. Location TBD.
@@ -67,6 +69,4 @@ If you have any questions, reach us at <transpocampne@gmail.com>.
 
 ### Hosts
 
-TransportationCamp New England 2018 is organized by Cambridge Systematics, TransitMatters, Boston Chapter of Young Professionals in Transportation, and The MIT Transportation Club in partnership with Mobility Lab.
-
-
+TransportationCamp New England 2018 is organized by Cambridge Systematics, TransitMatters, Boston Chapter of Young Professionals in Transportation, and The MIT Transportation Club in partnership with [Mobility Lab](https://mobilitylab.org/).
