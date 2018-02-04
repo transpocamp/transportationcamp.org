@@ -20,7 +20,7 @@ said TransportationCamp was a "smorgasbord of wonderful topics and discussion."
 "[Transit needs to find its voice if it wants to finally score touchdowns](https://mobilitylab.org/2018/01/31/transit-needs-find-voice-wants-finally-score-touchdowns/)"
 was inspired by the "At the Movies" session.
 
-Futurism was a topic of conversation at "[Could flying solar pods over Boston become transportation’s silver bullet?](https://mobilitylab.org/2018/01/24/flying-solar-pods-boston-become-transportations-silver-bullet/)."
+Futurism was a topic of conversation at "[Could flying solar pods over Boston become transportation’s silver bullet?](https://mobilitylab.org/2018/01/24/flying-solar-pods-boston-become-transportations-silver-bullet/)"
 
 One new thing this year was attendees' exposure to the many new dockless bikeshare systems:
 "[Dockless bikeshare may be more than a fad, say TransportationCampers](https://mobilitylab.org/2018/01/12/dockless-bikeshare-may-fad-says-transportationcampers/)"
