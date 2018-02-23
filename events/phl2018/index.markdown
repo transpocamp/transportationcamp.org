@@ -62,11 +62,12 @@ TransportationCampPHL has been made possible thanks to the generous support of n
 #### Dilworth Plaza
 
 <a href="http://www.wtsinternational.org/philadelphia/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/wts logo.jpg" alt="WTS International, Philadelphia Chapter" style="max-width:300px; max-height:250px;"></a>
-<a href="http://www.aecom.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/aecom.jpg" alt="AECOM" style="max-width:300px; max-height:250px;"></a>
+
+<a href="http://www.aecom.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/aecom.jpg" alt="AECOM" style="max-width:300px; max-height:275px;"></a>
 
 #### Rittenhouse Square
 
-<a href="https://www.lyft.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/lyft.jpg" alt="Lyft" style="max-width:200px; max-height:120px;"></a>
+<a href="https://www.lyft.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/lyft.jpg" alt="Lyft" style="max-width:200px; max-height:135px;"></a>
 
 #### Penn's Landing
 
