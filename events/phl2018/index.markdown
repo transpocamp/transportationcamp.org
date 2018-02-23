@@ -59,6 +59,22 @@ Stay up to date by following us on Twitter [@TranspoCampPHL](https://twitter.com
 
 TransportationCampPHL has been made possible thanks to the generous support of numerous sponsors, including the Philadelphia Chapter of Womens' Transportation Seminar, AECOM, Lyft, KMJ Consulting, and the Evans Network of Companies.
 
+#### Dilworth Plaza
+
+<a href="http://www.wtsinternational.org/philadelphia/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/wts logo.jpg" alt="WTS International, Philadelphia Chapter" style="max-width:300px; max-height:250px;"></a><a href="http://www.aecom.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/aecom.jpg" alt="AECOM" style="max-width:300px; max-height:250px;"></a>
+
+#### Rittenhouse Square
+
+<a href="https://www.lyft.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/lyft.jpg" alt="Lyft" style="max-width:200px; max-height:150px;"></a>
+
+#### Penn's Landing
+
+<a href="http://www.evansdelivery.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/evans.png" alt="Evans" style="max-width:150px; max-height:100px;"></a>
+
+<a href="http://kmjinc.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/kmj consulting.jpg" alt="KMJ Consulting" style="max-width:150px; max-height:100px;"></a>
+
+#### Become a Sponsor!
+
 Interested in becoming a sponsor? We offer various levels of sponsorship that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. For sponsorship inquiries, please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com).
 
 
