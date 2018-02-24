@@ -6,6 +6,18 @@ slug: "south-2018"
 title: TransportationCamp South 2018
 published: true
 ---
+
+## Live Schedule
+
+#### 11:00 - 12:00
+
+* **Room 102**: Transportation Equity in Atlanta
+* **Room 123**: Design a Bus Route
+* **Room 125**: Transit-Oriented Breakfast
+* **Room 127**: Data and Technology in Transit
+* **Room 129**: Creating Safe Pedestrian Access
+* **Room 131**: Moving the Needle on Safety
+
 TransportationCamp South returns to Georgia Tech's Clough Commons in Atlanta on Saturday, February 24, 2018! Registration is now open at [transpocampsouth2018.eventbrite.com](http://transpocampsouth2018.eventbrite.com/).
 
 
