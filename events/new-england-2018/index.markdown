@@ -68,6 +68,10 @@ If you have any questions, reach us at <transpocampne@gmail.com>.
 * **3:30PM-4:30PM** - Fourth breakout session (in classrooms)
 * **4:30PM** - Closing and adjourn to our happy hour. Location TBD.
 
+##Spotlight Speakers
+
+We will be announcing a few key speakers that we've invited to give "spotlight" talk each session on some key industry topics and trends. Stay tuned!
+
 
 ### Hosts
 
