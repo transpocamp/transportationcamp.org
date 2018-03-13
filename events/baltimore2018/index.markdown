@@ -16,6 +16,8 @@ bringing Transportation Camp to Baltimore!
 
 Saturday, May 12th @ [University of Baltimore School of Business](http://www.ubalt.edu/merrick/).
 
+[Registration now open](https://www.eventbrite.com/e/transportation-camp-baltimore-tickets-44092362443).
+
 Bringing Transportation Camp to Baltimore will bring a
 more inclusive and engaging forum about transportation to the
 professionals, techies, advocates, policy makers, and users of
@@ -31,8 +33,6 @@ sustainability, and overall access to opportunity.
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
 <form action="https://yptbaltimore.us7.list-manage.com/subscribe/post?u=0804205519074a2d076ff1095&amp;id=a36ac962b5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -49,4 +49,4 @@ sustainability, and overall access to opportunity.
 
 For questions about Transportation Camp Baltimore, contact Jade Clayton at <chair@yptbaltimore.org>.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mvjantzen/17783444683" title="Baltimore Bus Stop"><img src="https://farm8.staticflickr.com/7733/17783444683_2a0dfaec9a.jpg" width="500" height="333"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mvjantzen/17783444683" title="Baltimore Bus Stop"><img src="https://farm8.staticflickr.com/7733/17783444683_2a0dfaec9a.jpg" width="500" height="333"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
