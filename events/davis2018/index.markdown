@@ -13,17 +13,19 @@ published: true
 
 [UC Davis PIEEE](https://policyinstitute.ucdavis.edu/) and Cal-ITP are bringing TransportationCamp to Davis! Join us Wednesday, May 2nd at the [UC Davis Activities and Recreations Center](https://cru.ucdavis.edu/content/1-activities-and-recreation-center-arc.htm). Transportation Camp highlights transportation’s impact on every aspect of people’s lives: equity, education, jobs, economic development, recreation, sustainability, and overall access to opportunity.
 
-Registration and more info is at [eventbrite.com/e/transportationcamp-davis-2018-tickets-44467990958](https://www.eventbrite.com/e/transportationcamp-davis-2018-tickets-44467990958)
+Registration and more info is at:
 
-##Stay in Touch
+[eventbrite.com/e/transportationcamp-davis-2018-tickets-44467990958](https://www.eventbrite.com/e/transportationcamp-davis-2018-tickets-44467990958)
+
+## Stay in Touch
 
 Stay up to date by following us on Twitter [@TCampDavis2018](https://twitter.com/TCampDavis2018). Tag tweets with the official event hashtag [#TransportationCampDavis2018](https://twitter.com/hashtag/TransportationCampDavis2018?src=hash).
 
-##Have a Session Idea in Mind?
+## Have a Session Idea in Mind?
 
 If you would like to propose a TransportationCamp session, send us an email: <Transportationcampdavis2018@gmail.com>
 
-##Sponsors
+## Sponsors
 
 Interested in sponsorship, other ways to partner, or just general questions for TransportationCampDavis2018? <Transportationcampdavis2018@gmail.com>
 
