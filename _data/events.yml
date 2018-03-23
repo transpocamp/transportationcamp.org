@@ -220,6 +220,12 @@
   register_url: https://www.eventbrite.com/e/transportationcamp-new-england-2018-tickets-19295921621
   background_img: newengland-stata.jpg
 
+- title: Davis 2018
+  date: 2018-05-02 23:59:59
+  url: /events/davis2018
+  register_url: https://www.eventbrite.com/e/transportationcamp-davis-2018-tickets-44467990958
+  background_img: davis.jpg
+
 - title: Baltimore 2018
   date: 2018-05-12 23:59:59
   url: /events/baltimore2018
