@@ -9,14 +9,14 @@ wordpress_id:
 published: true
 ---
 
-*When:* Saturday, May 12<sup>12</sup>
+**When:** Saturday, May 12<sup>12</sup>
 
-*Where:* [William H. Thumel Sr. Business Center](http://home.ubalt.edu/rbento/thumel.html), [University of Baltimore](http://www.ubalt.edu/)
+**Where:** [William H. Thumel Sr. Business Center](http://home.ubalt.edu/rbento/thumel.html), [University of Baltimore](http://www.ubalt.edu/)
 
-*Our objective:* To bring a more inclusive and engaging forum about transportation to the professionals, techies, advocates, policy makers,
+**Our objective:** To bring a more inclusive and engaging forum about transportation to the professionals, techies, advocates, policy makers,
 and users of transportation in the Baltimore Region.
 
-*For more details:* [tcbal18.eventbrite.com](https://tcbal18.eventbrite.com)
+**For more details:** [tcbal18.eventbrite.com](https://tcbal18.eventbrite.com)
 
 ## Registration
 <div style="width:100%; text-align:left;">
