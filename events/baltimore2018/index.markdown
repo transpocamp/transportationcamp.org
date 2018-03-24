@@ -9,7 +9,7 @@ wordpress_id:
 published: true
 ---
 
-**When:** Saturday, May 12<sup>12</sup>
+**When:** Saturday, May 12<sup>th</sup>
 
 **Where:** [William H. Thumel Sr. Business Center](http://home.ubalt.edu/rbento/thumel.html), [University of Baltimore](http://www.ubalt.edu/)
 
@@ -21,8 +21,6 @@ and users of transportation in the Baltimore Region.
 ## Registration
 <div style="width:100%; text-align:left;">
 <iframe src="https://eventbrite.com/tickets-external?eid=44092362443&amp;ref=etckt" frameborder="0" height="340" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-<div style="font-family:Helvetica, Arial;font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;">
-<a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="https://www.eventbrite.com/">Powered by Eventbrite</a></div>
 </div>
 
 ## Contact and Sponsor Information
