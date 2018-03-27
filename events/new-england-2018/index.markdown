@@ -72,7 +72,64 @@ If you have any questions, reach us at <transpocampne@gmail.com>.
 
 We will be announcing a few key speakers that we've invited to give "spotlight" talk each session on some key industry topics and trends. Stay tuned!
 
+### Sponsors
+
+#### Platinum
+
+<div class="sponsors platinum">
+<div class="sponsor"><a href="https://www.camsys.com/"><img src="sponsors/platinum/Cambridge Systematics.png" alt="Cambridge Systematics"></a></div>
+</div>
+
+#### Gold
+
+<div class="sponsors gold">
+<div class="sponsor"><a href="https://www2.zipcar.com/"><img src="sponsors/gold/Sponsor Logo_ClearBG_Zipcar.png" alt="Zipcar"></a></div>
+</div>
+
+#### Silver
+
+<div class="sponsors silver">
+<div class="sponsor"><a href="https://www.cubic.com/"><img src="sponsors/silver/Sponsor Logo_ClearBG_Cubic.png" alt="Cubic"></a></div>
+</div>
+
+#### Bronze
+
+<div class="sponsors bronze">
+<div class="sponsor"><a href="https://www.ibigroup.com/"><img src="sponsors/bronze/Logo-W-IBI-Group-w-Ideal-Clearance-White[1].jpg" alt="IBI Group"></a></div>
+<div class="sponsor"><a href="http://neite.org/"><img src="sponsors/bronze/New England ITE Logo 2017.png" alt="New England ITE"></a></div>
+<div class="sponsor"><a href="https://spypondpartners.com/about/"><img src="sponsors/bronze/Sponsor Logo_ClearBG_Spy-Pond.png" alt="Spy Pond"></a></div>
+</div>
+
 
 ### Hosts
 
 TransportationCamp New England 2018 is organized by Cambridge Systematics, TransitMatters, Boston Chapter of Young Professionals in Transportation, and The MIT Transportation Club in partnership with [Mobility Lab](https://mobilitylab.org/).
+
+
+<style type="text/css">
+.sponsors {
+  text-align: center;
+}
+
+.sponsor {
+  display: inline-block;
+  padding: 0.5em;
+  vertical-align: middle;
+}
+
+.platinum .sponsor {
+  max-width: 600px;
+}
+
+.gold .sponsor {
+  max-width: 250px;
+}
+
+.silver .sponsor {
+  max-width: 200px;
+}
+
+.bronze .sponsor {
+  max-width: 175px;
+}
+</style>
