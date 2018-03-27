@@ -118,7 +118,7 @@ TransportationCamp New England 2018 is organized by Cambridge Systematics, Trans
 }
 
 .platinum .sponsor {
-  max-width: 600px;
+  max-width: 300px;
 }
 
 .gold .sponsor {
