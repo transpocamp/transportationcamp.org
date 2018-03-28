@@ -23,9 +23,9 @@ Organized by passionate Philadelphians in conjunction with the Philadelphia chap
 | 12:15pm-1:15pm | Lunch and Afternoon Session Proposals
 | 1:30pm-2:30pm |Session 2
 | 2:45pm-3:45pm | Session 3
-| 3:45pm-4:15pm | Snack Break
-| 4:15pm-5:15pm | Session 4
-| 5:15pm | Networking
+| 3:45pm-4pm | Break
+| 4pm-5pm | Session 4
+| 5pm | Networking
 
 ## First Time at a TransportationCamp?
 
@@ -68,6 +68,8 @@ TransportationCampPHL has been made possible thanks to the generous support of n
 #### Rittenhouse Square
 
 <a href="https://www.lyft.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/lyft.jpg" alt="Lyft" style="max-width:200px; max-height:135px;"></a>
+
+<a href="https://www.wsp.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/wsp logo rebrand_4C.jpg" alt="WSP" style="max-width:200px; max-height:135px;"></a>
 
 #### Penn's Landing
 
