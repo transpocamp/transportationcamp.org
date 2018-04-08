@@ -84,6 +84,8 @@ We will be announcing a few key speakers that we've invited to give "spotlight" 
 
 <div class="sponsors gold">
 <div class="sponsor"><a href="https://www2.zipcar.com/"><img src="sponsors/gold/Sponsor Logo_ClearBG_Zipcar.png" alt="Zipcar"></a></div>
+<div class="sponsor"><a href="https://www.vhb.com/Pages/home.aspx"><img src="sponsors/gold/VHB_FullColor.jpg" alt="VHB"></a></div>
+
 </div>
 
 #### Silver
