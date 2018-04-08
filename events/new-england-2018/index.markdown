@@ -84,14 +84,13 @@ We will be announcing a few key speakers that we've invited to give "spotlight" 
 
 <div class="sponsors gold">
 <div class="sponsor"><a href="https://www2.zipcar.com/"><img src="sponsors/gold/Sponsor Logo_ClearBG_Zipcar.png" alt="Zipcar"></a></div>
-<div class="sponsor"><a href="https://www.vhb.com/Pages/home.aspx"><img src="sponsors/gold/VHB_FullColor.jpg" alt="VHB"></a></div>
-
 </div>
 
 #### Silver
 
 <div class="sponsors silver">
 <div class="sponsor"><a href="https://www.cubic.com/"><img src="sponsors/silver/Sponsor Logo_ClearBG_Cubic.png" alt="Cubic"></a></div>
+<div class="sponsor"><a href="https://www.vhb.com/Pages/home.aspx"><img src="sponsors/silver/VHB_FullColor.jpg" alt="VHB"></a></div>
 </div>
 
 #### Bronze
