@@ -27,6 +27,9 @@ If you would like to propose a TransportationCamp session, send us an email: <Tr
 
 ## Sponsors
 
+Thanks to the [UC Davis Policy Institute for Energy, Environment and the Economy](https://policyinstitute.ucdavis.edu/)
+and the [University of California Transportation Center](http://www.uctc.net/).
+
 <img src="ucdpieee.png">
 
 <img src="uctc.jpg">
