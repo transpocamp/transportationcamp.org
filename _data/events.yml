@@ -226,6 +226,12 @@
   register_url: https://www.eventbrite.com/e/transportationcamp-davis-2018-tickets-44467990958
   background_img: davis.jpg
 
+- title: Chicago 2018
+  date: 2018-05-05 23:59:59
+  url: /events/chicago2018
+  register_url: https://my.yptransportation.org/civicrm/event/info?id=429
+  background_img: chicago.jpg
+
 - title: Baltimore 2018
   date: 2018-05-12 23:59:59
   url: /events/baltimore2018
