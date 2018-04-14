@@ -15,6 +15,8 @@ Organized by passionate Philadelphians in conjunction with the Philadelphia chap
 
 ## Schedule
 
+> ## [Click Here to Access the Live Board & Notes](http://bit.ly/tcphl18board)
+
 | Time | Event |
 |------|------|
 | 9am-10am | Registration, Networking, and Breakfast |
@@ -25,7 +27,7 @@ Organized by passionate Philadelphians in conjunction with the Philadelphia chap
 | 2:45pm-3:45pm | Session 3
 | 3:45pm-4pm | Break
 | 4pm-5pm | Session 4
-| 5pm | Networking
+| 5pm | Continue the conversations/networking at Wahoo's (32nd & Chestnut)
 
 ## First Time at a TransportationCamp?
 
@@ -74,6 +76,10 @@ TransportationCampPHL has been made possible thanks to the generous support of n
 #### Penn's Landing
 
 <a href="http://www.evansdelivery.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/evans.png" alt="Evans" style="max-width:150px; max-height:120px;"></a>  <a href="http://kmjinc.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/kmj consulting.jpg" alt="KMJ Consulting" style="max-width:150px; max-height:100px;"></a>
+
+#### Benefactors
+
+- [IBI Group](https://www.ibigroup.com/)
 
 #### Become a Sponsor!
 
