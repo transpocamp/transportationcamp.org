@@ -30,8 +30,12 @@ advocates and wonks!
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+<style>
+	#mc_embed_signup {
+		background: #fff;
+	  clear: left;
+	  font: 14px Helvetica, Arial, sans-serif;
+	}
 </style>
 <div id="mc_embed_signup">
 <form action="https://yptbaltimore.us7.list-manage.com/subscribe/post?u=0804205519074a2d076ff1095&amp;id=a36ac962b5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
