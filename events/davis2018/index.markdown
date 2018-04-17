@@ -29,13 +29,10 @@ If you would like to propose a TransportationCamp session, send us an email: <Tr
 
 Thanks to the [UC Davis Policy Institute for Energy, Environment and the Economy](https://policyinstitute.ucdavis.edu/),
 the [University of California Transportation Center](http://www.uctc.net/),
-and [Stanford University](https://www.stanford.edu/).
-
-<img src="ucdpieee.png">
-
-<img src="uctc.jpg">
-
-<img src="stanford.png">
+[Stanford University](https://www.stanford.edu/), [Lyft](https://www.lyft.com/), and
+the [National Center for Sustainable Transportation](https://ncst.ucdavis.edu/).
+<p style="text-align:center">
+<img src="logos.jpg">
 
 Interested in sponsorship, other ways to partner, or just general questions for TransportationCampDavis2018? <Transportationcampdavis2018@gmail.com>
 
