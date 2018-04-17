@@ -23,7 +23,8 @@ Stay up to date by following us on Twitter [@TCampDavis2018](https://twitter.com
 
 ## Have a Session Idea in Mind?
 
-If you would like to propose a TransportationCamp session, send us an email: <Transportationcampdavis2018@gmail.com>
+If you would like to propose a TransportationCamp session, send us an email:
+[Transportationcampdavis2018@gmail.com](Transportationcampdavis2018@gmail.com)
 
 ## Sponsors
 
@@ -33,7 +34,7 @@ the [University of California Transportation Center](http://www.uctc.net/),
 the [National Center for Sustainable Transportation](https://ncst.ucdavis.edu/).
 <p style="text-align:center">
 <img src="logos.jpg">
-
+</p>
 Interested in sponsorship, other ways to partner, or just general questions for TransportationCampDavis2018? <Transportationcampdavis2018@gmail.com>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12482.439175883601!2d-121.7592483!3d38.5427621!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8fd7da59621c13d2!2sUC+Davis+Activities+and+Recreation+Center!5e0!3m2!1sen!2sus!4v1521769551652" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
