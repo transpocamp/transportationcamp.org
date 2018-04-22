@@ -8,7 +8,6 @@ title: TransportationCamp Davis 2018
 wordpress_id:
 published: true
 ---
-
 ## Save the Date!
 
 [UC Davis PIEEE](https://policyinstitute.ucdavis.edu/) and Cal-ITP are bringing TransportationCamp to Davis! Join us Wednesday, May 2nd at the [UC Davis Activities and Recreations Center](https://cru.ucdavis.edu/content/1-activities-and-recreation-center-arc.htm). Transportation Camp highlights transportation’s impact on every aspect of people’s lives: equity, education, jobs, economic development, recreation, sustainability, and overall access to opportunity.
