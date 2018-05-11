@@ -9,30 +9,33 @@ wordpress_id:
 published: true
 ---
 
-## Save the Date!
+**When:** Saturday, May 12<sup>th</sup>
 
-[Young Professionals in Transportation](http://yptbaltimore.org/) is
-bringing Transportation Camp to Baltimore!
+**Where:** [William H. Thumel Sr. Business Center](http://home.ubalt.edu/rbento/thumel.html), [University of Baltimore](http://www.ubalt.edu/)
 
-Saturday, May 12th @ [University of Baltimore School of Business](http://www.ubalt.edu/merrick/).
+**Our objective:** To bring a more inclusive and engaging forum about transportation to the professionals, techies, advocates, policy makers,
+and users of transportation in the Baltimore Region.
 
-Bringing Transportation Camp to Baltimore will bring a
-more inclusive and engaging forum about transportation to the
-professionals, techies, advocates, policy makers, and users of
-transportation in the Baltimore Region. This event brings Baltimore
-into an international family of cities holding Camps every year and
-highlighting transportation’s impact on every aspect of people’s
-lives: equity, education, jobs, economic development, recreation,
-sustainability, and overall access to opportunity.
+**For more details:** [tcbal18.eventbrite.com](https://tcbal18.eventbrite.com)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3087.2569788288733!2d-76.61877448463754!3d39.30509807950984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c80495bdd32313%3A0x3fe6f86271298c68!2sWilliam+H.+Thumel+Sr.+Business+Center%2C+11+W+Mt+Royal+Ave%2C+Baltimore%2C+MD+21201!5e0!3m2!1sen!2sus!4v1513347439966" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
+## Registration
+<div style="width:100%; text-align:left;">
+<iframe src="https://eventbrite.com/tickets-external?eid=44092362443&amp;ref=etckt" frameborder="0" height="340" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+</div>
+
+## Contact and Sponsor Information
+
+Transportation Camp Baltimore is brought to you by [Young Professionals in Transportation Baltimore Chapter](http://yptbaltimore.org/) with organizing support from the [Central Maryland Transportation Alliance](http://www.cmtalliance.org/) and a handful of passionate transportation
+advocates and wonks!
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+<style>
+	#mc_embed_signup {
+		background: #fff;
+	  clear: left;
+	  font: 14px Helvetica, Arial, sans-serif;
+	}
 </style>
 <div id="mc_embed_signup">
 <form action="https://yptbaltimore.us7.list-manage.com/subscribe/post?u=0804205519074a2d076ff1095&amp;id=a36ac962b5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -47,6 +50,12 @@ sustainability, and overall access to opportunity.
 </div>
 <!--End mc_embed_signup-->
 
-For questions about Transportation Camp Baltimore, contact Jade Clayton at <chair@yptbaltimore.org>.
+Follow us with #TCBAL18 on
+* Twitter and Instagram: @TranspoCampBAL
+* Facebook: facebook.com/TranspoCampBAL
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mvjantzen/17783444683" title="Baltimore Bus Stop"><img src="https://farm8.staticflickr.com/7733/17783444683_2a0dfaec9a.jpg" width="500" height="333"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Interested in sponsorship opportunities or have other questions? Contact <chair@yptbaltimore.org>.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3087.2569788288733!2d-76.61877448463754!3d39.30509807950984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c80495bdd32313%3A0x3fe6f86271298c68!2sWilliam+H.+Thumel+Sr.+Business+Center%2C+11+W+Mt+Royal+Ave%2C+Baltimore%2C+MD+21201!5e0!3m2!1sen!2sus!4v1513347439966" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mvjantzen/17783444683" title="Baltimore Bus Stop"><img src="https://farm8.staticflickr.com/7733/17783444683_2a0dfaec9a.jpg" width="500" height="333"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

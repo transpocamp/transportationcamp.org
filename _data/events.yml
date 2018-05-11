@@ -220,9 +220,22 @@
   register_url: https://www.eventbrite.com/e/transportationcamp-new-england-2018-tickets-19295921621
   background_img: newengland-stata.jpg
 
+- title: Davis 2018
+  date: 2018-05-02 23:59:59
+  url: /events/davis2018
+  register_url: https://www.eventbrite.com/e/transportationcamp-davis-2018-tickets-44467990958
+  background_img: davis.jpg
+
+- title: Chicago 2018
+  date: 2018-05-05 23:59:59
+  url: /events/chicago2018
+  register_url: https://my.yptransportation.org/civicrm/event/info?id=429
+  background_img: chicago.jpg
+
 - title: Baltimore 2018
   date: 2018-05-12 23:59:59
   url: /events/baltimore2018
+  register_url: https://www.eventbrite.com/e/transportation-camp-baltimore-tickets-44092362443
   background_img: baltimore.jpg
 
 - title: Pittsburgh 2018

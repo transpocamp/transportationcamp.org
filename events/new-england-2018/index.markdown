@@ -14,7 +14,7 @@ TransportationCamp New England is back! It’s not your traditional conference. 
 
 Join us on **Saturday, April 21st, 2018** for New Englands 4th annual camp. We will be returning to Massachusetts Institute of Technology ([MIT](http://web.mit.edu/))'s Stata Center.
 
-Tickets are $30 for General Registration and $15 for Full-Time Students (limitted quantity) and include breakfast, lunch, snacks, and coffee! There will be a happy hour after the event. Register for the event is now open. [CLICK HERE](https://www.eventbrite.com/e/transportationcamp-new-england-2018-tickets-19295921621) to register.
+Tickets are $30 for General Registration and $15 for Full-Time Students (limitted quantity) and include breakfast, lunch, snacks, and coffee! There will be a happy hour after the event. Registration for the event is now open. [CLICK HERE](https://www.eventbrite.com/e/transportationcamp-new-england-2018-tickets-19295921621) to register.
 
 ### Goal
 
@@ -66,9 +66,72 @@ If you have any questions, reach us at <transpocampne@gmail.com>.
 * **1:00PM-2:00PM** - Lunch
 * **2:15PM-3:15PM** - Third breakout session (in classrooms)
 * **3:30PM-4:30PM** - Fourth breakout session (in classrooms)
-* **4:30PM** - Closing and adjourn to our happy hour. Location TBD.
+* **4:30PM** - Closing and adjourn to our happy hour at Flat Top Johnny's (1 Kendall Square, Cambridge MA)
+
+### Spotlight Speakers
+
+We will be announcing a few key speakers that we've invited to give "spotlight" talk each session on some key industry topics and trends. Stay tuned!
+
+### Sponsors
+
+#### Platinum
+
+<div class="sponsors platinum">
+<div class="sponsor"><a href="https://www.camsys.com/"><img src="sponsors/platinum/Cambridge Systematics.png" alt="Cambridge Systematics"></a></div>
+</div>
+
+#### Gold
+
+<div class="sponsors gold">
+<div class="sponsor"><a href="https://www2.zipcar.com/"><img src="sponsors/gold/Sponsor Logo_ClearBG_Zipcar.png" alt="Zipcar"></a></div>
+</div>
+
+#### Silver
+
+<div class="sponsors silver">
+<div class="sponsor"><a href="https://www.cubic.com/"><img src="sponsors/silver/Sponsor Logo_ClearBG_Cubic.png" alt="Cubic"></a></div>
+<div class="sponsor"><a href="https://www.vhb.com/Pages/home.aspx"><img src="sponsors/silver/VHB_FullColor.jpg" alt="VHB"></a></div>
+</div>
+
+#### Bronze
+
+<div class="sponsors bronze">
+<div class="sponsor"><a href="https://www.ibigroup.com/"><img src="sponsors/bronze/Logo-W-IBI-Group-w-Ideal-Clearance-White[1].jpg" alt="IBI Group"></a></div>
+<div class="sponsor"><a href="http://neite.org/"><img src="sponsors/bronze/New England ITE Logo 2017.png" alt="New England ITE"></a></div>
+<div class="sponsor"><a href="https://spypondpartners.com/about/"><img src="sponsors/bronze/Sponsor Logo_ClearBG_Spy-Pond.png" alt="Spy Pond"></a></div>
+<div class="sponsor"><a href="https://www.thehubway.com/"><img src="sponsors/bronze/Hubway Primary Logo.jpg" alt="Hubway"></a></div>
+</div>
 
 
 ### Hosts
 
 TransportationCamp New England 2018 is organized by Cambridge Systematics, TransitMatters, Boston Chapter of Young Professionals in Transportation, and The MIT Transportation Club in partnership with [Mobility Lab](https://mobilitylab.org/).
+
+
+<style type="text/css">
+.sponsors {
+  text-align: center;
+}
+
+.sponsor {
+  display: inline-block;
+  padding: 0.5em;
+  vertical-align: middle;
+}
+
+.platinum .sponsor {
+  max-width: 300px;
+}
+
+.gold .sponsor {
+  max-width: 250px;
+}
+
+.silver .sponsor {
+  max-width: 200px;
+}
+
+.bronze .sponsor {
+  max-width: 175px;
+}
+</style>
