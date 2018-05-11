@@ -248,3 +248,9 @@
   date: 2018-06-16 23:59:59
   url: /events/ithaca-2018
   background_img: ithaca-cornell-b.jpg
+
+- title: NYC 2018
+  date: 2018-10-20 23:59:59
+  url: /events/nyc-2018
+  background_img: nyc-2018.jpg
+
