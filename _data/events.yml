@@ -238,12 +238,6 @@
   register_url: https://www.eventbrite.com/e/transportation-camp-baltimore-tickets-44092362443
   background_img: baltimore.jpg
 
-- title: Pittsburgh 2018
-  date: 2018-06-10 23:59:59
-  url: /events/pittsburgh2018
-  register_url: https://www.cvent.com/c/express/0cd67ac0-da43-45c8-b716-618eb3f64fb1
-  background_img: pittsburgh-b.jpg
-
 - title: Ithaca 2018
   date: 2018-06-16 23:59:59
   url: /events/ithaca-2018
