@@ -238,8 +238,8 @@
   register_url: https://www.eventbrite.com/e/transportation-camp-baltimore-tickets-44092362443
   background_img: baltimore.jpg
 
-#- title: NYC 2018
-#  date: 2018-10-13 23:59:59
-#  url: /events/nyc-2018
-#  background_img: nyc-2018.jpg
+- title: NYC 2018
+  date: 2018-10-13 23:59:59
+  url: /events/nyc-2018
+  background_img: nyc-2018.jpg
 
