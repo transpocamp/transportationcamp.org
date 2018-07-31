@@ -3,7 +3,7 @@ author: Michael Schade
 comments: false
 date: {}
 layout: event
-slug: "midwest-2016"
+slug: "midwest2016"
 title: TransportationCamp Midwest 2016
 published: true
 ---

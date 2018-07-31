@@ -112,7 +112,7 @@
 
 - title: Midwest 2016
   date: 2016-08-13 23:59:59
-  url: /events/midwest-2016
+  url: /events/midwest2016
   register_url: https://www.eventbrite.com/e/transportation-camp-midwest-tickets-24289693126
   background_img: midwest-2016.jpg
 
@@ -237,14 +237,19 @@
   url: /events/baltimore2018
   register_url: https://www.eventbrite.com/e/transportation-camp-baltimore-tickets-44092362443
   background_img: baltimore.jpg
-  
+
 - title: Seattle 2018
   date: 2018-08-25 23:59:59
   url: /events/seattle2018
   background_img: seattlemonorail.jpg
 
+- title: Midwest 2018
+  date: 2016-08-13 23:59:59
+  url: /events/midwest2018
+  register_url: https://www.kcdigitaldrive.org/event/transpocampmw2018/
+  background_img: midwestbus.jpg
+
 - title: NYC 2018
   date: 2018-10-13 23:59:59
   url: /events/nyc-2018
   background_img: nyc-2018.jpg
-
