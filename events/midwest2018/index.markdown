@@ -10,12 +10,12 @@ published: true
 Date: August 25, 2018<br>
 Time: 8:30 am to 4:30 pm (with happy hour to follow!)<br>
 Location: [Kauffman Foundation Conference Center](http://www.kauffman.org/who-we-are/kauffman-foundation-conference-center),
-4801 Rockhill Rd
+4801 Rockhill Rd<br>
 Admission: $15, lunch and snacks included
 
 With increasing buzz around autonomous vehicles, multi-mode transit, mobility-as-a-service and connected infrastructure, our regional transportation system is deeply connected to our region’s digital innovation. But technology and innovation are means to an end—a transit system that works to meet the needs of our community.
 
-*Transportation Camp KC* is about the end, and the unconference format allows all parties to bring their ideas, hopes, struggles, and solutions to the table. We are partnering with the Kansas City Area Transportation Authority (KCATA), Kansas City Regional Transit Alliance ([KCRTA](http://www.kcata.org/)), and Mid-America Regional Council ([MARC](http://www.marc.org/)) for this important community conversation.
+**Transportation Camp KC** is about the end, and the unconference format allows all parties to bring their ideas, hopes, struggles, and solutions to the table. We are partnering with the Kansas City Area Transportation Authority (KCATA), Kansas City Regional Transit Alliance ([KCRTA](http://www.kcata.org/)), and Mid-America Regional Council ([MARC](http://www.marc.org/)) for this important community conversation.
 
 Registration and more information at [kcdigitaldrive.org/event/transpocampmw2018](https://www.kcdigitaldrive.org/event/transpocampmw2018/).
 
