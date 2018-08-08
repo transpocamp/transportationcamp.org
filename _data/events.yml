@@ -241,6 +241,7 @@
 - title: Seattle 2018
   date: 2018-08-25 23:59:59
   url: /events/seattle2018
+  register_url: https://www.eventbrite.com/e/2nd-annual-seattle-transportation-camp-tickets-47705043068
   background_img: seattlemonorail.jpg
 
 - title: Midwest 2018
