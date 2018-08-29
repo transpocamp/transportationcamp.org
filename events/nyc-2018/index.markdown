@@ -28,17 +28,10 @@ General admission is $25, and [registration is now open](https://www.eventbrite.
 
 #### Getting There!
 
-**Subway**
+<p style="text-align: center;"><img src="TRANSIT.png" style="max-width: 50%;"/></p>
 
-* A C F R train to Jay St. MetroTech
-* 2 3 4 5 train to Borough Hall (walk one block East to Willoughby Street and make a left onto Jay Street) 
+Need directions? Download [Transit](http://www.transit.app), the official app of TransportationCamp NYC.
 
-**Train**
-
-* Take the Long Island Rail Road to Pennsylvania Station-New York, then transfer to a Brooklyn-bound 2, 3,  A, or C train (see subway instructions above).
-* Take the Long Island Rail Road to Flatbush Avenue-Atlantic Terminal in Brooklyn, then transfer to a Manhattan-bound 2, 3, 4, 5, Q, or R train (see subway instructions above) or walk North along Flatbush Avenue about 1 mile to Myrtle Avenue and make a left into Campus.
-* Take Metro-North Railroad to Grand Central Station in Manhattan, then transfer to a Brooklyn-bound 4,5 train (see subway instructions above).
-* Take New Jersey Transit to Pennsylvania Station in Manhattan, then transfer to a Brooklyn-bound 2, 3, A, or C train (see subway instructions above).
 
 #### Presenting?
 
