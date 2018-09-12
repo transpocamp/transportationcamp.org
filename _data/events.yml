@@ -255,3 +255,8 @@
   url: /events/nyc-2018
   register_url: https://www.eventbrite.com/e/transportationcamp-nyc-2018-registration-49533901232
   background_img: nyc-2018.jpg
+
+- title: DC 2019
+  date: 2018-01-12 23:59:59
+  url: /events/dc2019
+  background_img: dc-pennave.jpg
