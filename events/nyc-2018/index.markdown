@@ -28,7 +28,7 @@ General admission is $25, and [registration is now open](https://www.eventbrite.
 
 #### Getting There!
 
-<p style="text-align: center;"><img src="TRANSIT.png" style="max-width: 50%;"/></p>
+<p style="text-align: center;"><img src="sponsors/special/TRANSIT.png" style="max-width: 50%;"/></p>
 
 Need directions? Download [Transit](http://www.transit.app), the official app of TransportationCamp NYC.
 
@@ -44,3 +44,70 @@ We will be handing out session idea cards throughout registration. If you have a
 Keep in touch with us on Twitter [@TranspoCampNYC](https://twitter.com/transpocampnyc) for all the latest news and updates about #TCNYC18 
 
 **See you soon! Questions? Send them to [nyc@transportationcamp.org](mailto:nyc@transportationcamp.org) or to [@TranspoCampNYC](https://twitter.com/transpocampnyc)**
+
+### Sponsors
+
+
+#### Platinum
+
+<div class="sponsors platinum">
+<div class="sponsor"><a href="https://www.cubic.com/Transportation"><img src="sponsors/platinum/cubic.jpg" alt="Cubic"></a></div>
+<div class="sponsor"><a href="http://transitcenter.org/"><img src="sponsors/platinum/transitcenter.png" alt="TransitCenter"></a></div>
+</div>
+
+#### Gold
+
+<div class="sponsors gold">
+<div class="sponsor"><a href="http://transit.app/"><img src="sponsors/special/TRANSIT.png" alt="Transit"></a></div>
+<div class="sponsor"><a href="https://www.aimsun.com/"><img src="sponsors/gold/aimsun.jpg" alt="Aimsun"></a></div>
+<div class="sponsor"><a href="http://samschwartz.com/"><img src="sponsors/gold/samschwartz.jpg" alt="Sam Schwartz Engineering"></a></div>
+</div>
+
+#### Silver
+
+<div class="sponsors silver">
+<div class="sponsor"><a href="https://www.akrf.com/"><img src="sponsors/silver/akrf.jpg" alt="AKRF, Inc."></a></div>
+<div class="sponsor"><a href="http://www.gpinet.com/"><img src="sponsors/silver/gpi.jpg" alt="GPI"></a></div>
+<div class="sponsor"><a href="https://www.vhb.com/Pages/home.aspx"><img src="sponsors/silver/vhb.jpg" alt="VHB"></a></div>
+</div>
+
+#### Bronze
+
+<div class="sponsors bronze">
+<div class="sponsor"><a href="https://completegeorge.org/"><img src="sponsors/bronze/completegeorge.png" alt="Complete George"></a></div>
+<div class="sponsor"><a href="https://ite-metsection.org/"><img src="sponsors/bronze/ite.png" alt="ITE Met Section"></a></div>
+</div>
+
+### Hosts
+
+<div class="sponsors">
+<div class="sponsor"><a href="http://c2smart.engineering.nyu.edu/"><img src="hosts/c2smart.jpg" alt="Connected Cities for Smart Mobility toward Accessible and Resilient Transportation (C2SMART)"></a></div>
+</div>
+
+<style type="text/css">
+.sponsors {
+  text-align: center;
+}
+
+.sponsor {
+  display: inline-block;
+  padding: 0.5em;
+  vertical-align: middle;
+}
+
+.platinum .sponsor {
+  max-width: 600px;
+}
+
+.gold .sponsor {
+  max-width: 250px;
+}
+
+.silver .sponsor {
+  max-width: 200px;
+}
+
+.bronze .sponsor {
+  max-width: 175px;
+}
+</style>
