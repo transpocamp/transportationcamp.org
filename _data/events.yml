@@ -260,3 +260,8 @@
   date: 2019-01-12 23:59:59
   url: /events/dc2019
   background_img: dc-pennave.jpg
+  
+- title: PHL 2019
+  date: 2019-04-13 23:59:59
+  url: /events/phl2019
+  background_img: philly-19-eagles.png
