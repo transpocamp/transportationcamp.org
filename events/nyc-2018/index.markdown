@@ -69,6 +69,7 @@ Keep in touch with us on Twitter [@TranspoCampNYC](https://twitter.com/transpoca
 <div class="sponsors silver">
 <div class="sponsor"><a href="https://www.akrf.com/"><img src="sponsors/silver/akrf.jpg" alt="AKRF, Inc."></a></div>
 <div class="sponsor"><a href="http://www.gpinet.com/"><img src="sponsors/silver/gpi.jpg" alt="GPI"></a></div>
+<div class="sponsor"><a href="https://www.nycedc.com/"><img src="sponsors/silver/nycedc.jpg" alt="NYCEDC"></a></div>
 <div class="sponsor"><a href="https://www.vhb.com/Pages/home.aspx"><img src="sponsors/silver/vhb.jpg" alt="VHB"></a></div>
 </div>
 
