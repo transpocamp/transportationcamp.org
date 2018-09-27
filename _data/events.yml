@@ -261,6 +261,11 @@
   url: /events/dc2019
   background_img: dc-pennave.jpg
 
+- title: Miami 2019
+  date: 2019-01-25 23:59:59
+  url: /events/miami2019
+  background_img: miami-highway.jpg
+
 - title: PHL 2019
   date: 2019-04-13 23:59:59
   url: /events/phl2019
