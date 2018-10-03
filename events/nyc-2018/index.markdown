@@ -30,8 +30,7 @@ General admission is $25, and [registration is now open](https://www.eventbrite.
 
 <p style="text-align: center;"><img src="sponsors/special/TRANSIT.png" style="max-width: 50%;"/></p>
 
-Need directions? Download [Transit](http://www.transit.app), the official app of TransportationCamp NYC.
-
+Need directions? Download [Transit](https://transit.app/), the official app of TransportationCamp NYC. It has a special feature showing where camp events are happening all week, so you can find the fastest way there. To enable the feature in [Transit's settings menu](https://transit.helpscoutdocs.com/article/23-options-menu), tap the middle slider icon and switch on "TransportationCamp" under "My other modes" -> "Other".
 
 #### Presenting?
 
