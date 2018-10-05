@@ -266,6 +266,12 @@
   url: /events/miami2019
   background_img: miami-highway.jpg
 
+- title: South 2019
+  date: 2019-02-09 23:59:59
+  url: /events/south-2019
+  register_url: https://www.eventbrite.com/e/transportationcamp-south-2019-registration-50608885539
+  background_img: south-2019.jpg
+
 - title: PHL 2019
   date: 2019-04-13 23:59:59
   url: /events/phl2019
