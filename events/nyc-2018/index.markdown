@@ -61,6 +61,7 @@ Keep in touch with us on Twitter [@TranspoCampNYC](https://twitter.com/transpoca
 <div class="sponsor"><a href="https://www.aimsun.com/"><img src="sponsors/gold/aimsun.jpg" alt="Aimsun"></a></div>
 <div class="sponsor"><a href="https://www.intersection.com/"><img src="sponsors/gold/intersection.png" alt="Intersection"></a></div>
 <div class="sponsor"><a href="http://samschwartz.com/"><img src="sponsors/gold/samschwartz.jpg" alt="Sam Schwartz Engineering"></a></div>
+<div class="sponsor"><a href="https://www.zipcar.com/"><img src="sponsors/gold/zipcar.jpg" alt="Zipcar"></a></div>
 </div>
 
 #### Silver
