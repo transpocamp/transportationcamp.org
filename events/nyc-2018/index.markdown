@@ -8,7 +8,7 @@ published: true
 ---
 ##### October 13, 2018—NYU Tandon School of Engineering
 
-<!--- ## Joining us today? View the board online at [bit.ly/tcnyc18](https://bit.ly/tcnyc18)! --->
+## Joining us today? View the board online at [bit.ly/tcnyc18](https://bit.ly/tcnyc18)!
 
 TransportationCamp NYC 2018 will foster open conversation and collaboration in mobility and the radical changes the present is experiencing in transportation globally - in cities and between them.
 
@@ -18,18 +18,15 @@ Unlike a traditional conference, the specific session topics are determined by p
 
 TransportationCamp NYC 2018 will be held at NYU Tandon School of Engineering in Downtown Brooklyn. Camp can be accessed from Jay Street - MetroTech and Borough Hall stations, CitiBike, numerous bus lines, and, with a short walk, the NYC Ferry DUMBO dock.
 
-General admission is $25, and [registration is now open](https://www.eventbrite.com/e/transportationcamp-nyc-2018-registration-49533901232)!
-
 ### Schedule
 
 * **9:00AM**: Doors open; breakfast in Pfizer Auditorium (5 MetroTech Center)
 * **10:00AM**: Welcome and Kick Off
 * **11:30AM**: Session 1 in Rogers Hall classrooms (6 MetroTech Center)
 * **12:30PM**: Lunch
-* **1:30PM**: Session 2
-    * Special guest speakers: New York City Transit President Andy Byford and Chief Customer Officer Sarah Meyer
-* **2:30PM**: Session 3
-* **3:30PM**: Session 4
+* **1:30PM**: Session 2 in Pfizer Auditorium: _Special guest speakers New York City Transit President Andy Byford and Chief Customer Officer Sarah Meyer_
+* **2:30PM**: Session 3 in Rogers Hall classrooms
+* **3:30PM**: Session 4 in Rogers Hall classrooms
 * **5:00PM** Happy Hour at Rocco's Tacos - 339 Adams St
 
 #### Getting There!
