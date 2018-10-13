@@ -8,6 +8,8 @@ published: true
 ---
 ##### October 13, 2018—NYU Tandon School of Engineering
 
+<!--- ## Joining us today? View the board online at [bit.ly/tcnyc18](https://bit.ly/tcnyc18)! --->
+
 TransportationCamp NYC 2018 will foster open conversation and collaboration in mobility and the radical changes the present is experiencing in transportation globally - in cities and between them.
 
 TransportationCamp continues to assemble planners, software developers, engineers, students, dreamers, professionals, and civic leaders for an exciting day of "un-conferencing” and planned gatherings in the week before it. All of these events will connect those across the transportation industry in an open and safe space for dialogue.
@@ -18,13 +20,17 @@ TransportationCamp NYC 2018 will be held at NYU Tandon School of Engineering in 
 
 General admission is $25, and [registration is now open](https://www.eventbrite.com/e/transportationcamp-nyc-2018-registration-49533901232)!
 
-**What you get for your admission:**
+### Schedule
 
-* Full day of TransportationCamp NYC
-* Transportation Week events preceding Camp
-* Breakfast, lunch, and midday refreshments at Camp
-* Camp After-party Access
-* New friends and memories for a lifetime! 
+* **9:00AM**: Doors open; breakfast in Pfizer Auditorium (5 MetroTech Center)
+* **10:00AM**: Welcome and Kick Off
+* **11:30AM**: Session 1 in Rogers Hall classrooms (6 MetroTech Center)
+* **12:30PM**: Lunch
+* **1:30PM**: Session 2
+    * Special guest speakers: New York City Transit President Andy Byford and Chief Customer Officer Sarah Meyer
+* **2:30PM**: Session 3
+* **3:30PM**: Session 4
+* **5:00PM** Happy Hour at Rocco's Tacos - 339 Adams St
 
 #### Getting There!
 
@@ -42,7 +48,7 @@ We will be handing out session idea cards throughout registration. If you have a
 
 Keep in touch with us on Twitter [@TranspoCampNYC](https://twitter.com/transpocampnyc) for all the latest news and updates about #TCNYC18 
 
-**See you soon! Questions? Send them to [nyc@transportationcamp.org](mailto:nyc@transportationcamp.org) or to [@TranspoCampNYC](https://twitter.com/transpocampnyc)**
+**Questions? Send them to [nyc@transportationcamp.org](mailto:nyc@transportationcamp.org) or to [@TranspoCampNYC](https://twitter.com/transpocampnyc)**
 
 ### Sponsors
 
