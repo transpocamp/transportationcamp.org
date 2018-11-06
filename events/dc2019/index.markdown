@@ -11,7 +11,7 @@ Each year, TransportationCamp DC brings together a sell-out crowd of 400 thinker
 
 Join us for DC’s 8th annual event on **Saturday, January 12, 2019**. We’ll be returning to Founders Hall, at George Mason University’s Arlington Campus.
 
-We'll announce via [@transpocamp](https://twitter.com/transpocamp) when registration opens.
+Registration is now open at [eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906](https://www.eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906). Tickets are $50; students are $35. Price includes breakfast and lunch.
 
 *Curious what happened last year at TransportationCamp DC? Browse the [2018 Session Schedule](http://bit.ly/transpo18) to explore topics and catch up with session minutes.*
 
