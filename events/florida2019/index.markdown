@@ -8,9 +8,9 @@ published: true
 ---
 [#SmartMiami](https://twitter.com/hashtag/SmartMiami) and the [Rail Passengers Association](https://www.railpassengers.org/) are planning TransportationCamp Miami 2019.
 
-Date will be announced before Thanksgiving.
+Date will be Thursday 1/31 and Friday 2/1.
 
-TransportationCamp Miami will bring together transportation researchers, engineers, startups, techies, planners, designers and representatives & elected officials from Miami-Dade’s 34 municipalities to move mobility & smart growth projects forward in Miami.
+TransportationCamp Florida will bring together transportation researchers, engineers, startups, techies, planners, designers and representatives & elected officials from Miami-Dade’s 34 municipalities to move mobility & smart growth projects forward in Miami.
 
 This unconference will allow attendees to design their own sessions, find collision points for collaboration and action for the myriad of transportation & land use projects in Miami-Dade County.
 
