@@ -262,9 +262,9 @@
   register_url: https://www.eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906
   background_img: dc-pennave.jpg
 
-- title: Miami 2019
+- title: Florida 2019
   date: 2019-01-25 23:59:59
-  url: /events/miami2019
+  url: /events/florida2019
   background_img: miami-highway.jpg
 
 - title: South 2019

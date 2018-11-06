@@ -3,12 +3,12 @@ comments: false
 date: 2019-01-25 12:00:00+00:00
 layout: event
 slug: "miami2019"
-title: TransportationCamp Miami 2019
+title: TransportationCamp Florida 2019
 published: true
 ---
 [#SmartMiami](https://twitter.com/hashtag/SmartMiami) and the [Rail Passengers Association](https://www.railpassengers.org/) are planning TransportationCamp Miami 2019.
 
-Event is scheduled for Friday January 25 and Saturday January 26th, 9:00am to 5:00pm, at [Florida International University (FIU)](https://www.fiu.edu/). Registration: coming soon.
+Date will be announced before Thanksving. Venue will be [Florida International University (FIU)](https://www.fiu.edu/). Registration: coming soon.
 
 TransportationCamp Miami will bring together transportation researchers, engineers, startups, techies, planners, designers and representatives & elected officials from Miami-Dade’s 34 municipalities to move mobility & smart growth projects forward in Miami.
 
