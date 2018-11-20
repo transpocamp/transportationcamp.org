@@ -7,7 +7,7 @@ slug: "dc2019"
 title: TransportationCamp DC 2019
 published: true
 ---
-Each year, TransportationCamp DC brings together a sell-out crowd of 400 thinkers and doers in the fields of transportation and technology. It’s not your traditional conference. In addition to talks and presentations from big names in the field, the heart of TransportationCamp is sessions and activities led by attendees themselves. Held on the Saturday before [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting), it is a high-energy, exciting day of presentations, panels, and networking opportunities — all created and led by the diverse innovators who attend.
+Each year, TransportationCamp DC brings together a sell-out crowd of up to 500 thinkers and doers in the fields of transportation and technology. It’s not your traditional conference. In addition to talks and presentations from big names in the field, the heart of TransportationCamp is sessions and activities led by attendees themselves. Held on the Saturday before [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting), it is a high-energy, exciting day of presentations, panels, and networking opportunities — all created and led by the diverse innovators who attend.
 
 Join us for DC’s 8th annual event on **Saturday, January 12, 2019**. We’ll be returning to Founders Hall, at George Mason University’s Arlington Campus.
 
