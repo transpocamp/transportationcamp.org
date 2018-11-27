@@ -28,7 +28,7 @@ Founders Hall is located at GMU’s [Arlington Campus](http://arlington.gmu.edu/
 
 ### Sponsors
 [Mobility Lab](http://mobilitylab.org/), Arlington County’s living laboratory for research and development, hosts and organizes the event each year. Our sponsors for TransportationCamp DC 2019 are:
-<img src="sponsors680x510.png">
+<img src="sponsors680x500.jpg">
 Interested in joining our sponsors? Prospective sponsors can find out more information [here](prospectus.pdf).
 
 ### Keep Up              
