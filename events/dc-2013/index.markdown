@@ -8,7 +8,7 @@ title: Washington DC 2013
 wordpress_id: 1529
 ---
 
-TransportationCamp is returning to Washington DC on January 12, 2013, after a successful event in 2012 ([DC '12](http://transportationcamp.org/dc/)).
+TransportationCamp is returning to Washington DC on January 12, 2013, after a successful event in 2012 ([DC '12](http://transportationcamp.org/events/dc/)).
 
 
 ### Registration

@@ -76,7 +76,7 @@
 
 - title: Los Angeles 2015
   date: 2015-10-03 23:59:59
-  url: /events/la-2015
+  url: /events/la2015
   register_url: https://transportationcamp2015la.eventbrite.com/
   background_img: la-2015.jpg
 
@@ -130,13 +130,13 @@
 
 - title: Anaheim 2016
   date: 2016-08-14 23:59:59
-  url: /events/anaheim-2016
+  url: /events/anaheim2016
   register_url: http://ecommerce.ite.org/imis/iCommerce/Events/Event_Display.aspx?EventKey=ITE2016AM
   background_img: anaheim.jpg
 
 - title: West 2016
   date: 2016-09-10 23:59:59
-  url: /events/west-2016
+  url: /events/west2016
   register_url: https://www.eventbrite.com/e/transportation-camp-west-hosted-by-calact-tickets-27058435509
   background_img: west-2016.jpg
 
