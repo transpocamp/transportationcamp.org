@@ -23,8 +23,8 @@ The Pryzbyla Center ("the Pryz") is located at Catholic University, in Washingto
 
   * The Pryzbyla Center is a 7-minute walk from the [Brookland-CUA Metro station](https://www.wmata.com/rider-guide/stations/brookland.cfm), on the Red Line.
   * There is a [Capital Bikeshare](http://www.capitalbikeshare.com/) station at John McCormack Dr & Michigan Ave NE.
-  * Metro [bus H2](https://www.wmata.com/schedules/timetables/upload/H234_181007.pdf) "the Crosstown Line" connects Columbia Heights with the Brookland-CUA Metro station.
-  * The Metropolitan Branch Trail runs beside the Catholic University campus.
+  * Metro [bus H2,3,4](https://www.wmata.com/schedules/timetables/upload/H234_181007.pdf) "the Crosstown Line" and bus H8,9](https://www.wmata.com/schedules/timetables/upload/H8,9_170625.pdf) "the Park Road-Brookland Line" connect Columbia Heights with the Brookland-CUA Metro station.
+  * The [Metropolitan Branch Trail](http://metbranchtrail.com/) runs beside the Catholic University campus.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3103.49421758233!2d-77.00036768464848!3d38.93553647956479!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c7ef7869ab0f%3A0xb6a69963f532d74c!2sEdward+J.+Pryzbyla+University+Center%2C+Washington%2C+DC+20064!5e0!3m2!1sen!2sus!4v1543885019614" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
 
