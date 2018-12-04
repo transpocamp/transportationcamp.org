@@ -9,7 +9,10 @@ published: true
 ---
 Each year, TransportationCamp DC brings together a sell-out crowd of up to 500 thinkers and doers in the fields of transportation and technology. It’s not your traditional conference. In addition to talks and presentations from big names in the field, the heart of TransportationCamp is sessions and activities led by attendees themselves. Held on the Saturday before [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting), it is a high-energy, exciting day of presentations, panels, and networking opportunities — all created and led by the diverse innovators who attend.
 
-Join us for DC’s 8th annual event on **Saturday, January 12, 2019**. We’ll be returning to Founders Hall, at George Mason University’s Arlington Campus.
+Join us for DC’s 8th annual event on **Saturday, January 12, 2019**.
+
+🚨 NEW VENUE! 🚨 (updated Dec 1, 2018)
+TransportationCamp DC is now scheduled to take place at Catholic University's [Pryzbyla Center](http://pryzbyla.cua.edu/). After six year at George Mason University’s Founders Hall in Arlington, we'll be returning to DC.
 
 Registration is now open at [eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906](https://www.eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906). Tickets are $50; students are $35. Price includes breakfast and lunch.
 
