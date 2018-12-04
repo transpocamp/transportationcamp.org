@@ -1,6 +1,6 @@
 ---
 comments: false
-date: 2019-01-25 12:00:00+00:00
+date: 2019-02-07 12:00:00+00:00
 layout: event
 slug: "miami2019"
 title: TransportationCamp Florida 2019
@@ -8,7 +8,7 @@ published: true
 ---
 [#SmartMiami](https://twitter.com/hashtag/SmartMiami) and the [Rail Passengers Association](https://www.railpassengers.org/) are planning TransportationCamp Miami 2019.
 
-Date will be Thursday 1/31 and Friday 2/1.
+Date will be Thursday February 7 and Friday February 8th, from 8:30am to 5:00pm both days.
 
 TransportationCamp Florida will bring together transportation researchers, engineers, startups, techies, planners, designers and representatives & elected officials from Miami-Dade’s 34 municipalities to move mobility & smart growth projects forward in Miami.
 
@@ -16,8 +16,9 @@ This unconference will allow attendees to design their own sessions, find collis
 
 For questions, please contact Miami-Dade Millennial Policy Commissioner David Capelli (david@smartcohort.org).
 
-Location is [StartUP FIU](http://startup.fiu.edu/): 11200 SW 8th Street, MARC Building 3rd Floor, Miami, FL 33174. There is a parking garage adjacent to the building.
+Location is FedEx Latin America & Caribbean HQ, at 800 Waterford Way, Miami, FL, 33126.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7186.970972813066!2d-80.3776642408106!3d25.754523176511775!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2f554c4a12a2b699!2sStartUP+FIU!5e0!3m2!1sen!2sus!4v1538189595451" width="680" height="340" frameborder="0" style="border:0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3592.7451359750557!2d-80.30168858497875!3d25.7789804836289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b9b88711f659%3A0xe7977091ebbb4478!2s800+Waterford+Way%2C+Miami%2C+FL+33126!5e0!3m2!1sen!2sus!4v1543899497811" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 <p align="center">
 <img src="fedex.jpg" width="225" height="87"> &nbsp;&nbsp;&nbsp; <img src="getaround.jpeg" width="174" height="174">
