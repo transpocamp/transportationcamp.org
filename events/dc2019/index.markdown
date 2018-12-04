@@ -19,7 +19,7 @@ Registration is now open at [eventbrite.com/e/transportationcamp-dc-2019-tickets
 *Curious what happened last year at TransportationCamp DC? Browse the [2018 Session Schedule](http://bit.ly/transpo18) to explore topics and catch up with session minutes.*
 
 ### Get Here
-Founders Hall is located at GMU’s [Arlington Campus](http://arlington.gmu.edu/) ([campus map](http://www.gmu.edu/resources/welcome/ArlingtonMap2017.pdf)).
+The Pryzbyla Center is located at Catholic University, in Washington's Brookland neighborhood. ([campus map](https://www.catholic.edu/res/docs/cuamap.pdf)).
 
   * Founders Hall is two blocks east of the [Virginia Square-GMU](http://www.wmata.com/rail/station_detail.cfm?station_id=98) Metro station (on the Orange and Silver lines).
   * There is a [Capital Bikeshare](http://www.capitalbikeshare.com/) station in front of Founders Hall.
