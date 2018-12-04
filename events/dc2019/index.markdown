@@ -19,13 +19,12 @@ Registration is now open at [eventbrite.com/e/transportationcamp-dc-2019-tickets
 *Curious what happened last year at TransportationCamp DC? Browse the [2018 Session Schedule](http://bit.ly/transpo18) to explore topics and catch up with session minutes.*
 
 ### Get Here
-The Pryzbyla Center is located at Catholic University, in Washington's Brookland neighborhood. ([campus map](https://www.catholic.edu/res/docs/cuamap.pdf)).
+The Pryzbyla Center ("the Pryz") is located at Catholic University, in Washington's Brookland neighborhood. ([campus map](https://www.catholic.edu/res/docs/cuamap.pdf)).
 
-  * The The Pryzbyla Center is a 7-minute walk from the [Brookland-CUA Metro station](https://www.wmata.com/rider-guide/stations/brookland.cfm), on the Red Line.
+  * The Pryzbyla Center is a 7-minute walk from the [Brookland-CUA Metro station](https://www.wmata.com/rider-guide/stations/brookland.cfm), on the Red Line.
   * There is a [Capital Bikeshare](http://www.capitalbikeshare.com/) station at John McCormack Dr & Michigan Ave NE.
-  * Metro [bus 38B](https://buseta.wmata.com/m/?q=38B) runs between Ballston (Virginia) and Farragut Square (DC, via Georgetown).
-  * Arlington's [ART 41](http://www.arlingtontransit.com/pages/routes/art-41/) bus runs between Court House, Clarendon, and Columbia Pike.
-  * The [Founders Hall Parking Garage](http://parking.gmu.edu/arlingtoncampusparking.html) has a daily rate of $8 (enter via Kirkwood Rd).
+  * Metro [bus H2](https://www.wmata.com/schedules/timetables/upload/H234_181007.pdf) "the Crosstown Line" connects Columbia Heights with the Brookland-CUA Metro station.
+  * The Metropolitan Branch Trail runs beside the Catholic University campus.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3103.49421758233!2d-77.00036768464848!3d38.93553647956479!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c7ef7869ab0f%3A0xb6a69963f532d74c!2sEdward+J.+Pryzbyla+University+Center%2C+Washington%2C+DC+20064!5e0!3m2!1sen!2sus!4v1543885019614" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
 
