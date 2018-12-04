@@ -21,8 +21,8 @@ Registration is now open at [eventbrite.com/e/transportationcamp-dc-2019-tickets
 ### Get Here
 The Pryzbyla Center is located at Catholic University, in Washington's Brookland neighborhood. ([campus map](https://www.catholic.edu/res/docs/cuamap.pdf)).
 
-  * Founders Hall is two blocks east of the [Virginia Square-GMU](http://www.wmata.com/rail/station_detail.cfm?station_id=98) Metro station (on the Orange and Silver lines).
-  * There is a [Capital Bikeshare](http://www.capitalbikeshare.com/) station in front of Founders Hall.
+  * The The Pryzbyla Center is a 7-minute walk from the [Brookland-CUA Metro station](https://www.wmata.com/rider-guide/stations/brookland.cfm), on the Red Line.
+  * There is a [Capital Bikeshare](http://www.capitalbikeshare.com/) station at John McCormack Dr & Michigan Ave NE.
   * Metro [bus 38B](https://buseta.wmata.com/m/?q=38B) runs between Ballston (Virginia) and Farragut Square (DC, via Georgetown).
   * Arlington's [ART 41](http://www.arlingtontransit.com/pages/routes/art-41/) bus runs between Court House, Clarendon, and Columbia Pike.
   * The [Founders Hall Parking Garage](http://parking.gmu.edu/arlingtoncampusparking.html) has a daily rate of $8 (enter via Kirkwood Rd).
