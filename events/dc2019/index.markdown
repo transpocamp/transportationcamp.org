@@ -12,7 +12,7 @@ Each year, TransportationCamp DC brings together a sell-out crowd of up to 500 t
 Join us for DC’s 8th annual event on **Saturday, January 12, 2019**.
 
 🚨 NEW VENUE! 🚨 (updated Dec 1, 2018)
-TransportationCamp DC is now scheduled to take place at Catholic University's [Pryzbyla Center](http://pryzbyla.cua.edu/). After six year at George Mason University’s Founders Hall in Arlington, we'll be returning to DC.
+TransportationCamp DC is now scheduled to take place at Catholic University's [Pryzbyla Center](http://pryzbyla.cua.edu/). After six years at George Mason University’s Founders Hall in Arlington, we'll be returning to DC.
 
 Registration is now open at [eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906](https://www.eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906). Tickets are $50; students are $35. Price includes breakfast and lunch.
 
@@ -27,7 +27,7 @@ Founders Hall is located at GMU’s [Arlington Campus](http://arlington.gmu.edu/
   * Arlington's [ART 41](http://www.arlingtontransit.com/pages/routes/art-41/) bus runs between Court House, Clarendon, and Columbia Pike.
   * The [Founders Hall Parking Garage](http://parking.gmu.edu/arlingtoncampusparking.html) has a daily rate of $8 (enter via Kirkwood Rd).
 
-<iframe align="center" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1552.8558231973786!2d-77.10089523808!3d38.88483864213981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b6828ba038d9%3A0xdc8b8bb98b169604!2sGeorge+Mason+University-Arlington+Campus!5e0!3m2!1sen!2sus!4v1412725299805" width="680" height="340" frameborder="0" style="border:0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3103.49421758233!2d-77.00036768464848!3d38.93553647956479!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c7ef7869ab0f%3A0xb6a69963f532d74c!2sEdward+J.+Pryzbyla+University+Center%2C+Washington%2C+DC+20064!5e0!3m2!1sen!2sus!4v1543885019614" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### Sponsors
 [Mobility Lab](http://mobilitylab.org/), Arlington County’s living laboratory for research and development, hosts and organizes the event each year. Our sponsors for TransportationCamp DC 2019 are:
