@@ -38,4 +38,4 @@ Stay tuned to [@transpocamp](https://twitter.com/transpocamp) (and the [#transpo
 
 ### While in DC...
 The [Transportation Techies](https://www.meetup.com/Transportation-Techies/events/256991003/) meetup is having
-[Bike hack Night X](https://www.meetup.com/Transportation-Techies/events/256991003/) on Thursday, January 10. Attendance is free but RSVP is required; limited capacity.
+[Bike Hack Night X](https://www.meetup.com/Transportation-Techies/events/256991003/) on Thursday, January 10. Attendance is free but RSVP is required; limited capacity.
