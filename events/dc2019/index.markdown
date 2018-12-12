@@ -31,7 +31,7 @@ The Pryzbyla Center ("the Pryz") is located at Catholic University, in Washingto
 
 ### Sponsors
 [Mobility Lab](http://mobilitylab.org/), Arlington County’s living laboratory for research and development, hosts and organizes the event each year. Our sponsors for TransportationCamp DC 2019 are:
-<img src="sponsors680x580.jpg">
+<img src="sponsors680x580.png">
 Interested in joining our sponsors? Prospective sponsors can find out more information [here](prospectus.pdf).
 
 ### Keep Up
