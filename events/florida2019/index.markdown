@@ -8,13 +8,16 @@ published: true
 ---
 [#SmartMiami](https://twitter.com/hashtag/SmartMiami) and the [Rail Passengers Association](https://www.railpassengers.org/) are planning TransportationCamp Miami 2019.
 
-Date will be Thursday February 7 and Friday February 8th, from 8:30am to 5:00pm both days.
+Date will be Thursday February 7 and Friday February 8th, from 8:30am to 5:00pm both days
+with a private reception at VIP location 8-11pm on Friday 2/8.
 
-TransportationCamp Florida will bring together transportation researchers, engineers, startups, techies, planners, designers and representatives & elected officials from Miami-Dade’s 34 municipalities to move mobility & smart growth projects forward in Miami.
+TransportationCamp Florida will bring together transportation researchers, engineers, planners, techies, planners and architects
+to learn and share best practices and co-design implementation plans for sustainable infrastructure in the State of Florida.
 
-This unconference will allow attendees to design their own sessions, find collision points for collaboration and action for the myriad of transportation & land use projects in Miami-Dade County.
+Location is FedEx Latin America & Caribbean HQ, at 800 Waterford Way, Miami, FL, 33126.
 
-For questions, please contact Miami-Dade Millennial Policy Commissioner David Capelli (david@smartcohort.org).
+Your support makes our programs possible. Our sponsors are listed on our social media channels, at the event and on event materials.
+For more information and sponsorship, please email david@smartcohort.org.
 
 Location is FedEx Latin America & Caribbean HQ, at 800 Waterford Way, Miami, FL, 33126.
 
