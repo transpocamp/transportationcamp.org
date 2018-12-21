@@ -8,7 +8,7 @@ published: true
 ---
 [#SmartMiami](https://twitter.com/hashtag/SmartMiami) and the [Rail Passengers Association](https://www.railpassengers.org/) are planning TransportationCamp Miami 2019.
 
-Date will be Thursday February 7 and Friday February 8th, from 8:30am to 5:00pm both days
+Date will be Thursday February 7th and Friday February 8th, from 8:30am to 5:00pm both days
 with a private reception at VIP location 8-11pm on Friday 2/8.
 
 TransportationCamp Florida will bring together transportation researchers, engineers, planners, techies, planners and architects
