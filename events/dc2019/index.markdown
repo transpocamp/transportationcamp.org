@@ -33,7 +33,7 @@ The Pryzbyla Center ("the Pryz") is located at Catholic University, in Washingto
 ### Event Schedule
 <pre>
  8:30am Registration and breakfast
- 9:30am Introduction, session submissions, announcements, group activity
+ 9:30am Introduction, session submissions, group activity
 11:00am Period 1 (1 hour)
 12:10pm Period 2 (1 hour)
  1:10pm Lunch and sponsor announcements
