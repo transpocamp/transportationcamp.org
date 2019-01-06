@@ -27,7 +27,7 @@ The Pryzbyla Center ("the Pryz") is located at Catholic University, in Washingto
   * The [Metropolitan Branch Trail](http://metbranchtrail.com/) runs beside the Catholic University campus.
   * We can use the McMahon parking lot between Hannan Hall and Caldwell Chapel (enter via Michigan Ave).
 
-<img src="cuamap.png">width="680" height="340"</a>
+<img src="cuamap.png" width="680" height="340">
 
 We'll also be using next-door Hannan Hall for four of the breakrooms for sessions.
 
