@@ -41,3 +41,5 @@ and [Twitter](https://twitter.com/TranspoCampBAL), or subscribe to receive email
 ## Contact and Sponsor Information
 
 Interested in sponsorship or volunteering opportunities? Contact chair@yptbaltimore.org.
+
+<img src="baltimore2018.jpg">
