@@ -277,3 +277,8 @@
   date: 2019-03-30 23:59:59
   url: /events/phl2019
   background_img: philly-19-eagles.png
+
+- title: Baltimore 2019
+  date: 2019-05-18 23:59:59
+  url: /events/baltimore2019
+  background_img: baltimore-bumpo.png
