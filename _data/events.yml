@@ -262,6 +262,12 @@
   register_url: https://www.eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906
   background_img: dc-pennave.jpg
 
+- title: Ithaca 2019
+  date: 2019-01-19 23:59:59
+  url: /events/ithaca2019
+  register_url: https://www.eventbrite.com/e/transportationcamp-ithaca-2019-tickets-51294341757
+  background_img: ithaca-snow.png
+
 - title: Florida 2019
   date: 2019-02-07 23:59:59
   url: /events/florida2019
