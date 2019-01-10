@@ -55,6 +55,8 @@ Interested in joining our sponsors? Prospective sponsors can find out more infor
 ### Keep Up
 Stay tuned to [@transpocamp](https://twitter.com/transpocamp) (and the [#transpo19](https://twitter.com/hashtag/transpo19) hashtag) for news about this event and other TransportationCamps as they are announced.
 
+For further information, contact Jenna.Fortunati@mobilitylab.org.
+
 ### While in DC...
 The [Transportation Techies](https://www.meetup.com/Transportation-Techies/events/256991003/) meetup is having
 [Bike Hack Night X](https://www.meetup.com/Transportation-Techies/events/256991003/) on Thursday, January 10. Attendance is free but RSVP is required; limited capacity.
