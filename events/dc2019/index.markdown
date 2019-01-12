@@ -9,8 +9,8 @@ published: true
 ---
 <p style="background-color:#d5ecf9;margin:1em">
 📶 Wi-Fi Network is *CUA/guest*. Accept terms and conditions; there is no password.
-</p>
-<p style="background-color:#d5ecf9;margin:1em">
+<br>
+<br>
 📋 The Board is online at <a href="https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/">tiny.cc/transpo19</a>  (alternate URL: <a href="https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/">bit.do/transpo19</a>)
 </p>
 <p>&nbsp;</p>
