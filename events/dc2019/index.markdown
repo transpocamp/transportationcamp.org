@@ -11,14 +11,14 @@ Each year, TransportationCamp DC brings together a sell-out crowd of up to 500 t
 
 Join us for DC’s 8th annual event on **Saturday, January 12, 2019**.
 
-🚨 NEW VENUE! 🚨 (updated Dec 1, 2018)
+🚨 NEW VENUE! (updated Dec 1, 2018)
 TransportationCamp DC is now scheduled to take place at Catholic University's [Pryzbyla Center](http://pryzbyla.cua.edu/). After six years at George Mason University’s Founders Hall in Arlington, we'll be returning to DC.
 
 Registration is now open at [eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906](https://www.eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906). Tickets are $50; students are $35. Price includes breakfast, lunch, and a reception (also at the Pryzbyla Center).
 
 📶 Wi-Fi Network is *CUA/guest*. Accept terms and conditions; there is no password.
 
-📋 The Board is online at [tiny.cc/transpo19](https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/edit) (alternate URL: [https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/edit](bit.do/transpo19))
+📋 The Board is online at [tiny.cc/transpo19](https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/edit) (alternate URL: [bit.do/transpo19](https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/edit)
 
 *Curious what happened last year at TransportationCamp DC? Browse the [2018 Session Schedule](http://bit.ly/transpo18) to explore topics and catch up with session minutes.*
 
