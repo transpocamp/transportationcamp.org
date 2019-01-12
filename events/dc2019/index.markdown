@@ -10,7 +10,7 @@ published: true
 <div style="background-color:#d5ecf9">
 📶 Wi-Fi Network is *CUA/guest*. Accept terms and conditions; there is no password.
 <p>
-📋 The Board is online at [tiny.cc/transpo19](https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/edit) (alternate URL: [bit.do/transpo19](https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/edit)
+📋 The Board is online at <a href="https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/">tiny.cc/transpo19</a>  (alternate URL: <a href="https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/">bit.do/transpo19</a>)
 </div>
 
 Each year, TransportationCamp DC brings together a sell-out crowd of up to 500 thinkers and doers in the fields of transportation and technology. It’s not your traditional conference. In addition to talks and presentations from big names in the field, the heart of TransportationCamp is sessions and activities led by attendees themselves. Held on the Saturday before [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting), it is a high-energy, exciting day of presentations, panels, and networking opportunities — all created and led by the diverse innovators who attend.
