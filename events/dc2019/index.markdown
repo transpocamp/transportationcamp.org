@@ -16,7 +16,9 @@ TransportationCamp DC is now scheduled to take place at Catholic University's [P
 
 Registration is now open at [eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906](https://www.eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906). Tickets are $50; students are $35. Price includes breakfast, lunch, and a reception (also at the Pryzbyla Center).
 
-📶 Wi-Fi! 📶  Network is *CUA/guest*. Accept terms and conditions; there is no password.
+📶 Wi-Fi Network is *CUA/guest*. Accept terms and conditions; there is no password.
+
+📋 The Board is online at [tiny.cc/transpo19](https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/edit) (alternate URL: [https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/edit](bit.do/transpo19))
 
 *Curious what happened last year at TransportationCamp DC? Browse the [2018 Session Schedule](http://bit.ly/transpo18) to explore topics and catch up with session minutes.*
 
