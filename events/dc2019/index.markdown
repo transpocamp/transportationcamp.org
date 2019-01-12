@@ -7,7 +7,7 @@ slug: "dc2019"
 title: TransportationCamp DC 2019
 published: true
 ---
-<p style="background-color:#d5ecf9;margin:1em">
+<p style="background-color:#d5ecf9;padding:1em">
 📶 Wi-Fi Network is *CUA/guest*. Accept terms and conditions; there is no password.
 <br>
 <br>
