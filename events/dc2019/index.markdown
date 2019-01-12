@@ -7,6 +7,12 @@ slug: "dc2019"
 title: TransportationCamp DC 2019
 published: true
 ---
+<div style="background-color:#d5ecf9">
+📶 Wi-Fi Network is *CUA/guest*. Accept terms and conditions; there is no password.
+
+📋 The Board is online at [tiny.cc/transpo19](https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/edit) (alternate URL: [bit.do/transpo19](https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/edit)
+</div>
+
 Each year, TransportationCamp DC brings together a sell-out crowd of up to 500 thinkers and doers in the fields of transportation and technology. It’s not your traditional conference. In addition to talks and presentations from big names in the field, the heart of TransportationCamp is sessions and activities led by attendees themselves. Held on the Saturday before [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting), it is a high-energy, exciting day of presentations, panels, and networking opportunities — all created and led by the diverse innovators who attend.
 
 Join us for DC’s 8th annual event on **Saturday, January 12, 2019**.
@@ -15,10 +21,6 @@ Join us for DC’s 8th annual event on **Saturday, January 12, 2019**.
 TransportationCamp DC is now scheduled to take place at Catholic University's [Pryzbyla Center](http://pryzbyla.cua.edu/). After six years at George Mason University’s Founders Hall in Arlington, we'll be returning to DC.
 
 Registration is now open at [eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906](https://www.eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906). Tickets are $50; students are $35. Price includes breakfast, lunch, and a reception (also at the Pryzbyla Center).
-
-📶 Wi-Fi Network is *CUA/guest*. Accept terms and conditions; there is no password.
-
-📋 The Board is online at [tiny.cc/transpo19](https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/edit) (alternate URL: [bit.do/transpo19](https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/edit)
 
 *Curious what happened last year at TransportationCamp DC? Browse the [2018 Session Schedule](http://bit.ly/transpo18) to explore topics and catch up with session minutes.*
 
