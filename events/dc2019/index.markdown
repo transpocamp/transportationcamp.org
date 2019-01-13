@@ -18,7 +18,7 @@ Each year, TransportationCamp DC brings together a sell-out crowd of up to 500 t
 
 Join us for DC’s 8th annual event on **Saturday, January 12, 2019**.
 
-🚨 NEW VENUE! (updated Dec 1, 2018)
+🚨 NEW VENUE! 🚨 (updated Dec 1, 2018)
 TransportationCamp DC is now scheduled to take place at Catholic University's [Pryzbyla Center](http://pryzbyla.cua.edu/). After six years at George Mason University’s Founders Hall in Arlington, we'll be returning to DC.
 
 Registration is now open at [eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906](https://www.eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906). Tickets are $50; students are $35. Price includes breakfast, lunch, and a reception (also at the Pryzbyla Center).
