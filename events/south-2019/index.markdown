@@ -86,13 +86,14 @@ Follow us on [Facebook](https://www.facebook.com/TranspoCampSouth/) and Twitter 
 
 <!-- [<img width="375" src="./gt.jpg">](https://ce.gatech.edu/) -->
 
-<!-- [<img width="600" style="margin-left: 15px" src="./marta.png">](https://itsmarta.com) -->
 
 ### Sponsors
 
 [<img src="./stride.png">](https://stride.ce.ufl.edu/)
 
 [<img src="./gti.png">](http://www.gti.gatech.edu/)
+
+[<img style="margin-left: 15px" src="./marta.png">](https://itsmarta.com)
 
 ### Partners
 
