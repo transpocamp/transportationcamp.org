@@ -93,7 +93,7 @@ Follow us on [Facebook](https://www.facebook.com/TranspoCampSouth/) and Twitter 
 
 [<img src="./gti.png">](http://www.gti.gatech.edu/)
 
-[<img style="margin-left: 15px" src="./marta.png">](https://itsmarta.com)
+<p style="margin: 0 auto; display: block; max-width: 480px"><a href="https://itsmarta.com"><img src ="./marta.png" /></a></p>
 
 ### Partners
 
