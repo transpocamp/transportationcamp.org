@@ -34,7 +34,7 @@ Organized by passionate Philadelphians in conjunction with the Philadelphia chap
 
 ## <a name="registration"></a> Registration
 
-<div style="width:100%; text-align:left;"><iframe src="https://eventbrite.com/tickets-external?eid=55000454841&ref=etckt" frameborder="0" height="393" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;"><iframe src="https://eventbrite.com/tickets-external?eid=55000454841&ref=etckt" frameborder="0" height="415" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 ## Sponsorship
 
