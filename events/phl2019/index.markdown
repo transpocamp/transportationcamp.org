@@ -44,6 +44,8 @@ TransportationCampPHL has been made possible thanks to the generous support of n
 
 Want your name on the list above? Interested in becoming a sponsor? We offer various levels of sponsorship that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. For sponsorship inquiries, please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com).
 
+Want to learn more about the conference? Check out the ["First Time at a TransportationCamp?"](#firsttime) section below.
+
 
 ## Getting to TCPHL
 
@@ -103,12 +105,14 @@ Want to make sure you don't miss a thing? We encourage you to subscribe to our m
 <!--End mc_embed_signup-->
 
 
-## First Time at a TransportationCamp?
+## <a name="firsttime"></a> First Time at a TransportationCamp?
 
 - **How To TransportationCamp**: The folks at MobilityLab have taken the time to put together a [TransportationCamp 101 guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/) that explains all aspects of the event.
 - **Participation Encouraged**: Sessions are formed as the day goes on, so be sure to come with topics for discussion. If you have an idea, feel free to share and add your thoughts. 
 - **Rule of Two Feet:** Never hesitate to leave a session if you suddenly find it's not for you, or if there's another session that you want to check out, too!
 - **Dress Code**: TransportationCamp is a very casual event. Although you might be inclined to dress up for a conference, your best attire is your coolest transportation tee shirt!
+
+Want a better sense of the vibe? Check out last year's [photo gallery](https://flic.kr/s/aHsmhQCQbL) and [session schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vSmc891MrEUuYGkoGbz-4xh_KUo5YVFy4M_eoyKvjtv0GVM2dgBzDDEioXKhmHD_PGFz1jvsELOD9E8/pubhtml?gid=0&single=true).
 
 
 ## Organizing Committee
