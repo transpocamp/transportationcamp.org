@@ -8,12 +8,7 @@ title: TransportationCamp Ithaca 2019
 published: true
 ---
 
-For registration and complete information, see [eventbrite.com/e/transportationcamp-ithaca-2019-tickets-51294341757](https://www.eventbrite.com/e/transportationcamp-ithaca-2019-tickets-51294341757). Registration is $15 for everybody.
-
-## Date And Time
-
-Sat, January 19, 2019
-8:00 AM – 4:30 PM EST
+Because of the forecasted snow, TransportationCamp Ithaca has been cancelled and will be rescheduled to April 6th. Please check [https://www.tccoordinatedplan.org/transportationcamp-2019.html](https://www.tccoordinatedplan.org/transportationcamp-2019.html) for updates.
 
 ## Location
 
