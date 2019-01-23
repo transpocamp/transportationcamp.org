@@ -95,6 +95,8 @@ Follow us on [Facebook](https://www.facebook.com/TranspoCampSouth/) and Twitter 
 
 <p style="margin: 0 auto; display: block; max-width: 480px"><a href="https://itsmarta.com"><img src ="./marta.png" /></a></p>
 
+<p style="margin: 30px auto; display: block; max-width: 200px"><a href="http://georgiabikes.org/"><img src ="./gabikes.png" /></a></p>
+
 ### Partners
 
 [<img width="160" style="margin-bottom: 10px" src="./marta-army.png">](http://www.martaarmy.org/) [<img width="160" src="./ypt.png">](https://yptransportation.org/map/atlanta/) [<img width="160" src="./peds.png">](https://www.peds.org/) [<img width="160"  style="margin-bottom: 40px" src="./route.png">](https://rte.nyc/)
