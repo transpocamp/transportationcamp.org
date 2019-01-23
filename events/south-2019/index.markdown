@@ -95,7 +95,7 @@ Follow us on [Facebook](https://www.facebook.com/TranspoCampSouth/) and Twitter 
 
 <p style="margin: 0 auto; display: block; max-width: 480px"><a href="https://itsmarta.com"><img src ="./marta.png" /></a></p>
 
-<p style="margin: 30px auto; display: block; max-width: 200px"><a href="http://georgiabikes.org/"><img src ="./gabikes.png" /></a></p>
+<p style="margin: 30px auto; display: block; max-width: 300px"><a href="http://georgiabikes.org/"><img src ="./gabikes.png" /></a></p>
 
 ### Partners
 
