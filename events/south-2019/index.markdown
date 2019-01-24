@@ -16,6 +16,8 @@ published: true
 
 TransportationCamp South returns to **Atlanta** for its sixth year on Saturday, February 9th!
 
+See full event details and register online at [transpocampsouth2019.eventbrite.com](https://transpocampsouth2019.eventbrite.com).
+
 <div id="eventbrite-widget-container-50608885539"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
