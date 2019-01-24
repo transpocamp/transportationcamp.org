@@ -262,10 +262,10 @@
   register_url: https://www.eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906
   background_img: dc-pennave.jpg
 
-
 - title: Florida 2019
   date: 2019-02-08 23:59:59
   url: /events/florida2019
+  register_url: https://www.eventbrite.com/e/transportation-camp-florida-registration-55122167888
   background_img: miami-highway.jpg
 
 - title: South 2019

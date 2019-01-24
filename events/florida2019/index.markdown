@@ -10,7 +10,7 @@ published: true
 
 This is a two-day event: February 7 and 8.
 
-Registration opens 1/15.
+[Registration is now open](https://www.eventbrite.com/e/transportation-camp-florida-registration-55122167888).
 
 Your support makes our programs possible. For more information and sponsorship, please email david@smartcohort.org.
 
