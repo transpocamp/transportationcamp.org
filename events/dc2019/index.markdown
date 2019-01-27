@@ -25,7 +25,7 @@ Registration is now open at [eventbrite.com/e/transportationcamp-dc-2019-tickets
 
 <a href="board680x89.png"><img src="board680x89.png" width="680" height="89"></a>
 
-*Curious what happened this year at TransportationCamp DC? Browse the [2019 Session Schedule](https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/) to explore topics and catch up with session minutes. Or see the [2018 Session Schedule](https://docs.google.com/document/d/1rXsRw_CekyB_HBxwuMBm8I0ruP4uZ6eydQAyrrGh_Zw/) for last year's.*
+*Curious what happened this year? Browse the [2019 Session Schedule](https://docs.google.com/document/d/1xhA-AjErnw0tbeTain-qW3PxIRgR9kpDUnHjqPtbkiw/) to explore topics and catch up with session minutes. Or revisit last year's: [2018 Session Schedule](https://docs.google.com/document/d/1rXsRw_CekyB_HBxwuMBm8I0ruP4uZ6eydQAyrrGh_Zw/).*
 
 ### Get Here
 The Pryzbyla Center ("the Pryz") is located at Catholic University, in Washington's Brookland neighborhood ([campus map](https://www.catholic.edu/res/docs/cuamap.pdf)).
