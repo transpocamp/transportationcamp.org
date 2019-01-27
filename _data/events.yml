@@ -285,6 +285,12 @@
   url: /events/ithaca2019
   background_img: ithaca-snow.png
 
+- title: New England 2019
+  date: 2019-04-27 23:59:59
+  url: /events/new-england-2019
+  register_url: https://www.eventbrite.com/e/transportationcamp-new-england-2019-tickets-52244025286
+  background_img: boston-beantown.jpg
+
 - title: Baltimore 2019
   date: 2019-05-18 23:59:59
   url: /events/baltimore2019
