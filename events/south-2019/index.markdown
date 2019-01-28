@@ -18,6 +18,8 @@ TransportationCamp South returns to **Atlanta** for its sixth year on Saturday, 
 
 See full event details and register online at [transpocampsouth2019.eventbrite.com](https://transpocampsouth2019.eventbrite.com).
 
+*Price includes breakfast, box lunch, snacks, beverages and a shirt.*
+
 <div id="eventbrite-widget-container-50608885539"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
