@@ -11,7 +11,8 @@ published: true
 📶 Wi-Fi Network is <strong>GTVisitor</strong>. Password is provided in handouts.
 <br>
 <br>
-📋 "The Board" is online at <a href="https://docs.google.com/document/d/1oI_W4S4TmBa09Yf0SkWl6gMxnR319K9s0Ah-ssDw2lc">bit.ly/transpo19</a>
+📋 "The Board" will be posted here on the day of the event.
+<!-- is online at <a href="https://docs.google.com/document/d/1oI_W4S4TmBa09Yf0SkWl6gMxnR319K9s0Ah-ssDw2lc">bit.ly/transpo19</a> -->
 </p>
 
 TransportationCamp South returns to **Atlanta** for its sixth year on Saturday, February 9th!
