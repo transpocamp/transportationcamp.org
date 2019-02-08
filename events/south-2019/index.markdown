@@ -8,11 +8,10 @@ published: true
 ---
 
 <p style="background-color:#d5ecf9;padding:1em">
-📶 Wi-Fi Network is <strong>GTVisitor</strong>. Password is provided in handouts.
+    📶 Wi-Fi Network is <strong>GTVisitor</strong>. The password is <strong>8D2FC</strong>.
 <br>
 <br>
-📋 "The Board" will be posted here on the day of the event.
-<!-- is online at <a href="https://docs.google.com/document/d/1oI_W4S4TmBa09Yf0SkWl6gMxnR319K9s0Ah-ssDw2lc">bit.ly/transpo19</a> -->
+📋 "The Board" is online at <a href="https://docs.google.com/document/d/1oI_W4S4TmBa09Yf0SkWl6gMxnR319K9s0Ah-ssDw2lc">bit.ly/transpo19</a>.
 </p>
 
 TransportationCamp South returns to **Atlanta** for its sixth year on Saturday, February 9th!
@@ -43,6 +42,16 @@ See full event details and register online at [transpocampsouth2019.eventbrite.c
 </script>
 
 TransportationCamp South seeks to bring together participants from across the Southeast region. If interested in sponsoring, partnering or volunteering, please email [transpocamp@conveyal.com](mailto:transpocamp@conveyal.com).
+
+### Event Schedule
+
+- **9:00-10:00 AM**: Registration | Breakfast
+- **10:00-10:45 AM**: Kick-off & Session Planning
+- **10:45-11:45 AM**: Breakout Session #1
+- **12:00-1:00 PM**: Breakout Session #2
+- **1:00-2:00 PM**: Lunch
+- **2:00-3:00 PM**: Breakout Session #3
+- [After-party](https://www.eventbrite.com/e/ypt-transportation-camp-happy-hour-tickets-55967458174) hosted by [YPT Atlanta](https://yptransportation.org/map/atlanta/) @ [Cypress Street Pint & Plate](http://cypressbar.com/) (817 W Peachtree St NW)
 
 ### Location and Time
 
