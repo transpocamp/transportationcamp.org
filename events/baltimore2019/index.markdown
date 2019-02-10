@@ -18,14 +18,14 @@ plan, design, build, advocate for, hack, or just feel passionate about transport
 
 ## Schedule
 
-9:00 a.m. to 10:00 a.m. — Doors Open for Registration and Breakfast
-10:00 a.m. to 11:00 a.m. — Welcome and Introductions
-11:00 a.m. to noon — Session 1
-12:15 p.m. to 1:15 p.m. — Session 2
-1:30 p.m. to 2:30 p.m. — Lunch
-2:45 p.m. to 3:45 p.m. — Session 3
-4:00 p.m. to 5:00 p.m. — Session 4
-5:00 p.m. to 5:30 p.m. — Camp Wrap-up
+9:00 a.m. to 10:00 a.m. — Doors Open for Registration and Breakfast<br>
+10:00 a.m. to 11:00 a.m. — Welcome and Introductions<br>
+11:00 a.m. to noon — Session 1<br>
+12:15 p.m. to 1:15 p.m. — Session 2<br>
+1:30 p.m. to 2:30 p.m. — Lunch<br>
+2:45 p.m. to 3:45 p.m. — Session 3<br>
+4:00 p.m. to 5:00 p.m. — Session 4<br>
+5:00 p.m. to 5:30 p.m. — Camp Wrap-up<br>
 5:30 p.m. to 7:30 p.m. — Happy Hour (Location to be announced)
 
 ## Registration
@@ -39,6 +39,7 @@ Register here or at tcbal19.eventbrite.com.
 	<a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="https://www.eventbrite.com/">Powered by Eventbrite</a>
 	</div>
 </div>
+
 
 Get on the wait list for sponsored tickets by signing up here: [eepurl.com/ggSwEj](http://eepurl.com/ggSwEj)
 
