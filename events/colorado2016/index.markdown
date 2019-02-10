@@ -3,7 +3,7 @@ author: Michael Schade
 comments: false
 date: {}
 layout: event
-slug: "colorado-2016"
+slug: "colorado2016"
 title: TransportationCamp Colorado 2016
 published: true
 ---
