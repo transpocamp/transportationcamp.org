@@ -47,7 +47,7 @@ Sponsored tickets will be distributed as available on a first-come, first-served
 
 ## Getting to Camp
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3087.2569788288733!2d-76.61877448463754!3d39.30509807950984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c80495bdd32313%3A0x3fe6f86271298c68!2sWilliam+H.+Thumel+Sr.+Business+Center%2C+11+W+Mt+Royal+Ave%2C+Baltimore%2C+MD+21201!5e0!3m2!1sen!2sus!4v1513347439966" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12349.03269328424!2d-76.6165429!3d39.305071!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc2b58ccd1d3e918a!2sMerrick+School+of+Business!5e0!3m2!1sen!2sus!4v1549813056745" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 The University of Baltimore's [Merrick School of Business](http://www.ubalt.edu/merrick/) is located at 11 West Mt. Royal Avenue at the corner of Charles Street and Mt. Royal Avenue, just one block south of Penn Station!
 
