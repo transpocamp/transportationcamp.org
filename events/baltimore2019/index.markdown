@@ -16,7 +16,7 @@ plan, design, build, advocate for, hack, or just feel passionate about transport
 
 <img src="header.png" width="680" height="220">
 
-##Schedule
+## Schedule
 
 9:00 a.m. to 10:00 a.m. — Doors Open for Registration and Breakfast
 10:00 a.m. to 11:00 a.m. — Welcome and Introductions
@@ -28,7 +28,7 @@ plan, design, build, advocate for, hack, or just feel passionate about transport
 5:00 p.m. to 5:30 p.m. — Camp Wrap-up
 5:30 p.m. to 7:30 p.m. — Happy Hour (Location to be announced)
 
-##Registration
+## Registration
 
 Register here or at tcbal19.eventbrite.com.
 
@@ -44,7 +44,7 @@ Get on the wait list for sponsored tickets by signing up here: [eepurl.com/ggSwE
 
 Sponsored tickets will be distributed as available on a first-come, first-served basis.
 
-##Getting to Camp
+## Getting to Camp
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3087.2569788288733!2d-76.61877448463754!3d39.30509807950984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c80495bdd32313%3A0x3fe6f86271298c68!2sWilliam+H.+Thumel+Sr.+Business+Center%2C+11+W+Mt+Royal+Ave%2C+Baltimore%2C+MD+21201!5e0!3m2!1sen!2sus!4v1513347439966" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -64,7 +64,7 @@ social with us!
 We're on Facebook and Twitter at [@TranspoCampBAL](https://twitter.com/TranspoCampBAL). Use [#TCBAL19](https://twitter.com/hashtag/tcbal19?f=live) so other attendees will see your
 posts. Share your transportation stories, session ideas, and your time at camp.
 
-##A Few Tips
+## A Few Tips
 
 Dress code: No need for suits, ties, or dresses – tasteful casual dress is fine!
 
@@ -78,14 +78,14 @@ First time camping?: Check out 
 [How Transportation Camp Works: The Essential Guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/)
 for a quick introduction.
 
-##Organizers
+## Organizers
 
 The [Young Professionals in Transportation Baltimore Chapter](http://yptbaltimore.org/) and a group of volunteer organizers put on
 TransportationCamp Baltimore. Organizers and volunteers represent the communities of Baltimore and
 various fields in transportation. Interested in being an organizing partner or volunteer? Let us know by
 contacting chair@yptbaltimore.org.
 
-##Sponsors
+## Sponsors
 
 Be part of a unique event that builds community around shared issues and leadership in transportation.
 Interested in being a sponsor of TransportationCamp Baltimore 2019? Contact chair@yptbaltimore.org
