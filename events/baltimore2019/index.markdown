@@ -30,7 +30,7 @@ plan, design, build, advocate for, hack, or just feel passionate about transport
 
 ## Registration
 
-Register here or at tcbal19.eventbrite.com.
+Register here or at [tcbal19.eventbrite.com](https://www.eventbrite.com/e/transportationcamp-baltimore-tickets-56249960145).
 
 <div style="width:100%; text-align:left;">
 	<iframe src="https://eventbrite.com/tickets-external?eid=56249960145&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">
