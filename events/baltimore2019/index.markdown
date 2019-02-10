@@ -62,7 +62,7 @@ The University of Baltimore's [Merrick School of Business](http://www.ubalt.edu/
 You don't have to wait until camp to engage with the TransportationCamp Baltimore community. Get
 social with us!
 
-We're on Facebook and Twitter at [@TranspoCampBAL](https://twitter.com/TranspoCampBAL). Use [#TCBAL19](https://twitter.com/hashtag/tcbal19?f=live) so other attendees will see your
+We're on [Facebook](https://www.facebook.com/TranspoCampBAL/) and [Twitter](https://twitter.com/TranspoCampBAL) at @TranspoCampBAL. Use [#TCBAL19](https://twitter.com/hashtag/tcbal19?f=live) so other attendees will see your
 posts. Share your transportation stories, session ideas, and your time at camp.
 
 ## A Few Tips
