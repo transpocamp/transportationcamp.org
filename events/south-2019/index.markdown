@@ -7,6 +7,8 @@ title: TransportationCamp South 2019
 published: true
 ---
 
+**[See photos from the event on Facebook.](https://www.facebook.com/pg/TranspoCampSouth/photos/?tab=album&album_id=1332439630242697)**
+
 <p style="background-color:#d5ecf9;padding:1em">
     📶 Wi-Fi Network is <strong>GTVisitor</strong>. The password is <strong>8D2FC</strong>.
 <br>
@@ -63,7 +65,7 @@ Check-in and registration is at **9am on Saturday**, February 9th, at the **[Clo
 
 ### Keep it social!
 
-Follow us on [Facebook](https://www.facebook.com/TranspoCampSouth/) and Twitter [@TranspoCampSo](https://twitter.com/TranspoCampSo) using **[#transpo19](https://twitter.com/search?q=%23transpo19)** & **[#TCS19](https://twitter.com/search?q=%23TCS19)**.
+Follow us on [Facebook](https://www.facebook.com/TranspoCampSouth/) and Twitter [@TranspoCampSo](https://twitter.com/TranspoCampSo) using **[#transpo19](https://twitter.com/search?q=%23transpo19)** & **[#tcsouth](https://twitter.com/search?q=%23tcsouth)**.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
