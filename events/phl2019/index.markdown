@@ -38,7 +38,26 @@ Organized by passionate Philadelphians in conjunction with the Philadelphia chap
 
 ## Sponsorship
 
-TransportationCampPHL has been made possible thanks to the generous support of numerous sponsors, including AECOM, KMJ Consulting, and DVRPC.
+TransportationCampPHL has been made possible thanks to the generous support of numerous sponsors, including AECOM, TransitCenter, WSP, DVRPC, the Evans Network of Companies, and KMJ Consulting.
+
+
+#### Rittenhouse Square
+
+<a href="http://www.aecom.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/aecom.jpg" alt="AECOM" style="max-width:200px; max-height:135px;"></a>
+
+<a href="http://transitcenter.org"><img src="http://transportationcamp.org/events/phl2019/sponsor_logos/transitcenter.jpg" alt="TransitCenter" style="max-width:200px; max-height:135px;"></a>
+
+<a href="https://www.wsp.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/wsp logo rebrand_4C.jpg" alt="WSP" style="max-width:200px; max-height:135px;"></a>
+
+#### Penn's Landing
+
+<a href="https://dvrpc.org/"><img src="http://transportationcamp.org/events/phl2019/sponsor_logos/dvrpc.jpg" alt="DVRPC" style="max-width:150px; max-height:100px;"></a>  <a href="http://www.evansdelivery.com/"><img src="http://transportationcamp.org/events/phl2019/sponsor_logos/evans.jpg" alt="Evans" style="max-width:150px; max-height:120px;"></a>  <a href="http://kmjinc.com/"><img src="http://transportationcamp.org/events/phl2018/sponsor_logos/kmj consulting.jpg" alt="KMJ Consulting" style="max-width:150px; max-height:100px;"></a>
+
+
+#### Benefactors
+
+- [Azavea](https://www.azavea.com/)
+
 
 #### Become a Sponsor!
 
@@ -51,7 +70,7 @@ Want to learn more about the conference? Check out the ["First Time at a Transpo
 
 Drexel's Papadakis Integrated Sciences Building is located at 33rd and Chestnut Streets, less than a 10 minute walk from Philadelphia's 30th Street Station.
 
-- All SEPTA Regional Rail, Amtrak, and NJ Transit Atlantic City Line trains stop at Philadelphia's 30th Street Station (four blocks away from PISB), including SEPTA's Airport Line which connects all airport terminals with 30th Street every 30 minutes.
+- All SEPTA Regional Rail and Amtrak trains stop at Philadelphia's 30th Street Station (four blocks away from PISB), including SEPTA's Airport Line which connects all airport terminals with 30th Street every 30 minutes.
 - Megabus and Bolt Bus stop immediately outside 30th Street Station at 30th Street and JFK Blvd.
 - SEPTA's Market-Frankford Elevated will get you even closer to the event (two blocks away) at the 34th Street MFL stop.
 - SEPTA's Trolley Routes stop even closer – less than a block away – at 33rd Street.
