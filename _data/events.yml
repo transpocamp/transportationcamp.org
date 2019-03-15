@@ -296,3 +296,8 @@
   url: /events/baltimore2019
   register_url: https://www.eventbrite.com/e/transportationcamp-baltimore-tickets-56249960145
   background_img: baltimore-bumpo.png
+
+- title: IPMI 2019
+  date: 2019-06-19 23:59:59
+  url: /events/ipmi2019
+  background_img: anaheimconventioncenter.jpg
