@@ -17,4 +17,4 @@ Several State agencies have been working on Hurricane Michael recovery still and
 Your support makes our programs possible. For more information and sponsorship, please email david@smartcohort.org.
 
 <p align="center">
-<img src="sponsors.png" width="551" height="503">
+<img src="sponsors.png" width="680" height="330">
