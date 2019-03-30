@@ -19,6 +19,8 @@ Organized by passionate Philadelphians in conjunction with the Philadelphia chap
 
 ## Schedule
 
+> ## [Click Here to Access the Live Board & Notes](https://tinyurl.com/tcphl19board)
+
 | Time | Event |
 |------|------|
 | 9am-10am | Registration, Networking, and Breakfast |
