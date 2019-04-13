@@ -109,3 +109,5 @@ Silver
 Bronze
 * [Bikemore](https://www.bikemore.net/)
 * [Spin](https://www.spin.app/)
+
+<imf src="sponsors.png" width="680" height="680">
