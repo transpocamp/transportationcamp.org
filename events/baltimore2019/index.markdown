@@ -81,13 +81,31 @@ for a quick introduction.
 
 ## Organizers
 
-The [Young Professionals in Transportation Baltimore Chapter](http://yptbaltimore.org/) and a group of volunteer organizers put on
-TransportationCamp Baltimore. Organizers and volunteers represent the communities of Baltimore and
-various fields in transportation. Interested in being an organizing partner or volunteer? Let us know by
-contacting chair@yptbaltimore.org.
+* [Young Professionals in Transportation Baltimore Chapter](http://yptbaltimore.org/) - Camp Organizer
+* [Bike & Brunch Tours](https://www.bikeandbrunchtours.com/) - Reception Organizer
+* [Tidemore Group](https://tidemore.com/) - Media Partner
+
+TransportationCamp Baltimore is possible thanks to these organizing partners and individual volunteers who represent communities in the Baltimore region as well as diverse transportation interests.
+
+We are looking for volunteers to help on the day of. Volunteers receive free registration! Contact chair@yptbaltimore.org to learn about volunteer opportunities.
 
 ## Sponsors
 
-Be part of a unique event that builds community around shared issues and leadership in transportation.
-Interested in being a sponsor of TransportationCamp Baltimore 2019? Contact chair@yptbaltimore.org
-to receive information about sponsorship tiers and benefits.
+Camp is made possible thanks to these generous 2019 sponsors!
+
+Platinum
+* [TransitCenter](http://transitcenter.org/)
+
+Gold
+* [Swiftly](https://www.goswift.ly/)
+
+Silver
+* [Central Maryland Transportation Alliance](https://www.cmtalliance.org/)
+* [Lyft](https://www.lyft.com/)
+* [Whitman Requardt & Associates LLP](https://wrallp.com/)
+* [WSP](https://www.wsp.com/)
+* [Zipcar](https://www.zipcar.com/)
+
+Bronze
+* [Bikemore](https://www.bikemore.net/)
+* [Spin](https://www.spin.app/)
