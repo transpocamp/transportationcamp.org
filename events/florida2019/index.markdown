@@ -16,5 +16,8 @@ Several State agencies have been working on Hurricane Michael recovery still and
 
 Your support makes our programs possible. For more information and sponsorship, please email david@smartcohort.org.
 
+Stay tuned to [@TCAMPFL19](https://twitter.com/TCAMPFL19) for news about this event,
+and use the [#TCAMPFL19](https://twitter.com/hashtag/TCAMPFL19) hashtag to join the conversation.
+
 <p align="center">
 <img src="sponsors.png" width="680" height="330">
