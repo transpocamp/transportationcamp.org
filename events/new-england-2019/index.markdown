@@ -32,6 +32,16 @@ TransportationCamp New England 2019 will be hosted on the MIT campus at the Stat
 
 Located two blocks west of the Kendall T station (Red Line) and between several garages, the Stata Center is easily accessible by car or public transit, parking information and directions from the T are available [here](http://www.gbcacm.org/venues/cambridge/mit-building-32-stata-center.html).
 
+### Schedule
+
+* 8:00am | Doors open & Registration
+* 9:15am - 10:30am | Welcome Session (Stata 32-123)
+* 10:45am - 11:45am | 1st session (in classrooms)
+* 12:00pm - 1:00pm | 2nd session (in classrooms)
+* 1:00pm - 2:00pm | Lunch
+* 2:15pm - 3:15pm | 3rd session (in classrooms)
+* 3:30pm - 4:30pm | 4th session (in classrooms)
+
 ### Things To Know
 
 If you're joining us at TransportationCamp NE 2019, here are a few things you'll want to know about the event:
