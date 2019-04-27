@@ -32,6 +32,9 @@ TransportationCamp New England 2019 will be hosted on the MIT campus at the Stat
 
 Located two blocks west of the Kendall T station (Red Line) and between several garages, the Stata Center is easily accessible by car or public transit, parking information and directions from the T are available [here](http://www.gbcacm.org/venues/cambridge/mit-building-32-stata-center.html).
 
+### Digital Board
+Follow along with the live board: <bit.ly/tcne2019>
+
 ### Schedule
 
 * 8:00am | Doors open & Registration
