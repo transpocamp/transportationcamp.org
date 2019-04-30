@@ -307,3 +307,9 @@
   date: 2019-06-19 23:59:59
   url: /events/ipmi2019
   background_img: anaheimconventioncenter.jpg
+
+- title: Los Angeles 2019
+  date: 2019-07-13 23:59:59
+  url: /events/la2019
+  register_url: https://www.eventbrite.com/e/transportation-camp-los-angeles-2019-tickets-60226085844
+  background_img: la-disneyhall.jpg
