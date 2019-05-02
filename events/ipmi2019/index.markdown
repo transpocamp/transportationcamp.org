@@ -1,9 +1,9 @@
 ---
 author: Michael Schade
 comments: false
-date: 2019-06-19 12:00:00+00:00
+date: 2019-06-09 12:00:00+00:00
 layout: event
-slug: "baltimore2019"
+slug: "ipmi2019"
 title: TransportationCamp IPMI 2019
 wordpress_id:
 published: true
@@ -14,7 +14,7 @@ TransportationCamp for attendees of the
 <a href="http://ipiconference.parking.org/2019/">2019 International Parking &
 Mobility Institute Conference & Expo</a> in Anaheim, California.
 
-*Sunday, June 3; 12:30 pm - 5:30 pm*
+*Sunday, June 9; 12:30 pm - 5:30 pm*
 
 For more information and registration, see
 <a href="http://ipiconference.parking.org/2019/transportationcamp.cfm">ipiconference.parking.org/2019/transportationcamp.cfm</a>.
