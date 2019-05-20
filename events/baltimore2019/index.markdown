@@ -26,7 +26,7 @@ plan, design, build, advocate for, hack, or just feel passionate about transport
 2:45 p.m. to 3:45 p.m. — Session 3<br>
 4:00 p.m. to 5:00 p.m. — Session 4<br>
 5:00 p.m. to 5:30 p.m. — Camp Wrap-up<br>
-5:30 p.m. to 7:30 p.m. — Happy Hour (Location to be announced)
+5:30 p.m. to 7:30 p.m. — Happy Hour at Motor House
 
 ## Registration
 
