@@ -9,10 +9,9 @@ wordpress_id:
 published: true
 ---
 
-TransportationCamp Baltimore is back for a second year! Join us on Saturday, May 18<sup>th</sup> at the University
-of Baltimore Merrick School of Business for a transportation unconference lead by attendees (you!). Our
-objective is to bring a more inclusive and engaging forum about transportation to the people who use,
-plan, design, build, advocate for, hack, or just feel passionate about transportation.
+TransportationCamp Baltimore is back for a second year!
+Join us on Saturday, May 18<sup>th</sup> at the University of Baltimore Merrick School of Business for a transportation unconference lead by attendees (you!). Our
+objective is to bring a more inclusive and engaging forum about transportation to the people who use, plan, design, build, advocate for, hack, or just feel passionate about transportation.
 
 <img src="header.png" width="680" height="220">
 
