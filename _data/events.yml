@@ -313,3 +313,8 @@
   url: /events/la2019
   register_url: https://www.eventbrite.com/e/transportation-camp-los-angeles-2019-tickets-60226085844
   background_img: la-disneyhall.jpg
+
+- title: NYC 2019
+  date: 2019-10-12 23:59:59
+  url: /events/nyc-2019
+  background_img: nyc-2019.jpg
