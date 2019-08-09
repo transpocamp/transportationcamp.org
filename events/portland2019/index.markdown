@@ -11,7 +11,7 @@ published: true
 
 *TransportationCamp Oregon 2019* is being held on Sunday, September 15th! This inclusive, forward-thinking event being held in conjunction with the 4th [National Rural & Tribal Technical Assistance Conference](https://www.nationalrtap.org/News/2019-Conference) in Portland, OR. A great opportunity to engage, teach, and learn from a community of transit thinkers.
 
-We welcomes all facets of the transportation world - planners, software developers, engineers, students, transportation professionals, community members, policy makers, and anyone passionate about transit mobility to participate in this “unconference.”
+We welcome all facets of the transportation world - planners, software developers, engineers, students, transportation professionals, community members, policy makers, and anyone passionate about transit mobility to participate in this “unconference.”
 
 Nothing like Oregon in September!  Bring your experiences, ideas, questions, and dreams to TransportationCamp Oregon!
 
