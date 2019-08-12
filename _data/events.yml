@@ -314,6 +314,12 @@
   register_url: https://www.eventbrite.com/e/transportation-camp-los-angeles-2019-tickets-60226085844
   background_img: la-disneyhall.jpg
 
+- title: Oregon 2019
+  date: 2019-09-15 23:59:59
+  url: /events/portland2019
+  register_url: http://www.cvent.com/d/c6qvnt/4W?RefID=transportationcamp
+  background_img: portland.jpg
+
 - title: NYC 2019
   date: 2019-10-12 23:59:59
   url: /events/nyc-2019
