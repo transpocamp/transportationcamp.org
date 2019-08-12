@@ -44,7 +44,15 @@
           <!-- <li><a href="{{ site.baseurl }}/#past">Past</a></li> -->
         </ul>
       </nav>
-      <h1 class="site-title"><a href="{{ site.baseurl }}/"><img class="site-logo" src="{{ site.baseurl }}/assets/images/tcamp-logo.png" alt="TransportationCamp"></a></h1>
+      {% if page.layout == "event" and page.logo %}
+        <h1 class="site-title">
+          <br>
+          <img class="site-logo" src="{{page.logo}}" alt="{{page.logo-alt}}">
+          <br>
+        </h1>
+      {% else %}
+        <h1 class="site-title"><a href="{{ site.baseurl }}/"><img class="site-logo" src="{{ site.baseurl }}/assets/images/tcamp-logo.png" alt="TransportationCamp"></a></h1>
+      {% endif %}
     </header>
     <div class="main">
       {{ content }}
