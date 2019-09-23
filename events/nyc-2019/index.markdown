@@ -38,6 +38,46 @@ Thinking about presenting at a session? Most of the breakout rooms are equipped 
 
 We will be handing out session idea cards throughout registration. If you have an idea for a session, feel free to write it down in advance.
 
+### Sponsors
+
+
+#### Platinum
+
+<div class="sponsors platinum">
+<div class="sponsor"><a href="https://transitcenter.org/"><img src="sponsors/platinum/transitcenter.png" alt="TransitCenter"></a></div>
+
+</div>
+
+#### Gold
+
+<div class="sponsors gold">
+<div class="sponsor"><a href="https://www.hdrinc.com/home"><img src="sponsors/gold/hdr.png" alt="HDR"></a></div>
+<div class="sponsor"><a href="https://www.ogilvy.com"><img src="sponsors/gold/ogilvy.png" alt="Ogilvy"></a></div>
+<div class="sponsor"><a href="http://samschwartz.com/"><img src="sponsors/gold/samschwartz.png" alt="Sam Schwartz Engineering"></a></div>
+<div class="sponsor"><a href="https://www.zipcar.com/"><img src="sponsors/gold/zipcar.png" alt="Zipcar"></a></div>
+
+</div>
+
+#### Silver
+
+<div class="sponsors silver">
+<div class="sponsor"><a href="https://www.coord.co"><img src="sponsors/silver/coord.png" alt="Coord"></a></div>
+<div class="sponsor"><a href="https://www.vhb.com/Pages/home.aspx"><img src="sponsors/silver/vhb.jpg" alt="VHB"></a></div>
+</div>
+
+#### Bronze
+
+<div class="sponsors bronze">
+<div class="sponsor"><a href="https://ite-metsection.org/"><img src="sponsors/bronze/ite.png" alt="ITE Met Section"></a></div>
+</div>
+
+### Hosts
+
+<div class="sponsors">
+<div class="sponsor"><a href="http://c2smart.engineering.nyu.edu/"><img src="hosts/c2smart.jpg" alt="Connected Cities for Smart Mobility toward Accessible and Resilient Transportation (C2SMART)"></a></div>
+</div>
+
+
 <style type="text/css">
 .sponsors {
   text-align: center;
