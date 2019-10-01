@@ -51,9 +51,15 @@ We will be handing out session idea cards throughout registration. If you have a
 #### Gold
 
 <div class="sponsors gold">
+<div class="sponsor"><a href="https://www.lyft.com/"><img src="sponsors/gold/lyft.png" alt="Lyft"></a></div>
+<div class="sponsor"><a href="https://www.citibikenyc.com/"><img src="sponsors/gold/citibike.jpg" alt="Citi Bike"></a></div>
 <div class="sponsor"><a href="https://www.hdrinc.com/home"><img src="sponsors/gold/hdr.png" alt="HDR"></a></div>
+<div class="sponsor"><a href="https://edc.nyc/"><img src="sponsors/gold/nycedc.png" alt="NYCEDC"></a></div>
 <div class="sponsor"><a href="https://www.ogilvy.com"><img src="sponsors/gold/ogilvy.png" alt="Ogilvy"></a></div>
+<div class="sponsor"><a href="http://pigeontransit.com"><img src="sponsors/gold/pigeon.png" alt="Pigeon Transit"></a></div>
 <div class="sponsor"><a href="http://samschwartz.com/"><img src="sponsors/gold/samschwartz.png" alt="Sam Schwartz Engineering"></a></div>
+<div class="sponsor"><a href="https://www.uber.com"><img src="sponsors/gold/uber.png" alt="Uber"></a></div>
+<div class="sponsor"><a href="https://www.wsp.com"><img src="sponsors/gold/wsp.png" alt="WSP"></a></div>
 <div class="sponsor"><a href="https://www.zipcar.com/"><img src="sponsors/gold/zipcar.png" alt="Zipcar"></a></div>
 
 </div>
@@ -61,11 +67,13 @@ We will be handing out session idea cards throughout registration. If you have a
 #### Silver
 
 <div class="sponsors silver">
+<div class="sponsor"><a href="https://www.aimsun.com/"><img src="sponsors/silver/aimsun.jpg" alt="Aimsun"></a></div>
 <div class="sponsor"><a href="https://www.coord.co"><img src="sponsors/silver/coord.png" alt="Coord"></a></div>
 <div class="sponsor"><a href="https://www.vhb.com/Pages/home.aspx"><img src="sponsors/silver/vhb.jpg" alt="VHB"></a></div>
+<!--WTS-->
 </div>
 
-#### Bronze
+#### With Support From
 
 <div class="sponsors bronze">
 <div class="sponsor"><a href="https://ite-metsection.org/"><img src="sponsors/bronze/ite.png" alt="ITE Met Section"></a></div>
@@ -98,7 +106,7 @@ We will be handing out session idea cards throughout registration. If you have a
 }
 
 .silver .sponsor {
-  max-width: 200px;
+  max-width: 250px;
 }
 
 .bronze .sponsor {
