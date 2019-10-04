@@ -45,7 +45,6 @@ We will be handing out session idea cards throughout registration. If you have a
 
 <div class="sponsors platinum">
 <div class="sponsor"><a href="https://transitcenter.org/"><img src="sponsors/platinum/transitcenter.png" alt="TransitCenter"></a></div>
-
 </div>
 
 #### Gold
@@ -54,6 +53,7 @@ We will be handing out session idea cards throughout registration. If you have a
 <div class="sponsor"><a href="https://www.lyft.com/"><img src="sponsors/gold/lyft.png" alt="Lyft"></a></div>
 <div class="sponsor"><a href="https://www.citibikenyc.com/"><img src="sponsors/gold/citibike.jpg" alt="Citi Bike"></a></div>
 <div class="sponsor"><a href="https://www.hdrinc.com/home"><img src="sponsors/gold/hdr.png" alt="HDR"></a></div>
+<div class="sponsor"><a href="https://www.intersection.com"><img src="sponsors/gold/intersection.png" alt="Intersection"></a></div>
 <div class="sponsor"><a href="https://edc.nyc/"><img src="sponsors/gold/nycedc.png" alt="NYCEDC"></a></div>
 <div class="sponsor"><a href="https://www.ogilvy.com"><img src="sponsors/gold/ogilvy.png" alt="Ogilvy"></a></div>
 <div class="sponsor"><a href="http://pigeontransit.com"><img src="sponsors/gold/pigeon.png" alt="Pigeon Transit"></a></div>
@@ -61,16 +61,16 @@ We will be handing out session idea cards throughout registration. If you have a
 <div class="sponsor"><a href="https://www.uber.com"><img src="sponsors/gold/uber.png" alt="Uber"></a></div>
 <div class="sponsor"><a href="https://www.wsp.com"><img src="sponsors/gold/wsp.png" alt="WSP"></a></div>
 <div class="sponsor"><a href="https://www.zipcar.com/"><img src="sponsors/gold/zipcar.png" alt="Zipcar"></a></div>
-
 </div>
 
 #### Silver
 
 <div class="sponsors silver">
 <div class="sponsor"><a href="https://www.aimsun.com/"><img src="sponsors/silver/aimsun.jpg" alt="Aimsun"></a></div>
+<div class="sponsor"><a href="https://www.akrf.com/"><img src="sponsors/silver/akrf.jpg" alt="AKRF"></a></div>
 <div class="sponsor"><a href="https://www.coord.co"><img src="sponsors/silver/coord.png" alt="Coord"></a></div>
 <div class="sponsor"><a href="https://www.vhb.com/Pages/home.aspx"><img src="sponsors/silver/vhb.jpg" alt="VHB"></a></div>
-<!--WTS-->
+<div class="sponsor"><a href="https://www.wtsinternational.org"><img src="sponsors/silver/wts.jpg" alt="WTS"></a></div>
 </div>
 
 #### With Support From
@@ -83,6 +83,7 @@ We will be handing out session idea cards throughout registration. If you have a
 
 <div class="sponsors">
 <div class="sponsor"><a href="http://c2smart.engineering.nyu.edu/"><img src="hosts/c2smart.jpg" alt="Connected Cities for Smart Mobility toward Accessible and Resilient Transportation (C2SMART)"></a></div>
+<div class="sponsor"><a href="https://yptransportation.org/"><img src="hosts/ypt.gif" alt="Young Professionals in Transportation"></a></div>
 </div>
 
 
