@@ -6,6 +6,7 @@ layout: event
 slug: "dc2020"
 title: TransportationCamp DC 2020
 published: true
+---
 
 Save the date! TransportationCamp DC 2020 will be **Saturday, January 11, 2020**.
 
