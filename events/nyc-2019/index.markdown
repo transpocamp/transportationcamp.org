@@ -18,25 +18,20 @@ TransportationCamp is an [unconference](https://en.wikipedia.org/wiki/Unconferen
 
 TransportationCamp welcomes all attendees, whether you’re a planner, software developer, engineer, student, transportation professional, community member, policy maker, or just excited about mobility!
 
-What comes with admission:
+### Schedule
 
-* Full day of TransportationCamp NYC
-* TransportationWeek events preceding Camp
-* Breakfast, lunch, and midday refreshments at Camp
-* Admission to additional events in the days preceding Camp
-* Camp after party access
-* Swag bag
-* New friends and memories for a lifetime
+* **9:00AM**: Doors open; breakfast in Pfizer Auditorium (5 MetroTech Center)
+* **10:00AM**: Welcome and Kick Off
+* **11:30AM**: Session 1 in Rogers Hall classrooms (6 MetroTech Center)
+* **12:30PM**: Lunch (Cafeteria)
+* **1:30PM**: Session 2
+* **2:30PM**: Session 3
+* **3:30PM**: Session 4
+* **5:00PM** Happy Hour at Luciano's (15 MetroTech Center)
 
-**Interested in helping to make TransportationCamp NYC possible? [Sponsorship opportunities are available.](SponsorshipTransportationCampNYC.pdf)**
+#### Presenting?
 
-Stay tuned for more details, and we look forward to seeing you in October!
-
-**Presenting?**
-
-Thinking about presenting at a session? Most of the breakout rooms are equipped with a projector (with VGA and HDMI connectivity), so feel free to use your laptop if you plan to propose a session and present.  Most breakout rooms will also have a whiteboard.
-
-We will be handing out session idea cards throughout registration. If you have an idea for a session, feel free to write it down in advance.
+Thinking about presenting at a session? All of the breakout rooms are equipped with a projector (with HDMI connection), so if you plan to propose a session and present, please bring a laptop.  Most breakout rooms will also have a whiteboard.
 
 ### Sponsors
 
