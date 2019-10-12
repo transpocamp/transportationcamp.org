@@ -10,9 +10,11 @@ logo-alt: "TransportationCamp NYC 2019: October 12, 2019, NYU Tandon School of E
 hide-title: true
 ---
 
+## Joining us today? [View the board online](https://docs.google.com/spreadsheets/d/e/2PACX-1vSqyaH5CR43RkObtI6YnaaQR17375dlgnYoNERzto4BSoM3YxzdFzvkc_kIpixISWpIWx4xkR7x43dN/pubhtml)!
+
 TransportationCamp NYC returns to NYU’s Tandon School of Engineering in the heart of Downtown Brooklyn on Saturday, October 12th! Come be a part of the conversation on all topics mobility in this open and inclusive event. 
 
-**Registration for TransportationCamp NYC 2019 is [now open](https://www.eventbrite.com/e/transportationcamp-nyc-2019-registration-71015712909?aff=web)! Tickets go fast, so [get yours now](https://www.eventbrite.com/e/transportationcamp-nyc-2019-registration-71015712909?aff=web).**
+Registration for TransportationCamp NYC 2019 is [now open](https://www.eventbrite.com/e/transportationcamp-nyc-2019-registration-71015712909?aff=web)! Tickets go fast, so [get yours now](https://www.eventbrite.com/e/transportationcamp-nyc-2019-registration-71015712909?aff=web).
 
 TransportationCamp is an [unconference](https://en.wikipedia.org/wiki/Unconference) - every session is planned, proposed, and led by attendees like you. It’s the perfect opportunity to share your transportation passion with a diverse gathering of fellow enthusiasts. 
 
