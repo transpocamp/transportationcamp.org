@@ -13,6 +13,34 @@ Save the date! TransportationCamp DC 2020 will be **Saturday, January 11, 2020**
 A tradition since 2012, TransportationCamp DC is held on the Saturday before the
 [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting).
 
+### Get Here
+The Pryzbyla Center ("the Pryz") is located at Catholic University, in Washington's Brookland neighborhood ([campus map](https://www.catholic.edu/res/docs/cuamap.pdf)).
+
+  * The Pryzbyla Center is a 7-minute walk from the [Brookland-CUA Metro station](https://www.wmata.com/rider-guide/stations/brookland.cfm), on the Red Line.
+  * There is a [Capital Bikeshare](http://www.capitalbikeshare.com/) station at John McCormack Dr & Michigan Ave NE.
+  * [Metro bus H2,3,4](https://www.wmata.com/schedules/timetables/upload/H234_181007.pdf) "the Crosstown Line" and [Metro bus H8,9](https://www.wmata.com/schedules/timetables/upload/H8,9_170625.pdf) "the Park Road-Brookland Line" connect Columbia Heights with the Brookland-CUA Metro station.
+  * The [Metropolitan Branch Trail](http://metbranchtrail.com/) runs beside the Catholic University campus.
+  * We can use the McMahon parking lot between Hannan Hall and Caldwell Chapel (enter via Michigan Ave).
+
+<img src="cuamap.png" width="680" height="340">
+
+We'll also be using next-door Hannan Hall for four of the breakout rooms for sessions.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3103.49421758233!2d-77.00036768464848!3d38.93553647956479!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c7ef7869ab0f%3A0xb6a69963f532d74c!2sEdward+J.+Pryzbyla+University+Center%2C+Washington%2C+DC+20064!5e0!3m2!1sen!2sus!4v1543885019614" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+### Event Schedule
+<pre>
+ 8:30am Registration and breakfast
+ 9:30am Introduction, session submissions, group activity
+11:00am Period 1 (1 hour)
+12:10pm Period 2 (1 hour)
+ 1:10pm Lunch and sponsor announcements
+ 2:10pm Period 3 (1 hour)
+ 3:20pm Period 4 (1 hour)
+ 4:30pm Period 5 (1 hour)
+ 5:45pm Reception (closing 8:00pm)
+</pre>
+
 Founded by [OpenPlans](https://openplans.org/), TransportationCamp debuted in New York City in 2011.
 In October 2014, the baton was passed to [Mobility Lab](https://mobilitylab.org/), which shepherded the event for five years.
 For 2020, the baton is in the hands of [Transportation for America](http://t4america.org/).
