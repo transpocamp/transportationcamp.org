@@ -13,7 +13,7 @@ Save the date! TransportationCamp DC 2020 will be **Saturday, January 11, 2020**
 A tradition since 2012, TransportationCamp DC is held on the Saturday before the
 [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting).
 
-Registration will open on Thursday, November 14.
+Registration is at [eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627](https://www.eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627).
 
 ### Get Here
 The Pryzbyla Center ("the Pryz") is located at Catholic University, in Washington's Brookland neighborhood ([campus map](https://www.catholic.edu/res/docs/cuamap.pdf)).
