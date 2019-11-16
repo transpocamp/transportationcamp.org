@@ -43,10 +43,11 @@ We'll also be using next-door Hannan Hall for four of the breakout rooms for ses
  5:45pm Reception (closing 8:00pm)
 </pre>
 
+### More Info
+Stay tuned to [@transpocamp](https://twitter.com/transpocamp) (and the [#transpo20](https://twitter.com/hashtag/Transpo20?src=hashtag_click&f=live) hashtag) for news about this event and other TransportationCamps as they are announced.
+
+For more information about TransportationCamp DC 2020, contact jenna.fortunati@t4america.org.
+
 Founded by [OpenPlans](https://openplans.org/), TransportationCamp debuted in New York City in 2011.
 In October 2014, the baton was passed to [Mobility Lab](https://mobilitylab.org/), which shepherded the event for five years.
 For 2020, the baton is in the hands of [Transportation for America](http://t4america.org/).
-
-Stay tuned to [@transpocamp](https://twitter.com/transpocamp) for announcements about the venue and registration.
-
-For more information, contact jenna.fortunati@t4america.org.
