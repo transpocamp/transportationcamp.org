@@ -331,3 +331,8 @@
   url: /events/dc2020
   register_url: https://www.eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627
   background_img: dc-brookland.jpg
+
+- title: PHL 2020
+  date: 2020-03-28 23:59:59
+  url: /events/phl2020
+  background_img: philly-20-skyline-nec.jpg
