@@ -16,9 +16,9 @@ Whether you work in the industry or simply have an interest, we welcome you to o
 
 Organized by passionate Philadelphians in conjunction with the Philadelphia chapters of Young Professionals in Transportation (YPT) and Women’s Transportation Seminar (WTS), and Drexel University’s Lindy Institute for Urban Innovation, we look forward to seeing you! [Connect with us](#connect)
 
-# <center>Target Date — March 28, 2020</center>
+# <center>Target Date — April 18, 2020</center>
 
-*<center>Note that the date remains subject to change pending venue confirmation.</center>*
+*<center>Note that the date remains subject to change pending venue confirmation; the above is the new target date pending venue availability.</center>*
 
 
 ## <a name="registration"></a> Registration
