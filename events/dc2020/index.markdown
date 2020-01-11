@@ -36,16 +36,16 @@ We'll also be using next-door Hannan Hall for four of the breakout rooms for ses
 
 ### Event Schedule
 <pre>
- 8:30am Registration and breakfast<br>
- 9:30am Welcome in the Great Room<br>
-10:00am Session proposals due!<br>
-10:00am Group activity in the Great Room (to 10:45am)<br>
-11:00am Period 1 (1 hour)<br>
-12:10pm Period 2 (1 hour)<br>
- 1:10pm Lunch and sponsor announcements<br>
- 2:10pm Period 3 (1 hour)<br>
- 3:20pm Period 4 (1 hour)<br>
- 4:30pm Period 5 (1 hour)<br>
+ 8:30am Registration and breakfast
+ 9:30am Welcome in the Great Room
+10:00am Session proposals due!
+10:00am Group activity in the Great Room (to 10:45am)
+11:00am Period 1 (1 hour)
+12:10pm Period 2 (1 hour)
+ 1:10pm Lunch and sponsor announcements
+ 2:10pm Period 3 (1 hour)
+ 3:20pm Period 4 (1 hour)
+ 4:30pm Period 5 (1 hour)
  5:45pm Happy Hour at Brookland Pint (use your Camp name tag for 10% discount!)
 </pre>
 
