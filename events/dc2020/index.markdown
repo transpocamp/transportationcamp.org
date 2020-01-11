@@ -15,6 +15,10 @@ A tradition since 2012, TransportationCamp DC is held on the Saturday before the
 
 Registration is at [eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627](https://www.eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627). The event is sold out; the wait list is beyond capacity.
 
+The official session schedule will be posted on the wall of the Great Room.
+We'll try to keep an online version up to date on Google Docs.
+See [cutt.ly/transpo20](https://docs.google.com/document/d/1daMFxX-kyEy_i4TEcMYBgfWqeiuGAD2D4cz2lrvp6yA/edit?usp=sharing).
+
 ### Get Here
 The Pryzbyla Center ("the Pryz") is located at Catholic University, in Washington's Brookland neighborhood ([campus map](https://www.catholic.edu/res/docs/cuamap.pdf)).
 
