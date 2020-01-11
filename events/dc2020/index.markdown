@@ -8,12 +8,12 @@ title: TransportationCamp DC 2020
 published: true
 ---
 
-Save the date! TransportationCamp DC 2020 will be **Saturday, January 11, 2020**.
+TransportationCamp DC 2020 is **Saturday, January 11, 2020**.
 
 A tradition since 2012, TransportationCamp DC is held on the Saturday before the
 [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting).
 
-Registration is at [eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627](https://www.eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627).
+Registration is at [eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627](https://www.eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627). The event is sold out; the wait list is beyond capacity.
 
 ### Get Here
 The Pryzbyla Center ("the Pryz") is located at Catholic University, in Washington's Brookland neighborhood ([campus map](https://www.catholic.edu/res/docs/cuamap.pdf)).
@@ -33,14 +33,16 @@ We'll also be using next-door Hannan Hall for four of the breakout rooms for ses
 ### Event Schedule
 <pre>
  8:30am Registration and breakfast
- 9:30am Introduction, session submissions, group activity
+ 9:30am Welcome in the Great Room
+10:00am Session proposals due!
+10:00am Group activity in the Great Room (to 10:45am)
 11:00am Period 1 (1 hour)
 12:10pm Period 2 (1 hour)
  1:10pm Lunch and sponsor announcements
  2:10pm Period 3 (1 hour)
  3:20pm Period 4 (1 hour)
  4:30pm Period 5 (1 hour)
- 5:45pm Reception (closing 8:00pm)
+ 5:45pm Happy Hour at [Brookland Pint](https://brooklandpint.com/) [716 Monroe St NE](https://goo.gl/maps/Rztm8xMg8tMmNDi56) (use your Camp name tag for 10% discount!)
 </pre>
 
 ### More Info
