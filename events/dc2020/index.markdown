@@ -13,7 +13,7 @@ TransportationCamp DC 2020 is **Saturday, January 11, 2020**.
 A tradition since 2012, TransportationCamp DC is held on the Saturday before the
 [Transportation Research Board Annual Meeting](http://www.trb.org/AnnualMeeting).
 
-Registration is at [eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627](https://www.eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627). The event is sold out; the wait list is beyond capacity.
+Registration is at [eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627](https://www.eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627). The event is sold out; the wait list is beyond capacity. ☹
 
 The official session schedule will be posted on the wall of the Great Room.
 We'll try to keep an online version up to date on Google Docs.
