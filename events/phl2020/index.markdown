@@ -18,21 +18,21 @@ Organized by passionate Philadelphians in conjunction with the Philadelphia chap
 
 # <center>Confirmed Date: April 25, 2020</center>
 
-*<center>Update: We are confirmed for April 25! Thanks for bearing with us!</center>*
+*<center>We are now confirmed for the above date. Thanks for bearing with us!</center>*
 
 
 ## <a name="registration"></a> Registration
 
-<div style="width:100%; text-align:left;"><iframe src="https://eventbrite.com/tickets-external?eid=94730490447&ref=etckt" frameborder="0" height="393" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div style="width:100%; text-align:left;"><iframe src="https://eventbrite.com/tickets-external?eid=94730490447&ref=etckt" frameborder="0" height="400" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 
 ## <a name="scholarship"></a> \*\*NEW\*\* for 2020: The TCPHL Academic Innovation Award!
 
 TransportationCamp PHL is pleased to launch the **2020 TransportationCamp PHL Academic Innovation Award presented by David Klahar Consulting**! This award, the first of its kind for a TransportationCamp, challenges students to prepare a response to the following prompt:
 
-> Transportation networks are becoming increasingly integrated, with multimodal journeys representing a much larger portion of individual mode choice. Some modes provide robust interoperability in payment systems, such as EZ Pass which can be used by an automobile anywhere in the Northeast. Others, such as transit systems, are typically restricted by mode and operator (e.g. SEPTA Key), limiting integration with counterpart networks.
+> *Transportation networks are becoming increasingly integrated, with multimodal journeys representing a much larger portion of individual mode choice. Some modes provide robust interoperability in payment systems, such as EZ Pass which can be used by an automobile anywhere in the Northeast. Others, such as transit systems, are typically restricted by mode and operator (e.g. SEPTA Key), limiting integration with counterpart networks.*
 > 
-> What can the Philadelphia region do right now with existing real-world systems and resources to make this work better?  What actionable changes would you implement in this region, and why? How would these changes promote integrated mobility solutions?
+> *What can the Philadelphia region do right now with existing real-world systems and resources to make this work better?  What actionable changes would you implement in this region, and why? How would these changes promote integrated mobility solutions?*
 
 Submissions must be in PDF format, no longer than 10 pages (including any pictures/graphs/charts), and submitted no later than March 14, 2020 at [this site](https://docs.google.com/forms/d/e/1FAIpQLSch14g_2RnTaq1cdmHLVbTJcFA3ozxlnGeQwKfm_ec-OPLT2w/viewform). **The winner shall receive the award, free admission to the conference, and a generous $500 scholarship!**
 
@@ -96,7 +96,7 @@ Want to learn more about the conference? Check out the ["First Time at a Transpo
 
 ## Getting to TCPHL
 
-We are working with our partners at the Drexel Lindy Institute to secure our venue. Historically, the conference has been located at Drexel's Papadakis Integrated Sciences Building (33rd and Chestnut Streets, less than a 10 minute walk from Philadelphia's 30th Street Station), and we plan to return for this year.
+TransportationCamp PHL returns to Drexel's Papadakis Integrated Sciences Building for the third year in a row! Located at 33rd and Chestnut Streets, "PISB" is less than a 10 minute walk from Philadelphia's 30th Street Station.
 
 - All SEPTA Regional Rail and Amtrak trains stop at Philadelphia's 30th Street Station (four blocks away from PISB), including SEPTA's Airport Line which connects all airport terminals with 30th Street every 30 minutes.
 - Megabus and Bolt Bus stop immediately outside 30th Street Station at 30th Street and JFK Blvd.
@@ -118,8 +118,6 @@ Want a better sense of the vibe? Check out last year's [photo gallery](https://f
 
 ## <a name="schedule"></a> Schedule
 
-*Note that the schedule remains subject to change.*
-
 | Time | Event |
 |------|------|
 | 9am-10am | Registration, Networking, and Breakfast |
@@ -132,6 +130,7 @@ Want a better sense of the vibe? Check out last year's [photo gallery](https://f
 | 4pm-5pm | Session 4
 | 5pm | Continue the conversations/networking
 
+*Note that the schedule remains subject to change.*
 
 ## Organizing Committee
 
