@@ -16,14 +16,25 @@ Whether you work in the industry or simply have an interest, we welcome you to o
 
 Organized by passionate Philadelphians in conjunction with the Philadelphia chapters of Young Professionals in Transportation (YPT) and Women’s Transportation Seminar (WTS), and Drexel University’s Lindy Institute for Urban Innovation, we look forward to seeing you! [Connect with us](#connect)
 
-# <center>New Date — April 25, 2020</center>
+# <center>Confirmed Date: April 25, 2020</center>
 
-*<center>Update: We are 98% confirmed for the above date.</center>*
+*<center>Update: We are confirmed for April 25! Thanks for bearing with us!</center>*
 
 
 ## <a name="registration"></a> Registration
 
-Find out when registration opens before tickets sell out! We encourage you to subscribe to our mailing list and connect via all of the means below.
+<div style="width:100%; text-align:left;"><iframe src="https://eventbrite.com/tickets-external?eid=94730490447&ref=etckt" frameborder="0" height="393" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+
+## <a name="scholarship"></a> \*\*NEW\*\* for 2020: The TCPHL Academic Innovation Award!
+
+TransportationCamp PHL is pleased to launch the **2020 TransportationCamp PHL Academic Innovation Award presented by David Klahar Consulting**! This award, the first of its kind for a TransportationCamp, challenges students to prepare a response to the following prompt:
+
+> Transportation networks are becoming increasingly integrated, with multimodal journeys representing a much larger portion of individual mode choice. Some modes provide robust interoperability in payment systems, such as EZ Pass which can be used by an automobile anywhere in the Northeast. Others, such as transit systems, are typically restricted by mode and operator (e.g. SEPTA Key), limiting integration with counterpart networks.
+> 
+> What can the Philadelphia region do right now with existing real-world systems and resources to make this work better?  What actionable changes would you implement in this region, and why? How would these changes promote integrated mobility solutions?
+
+Submissions must be in PDF format, no longer than 10 pages (including any pictures/graphs/charts), and submitted no later than March 14, 2020 at [this site](https://docs.google.com/forms/d/e/1FAIpQLSch14g_2RnTaq1cdmHLVbTJcFA3ozxlnGeQwKfm_ec-OPLT2w/viewform). **The winner shall receive the award, free admission to the conference, and a generous $500 scholarship!**
 
 
 ##  <a name="connect"></a> Stay Connected
@@ -104,6 +115,22 @@ We are working with our partners at the Drexel Lindy Institute to secure our ven
 - **Dress Code**: TransportationCamp is a very casual event. Although you might be inclined to dress up for a conference, your best attire is your coolest transportation tee shirt!
 
 Want a better sense of the vibe? Check out last year's [photo gallery](https://flic.kr/s/aHsmhQCQbL) and [session schedule](https://tinyurl.com/tcphl19board) and from our inaugural year ([2018 Photos](https://flic.kr/s/aHsmhQCQbL), [2018 Sessions](https://docs.google.com/spreadsheets/d/e/2PACX-1vSmc891MrEUuYGkoGbz-4xh_KUo5YVFy4M_eoyKvjtv0GVM2dgBzDDEioXKhmHD_PGFz1jvsELOD9E8/pubhtml?gid=0&single=true)).
+
+## <a name="schedule"></a> Schedule
+
+*Note that the schedule remains subject to change.*
+
+| Time | Event |
+|------|------|
+| 9am-10am | Registration, Networking, and Breakfast |
+| 10am-11am | Welcome, Introductions, Session Proposals |
+| 11am-12pm | Session 1
+| 12:15pm-1:15pm | Lunch and Afternoon Session Proposals
+| 1:15pm-2:15pm |Session 2
+| 2:30pm-3:30pm | Session 3
+| 3:30pm-4pm | Break
+| 4pm-5pm | Session 4
+| 5pm | Continue the conversations/networking
 
 
 ## Organizing Committee
