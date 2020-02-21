@@ -28,7 +28,7 @@ Organized by passionate Philadelphians in conjunction with the Philadelphia chap
 
 ## <a name="scholarship"></a> \*\*NEW\*\* for 2020: The TCPHL Academic Innovation Award!
 
-TransportationCamp PHL is pleased to launch the **2020 TransportationCamp PHL Academic Innovation Award presented by David Klahar Consulting**! This award, the first of its kind for a TransportationCamp, challenges students to prepare a response to the following prompt:
+TransportationCamp PHL is pleased to launch the **2020 TransportationCamp PHL Academic Innovation Award presented by David Klahr Consulting**! This award, the first of its kind for a TransportationCamp, challenges students to prepare a response to the following prompt:
 
 > *Transportation networks are becoming increasingly integrated, with multimodal journeys representing a much larger portion of individual mode choice. Some modes provide robust interoperability in payment systems, such as EZ Pass which can be used by an automobile anywhere in the Northeast. Others, such as transit systems, are typically restricted by mode and operator (e.g. SEPTA Key), limiting integration with counterpart networks.*
 > 
