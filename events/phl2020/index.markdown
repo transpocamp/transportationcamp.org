@@ -77,17 +77,6 @@ TransportationCampPHL has always been made possible thanks to the generous suppo
 Want to learn more about the conference? Check out the ["First Time at a TransportationCamp?"](#firsttime) section below.
 
 
-## <a name="scholarship"></a> Deferred to 2021: The TCPHL Academic Innovation Award
-
-TransportationCamp PHL was pleased to launch the **2020 TransportationCamp PHL Academic Innovation Award presented by David Klahr Consulting**! This award, the first of its kind for a TransportationCamp, challenged students to prepare a response to the following prompt:
-
-> *Transportation networks are becoming increasingly integrated, with multimodal journeys representing a much larger portion of individual mode choice. Some modes provide robust interoperability in payment systems, such as EZ Pass which can be used by an automobile anywhere in the Northeast. Others, such as transit systems, are typically restricted by mode and operator (e.g. SEPTA Key), limiting integration with counterpart networks.*
-> 
-> *What can the Philadelphia region do right now with existing real-world systems and resources to make this work better?  What actionable changes would you implement in this region, and why? How would these changes promote integrated mobility solutions?*
-
-Updates will be made prior to the award's issuance in 2021. Submissions must be in PDF format, no longer than 10 pages (including any pictures/graphs/charts), and submitted no later than March 14, 2020 at [this site](https://docs.google.com/forms/d/e/1FAIpQLSch14g_2RnTaq1cdmHLVbTJcFA3ozxlnGeQwKfm_ec-OPLT2w/viewform). **The winner shall receive the award, free admission to the conference, and a generous $500 scholarship!**
-
-
 ## Getting to TCVirtual
 
 TransportationCamp Virtual will be an online event hosted through a videoconferencing platform. Exact details will be shared in the future, so be sure to register for the event and subscribe for email updates.
@@ -121,3 +110,14 @@ Want a better sense of the vibe? Check out last year's [photo gallery](https://f
 ## Organizing Committee
 
 TransportationCamp Philadelphia is being organized thanks to a collaborative effort between YPT, WTS, and Drexel Lindy Institute. Passionate about transportation and  bringing the conference to Philadelphia, the conference's five co-chairs span a diverse array of subsets in the industry with professional experience in both public and private transportation operations, transportation planning, and logistics consulting. For additional breadth, the conference has a larger working group whose collective knowledge and expertise spans all facets of the industry and includes all levels of transportation involvement (ranging from career professionals to engaged hobbyists).
+
+
+## <a name="scholarship"></a> Deferred to 2021: The TCPHL Academic Innovation Award
+
+TransportationCamp PHL was pleased to launch the **2020 TransportationCamp PHL Academic Innovation Award presented by David Klahr Consulting**! This award, the first of its kind for a TransportationCamp, challenged students to prepare a response to the following prompt:
+
+> *Transportation networks are becoming increasingly integrated, with multimodal journeys representing a much larger portion of individual mode choice. Some modes provide robust interoperability in payment systems, such as EZ Pass which can be used by an automobile anywhere in the Northeast. Others, such as transit systems, are typically restricted by mode and operator (e.g. SEPTA Key), limiting integration with counterpart networks.*
+> 
+> *What can the Philadelphia region do right now with existing real-world systems and resources to make this work better?  What actionable changes would you implement in this region, and why? How would these changes promote integrated mobility solutions?*
+
+Updates will be made prior to the award's issuance in 2021. Submissions must be in PDF format, no longer than 10 pages (including any pictures/graphs/charts), and submitted no later than March 14, 2020 at [this site](https://docs.google.com/forms/d/e/1FAIpQLSch14g_2RnTaq1cdmHLVbTJcFA3ozxlnGeQwKfm_ec-OPLT2w/viewform). **The winner shall receive the award, free admission to the conference, and a generous $500 scholarship!**
