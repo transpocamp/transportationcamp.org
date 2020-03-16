@@ -4,42 +4,31 @@ comments: false
 date: {}
 layout: event
 slug: "phl2020"
-title: TransportationCamp PHL 2020
+title: TransportationCamp Virtual 2020
 published: true
 ---
 
-**Ring in the new decade with the third-annual TransportationCamp PHL!**
+**Join us for the first TransportationCamp Virtual, TCPHL's response to COVID-19!**
 
 ![Scenes from TransportationCamp PHL 2019](/events/phl2018/Scenes%20from%20TCPHL18.jpg)
 
-Whether you work in the industry or simply have an interest, we welcome you to our nation's birthplace at the center of the NEC for a day filled with ideas at the intersection of transportation, technology, and urbanism. As always, the participant-driven TransportationCamp conference series follows the "unconference" format, lending itself to a more pertinent, thought-provoking, and active event.
+Whether you work in the industry or simply have an interest, we welcome you to join us online for a day filled with ideas at the intersection of transportation, technology, and urbanism. As always, the participant-driven TransportationCamp conference series follows the "unconference" format, lending itself to a more pertinent, thought-provoking, and active event.
 
-Organized by passionate Philadelphians in conjunction with the Philadelphia chapters of Young Professionals in Transportation (YPT) and Women’s Transportation Seminar (WTS), and Drexel University’s Lindy Institute for Urban Innovation, we look forward to seeing you! [Connect with us](#connect)
+Organized by passionate Philadelphians in conjunction with the Philadelphia chapters of Young Professionals in Transportation (YPT) and Women’s Transportation Seminar (WTS), and Drexel University’s Lindy Institute for Urban Innovation, we look forward to seeing you… so clean off that webcam!
 
-# <center>Confirmed Date: April 25, 2020</center>
+This will be a free event, but we're asking participatnts to register in advance, especially given the uncharted waters of a virutal unconference. Logistics will be updated on an ongoing basis, so register for the event and [subscribe to email updates to ensure you get the latest](#connect).
 
-*<center>We are now confirmed for the above date. Thanks for bearing with us!</center>*
+# <center>Join Us Virtually on April 25, 2020</center>
 
 
 ## <a name="registration"></a> Registration
 
-<div style="width:100%; text-align:left;"><iframe src="https://eventbrite.com/tickets-external?eid=94730490447&ref=etckt" frameborder="0" height="400" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
-
-
-## <a name="scholarship"></a> \*\*NEW\*\* for 2020: The TCPHL Academic Innovation Award!
-
-TransportationCamp PHL is pleased to launch the **2020 TransportationCamp PHL Academic Innovation Award presented by David Klahr Consulting**! This award, the first of its kind for a TransportationCamp, challenges students to prepare a response to the following prompt:
-
-> *Transportation networks are becoming increasingly integrated, with multimodal journeys representing a much larger portion of individual mode choice. Some modes provide robust interoperability in payment systems, such as EZ Pass which can be used by an automobile anywhere in the Northeast. Others, such as transit systems, are typically restricted by mode and operator (e.g. SEPTA Key), limiting integration with counterpart networks.*
-> 
-> *What can the Philadelphia region do right now with existing real-world systems and resources to make this work better?  What actionable changes would you implement in this region, and why? How would these changes promote integrated mobility solutions?*
-
-Submissions must be in PDF format, no longer than 10 pages (including any pictures/graphs/charts), and submitted no later than March 14, 2020 at [this site](https://docs.google.com/forms/d/e/1FAIpQLSch14g_2RnTaq1cdmHLVbTJcFA3ozxlnGeQwKfm_ec-OPLT2w/viewform). **The winner shall receive the award, free admission to the conference, and a generous $500 scholarship!**
+<div style="width:100%; text-align:left;"><iframe src="https://eventbrite.com/tickets-external?eid=100059366258&ref=etckt" frameborder="0" height="400" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 
 ##  <a name="connect"></a> Stay Connected
 
-Make sure you're up to date by following us on Twitter [@TranspoCampPHL](https://twitter.com/transpocampphl), liking us on [Facebook](http://facebook.com/TranspoCamp-PHL), joining our [LinkedIn group](https://www.linkedin.com/groups/8652914/) to meet fellow campers beforehand, and by subscribing to our MailChimp [email updates](http://eepurl.com/c8tKwH). And, keep the conversation going! Tag your tweets, instagram photos, and more with the official event hashtag: **#TCPHL20**.
+Make sure you're up to date by following us on Twitter [@TranspoCampPHL](https://twitter.com/transpocampphl), liking us on [Facebook](http://facebook.com/TranspoCamp-PHL), joining our [LinkedIn group](https://www.linkedin.com/groups/8652914/) to meet fellow campers beforehand, and by subscribing to our MailChimp [email updates](http://eepurl.com/c8tKwH). And, keep the conversation going! Tag your tweets, instagram photos, and more with the official event hashtag: **#TCVirtual20**.
 
 Want to make sure you don't miss a thing? We encourage you to subscribe to our mailing list:
 
@@ -83,40 +72,39 @@ Want to make sure you don't miss a thing? We encourage you to subscribe to our m
 
 ## Sponsorship
 
-TransportationCampPHL has been made possible thanks to the generous support of numerous sponsors. Past sponsors have included AECOM, TransitCenter, and WSP.
-
-#### Become a Sponsor!
-
-Interested in becoming a sponsor? Want your name on the above list? We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals.
-
-**For sponsorship inquiries, please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com).** Note: Special sponsorship options are on a first come, first served basis, so don't hesitate!
+TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors, including AECOM, TransitCenter, and WSP. **We are still working out the details of online sponsorship opportunities, but please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com) to discuss options.** We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals.
 
 Want to learn more about the conference? Check out the ["First Time at a TransportationCamp?"](#firsttime) section below.
 
 
-## Getting to TCPHL
+## <a name="scholarship"></a> Deferred to 2021: The TCPHL Academic Innovation Award
 
-TransportationCamp PHL returns to Drexel's Papadakis Integrated Sciences Building for the third year in a row! Located at 33rd and Chestnut Streets, "PISB" is less than a 10 minute walk from Philadelphia's 30th Street Station.
+TransportationCamp PHL was pleased to launch the **2020 TransportationCamp PHL Academic Innovation Award presented by David Klahr Consulting**! This award, the first of its kind for a TransportationCamp, challenged students to prepare a response to the following prompt:
 
-- All SEPTA Regional Rail and Amtrak trains stop at Philadelphia's 30th Street Station (four blocks away from PISB), including SEPTA's Airport Line which connects all airport terminals with 30th Street every 30 minutes.
-- Megabus and Bolt Bus stop immediately outside 30th Street Station at 30th Street and JFK Blvd.
-- SEPTA's Market-Frankford Elevated will get you even closer to the event (two blocks away) at the 34th Street MFL stop.
-- SEPTA's Trolley Routes stop even closer – less than a block away – at 33rd Street.
-- SEPTA's 30, 31, 21, and 42 buses all stop no more than a block from PISB, and the 40 is nearby, too. The 9, 44, 62, 124, and 125 buses are also accessible at 30th Street Station.
-- South Jerseyans can easily connect from PATCO to the Market-Frankford Elevated at 8th & Market or walk from the NJT Atlantic City Line at 30th Street Station.
+> *Transportation networks are becoming increasingly integrated, with multimodal journeys representing a much larger portion of individual mode choice. Some modes provide robust interoperability in payment systems, such as EZ Pass which can be used by an automobile anywhere in the Northeast. Others, such as transit systems, are typically restricted by mode and operator (e.g. SEPTA Key), limiting integration with counterpart networks.*
+> 
+> *What can the Philadelphia region do right now with existing real-world systems and resources to make this work better?  What actionable changes would you implement in this region, and why? How would these changes promote integrated mobility solutions?*
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12233.702859903971!2d-75.1894166!3d39.9542337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa51c494800f66f42!2sPapadakis+Integrated+Sciences+Building!5e0!3m2!1sen!2sus!4v1517199706639" width="680" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
+Updates will be made prior to the award's issuance in 2021. Submissions must be in PDF format, no longer than 10 pages (including any pictures/graphs/charts), and submitted no later than March 14, 2020 at [this site](https://docs.google.com/forms/d/e/1FAIpQLSch14g_2RnTaq1cdmHLVbTJcFA3ozxlnGeQwKfm_ec-OPLT2w/viewform). **The winner shall receive the award, free admission to the conference, and a generous $500 scholarship!**
+
+
+## Getting to TCVirtual
+
+TransportationCamp Virtual will be an online event hosted through a videoconferencing platform. Exact details will be shared in the future, so be sure to register for the event and subscribe for email updates.
+
 
 ## <a name="firsttime"></a> First Time at a TransportationCamp?
 
 - **How To TransportationCamp**: The folks at MobilityLab have taken the time to put together a [TransportationCamp 101 guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/) that explains all aspects of the event.
 - **Participation Encouraged**: Sessions are formed as the day goes on, so be sure to come with topics for discussion. If you have an idea, feel free to share and add your thoughts. 
-- **Rule of Two Feet:** Never hesitate to leave a session if you suddenly find it's not for you, or if there's another session that you want to check out, too!
-- **Dress Code**: TransportationCamp is a very casual event. Although you might be inclined to dress up for a conference, your best attire is your coolest transportation tee shirt!
+- **Rule of Two <s>Feet</s> Clicks:** Never hesitate to leave a session if you suddenly find it's not for you, or if there's another session that you want to check out, too!
+- **Dress Code**: TransportationCamp is a very casual event, especially via the virtual platform. Although you might be inclined to dress up for a conference, your best attire is your coolest transportation tee shirt!
 
 Want a better sense of the vibe? Check out last year's [photo gallery](https://flic.kr/s/aHsmhQCQbL) and [session schedule](https://tinyurl.com/tcphl19board) and from our inaugural year ([2018 Photos](https://flic.kr/s/aHsmhQCQbL), [2018 Sessions](https://docs.google.com/spreadsheets/d/e/2PACX-1vSmc891MrEUuYGkoGbz-4xh_KUo5YVFy4M_eoyKvjtv0GVM2dgBzDDEioXKhmHD_PGFz1jvsELOD9E8/pubhtml?gid=0&single=true)).
 
 ## <a name="schedule"></a> Schedule
+
+*Note that the schedule is subject to change to better suit a virtual environment; all times will be Eastern Daylight Time.*
 
 | Time | Event |
 |------|------|
@@ -129,8 +117,6 @@ Want a better sense of the vibe? Check out last year's [photo gallery](https://f
 | 3:30pm-4pm | Break
 | 4pm-5pm | Session 4
 | 5pm | Continue the conversations/networking
-
-*Note that the schedule remains subject to change.*
 
 ## Organizing Committee
 
