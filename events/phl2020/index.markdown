@@ -16,7 +16,7 @@ Whether you work in the industry or simply have an interest, we welcome you to j
 
 Organized by passionate Philadelphians in conjunction with the Philadelphia chapters of Young Professionals in Transportation (YPT) and Women’s Transportation Seminar (WTS), and Drexel University’s Lindy Institute for Urban Innovation, we look forward to seeing you… so clean off that webcam!
 
-This will be a free event, but we're asking participatnts to register in advance, especially given the uncharted waters of a virutal unconference. Logistics will be updated on an ongoing basis, so register for the event and [subscribe to email updates to ensure you get the latest](#connect).
+This will be a free event, but we're asking participants to register in advance, especially given the uncharted waters of a virtual unconference. Logistics will be updated on an ongoing basis, so register for the event and [subscribe to email updates to ensure you get the latest](#connect).
 
 # <center>Join Us Virtually on April 25, 2020</center>
 
