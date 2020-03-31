@@ -12,13 +12,23 @@ published: true
 
 ![Scenes from TransportationCamp PHL 2019](/events/phl2018/Scenes%20from%20TCPHL18.jpg)
 
-Whether you work in the industry or simply have an interest, we welcome you to join us online for a day filled with ideas at the intersection of transportation, technology, and urbanism. As always, the participant-driven TransportationCamp conference series follows the "unconference" format, lending itself to a more pertinent, thought-provoking, and active event.
+Whether you work in the industry or simply have an interest, we welcome you to join us online for a day filled with ideas at the intersection of transportation, technology, and urbanism.
 
-Organized by passionate Philadelphians in conjunction with the Philadelphia chapters of Young Professionals in Transportation (YPT) and Women’s Transportation Seminar (WTS), and Drexel University’s Lindy Institute for Urban Innovation, we look forward to seeing you… so clean off that webcam!
+This is not your normal conference. **And it's NOT some webinars on a Saturday.**
 
-This will be a free event, but we're asking participants to register in advance, especially given the uncharted waters of a virtual unconference. Logistics will be updated on an ongoing basis, so register for the event and [subscribe to email updates to ensure you get the latest](#connect).
+As always, the participant-driven TransportationCamp conference series follows the "unconference" format, lending itself to a more pertinent, thought-provoking, and active event. And despite the virtual constraints, we've spent a considerable amount of time to keep the experience as close to the in-person event as possible.
+
+- Enjoy conversing with new connections over breakfast and lunch at virtual "tables."
+- Sessions will remain interactive conversations, so clean off your webcam!
+- In keeping with the conference tradition, meet fellow attendees during "three-word intros."
+- Help shape the day by proposing a session, conversation, or gathering when joining us for the event.
+- After the sessions, keep the conversations going with new connections by gathering in a virtual room.
+
+Organized by passionate Philadelphians in conjunction with the Philadelphia chapters of Young Professionals in Transportation (YPT) and Women’s Transportation Seminar (WTS), and Drexel University’s Lindy Institute for Urban Innovation, we look forward to seeing you… via your webcam.
 
 # <center>Join Us Virtually on April 25, 2020</center>
+
+Although this event is being hosted at no charge to attendees, we're asking all participants to register in advance and [subscribe to email updates](#connect) to better coordinate the virtual logistics.
 
 
 ## <a name="registration"></a> Registration
@@ -70,49 +80,56 @@ Want to make sure you don't miss a thing? We encourage you to subscribe to our m
 <!--End mc_embed_signup-->
 
 
+
+## TCVirtual Logistics
+
+TransportationCamp Virtual will be a live, real-time event happening on April 25. 
+
+The conference shall comprise of two main areas: session "rooms" and an open seating area with "tables." Much like how one would navigate an in-person conference (having coffee at a table, going to a room for each session, having lunch at a table with others, etc.), attendees of TCVirtual will do the same… the difference being the rooms and tables will each be a distinct videoconference meeting room.
+
+The programming has been specifically structured to accommodate the virtual event, and we think it will flow fairly seamlessly. Specific details and links will be shared with registered attendees, so make sure to register for the event.
+
+## <a name="schedule"></a> Schedule
+
+*Below is a draft of the TCVirtual schedule. All times will be Eastern Daylight Time.*
+
+| Time | Event |
+|------|------|
+| 9am-9:30am | "Coffee" and Networking |
+| 9:30am-10:20am | Welcome, Introductions, Session Proposals |
+| 10:30am-11:15am | Session 1
+| 11:25am-12:10pm | Session 2
+| 12:15pm-1:15pm | "Birds of a Feather" Lunch
+| 1:15pm-2:00pm |Session 3
+| 2:10pm-2:55pm | *Possible* Session 4
+| 3pm | Afternoon Hangout
+
 ## Sponsorship
 
-TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors, including AECOM, TransitCenter, and WSP. **We are still working out the details of online sponsorship opportunities, but please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com) to discuss options.** We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals.
+TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors, including AECOM, TransitCenter, and WSP. This year, we are offering a flat $500 sponsorship of session rooms, but are open to combining multiple donors into a single sponsorship. If interested, please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com).
 
 Want to learn more about the conference? Check out the ["First Time at a TransportationCamp?"](#firsttime) section below.
 
-
-## Getting to TCVirtual
-
-TransportationCamp Virtual will be an online event hosted through a videoconferencing platform. Exact details will be shared in the future, so be sure to register for the event and subscribe for email updates.
-
-
 ## <a name="firsttime"></a> First Time at a TransportationCamp?
+
+Despite being virtual, this event will still follow the standard guidelines and practices from a normal TransportationCamp event. Here are some details.
 
 - **How To TransportationCamp**: The folks at MobilityLab have taken the time to put together a [TransportationCamp 101 guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/) that explains all aspects of the event.
 - **Participation Encouraged**: Sessions are formed as the day goes on, so be sure to come with topics for discussion. If you have an idea, feel free to share and add your thoughts. 
 - **Rule of Two <s>Feet</s> Clicks:** Never hesitate to leave a session if you suddenly find it's not for you, or if there's another session that you want to check out, too!
-- **Dress Code**: TransportationCamp is a very casual event, especially via the virtual platform. Although you might be inclined to dress up for a conference, your best attire is your coolest transportation tee shirt!
+- **Dress Code**: TransportationCamp has always been a very casual event, especially via the virtual format. We've always said, your best attire is your coolest transportation tee shirt!
 
 Want a better sense of the vibe? Check out last year's [photo gallery](https://flic.kr/s/aHsmhQCQbL) and [session schedule](https://tinyurl.com/tcphl19board) and from our inaugural year ([2018 Photos](https://flic.kr/s/aHsmhQCQbL), [2018 Sessions](https://docs.google.com/spreadsheets/d/e/2PACX-1vSmc891MrEUuYGkoGbz-4xh_KUo5YVFy4M_eoyKvjtv0GVM2dgBzDDEioXKhmHD_PGFz1jvsELOD9E8/pubhtml?gid=0&single=true)).
 
-## <a name="schedule"></a> Schedule
-
-*Note that the schedule is subject to change to better suit a virtual environment; all times will be Eastern Daylight Time.*
-
-| Time | Event |
-|------|------|
-| 9am-10am | Registration, Networking, and Breakfast |
-| 10am-11am | Welcome, Introductions, Session Proposals |
-| 11am-12pm | Session 1
-| 12:15pm-1:15pm | Lunch and Afternoon Session Proposals
-| 1:15pm-2:15pm |Session 2
-| 2:30pm-3:30pm | Session 3
-| 3:30pm-4pm | Break
-| 4pm-5pm | Session 4
-| 5pm | Continue the conversations/networking
 
 ## Organizing Committee
 
 TransportationCamp Philadelphia is being organized thanks to a collaborative effort between YPT, WTS, and Drexel Lindy Institute. Passionate about transportation and  bringing the conference to Philadelphia, the conference's five co-chairs span a diverse array of subsets in the industry with professional experience in both public and private transportation operations, transportation planning, and logistics consulting. For additional breadth, the conference has a larger working group whose collective knowledge and expertise spans all facets of the industry and includes all levels of transportation involvement (ranging from career professionals to engaged hobbyists).
 
 
-## <a name="scholarship"></a> Deferred to 2021: The TCPHL Academic Innovation Award
+---
+
+### *<a name="scholarship"></a> Deferred to 2021: The TCPHL Academic Innovation Award*
 
 TransportationCamp PHL was pleased to launch the **2020 TransportationCamp PHL Academic Innovation Award presented by David Klahr Consulting**! This award, the first of its kind for a TransportationCamp, challenged students to prepare a response to the following prompt:
 
