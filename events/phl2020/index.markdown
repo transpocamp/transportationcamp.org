@@ -12,6 +12,8 @@ published: true
 
 ![Scenes from TransportationCamp PHL 2019](/events/phl2018/Scenes%20from%20TCPHL18.jpg)
 
+> # If you are a registered attendee, please check the email at which you registered for connection details.
+
 Whether you work in the industry or simply have an interest, we welcome you to join us online for a day filled with ideas at the intersection of transportation, technology, and urbanism.
 
 This is not your normal conference. **And it's NOT some webinars on a Saturday.**
@@ -34,6 +36,8 @@ Although this event is being hosted at no charge to attendees, we're asking all 
 ## <a name="registration"></a> Registration
 
 <div style="width:100%; text-align:left;"><iframe src="https://eventbrite.com/tickets-external?eid=100059366258&ref=etckt" frameborder="0" height="400" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+We've sold out, but are releasing some additional tickets from the waitlist! Add your name to the waitlist and monitor your email — once a ticket is released, you'll need to claim it quickly!
 
 
 ##  <a name="connect"></a> Stay Connected
@@ -100,13 +104,15 @@ The programming has been specifically structured to accommodate the virtual even
 | 10:30am-11:15am | Session 1
 | 11:25am-12:10pm | Session 2
 | 12:15pm-1:15pm | "Birds of a Feather" Lunch
-| 1:15pm-2:00pm |Session 3
-| 2:10pm-2:55pm | *Possible* Session 4
+| 1:20pm-2:05pm |Session 3
+| 2:15pm-3pm | *Tentative* Session 4
 | 3pm | Afternoon Hangout
 
 ## Sponsorship
 
-TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors, including AECOM, TransitCenter, and WSP. This year, we are offering a flat $500 sponsorship of session rooms, but are open to combining multiple donors into a single sponsorship. If interested, please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com).
+### Thank you [TransitCenter](http://transitcenter.org/), [Uber](http://uber.com/), [WTS Philadelphia](http://www.wtsinternational.org/philadelphia/), [Azavea](https://www.azavea.com/), and [the Evans Network of Companies](https://theenoc.com/) for helping make TransportationCamp Virtual a reality!
+
+TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors. This year, we are offering a flat $500 sponsorship of session rooms, but are open to combining multiple donors into a single sponsorship. If interested, please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com).
 
 Want to learn more about the conference? Check out the ["First Time at a TransportationCamp?"](#firsttime) section below.
 
