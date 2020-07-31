@@ -332,8 +332,13 @@
   register_url: https://www.eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627
   background_img: dc-brookland.jpg
 
-- title: Virtual (formerly PHL) 2020
+- title: TCVirtual (formerly PHL) 2020
   date: 2020-04-25 23:59:59
   url: /events/phl2020
   register_url: https://www.eventbrite.com/e/transportationcamp-phl-2020-registration-100059366258?aff=transportationcampdotorg
   background_img: philly-20-skyline-nec.jpg
+
+- title: Pittsburgh 2020 (Virtual)
+  date: 2020-11-14 23:59:59
+  url: /events/pgh2020
+  background_img: pittsburgh.jpg
