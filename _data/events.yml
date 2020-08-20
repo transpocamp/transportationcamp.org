@@ -338,7 +338,7 @@
   register_url: https://www.eventbrite.com/e/transportationcamp-phl-2020-registration-100059366258?aff=transportationcampdotorg
   background_img: philly-20-skyline-nec.jpg
 
-  - title: Toronto 2020 (Virtual)
+- title: Toronto 2020 (Virtual)
   date: 2020-10-03 23:59:59
   url: /events/toronto2020
   background_img: toronto.jpg
