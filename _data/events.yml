@@ -342,9 +342,13 @@
   date: 2020-10-03 23:59:59
   url: /events/toronto2020
   background_img: toronto.jpg
-
+  
+- title: NYC 2020 (Virtual)
+  date: 2020-10-17 23:59:59
+  url: /events/nyc-2020
+  background_img: nyc-2020.jpg
+  
 - title: Pittsburgh 2020 (Virtual)
   date: 2020-11-14 23:59:59
   url: /events/pgh2020
   background_img: pittsburgh-c.jpg
-  
