@@ -5,7 +5,7 @@ layout: event
 slug: "nyc-2020"
 title: TransportationCamp NYC 2020 (Virtual)
 published: true
-logo: virtual-logo.jpg
+logo: virtual-logo.png
 logo-alt: "TransportationCamp NYC Virtual 2020: October 17"
 hide-title: true
 ---
