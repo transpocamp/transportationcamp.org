@@ -8,8 +8,7 @@ title: TransportationCamp Toronto 2020 (Virtual)
 published: true
 ---
 
-
-![Details about TransportationCamp Toronto 2020](/events/phl2018/toronto_2020_header.png)
+<center><img src="/events/toronto2020/toronto_2020_header.png" alt="Details about TransportationCamp Toronto 2020" width="600"></center>
 
 YPT Toronto and ITE Toronto are excited to be co-sponsoring and organizing TransportationCamp 2020 in Toronto! This event usually takes place virtually, but due to COVID-19 restrictions we will be bringing this to you virtually on Zoom. So this means that you can participate from the comfort of your own home! (No free doughnuts, but also no sweaty handshakes!)
 
