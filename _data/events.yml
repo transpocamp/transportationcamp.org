@@ -347,6 +347,7 @@
 - title: Toronto 2020 (Virtual)
   date: 2020-10-03 23:59:59
   url: /events/toronto2020
+  register_url: https://transportationcamptoronto2020.eventbrite.ca/
   background_img: toronto.jpg
   
 - title: NYC 2020 (Virtual)
