@@ -23,9 +23,11 @@ The team that famously pivoted to a virtual conference only weeks prior to a sch
 
 Given changing guidance and uncertainty in the future, we are exploring countless possibilities to provide an experience that maximizes our desire to share knowledge and ideas while also enabling the ability to forge connections in-person where safe, possible, and practical.
 
-Rest assured, **as demonstrated in 2020, the safety of all attendees remains of the utmost priority for the organizing committee, and we've proven that a virtual conference can be viable and successful**. Regardless of in-person options offered (if any), we are indeed planning to offer a fully-virtual experience for those who prefer.
+Rest assured, **as demonstrated in 2020, the safety of all attendees remains of the utmost priority for the organizing committee, and we've proven that a virtual conference can be viable and successful**. Regardless of in-person options offered, we are indeed planning to offer a fully-virtual experience for those who prefer.
 
-We will have more details to share as the Spring approaches. Due to possible schedule shifts to accommodate changing COVID restrictions, we are refraining from publishing a tentative date at this time. **Historically, we have targeted mid-March through April and early May.**
+**Our current vision calls for a fully-virtual conference in our typical timeframe of mid-March through April and early May, followed by an outdoor exploration and in-person happy hour as weather improves and restrictions lift (in late spring or early summer).**
+
+We will have more details to share as the Spring approaches. Due to possible schedule shifts to accommodate changing COVID restrictions, we are refraining from publishing tentative dates at this time.
 
 
 ### *How do I find out about TransportationCamp PHL 2021?*
@@ -85,5 +87,5 @@ Returning for a second year, TransportationCamp PHL is pleased to announce the *
 > 
 > What can the Philadelphia region do right now with existing real-world systems and resources to make this work better?  What actionable changes would you implement in this region, and why? How would these changes promote integrated mobility solutions?
 
-Submissions must be in PDF format, no longer than 10 pages (including any pictures/graphs/charts), and submitted no later than February 28, 2020. **The winner shall receive the award, free admission to all aspects of the conference, and a generous $500 scholarship!**
+Submissions must be in PDF format, no longer than 10 pages (including any pictures/graphs/charts), and submitted no later than February 28, 2021. **The winner shall receive the award, free admission to all aspects of the conference, and a generous $500 scholarship!**
 
