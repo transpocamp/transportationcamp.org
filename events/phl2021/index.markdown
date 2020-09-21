@@ -25,7 +25,7 @@ Given changing guidance and uncertainty in the future, we are exploring countles
 
 Rest assured, **as demonstrated in 2020, the safety of all attendees remains of the utmost priority for the organizing committee, and we've proven that a virtual conference can be viable and successful**. Regardless of in-person options offered, we are indeed planning to offer a fully-virtual experience for those who prefer.
 
-**Our current vision calls for a fully-virtual conference in our typical timeframe of mid-March through April and early May, followed by an outdoor exploration and in-person happy hour as weather improves and restrictions lift (in late spring or early summer).**
+**Our current vision calls for a fully-virtual conference in our typical timeframe of mid-March through April and early May, followed by an outdoor exploration and in-person happy hour as weather improves and restrictions lift (timeframe TBD).**
 
 We will have more details to share as the Spring approaches. Due to possible schedule shifts to accommodate changing COVID restrictions, we are refraining from publishing tentative dates at this time.
 
