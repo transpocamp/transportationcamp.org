@@ -11,9 +11,12 @@ hide-title: true
 ---
 
 While traditionally an in-person event, this year we have decided to bring <span style="color: #FF6600;"><span style="font-size: larger">**TransportationCamp NYC 2020**</span> online</span> on **Saturday, October 17th!** This will be a **free event** this year and come be a part of the conversation on all topics!  
+
 ___
+
 <span style="font-size: larger"><span style="color: #FF6600;">**Registration is open!**</span> **Click [here](https://whova.com/portal/registration/trans7_202010/) to RSVP.**</span>  
-**Once registered, you will be able to access the event via both the Whova [web portal](https://whova.com/portal/webapp/trans7_202010/) (it only works on laptop and desktop browsers) and its [mobile app](https://whova.com/portal/trans7_202010/?source=download_email). Please sign in using your registration email. **  
+**Once registered, you will be able to access the event via both the Whova [web portal](https://whova.com/portal/webapp/trans7_202010/) (it only works on laptop and desktop browsers) and its [mobile app](https://whova.com/portal/trans7_202010/?source=download_email). Please sign in using your registration email.**  
+
 ___
 
 TransportationCamp is an [unconference](https://en.wikipedia.org/wiki/Unconference) - every session is planned, proposed, and led by attendees like you. It&#39;s the perfect opportunity to share your transportation passion with a diverse gathering of fellow enthusiasts. TransportationCamp welcomes all attendees, whether you&#39;re a planner, software developer, engineer, student, transportation professional, community member, policy maker, or just excited about mobility!
