@@ -353,6 +353,7 @@
 - title: NYC 2020 (Virtual)
   date: 2020-10-17 23:59:59
   url: /events/nyc-2020
+  register_url: https://whova.com/portal/registration/trans7_202010/
   background_img: nyc-2020.jpg
   
 - title: Pittsburgh 2020 (Virtual)
