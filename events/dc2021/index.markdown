@@ -9,3 +9,5 @@ published: true
 ---
 
 TransportationCamp DC 2021 will be held virtually on Saturday, January 16th! Stay tuned for registration information by following [TransportationCampDC](https://twitter.com/transpocampDC) on Twitter and/or subscribing to Transportation for America's to [bi-weekly newsletter](http://action.smartgrowthamerica.org/p/salsa/web/common/public/signup?signup_page_KEY=8375).
+
+For more information about TransportationCamp DC 2021, contact jenna.fortunati@t4america.org.
