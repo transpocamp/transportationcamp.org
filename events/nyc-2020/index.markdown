@@ -27,16 +27,16 @@ TransportationCamp is an [unconference](https://en.wikipedia.org/wiki/Unconferen
 
 <span style="color: #FF0000; font-size: larger;">**New!**</span> This year, TransportationCamp NYC will award one **undergraduate student** and one **graduate student** a $500 <span style="color: #FF6600;">**scholarship**</span> sponsored by our Gold sponsors, Sam Schwartz Engineering and VHB. 
 
-**Click [here](https://forms.gle/JXfei4tRyckUTMZS7) to apply.** The deadline for all applications is **October 10th, 2020.**
+**Click [here](https://forms.gle/JXfei4tRyckUTMZS7) to apply.** The deadline for all applications is **October 12th, 2020.**
 
-<h3 style="color: #FF6600;">2020 Tentative Schedule</h3>
+<h3 style="color: #FF6600;">2020 Schedule</h3>
 <span style="color: #808080;">**Eastern Daylight Time (EDT) in US**</span>
 
 **10:00AM EDT** (Optional) Pre-Camp Networking: Gather Town  
 **10:30AM EDT** Welcome and Kick Off  
 **11:00AM EDT** Session 1  
 **12:00PM EDT** Session 2  
-**1:00PM EDT** Lunch & Gather Town Networking (Tentative Keynote Speaker Talk)  
+**1:00PM EDT** Lunch & Gather Town Networking (Keynote Speaker Talk)  
 **2:00PM EDT** Session 3  
 **3:00PM EDT** Session 4  
 **4:00PM EDT** Virtual Happy Hour: Gather Town
