@@ -18,7 +18,8 @@ TransportationCamp is an [unconference](https://en.wikipedia.org/wiki/Unconferen
 - **Check out our [guidebook](https://d1keuthy5s86c8.cloudfront.net/static/ems/upload/files/TransportationCamp2020_Guidebook.pdf) for event instructions.** 
 - **Check out the [instructions](https://docs.google.com/document/d/e/2PACX-1vRNVlWp_YA_W0j2f2hqpipwL8fDpEkrTVl2DEc5KMz4zD51tsxgzQ6fGDqCBwCEv-SCVDuUlMsCfLjX/pub) for Gather Town.**
 
-<span style="font-size: larger; color: #FF6600;">**Use our all-in-one [web portal](https://whova.com/portal/webapp/trans7_202010/) for this virtual event (RSVP needed to access the portal)! **</span>  
+<span style="font-size: larger; color: #FF6600;">**Use our all-in-one [web portal](https://whova.com/portal/webapp/trans7_202010/) for this virtual event (RSVP needed to access the portal)!**</span>
+
 **You will need to sign up a Whova account using your registration email. If you prefer to use the mobile app, download it [here](https://whova.com/portal/trans7_202010/?source=download_email).**
 
 <img src="whova.png" alt="Whova screenshot" />
