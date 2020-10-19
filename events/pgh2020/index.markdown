@@ -36,8 +36,9 @@ discussions to full-blown presentations.  It’s really up to you.
 * 12:00 PM – 12:50 PM — Lunch break and tentative plenary
 * 1:00 PM – 1:50 PM — Session 3
 * 2:00 PM – 2:50 PM — BONUS!!! Session 4
-* 3:00 PM – Closing remarks (earlier if not enough sessions for Round 4)
- 
+* 3:00 PM — Closing remarks (earlier if not enough sessions for Round 4)
+
+
 ### TCampPGH 2020 Host Committee:
 * Ashley Cox, evolveEA Architecture::Planning
 * Courtney Ehrlichman, Ehrlichman Group
