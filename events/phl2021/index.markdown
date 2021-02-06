@@ -27,22 +27,25 @@ Last year, we challenged the status quo by proving you can have a successful and
 
 ## <a name="registration"></a> Registration
 
-<div id="eventbrite-widget-container-140603768657"></div>
+<!-- Noscript content for added SEO -->
+<noscript><a href="https://tcphl21.eventbrite.com" rel="noopener noreferrer" target="_blank"></noscript>
+<!-- You can customize this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-140603768657" type="button">Buy Tickets</button>
+<noscript></a>Buy Tickets on Eventbrite</noscript>
+
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
 <script type="text/javascript">
     var exampleCallback = function() {
         console.log('Order complete!');
     };
 
     window.EBWidgets.createWidget({
-        // Required
         widgetType: 'checkout',
         eventId: '140603768657',
-        iframeContainerId: 'eventbrite-widget-container-140603768657',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-140603768657',
+        onOrderComplete: exampleCallback
     });
 </script>
 
