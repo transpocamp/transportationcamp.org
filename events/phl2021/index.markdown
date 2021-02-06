@@ -27,7 +27,25 @@ Last year, we challenged the status quo by proving you can have a successful and
 
 ## <a name="registration"></a> Registration
 
-<div style="width:100%; text-align:left;"><iframe src="https://eventbrite.com/tickets-external?eid=140603768657&ref=etckt" frameborder="0" height="400" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div id="eventbrite-widget-container-140603768657"></div>
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '140603768657',
+        iframeContainerId: 'eventbrite-widget-container-140603768657',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+
 
 
 ##  <a name="connect"></a> Stay Connected
