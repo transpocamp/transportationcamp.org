@@ -7,37 +7,33 @@ slug: "phl2021"
 title: TransportationCamp PHL 2021
 published: true
 ---
-<h1><center>The industry's first virtual conference is prepared for another great year in Spring 2021!</center></h1>
+<h1><center>The industry's first virtual conference is prepared for another great year on April 10, 2021!</center></h1>
+
+![Scenes from TransportationCamp PHL 2019](/events/phl2018/Scenes%20from%20TCPHL18.jpg)
 
 Whether you work in the industry or simply have an interest, we welcome you [in spirit] to our nation's birthplace at the center of the NEC for a day filled with ideas at the intersection of transportation, technology, and urbanism. As always, the participant-driven TransportationCamp conference series follows the "unconference" format, lending itself to a more pertinent, thought-provoking, and active event.
 
+This is not your normal conference. **And it's NOT some webinars on a Saturday.**
+
 Organized by passionate Philadelphians in conjunction with the Philadelphia chapters of Young Professionals in Transportation (YPT) and Women’s Transportation Seminar (WTS), and Drexel University’s Lindy Institute for Urban Innovation, we look forward to seeing you! [Connect with us](#connect)
 
-## *[<center> Learn more about the TCPHL Academic Innovation Award</center>](#scholarship)*
+## <a name="Logistics"></a> Logistics
 
-## TransportationCamp PHL 2021 Logistics
+Last year, we challenged the status quo by proving you can have a successful and engaging event from the safety and comfort of home, in spite of having to pivot a mere weeks before the event date. Based upon the current state of the pandemic, **we are planning to have another fully-virtual conference on April 10, 2021**.
 
-### *What's the plan for TransportationCamp PHL 2021?*
+**We are also planning the first-ever TCPHL Summer Gathering, an optional outdoor extension of the virtual conference** focused on urban exploration and an open-air happy hour as weather improves and restrictions lift. Details TBD.
 
-The team that famously pivoted to a virtual conference only weeks prior to a scheduled in-person event is evaluating all options for a safe and enjoyable conference in Spring 2021.
+## *[<center> Are you, or do you know, a student? Learn about the TCPHL Academic Innovation Award</center>](#scholarship).*
 
-Given changing guidance and uncertainty in the future, we are exploring countless possibilities to provide an experience that maximizes our desire to share knowledge and ideas while also enabling the ability to forge connections in-person where safe, possible, and practical.
+## <a name="registration"></a> Registration
 
-Rest assured, **as demonstrated in 2020, the safety of all attendees remains of the utmost priority for the organizing committee, and we've proven that a virtual conference can be viable and successful**. Regardless of in-person options offered, we are indeed planning to offer a fully-virtual experience for those who prefer.
-
-**Our current vision calls for a fully-virtual conference in our typical timeframe of mid-March through April and early May, followed by an outdoor exploration and in-person happy hour as weather improves and restrictions lift (timeframe TBD).**
-
-We will have more details to share as the Spring approaches. Due to possible schedule shifts to accommodate changing COVID restrictions, we are refraining from publishing tentative dates at this time.
-
-
-### *How do I find out about TransportationCamp PHL 2021?*
-
-We'll be releasing updates on social media and via email. As usual, our email subscribers will be given first dibs on registration, so don't forget to register below!
+<div style="width:100%; text-align:left;"><iframe src="https://eventbrite.com/tickets-external?eid=140603768657&ref=etckt" frameborder="0" height="400" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
 
 
 ##  <a name="connect"></a> Stay Connected
 
-Make sure you're up to date by following us on Twitter [@TranspoCampPHL](https://twitter.com/transpocampphl), liking us on [Facebook](http://facebook.com/TranspoCamp-PHL), joining our [LinkedIn group](https://www.linkedin.com/groups/8652914/) to meet fellow campers beforehand, and by subscribing to our MailChimp [email updates](http://eepurl.com/c8tKwH). And, keep the conversation going! Tag your tweets, instagram photos, and more with the official event hashtag: **#TCPHL21**.
+Make sure you're up to date by following us on Twitter [@TranspoCampPHL](https://twitter.com/TranspoCampPHL), liking us on [Facebook](http://facebook.com/TranspoCamp-PHL), joining our [LinkedIn group](https://www.linkedin.com/groups/8652914/), and by subscribing to our MailChimp [email updates](http://eepurl.com/c8tKwH). And, keep the conversation going! Tag your tweets, instagram photos, and more with the official event hashtag: **#TCPHL21**.
+
 
 Want to make sure you don't miss a thing? We encourage you to subscribe to our mailing list:
 
@@ -79,7 +75,57 @@ Want to make sure you don't miss a thing? We encourage you to subscribe to our m
 <!--End mc_embed_signup-->
 
 
-### <a name="scholarship"></a> The TCPHL Academic Innovation Award
+> ***NEW for 2021**: Registrants will also be invited to join the TransportationCamp PHL slack channel, a conference companion and year-round hub for continuing conversations.*
+
+
+## <a name="schedule"></a> Schedule
+
+*A DRAFT schedule is below, but is highly subject to change. All times will be Eastern Time.*
+
+| Time | Event |
+|------|------|
+| 9:30am-10:00am | Optional "coffee" and Networking |
+| 10:10-10:40am | Welcome, Introductions, Session Proposals |
+| 10:45am-11:30am | Session 1
+| 11:40am-12:25pm | Session 2
+| 12:30pm-1:30pm | "Birds of a Feather" Lunch
+| 1:35pm-2:20pm | Session 3
+| 2:30pm-3:15pm | Session 4
+| 3:15pm | Afternoon Hangout
+
+## Sponsorship
+
+TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors. We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. For sponsorship inquiries, please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com).
+
+Want to learn more about the conference? Check out the ["First Time at a TransportationCamp?"](#firsttime) section below.
+
+## <a name="firsttime"></a> First Time at a TransportationCamp?
+
+Despite being virtual, this event will still follow the standard guidelines and practices from a normal TransportationCamp event. Here are some details.
+
+- **How To TransportationCamp**: The folks at MobilityLab have taken the time to put together a [TransportationCamp 101 guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/) that explains all aspects of the event.
+- **Participation Encouraged**: Sessions are formed as the day goes on, so be sure to come with topics for discussion. If you have an idea, feel free to share and add your thoughts.
+- **Rule of Two <s>Feet</s> Clicks:** Never hesitate to leave a session if you suddenly find it's not for you, or if there's another session that you want to check out, too!
+- **Dress Code**: TransportationCamp has always been a very casual event, especially via the virtual format. We've always said, your best attire is your coolest transportation tee shirt!
+
+Want a better sense of the vibe? Check out resources from past incarnations:
+
+- 2020 (Inaugural "TCVirtual")
+	- [2020 Session Board](https://bit.ly/tcphl20board)
+- 2019
+	- [2019 Photo Gallery](https://flic.kr/s/aHsmhQCQbL)
+	- [2019 Session Board](https://tinyurl.com/tcphl19board)
+- 2018 (Inaugural TCPHL)
+	- [2018 Photos](https://flic.kr/s/aHsmhQCQbL)
+	- [2018 Session Board](https://docs.google.com/spreadsheets/d/e/2PACX-1vSmc891MrEUuYGkoGbz-4xh_KUo5YVFy4M_eoyKvjtv0GVM2dgBzDDEioXKhmHD_PGFz1jvsELOD9E8/pubhtml?gid=0&single=true)
+
+
+## Organizing Committee
+
+TransportationCamp PHL is organized thanks to a collaborative effort between YPT, WTS, and Drexel's Lindy Institute. Passionate about transportation and bringing the conference to Philadelphia, the conference's co-chairs span a diverse array of subsets in the industry with professional experience in both public and private transportation operations, transportation planning, and logistics consulting. For additional breadth, the conference has a larger working group whose collective knowledge and expertise spans all facets of the industry and includes all levels of transportation involvement (ranging from career professionals to engaged hobbyists).
+
+
+## <a name="scholarship"></a> The TCPHL Academic Innovation Award
 
 Returning for a second year, TransportationCamp PHL is pleased to announce the **2021 TransportationCamp PHL Academic Innovation Award presented by David Klahr Consulting**! This award, the first of its kind ever offered by a TransportationCamp when introduced in 2020, challenges students to prepare a response to the following prompt:
 
