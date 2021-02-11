@@ -19,7 +19,7 @@ Organized by passionate Philadelphians in conjunction with the Philadelphia chap
 
 ## <a name="Logistics"></a> Logistics
 
-Last year, we challenged the status quo by proving you can have a successful and engaging event from the safety and comfort of home, in spite of having to pivot a mere weeks before the event date. Based upon the current state of the pandemic, **we are planning to have another fully-virtual conference on April 10, 2021**.
+Last year, we challenged the status quo by proving you can have a successful and engaging event from the safety and comfort of home, in spite of having to pivot a mere few weeks before the event date. Based upon the current state of the pandemic, **we are planning to have another fully-virtual conference on April 10, 2021**.
 
 **We are also planning the first-ever TCPHL Summer Gathering, an optional outdoor extension of the virtual conference** focused on urban exploration and an open-air happy hour as weather improves and restrictions lift. Details TBD.
 
@@ -154,5 +154,5 @@ Returning for a second year, TransportationCamp PHL is pleased to announce the *
 > 
 > What can the Philadelphia region do right now with existing real-world systems and resources to make this work better?  What actionable changes would you implement in this region, and why? How would these changes promote integrated mobility solutions?
 
-Submissions must be in PDF format, no longer than 10 pages (including any pictures/graphs/charts), and submitted no later than February 28, 2021. **The winner shall receive the award, free admission to all aspects of the conference, and a generous $500 scholarship!**
+Submissions must be in PDF format, no longer than 10 pages (including any pictures/graphs/charts), and submitted no later than February 28, 2021 via [this form](https://docs.google.com/forms/d/e/1FAIpQLSch14g_2RnTaq1cdmHLVbTJcFA3ozxlnGeQwKfm_ec-OPLT2w/viewform). **The winner shall receive the award, free admission to all aspects of the conference, and a generous $500 scholarship!**
 
