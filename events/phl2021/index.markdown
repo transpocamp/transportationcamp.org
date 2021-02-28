@@ -23,7 +23,7 @@ Last year, we challenged the status quo by proving you can have a successful and
 
 **We are also planning the first-ever TCPHL Summer Gathering, an optional outdoor extension of the virtual conference** focused on urban exploration and an open-air happy hour as weather improves and restrictions lift. Details TBD.
 
-## *[<center> Are you, or do you know, a student? Learn about the TCPHL Academic Innovation Award</center>](#scholarship).*
+## *[<center> Are you, or do you know, a student? Learn about the TCPHL Academic Innovation Award</center>](#scholarship) (DEADLINE EXTENDED TO MARCH 15 DUE TO RECENT STORMS).*
 
 ## <a name="registration"></a> Registration
 
@@ -101,7 +101,7 @@ Want to make sure you don't miss a thing? We encourage you to subscribe to our m
 
 ## <a name="schedule"></a> Schedule
 
-*A DRAFT schedule is below, but is highly subject to change. All times will be Eastern Time.*
+*A tentative schedule is below, but subject to change. All times will be Eastern Time.*
 
 | Time | Event |
 |------|------|
@@ -114,9 +114,9 @@ Want to make sure you don't miss a thing? We encourage you to subscribe to our m
 | 2:30pm-3:15pm | Session 4
 | 3:15pm | Afternoon Hangout
 
-## Sponsorship
+## Become a Sponsor!
 
-TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors. We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. For sponsorship inquiries, please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com).
+TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors. We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. [Learn more about our sponsorship packages](http://transportationcamp.org/events/phl2021/assets/uploads/resources/TCPHL_SponsorshipFlyer_2021_FINAL%20WEB.pdf) and please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com) for sponsorship inquiries.
 
 Want to learn more about the conference? Check out the ["First Time at a TransportationCamp?"](#firsttime) section below.
 
@@ -154,5 +154,7 @@ Returning for a second year, TransportationCamp PHL is pleased to announce the *
 > 
 > What can the Philadelphia region do right now with existing real-world systems and resources to make this work better?  What actionable changes would you implement in this region, and why? How would these changes promote integrated mobility solutions?
 
-Submissions must be in PDF format, no longer than 10 pages (including any pictures/graphs/charts), and submitted no later than February 28, 2021 via [this form](https://docs.google.com/forms/d/e/1FAIpQLSch14g_2RnTaq1cdmHLVbTJcFA3ozxlnGeQwKfm_ec-OPLT2w/viewform). **The winner shall receive the award, free admission to all aspects of the conference, and a generous $500 scholarship!**
+Write a 2-4 page double-spaced essay or provide a similar written work (e.g. slide deck) in PDF format. If you are using visuals, pictures, graphs, charts, a deck, etc or attaching any appendices, please ensure your entire submission inclusive of all materials does not exceed 10 slides/pages.
+
+Due to the impact of recent storms, the deadline has been extended to **March 15, 2021.** Submit your entry via [this form](https://docs.google.com/forms/d/e/1FAIpQLSch14g_2RnTaq1cdmHLVbTJcFA3ozxlnGeQwKfm_ec-OPLT2w/viewform); you will be prompted to log in to a google account if you are not already. **The winner shall receive the award, free admission to a future in-person conference, and a generous $500 scholarship!**
 
