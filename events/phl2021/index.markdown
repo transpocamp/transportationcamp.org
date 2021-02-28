@@ -23,7 +23,7 @@ Last year, we challenged the status quo by proving you can have a successful and
 
 **We are also planning the first-ever TCPHL Summer Gathering, an optional outdoor extension of the virtual conference** focused on urban exploration and an open-air happy hour as weather improves and restrictions lift. Details TBD.
 
-## *[<center> Are you, or do you know, a student? Learn about the TCPHL Academic Innovation Award</center>](#scholarship) (DEADLINE EXTENDED TO MARCH 15 DUE TO RECENT STORMS).*
+## *[<center> Are you, or do you know, a student? Learn about the TCPHL Academic Innovation Award (DEADLINE EXTENDED TO MARCH 15 DUE TO RECENT STORMS)</center>](#scholarship)*
 
 ## <a name="registration"></a> Registration
 
@@ -116,7 +116,7 @@ Want to make sure you don't miss a thing? We encourage you to subscribe to our m
 
 ## Become a Sponsor!
 
-TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors. We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. [Learn more about our sponsorship packages](http://transportationcamp.org/events/phl2021/assets/uploads/resources/TCPHL_SponsorshipFlyer_2021_FINAL%20WEB.pdf) and please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com) for sponsorship inquiries.
+TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors. We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. [Learn more about our sponsorship packages](http://transportationcamp.org/events/phl2021/TCPHL_SponsorshipFlyer_2021_FINAL%20WEB.pdf) and please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com) for sponsorship inquiries.
 
 Want to learn more about the conference? Check out the ["First Time at a TransportationCamp?"](#firsttime) section below.
 
