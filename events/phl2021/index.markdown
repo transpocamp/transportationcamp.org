@@ -154,7 +154,7 @@ Returning for a second year, TransportationCamp PHL is pleased to announce the *
 > 
 > What can the Philadelphia region do right now with existing real-world systems and resources to make this work better?  What actionable changes would you implement in this region, and why? How would these changes promote integrated mobility solutions?
 
-Write a 2-4 page double-spaced essay or provide a similar written work (e.g. slide deck) in PDF format. If you are using visuals, pictures, graphs, charts, a deck, etc or attaching any appendices, please ensure your entire submission inclusive of all materials does not exceed 10 slides/pages.
+Write a 2-4 page double-spaced essay or provide a similar written work (e.g. slide deck) in PDF format. Please ensure your entire submission inclusive of all materials does not exceed 10 slides/pages.
 
 Due to the impact of recent storms, the deadline has been extended to **March 15, 2021.** Submit your entry via [this form](https://docs.google.com/forms/d/e/1FAIpQLSch14g_2RnTaq1cdmHLVbTJcFA3ozxlnGeQwKfm_ec-OPLT2w/viewform); you will be prompted to log in to a google account if you are not already. **The winner shall receive the award, free admission to a future in-person conference, and a generous $500 scholarship!**
 
