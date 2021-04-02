@@ -23,7 +23,7 @@ Last year, we challenged the status quo by proving you can have a successful and
 
 **We are also planning the first-ever TCPHL Summer Gathering, an optional outdoor extension of the virtual conference** focused on urban exploration and an open-air happy hour as weather improves and restrictions lift. Details TBD.
 
-## *[<center> Are you, or do you know, a student? Learn about the TCPHL Academic Innovation Award (DEADLINE EXTENDED TO MARCH 15 DUE TO RECENT STORMS)</center>](#scholarship)*
+<!------## *[<center> Are you, or do you know, a student? Learn about the TCPHL Academic Innovation Award (DEADLINE EXTENDED TO MARCH 15 DUE TO RECENT STORMS)</center>](#scholarship)*---->
 
 ## <a name="registration"></a> Registration
 
@@ -148,13 +148,15 @@ TransportationCamp PHL is organized thanks to a collaborative effort between YPT
 
 ## <a name="scholarship"></a> The TCPHL Academic Innovation Award
 
-Returning for a second year, TransportationCamp PHL is pleased to announce the **2021 TransportationCamp PHL Academic Innovation Award presented by David Klahr Consulting**! This award, the first of its kind ever offered by a TransportationCamp when introduced in 2020, challenges students to prepare a response to the following prompt:
+Submissions for the 2021 TransportationCamp PHL Academic Innovation Award presented by David Klahr Consulting are now closed. We look forward to presenting the award at TransportationCamp PHL 2021!
+
+#### *About the Award*
+
+Returning for a second year, TransportationCamp PHL was pleased to announce the **2021 TransportationCamp PHL Academic Innovation Award presented by David Klahr Consulting**! This award, the first of its kind ever offered by a TransportationCamp when introduced in 2020, challenged students to prepare a response to the following prompt:
 
 > Transportation networks are becoming increasingly integrated, with multimodal journeys representing a much larger portion of individual mode choice. Some modes provide robust interoperability in payment systems, such as E-ZPass which can be used by an automobile anywhere in the Northeast. Others, such as transit systems, are typically restricted by mode and operator (e.g. SEPTA Key), limiting integration with counterpart networks.
 > 
 > What can the Philadelphia region do right now with existing real-world systems and resources to make this work better?  What actionable changes would you implement in this region, and why? How would these changes promote integrated mobility solutions?
 
-Write a 2-4 page double-spaced essay or provide a similar written work (e.g. slide deck) in PDF format. Please ensure your entire submission inclusive of all materials does not exceed 10 slides/pages.
-
-Due to the impact of recent storms, the deadline has been extended to **March 15, 2021.** Submit your entry via [this form](https://docs.google.com/forms/d/e/1FAIpQLSch14g_2RnTaq1cdmHLVbTJcFA3ozxlnGeQwKfm_ec-OPLT2w/viewform); you will be prompted to log in to a google account if you are not already. **The winner shall receive the award, free admission to a future in-person conference, and a generous $500 scholarship!**
+**The winner shall receive the award, free admission to a future in-person conference, and a generous $500 scholarship!**
 
