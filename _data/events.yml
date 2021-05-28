@@ -373,3 +373,10 @@
   url: /events/phl2021
   register_url: https://tcphl21.eventbrite.com/
   background_img: philly-21-aem7.jpg
+  
+- title: PHL 2021 Summer Gathering (In-Person!)
+  date: 2021-07-24 23:59:59
+  url: /events/phl2021-summer
+  background_img: philly-21-summer-porch.jpg
+
+
