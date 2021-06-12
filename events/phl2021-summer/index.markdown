@@ -11,12 +11,48 @@ published: true
 
 ![Scenes from TransportationCamp PHL 2019](/events/phl2018/Scenes%20from%20TCPHL18.jpg)
 
-
 As discussed prior to TransportationCamp PHL 2021, **the TCPHL21 team is pleased to be hosting an optional extension of the conference — the TCPHL 2021 Summer Gathering — on Saturday, July 24, 2021**. The gathering will be an opportunity for TransportationCamp participants to interact with one another in an in-person setting, accounting for the improved global pandemic conditions.
 
-Additional details will be shared in the coming weeks, but you can expect a day of fun urban exploration with fellow TransportationCamp participants, concluding with a happy hour in the afternoon.
+Our goal is expect a day of fun urban exploration with fellow TransportationCamp participants, concluding with a happy hour in the afternoon. The event is open to recent and former attendees of TransportationCamp PHL, members of YPT chapters from Philadelphia and beyond, and their friends and family.
 
-Philadelphia makes for a great day trip from New York, Washington, Baltimore, and more — and Amtrak tickets are starting at $16 from all of those locations!
+Are you a local or looking to make a long weekend out of it? Our event is designed to help you make the most out of your time in the Philadelphia region.
+
+We're ecstatic to be seeing you in-person in July. Let the summer fun commence!
+
+
+## <a name="registration"></a> Registration
+
+<div id="eventbrite-widget-container-159229380363"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '140603768657',
+        iframeContainerId: 'eventbrite-widget-container-140603768657',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+
+
+## Components of the Day
+
+### Getting Here for 11:30am Kickoff
+
+The day begins at **30th Street Station** in Philadelphia, the city's beautiful primary rail terminal with connecting service throughout the region and beyond.
+
+Service is available on all SEPTA Regional Rail lines, all Trolley lines, the Market-Frankford line, countless bus routes, Amtrak Acela/Regional/Keystone/Long-Distance service, Megabus, NJ Transit's Atlantic City Line, and more.
+
+As usual, Philadelphia makes for a great day trip from New York, Washington, Baltimore, and more — and Amtrak tickets are starting at $16 from all of those locations!
 
 > *Suggested Amtrak Trains on 7/24:*
 > 
@@ -25,10 +61,43 @@ Philadelphia makes for a great day trip from New York, Washington, Baltimore, an
 > - Keystone 663 from New York, arriving 10:35am
 > - Acela 2249 from New York & Boston, arriving 11:15am
 
-Are you a local or looking to make a long weekend out of it? We'll be sharing some additional event suggestions for making the most of the region.
 
-We're ecstatic to be seeing you in-person in July. Let the summer fun commence!
+### TransportationCamp Philadelphia Exploration Challenge [11:30am-3:30pm]
 
+At 11:30am, we will kickoff the inaugural TransportationCamp Philadelphia Exploration Challenge! This unique choose-your-own-adventure format will encourage attendees to meet new people in small groups of around 5 (+/- 2), explore the city's transportation highlights, and see some of Philadelphia's best attractions.
+
+Groups will form at 11:30am, so if you're coming by yourself or a couple, you'll be able to meet other attendees before the challenge commences and set out on your exploration with others. Feel free to invite your significant other, family, and friends.
+
+Participants will be provided a map of key locations in the Philadelphia region — both transit-related and not — and an associated "point value," earned by posting a photo of the team at their location to a designated channel on the TransportationCamp PHL Slack. **The team that earns the most points will win a prize!**
+
+Examples:
+
+| Highlight | Points |
+|-----|:-----:|
+| Riding every SEPTA mode | TBD |
+| Using a IndeGo bike | TBD |
+| Getting lunch at Reading Terminal Market | TBD |
+| Visiting the 69th Street Terminal | TBD |
+| Visiting the Ben Franklin Bridge walkway | TBD |
+
+**Think of it like a scavenger hunt where YOU retain control your destinations, route, and itinerary.** Those who want to spend most of their time talking with others are encouraged to do so while visiting the transit highlights on the map, whereas those new to Philadelphia are also encouraged to explore all that the region has to offer. Whatever you're looking to do, our map is sure to give you inspiration to make the most of the challenge.
+
+### Afternoon Gathering & Happy Hour [4-5:30pm]
+
+The challenge will conclude at 3:30pm, followed by the **outdoor, open-air Afternoon Gathering at [Cira Green](https://ciragreen.com/about/)**, a unique elevated urban park located one block from 30th Street Station. Snacks and beverages are available at [Sunset Social](https://sunsetsocialphl.com/) in the park.
+
+This will be a time to discuss the things you saw, transportation developments in to Philadelphia and beyond, and to connect with likeminded individuals.
+
+### [OPTIONAL] Join us for the 6:05pm Phillies Game (vs Atlanta Braves)
+
+While Cira Green's location makes it convenient to return home, be it within the Delaware Valley or outside of the region, those interested are invited to conclude the day in Philadelphia tradition: at a Phillies game.
+
+***If interested, please indicate this on your registration form and do NOT book your own Phillies tickets at this time — we will be looking to purchase group tickets depending on demand.***
+
+
+## Safety Precautions
+
+This event attempts to minimize total indoor gathering size by encouraging the formation of small groups during the exploration component, and using an open-air venue for the Afternoon Gathering & Happy Hour. All participants will be expected to comply with local guidelines regarding COVID-19 safety measures. As a reminder, federal law requires the wearing of face coverings on all transit modes regardless of vaccination status. All attendees are participating at their own risk.
 
 
 ##  <a name="connect"></a> Stay Connected
