@@ -62,7 +62,7 @@ As usual, Philadelphia makes for a great day trip from New York, Washington, Bal
 > - Acela 2249 from New York & Boston, arriving 11:15am
 
 
-### TransportationCamp Philadelphia Exploration Challenge [11:30am-3:30pm]
+### TransportationCamp PHL Exploration Challenge [11:30am-3:30pm]
 
 At 11:30am, we will kickoff the inaugural TransportationCamp Philadelphia Exploration Challenge! This unique choose-your-own-adventure format will encourage attendees to meet new people in small groups of around 5 (+/- 2), explore the city's transportation highlights, and see some of Philadelphia's best attractions.
 
