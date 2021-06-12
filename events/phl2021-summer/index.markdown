@@ -34,8 +34,8 @@ We're ecstatic to be seeing you in-person in July. Let the summer fun commence!
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '140603768657',
-        iframeContainerId: 'eventbrite-widget-container-140603768657',
+        eventId: '159229380363',
+        iframeContainerId: 'eventbrite-widget-container-159229380363',
 
         // Optional
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
