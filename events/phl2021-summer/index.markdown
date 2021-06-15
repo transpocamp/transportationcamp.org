@@ -19,6 +19,8 @@ Are you a local or looking to make a long weekend out of it? Our event is design
 
 We're ecstatic to be seeing you in-person in July. Let the summer fun commence!
 
+*Tickets are complimentary; there is no charge to participate, although food and optional Phillies tickets are not included.*
+
 
 ## <a name="registration"></a> Registration
 
