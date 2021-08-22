@@ -380,3 +380,8 @@
   register_url: https://tcphl21summer.eventbrite.com/?aff=transportationcampdotorg
   background_img: philly-21-summer-porch.jpg
 
+- title: Pittsburgh 2021
+  date: 2020-11-06 23:59:59
+  url: /events/pgh2021
+  register_url: http://tcamppgh.eventbrite.com/
+  background_img: pittsburgh-bus-bike-bridge.jpg
