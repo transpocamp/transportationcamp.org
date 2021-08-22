@@ -16,7 +16,7 @@ November 6 is the place to do it.
 We're back for 2021 and (for now*) in person! Won't you join us for the transportation enthusiast's event of the year?
 
 ### Where do I sign up?
-Register and learn more at [tcamppgh2020.eventbrite.com](https://tcamppgh2020.eventbrite.com).
+Register and learn more at [tcamppgh.eventbrite.com](https://tcamppgh.eventbrite.com).
 
 ### What is TransportationCamp Anyway?
 TransportationCamp is an unconference bringing together transportation professionals, technologists, and others
