@@ -10,12 +10,12 @@ logo-alt: "TransportationCamp NYC Virtual 2021: October 16"
 hide-title: true
 ---
 
-<img src="room.jpg" alt="Auditorium" width=624 height=416 />
+<img src="room.jpg" alt="Auditorium" />
 
 TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconference)** - every session is **planned, proposed, and led by attendees like you**. It&#39;s the perfect opportunity to share your transportation passion with a diverse gathering of fellow enthusiasts. TransportationCamp welcomes all attendees, whether you&#39;re a planner, software developer, engineer, student, transportation professional, community member, policy maker, or just excited about mobility!
 
 <h3 style="color: #FF6600;">Save the Date</h3>
-Building on the success of our first virtual event, for this year’s camp we are continuing **the virtual unconference sessions on** <span style="font-size: larger">**TransportationCamp NYC 2020**</span> while also bringing back **special outdoor pre-camp events** for participants to reunite after a year apart and celebrate the seventh consecutive year of Camp.
+Building on the success of our first virtual event, for this year’s camp we are continuing **the virtual unconference sessions on** <span style="font-size: larger">**Saturday, October 16th**</span> while also bringing back **special outdoor pre-camp events** for participants to reunite after a year apart and celebrate the seventh consecutive year of Camp.
 
 <span style="font-size: larger; color: #FF6600;"><img src="trees.png" alt="Trees" width=33 height=33  style="float: left;margin-right:10px;" />**Outdoor Pre-event Gathering\***</span>
 - **Date: Thursday Oct. 14th, 2021, 6:00 pm - 8:00 pm**
@@ -30,10 +30,10 @@ Building on the success of our first virtual event, for this year’s camp we ar
 - **Location: Outdoor picnic space, 55 Water Street, Elevated Acre, New York, NY 10041** 
 
 <h3 style="color: #FF6600;"><img src="book.png" alt="Book" width=49 height=49  style="float: left;margin-right:10px;" />Scholarship Application is Open</h3>
-<div>
-<img src="pencil.gif" alt="Pencil" width=53 height=53  style="float: left;margin-right:10px;" />
-**For the second consecutive year, TransportationCamp NYC will award one undergraduate student and one graduate student a $500 scholarship sponsored by our Gold sponsors, C2SSMART and VHB. <span style="font-size: larger">[Apply now](https://forms.gle/Nz7PFNMprLP5dbZK6).</span>**
-</div>
+<div style="display: flex;clear: left;margin-bottom: 1.2em;">
+<img src="pencil.gif" alt="Pencil" width=53 height=53  style="margin-right:10px;" />
+<b>For the second consecutive year, TransportationCamp NYC will award one undergraduate student and one graduate student a $500 scholarship sponsored by our Gold sponsors, C2SSMART and VHB. <span style="font-size: larger"><a href="https://forms.gle/Nz7PFNMprLP5dbZK6">Apply now</a>.</span>
+</p>
 
 <h3>2021 Main Event Tentative Schedule</h3>
 <span style="color: #808080;">**Eastern Daylight Time (EDT) in US**</span>
