@@ -32,8 +32,8 @@ Building on the success of our first virtual event, for this year’s camp we ar
 <h3 style="color: #FF6600;"><img src="book.png" alt="Book" width=49 height=49  style="float: left;margin-right:10px;" />Scholarship Application is Open</h3>
 <div style="display: flex;clear: left;margin-bottom: 1.2em;">
 <img src="pencil.gif" alt="Pencil" width=53 height=53  style="margin-right:10px;" />
-<b>For the second consecutive year, TransportationCamp NYC will award one undergraduate student and one graduate student a $500 scholarship sponsored by our Gold sponsors, C2SSMART and VHB. <span style="font-size: larger"><a href="https://forms.gle/Nz7PFNMprLP5dbZK6">Apply now</a>.</span>
-</p>
+<b>For the second consecutive year, TransportationCamp NYC will award one undergraduate student and one graduate student a $500 scholarship sponsored by our Gold sponsors, C2SSMART and VHB. <span style="font-size: larger"><a href="https://forms.gle/Nz7PFNMprLP5dbZK6">Apply now</a>.</span></b>
+</div>
 
 <h3>2021 Main Event Tentative Schedule</h3>
 <span style="color: #808080;">**Eastern Daylight Time (EDT) in US**</span>
