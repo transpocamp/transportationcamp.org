@@ -385,3 +385,8 @@
   url: /events/pgh2021
   register_url: http://tcamppgh.eventbrite.com/
   background_img: pittsburgh-bus-bike-bridge.jpg
+  
+- title: NYC 2021 (Hybrid)
+  date: 2021-10-16 23:59:59
+  url: /events/nyc-2021
+  background_img: nyc-2021.png
