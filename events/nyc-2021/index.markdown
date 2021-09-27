@@ -14,10 +14,10 @@ hide-title: true
 
 TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconference)** - every session is **planned, proposed, and led by attendees like you**. It&#39;s the perfect opportunity to share your transportation passion with a diverse gathering of fellow enthusiasts. TransportationCamp welcomes all attendees, whether you&#39;re a planner, software developer, engineer, student, transportation professional, community member, policy maker, or just excited about mobility!
 
-<h3 style="color: #FF6600;"><a href="https://www.eventbrite.com/e/transportationcamp-nyc-2021-hybrid-tickets-177592523017" style="text-decoration: none">Registration</a> is OPEN</h3>
+<h3 style="color: #FF6600;"><a href="https://www.eventbrite.com/e/transportationcamp-nyc-2021-hybrid-tickets-177592523017" style="color: inherit">Registration</a> is OPEN</h3>
 Building on the success of our first virtual event, for this year’s camp we are continuing **the virtual unconference sessions on** <span style="font-size: larger">**Saturday, October 16th**</span> while also bringing back **special outdoor pre-camp events** for participants to reunite after a year apart and celebrate the seventh consecutive year of Camp.
 
-<span style="font-size: larger; color: #FF6600;"><img src="trees.png" alt="Trees" width=33 height=33  style="float: left;margin-right:10px;" />**Outdoor Pre-event Gathering\***</span>
+<span style="font-size: larger; color: #FF6600;"><img src="trees.png" alt="Trees" width=33 height=33  style="float: left;margin-right:10px;" />**Outdoor Pre-event Gathering**</span>
 - **Date: Thursday Oct. 14th, 2021, 6:00 pm - 8:00 pm**
 - **Location: Urban Tech Hub, 335 Madison Avenue New York, NY 10017** 
 
