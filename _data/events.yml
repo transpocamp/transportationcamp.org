@@ -373,13 +373,19 @@
   url: /events/phl2021
   register_url: https://tcphl21.eventbrite.com/
   background_img: philly-21-aem7.jpg
-  
+
 - title: PHL 2021 Summer Gathering (In-Person!)
   date: 2021-07-24 23:59:59
   url: /events/phl2021-summer
   register_url: https://tcphl21summer.eventbrite.com/?aff=transportationcampdotorg
   background_img: philly-21-summer-porch.jpg
-  
+
+- title: Baltimore 2021
+  date: 2021-10-02 23:59:59
+  url: /events/baltimore2021
+  register_url: https://www.eventbrite.com/e/transportation-camp-baltimore-2021-tickets-169331419835
+  background_img: baltimore-harbor.jpg
+
 - title: NYC 2021 (Hybrid)
   date: 2021-10-16 23:59:59
   url: /events/nyc-2021

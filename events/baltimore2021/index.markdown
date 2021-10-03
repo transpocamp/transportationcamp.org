@@ -1,7 +1,7 @@
 ---
 author: Michael Schade
 comments: false
-date: 2019-05-18 12:00:00+00:00
+date: 2021-10-02 12:00:00+00:00
 layout: event
 slug: "baltimore2021"
 title: TransportationCamp Baltimore 2021
