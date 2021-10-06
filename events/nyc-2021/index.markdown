@@ -25,6 +25,8 @@ Building on the success of our first virtual event, for this year’s camp we ar
 
 We start our activities with an exciting pre-camp gathering at the **Urban Tech Hub on 335 Madison Avenue New York, NY 10017** for some drinks and networking. Participants will be provided with a token for our open bar and refreshments! It’s the perfect opportunity to catch up with old friends, make new ones, and to warm up for the exciting discussions happening during the main virtual event on Saturday.
 
+*\* TransportationCampNYC is closely monitoring all regional covid-19 developments including the virus&#39;s resurgence, and local/state/federal guidance and mandates and our host&#39;s covid-19 protocols. Based upon future guidance, mask/vaccine proof may be needed as required by the venue.*
+
 <span style="font-size: larger; color: #FF6600;"><img src="wifi.png" alt="WiFi icon" width=33 height=33  style="float: left;margin-right:10px;" />**Main Event (Virtual unconference sessions)**</span>
 - **Date: Saturday, Oct. 16th, 2021, 10:30 am - 4:00 pm**
 - **Location: Virtual** 
@@ -69,4 +71,7 @@ Make sure you&#39;re up to date by following us on Twitter [@TranspoCampNYC](htt
 - **Rule of Two Clicks:** Never hesitate to leave a session if you suddenly find it&#39;s not for you, or if there&#39;s another session that you want to check out, too!
 - <span style="color: red;">New!</span> **Scholarship Essay Opportunity!** Check [here](https://forms.gle/Nz7PFNMprLP5dbZK6) for more details.
 
-\* TransportationCampNYC is closely monitoring all regional covid-19 developments including the virus&#39;s resurgence, and local/state/federal guidance and mandates and our host&#39;s covid-19 protocols. Based upon future guidance, mask/vaccine proof may be needed as required by the venue.
+<h3>Our Sponsors</h3>
+TransportationCamp NYC 2021 is made possible by the support of our generous sponsors:
+
+<img src="sponsors.jpg" alt="Sponsor logos" />
