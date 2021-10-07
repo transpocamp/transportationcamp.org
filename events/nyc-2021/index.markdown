@@ -74,4 +74,4 @@ Make sure you&#39;re up to date by following us on Twitter [@TranspoCampNYC](htt
 <h3>Our Sponsors</h3>
 TransportationCamp NYC 2021 is made possible by the support of our generous sponsors:
 
-<img src="sponsors.jpg" alt="Sponsor logos" />
+<img src="sponsors.png" alt="Sponsor logos" />
