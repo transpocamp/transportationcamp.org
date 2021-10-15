@@ -14,7 +14,7 @@ hide-title: true
 
 TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconference)** - every session is **planned, proposed, and led by attendees like you**. It&#39;s the perfect opportunity to share your transportation passion with a diverse gathering of fellow enthusiasts. TransportationCamp welcomes all attendees, whether you&#39;re a planner, software developer, engineer, student, transportation professional, community member, policy maker, or just excited about mobility!
 
-<h3 style="color: #FF6600;"><a href="https://www.eventbrite.com/e/transportationcamp-nyc-2021-hybrid-tickets-177592523017" style="color: inherit">Registration</a> is OPEN</h3>
+<h3 style="color: #FF6600;"><a href="https://www.eventbrite.com/e/transportationcamp-nyc-2021-hybrid-tickets-177592523017" style="color: inherit">Registration</a> for TransportationCamp NYC 2021 is OPEN</h3>
 Building on the success of our first virtual event, for this year’s camp we are continuing **the virtual unconference sessions on** <span style="font-size: larger">**Saturday, October 16th**</span> while also bringing back **special outdoor pre-camp events** for participants to reunite after a year apart and celebrate the seventh consecutive year of Camp.
 
 <span style="font-size: larger; color: #FF6600;"><img src="trees.png" alt="Trees" width=33 height=33  style="float: left;margin-right:10px;" />**Outdoor Pre-event Gathering**</span>
@@ -38,12 +38,12 @@ This is when the magic happens! When transportation professionals, students, and
 Once you get your ticket, keep an eye out for our emails with further information and links for the exclusive TransportationCamp NYC 2021 Slack workspace and Zoom information for the sessions. You can find the main event schedule below.
 
 <h3>2021 Main Event Tentative Schedule</h3>
-<span style="color: #808080;">**Eastern Daylight Time (EDT) in US**</span>
+<span style="color: #808080;">**Eastern Time (ET) in US**</span>
 
 **10:30AM EDT** Welcome and Kick Off  
 **11:00AM EDT** Session 1  
 **12:00PM EDT** Session 2  
-**1:00PM EDT** Lunch & Keynote Talk by **Chris Pangilinan** - Head of Global Policy, Public Transportation, Uber  
+**1:00PM EDT** Lunch & Keynote Talk will feature **Chris Pangilinan**, Head of Global Policy, Public Transportation at Uber, and **Clarrissa Cabansagan**, Director of Programs at TransForm, moderated by C2SMART Managing Director **Shri Iyer**.
 **2:00PM EDT** Session 3  
 **3:00PM EDT** Session 4  
 
@@ -55,7 +55,7 @@ Once you get your ticket, keep an eye out for our emails with further informatio
 
 We will finish it off with some lazy, chilling time on Sunday at the outdoor picnic space on **55 Water Street, Elevated Acre, New York, NY 10041**. Let’s enjoy some good food, reflect on the thought-provoking discussions brought by another year of Camp and get excited about doing it all over again next year!
 
-<h3 style="color: #FF6600;"><img src="book.png" alt="Book" width=49 height=49  style="float: left;margin-right:10px;" />Scholarship Application is Open</h3>
+<h3 style="color: #FF6600;"><img src="book.png" alt="Book" width=49 height=49  style="float: left;margin-right:10px;" />Scholarship Application</h3>
 <div style="display: flex;clear: left;margin-bottom: 1.2em;">
 <img src="pencil.gif" alt="Pencil" width=53 height=53  style="margin-right:10px;" />
 <b>For the second consecutive year, TransportationCamp NYC will award one undergraduate student and one graduate student a $500 scholarship sponsored by our Gold sponsors, C2SSMART and VHB. <span style="font-size: larger"><a href="https://forms.gle/Nz7PFNMprLP5dbZK6">Apply now</a>.</span></b>
