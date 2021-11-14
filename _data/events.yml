@@ -392,8 +392,14 @@
   register_url: https://www.eventbrite.com/e/transportationcamp-nyc-2021-hybrid-tickets-177592523017
   background_img: nyc-2021.png
 
-- title: Pittsburgh 2021
+- title: Pittsburgh 2021 (Virtual)
   date: 2021-11-06 23:59:59
   url: /events/pgh2021
   register_url: http://tcamppgh.eventbrite.com/
   background_img: pittsburgh-bus-bike-bridge.jpg
+
+- title: DC 2022 (Virtual)
+  date: 2022-01-08 23:59:59
+  url: /events/dc2022
+  register_url: https://t4america.org/transportation-camp/
+  background_img: dc-2022.jpg
