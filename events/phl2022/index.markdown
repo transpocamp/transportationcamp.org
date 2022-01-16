@@ -185,4 +185,4 @@ Returning for a third year, TransportationCamp PHL is pleased to announce the **
 
 **The winner shall receive the award, free admission to a future in-person conference, and a generous $500 prize!**
 
-For more details, visit bit.ly/TCPHLInnovators2022
+For more details, visit [bit.ly/TCPHLInnovators2022](http://bit.ly/TCPHLInnovators2022)
