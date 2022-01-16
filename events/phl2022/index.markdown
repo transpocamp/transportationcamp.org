@@ -23,7 +23,7 @@ Two years ago year, we pioneered the virtual model and proved successful and eng
 
 Based on the current state of the pandemic, we are planning to repeat last year's plan, hosting:
 
-- A **fully-virtual conference on March 29, 2022**; PLUS,
+- A **fully-virtual conference on March 26, 2022**; PLUS,
 - **Another Summer Gathering** event which combines urban exploration and an outdoor happy hour during the warmer summer months
 
 <!------## *[<center> Are you, or do you know, a student? Learn about the TCPHL Emerging Innovators Award</center>](#award)*---->
@@ -31,7 +31,7 @@ Based on the current state of the pandemic, we are planning to repeat last year'
 ## <a name="registration"></a> Registration
 
 
-<div id="eventbrite-widget-container-140603768657"></div>
+<div id="eventbrite-widget-container-248762905547"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -119,9 +119,13 @@ Want to make sure you don't miss a thing? We encourage you to subscribe to our m
 
 ## Thank You Sponsors!
 
-#### Thank you [WTS Philadelphia](http://www.wtsinternational.org/philadelphia/), [Azavea](https://www.azavea.com/), [WSP](https://www.wsp.com/), [Gannett Fleming](https://www.gannettfleming.com/), [the Evans Network of Companies](https://theenoc.com/), and [TransitCenter](http://transitcenter.org/) for helping make TransportationCamp PHL (Virtual) 2021 a reality!
+> Thank you [WTS Philadelphia](http://www.wtsinternational.org/philadelphia/), [Azavea](https://www.azavea.com/), [WSP](https://www.wsp.com/), [Gannett Fleming](https://www.gannettfleming.com/), [the Evans Network of Companies](https://theenoc.com/), and [TransitCenter](http://transitcenter.org/) for helping make last year's TransportationCamp PHL (Virtual) 2021 a reality!
 
+TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors. We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. Learn more about our sponsorship packages and please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com) for sponsorship inquiries.
+
+<!---
 TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors. We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. [Learn more about our sponsorship packages](http://transportationcamp.org/events/phl2021/TCPHL_SponsorshipFlyer_2021_FINAL%20WEB.pdf) and please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com) for sponsorship inquiries.
+--->
 
 Want to learn more about the conference? Check out the ["First Time at a TransportationCamp?"](#firsttime) section below.
 
@@ -181,4 +185,4 @@ Returning for a third year, TransportationCamp PHL is pleased to announce the **
 
 **The winner shall receive the award, free admission to a future in-person conference, and a generous $500 prize!**
 
-For more details, visit bit.ly/TCPHLInnovators2022
+For more details, visit [bit.ly/TCPHLInnovators2022](http://bit.ly/TCPHLInnovators2022)
