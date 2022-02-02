@@ -19,7 +19,7 @@ Organized by passionate Philadelphians in conjunction with the Philadelphia Chap
 
 ## <a name="Logistics"></a> Logistics
 
-Two years ago year, we pioneered the virtual model and proved successful and engaging events can be run from the safety and comfort of home.
+Two years ago, we pioneered the virtual model and proved successful and engaging events can be run from the safety and comfort of home.
 
 Based on the current state of the pandemic, we are planning to repeat last year's plan, hosting:
 
@@ -159,7 +159,7 @@ Passionate about transportation and bringing the conference to Philadelphia, the
 For additional breadth, the conference has a larger working group whose collective knowledge and expertise spans all facets of the industry and includes all levels of transportation involvement (ranging from career professionals to engaged hobbyists).
 
 
-## <a name="award"></a> The TCPHL Academic Innovation Award
+## <a name="award"></a> The TCPHL Emerging Innovators Award
 
 Now accepting submissions for the 2022 TransportationCamp PHL Emerging Innovators Award presented by David Klahr Consulting!
 
