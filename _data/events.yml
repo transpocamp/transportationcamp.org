@@ -415,3 +415,8 @@
   url: /events/phl2022
   register_url: https://tcphl22.eventbrite.com/
   background_img: philly-22-skyline-wing.jpg
+
+- title: PHL 2022 Summer Gathering (In-Person!)
+  date: 2022-07-23 23:59:59
+  url: /events/phl2022-summer
+  background_img: philly-22-summer-lastyrpark.jpg
