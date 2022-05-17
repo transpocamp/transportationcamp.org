@@ -32,8 +32,6 @@ published: true
 
 **The TCPHL22 team is pleased to be hosting our second-annual Summer Gathering event on Saturday, July 23, 2022.**
 
-> <h3>NOTE! The Summer Gathering date is tentative and will be confirmed by mid-May at the latest. If making travel plans, we suggest refundable/modifiable options.</h3>
-
 Initially formed as an extension of our 2021 virtual conference to offer a safe, outdoor in-person experience, the event was such a blast, we're keeping it going as a standalone event.
 
 As with last year, the event will feature a day of urban exploration with fellow TransportationCamp participants, concluding with a happy hour in the afternoon.
@@ -49,10 +47,11 @@ We're ecstatic to be seeing you in-person in July. Let the summer fun commence!
 
 ## <a name="registration"></a> Registration
 
-Registration will open when the date is finalized in mid-May. [Subscribe to our email list to ensure you don't miss registration!](#connect)
+> # Registration is **now OPEN**! Register now below!
 
-<!------
-<div id="eventbrite-widget-container-159229380363"></div>
+
+<!------>
+<div id="eventbrite-widget-container-342450858737"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -64,15 +63,15 @@ Registration will open when the date is finalized in mid-May. [Subscribe to our 
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '159229380363',
-        iframeContainerId: 'eventbrite-widget-container-159229380363',
+        eventId: '342450858737',
+        iframeContainerId: 'eventbrite-widget-container-342450858737',
 
         // Optional
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
----->
+<!------->
 
 ## Components of the Day
 
