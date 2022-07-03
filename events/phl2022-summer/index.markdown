@@ -83,13 +83,14 @@ Service is available on all SEPTA Regional Rail lines, all Trolley lines, the Ma
 
 As usual, Philadelphia makes for a great day trip from New York, Washington, Baltimore, and beyond — and Amtrak tickets are starting at $18 or less from all of those locations!
 
-<a id="ourbus">[**NEW**] 🚌 Coming from NY? TCPHL is pleased to announce that OurBus is providing complimentary transportation to the event from New York for members of any Young Professionals in Transportation chapter! This is a great opportunity to try their service. Not already a member of YPT? [Become a member today to enjoy year-round programming and events for 20% LESS than the cost of a one-way SEPTA/NJT ticket from NY.](https://yptransportation.app.neoncrm.com/np/clients/yptransportation/membershipJoin.jsp)</a> Details on how to book your complimentary ticket will be provided upon event registration.
+<a id="ourbus">[**NEW**]</a> 🚌 Coming from NY? TCPHL is pleased to announce that OurBus is providing complimentary transportation to the event from New York for members of any Young Professionals in Transportation chapter! This is a great opportunity to try their service. Not already a member of YPT? [Become a member today to enjoy year-round programming and events for 20% LESS than the cost of a one-way SEPTA/NJT ticket from NY.](https://yptransportation.app.neoncrm.com/np/clients/yptransportation/membershipJoin.jsp) Details on how to book your complimentary ticket will be provided upon event registration.
 
 > *Suggested Trips on 7/23:*
 > 
 > - Amtrak Regional 164 (arriving 11:07am) from Baltimore, Washington (DC), & Richmond
 > - Amtrak Keystone 664 (arriving 11:15am) from Lancaster & Harrisburg
-> - OurBus 261521 (arriving 10:00am) from New York — [**FREE** for YPT Members](#ourbus)
+> - OurBus 0800 (arriving 30th 10:00am) from New York — [**FREE** for YPT Members](#ourbus)
+> - OurBus 0830 (arriving 9th/Market 10:40am) from New York — [**FREE** for YPT Members](#ourbus)
 > - Amtrak Keystone 663 (arriving 10:35am) from New York
 > - <s>Amtrak Regional 143 (arriving 11:12am) from New York, Stamford, New Haven, Hartford, & Springfield (MA)</s> <i>Amtrak has updated their schedules such that this train no longer operates.</i>
 > - Amtrak Acela 2249 (arriving 11:15am) from New York, Stamford, New Haven, Providence, & Boston; and connecting with Empire 250 from Poughkeepsie & Albany
