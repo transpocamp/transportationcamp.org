@@ -33,7 +33,7 @@ We welcome experts, but really you just need to care about transportation issues
 ### Schedule:
 A more detailed schedule is to follow soon. Expect several breakout sessions, engaging activities, and more. Food and drink will be provided.
 
-### TCampPGH 2021 Host Committee:
+### TCampPGH 2022 Host Committee:
 - Ashley Cox, evolveEA Architecture: Planning
 - Elijah Hughes, evolveEA Architecture: EcoDistricts
 - Zaheen Hussein, Carnegie Mellon University
@@ -42,7 +42,7 @@ A more detailed schedule is to follow soon. Expect several breakout sessions, en
 - Peter Quintanilla, Michael Baker International
 - Chris Sandvig, Mobilify Southwestern Pennsylvania
 
-\* TransportationCampPGH is closely monitoring all regional covid-19 developments including the virus’s resurgence, and local/state/federal guidance and mandates and our host’s covid-19 protocols. Based upon future guidance, the format of TCampPGH 2021 may be adjusted or revert to the 2020 virtual format.
+\* TransportationCampPGH is closely monitoring all regional covid-19 developments including the virus’s resurgence, and local/state/federal guidance and mandates and our host’s covid-19 protocols. Based upon future guidance, the format of TCampPGH 2022 may be adjusted or revert to the 2020 virtual format.
 
 
 Follow [@TranspoCampPGH](https://twitter.com/TranspoCampPGH). For more information about TransportationCampPGH 2022, contact info@mobilify.org.
