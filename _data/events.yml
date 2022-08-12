@@ -421,3 +421,9 @@
   url: /events/phl2022-summer
   register_url: https://tcphl22summer.eventbrite.com/?aff=tcwebsite
   background_img: philly-22-summer-lastyrpark.jpg
+  
+- title: Pittsburgh 2022 (In-Person)
+  date: 2021-11-12 23:59:59
+  url: /events/pgh2022
+  register_url: http://tcamppgh.org/
+  background_img: pittsburgh-bus-bike-bridge.jpg
