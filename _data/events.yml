@@ -422,6 +422,11 @@
   register_url: https://tcphl22summer.eventbrite.com/?aff=tcwebsite
   background_img: philly-22-summer-lastyrpark.jpg
   
+- title: NYC 2022
+  date: 2022-10-15 23:59:59
+  url: /events/nyc-2022
+  background_img: nyc-2022.jpg
+  
 - title: Pittsburgh 2022 (In-Person)
   date: 2022-11-12 23:59:59
   url: /events/pgh2022
