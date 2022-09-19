@@ -425,6 +425,7 @@
 - title: NYC 2022
   date: 2022-10-15 23:59:59
   url: /events/nyc-2022
+  register_url: https://www.eventbrite.com/e/399265031457/
   background_img: nyc-2022.jpg
   
 - title: Pittsburgh 2022 (In-Person)
