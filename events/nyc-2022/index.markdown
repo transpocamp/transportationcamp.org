@@ -14,8 +14,8 @@ hide-title: true
 
 ### TransportationCamp NYC 2022 is back and IN-PERSON, and for the first time ever, in QUEENS!
 
-Join us on Saturday, October 15th at CUNY School of Law in the heart of Long Island City, Queens to be a part of the
-conversation on all topics of mobility in this open and inclusive event.
+TransportationCamp NYC returns in person on Saturday, October 15th at CUNY School of Law in the heart of Long Island
+City, Queens. Join us to be a part of the conversation on all topics of mobility in this open and inclusive event.
 
 TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconference)** - every session is **planned,
 proposed, and led by attendees like you**. It&#39;s the perfect opportunity to share your transportation passion with a
@@ -32,11 +32,11 @@ Secure your spot and RSVP [here](https://www.eventbrite.com/e/399265031457/).
 - **9:00AM:** Doors open; Check-in and breakfast (Second floor Hallway)
 - **10:00AM:** Welcome and kick off (Auditorium)
 - **11:30AM:** Session 1 (Breakout rooms)
-- **12:30PM:** Lunch (Second floor Hallway)
+- **12:30PM:** Lunch (Second floor Cafe Area)
 - **1:30PM:** Session 2 (Breakout rooms)
 - **2:30PM:** Session 3 (Breakout rooms)
 - **3:30PM:** Session 4 (Breakout rooms)
-- **5:00PM:** Happy Hour (at a localized location, TBD)
+- **5:00PM:** Happy Hour (ICONYC Brewing, 43-63 11th St, Queens)
 
 ### Presenting?
 
