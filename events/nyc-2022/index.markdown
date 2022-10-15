@@ -12,6 +12,8 @@ hide-title: true
 
 <img src="board.jpg" alt="Board" />
 
+# Joining us today? [View the board online!](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQhUwkXIwEVXFQgF76ElmL5KupFbjYH50ss8mVw1rvv2gK7WiPi2xY2srT_qhMhe_nvk3M0UOdj7TZ/pubhtml?gid=302942185&single=true)
+
 ### TransportationCamp NYC 2022 is back and IN-PERSON, and for the first time ever, in QUEENS!
 
 TransportationCamp NYC returns in person on Saturday, October 15th at CUNY School of Law in the heart of Long Island
