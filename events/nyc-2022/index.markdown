@@ -12,7 +12,7 @@ hide-title: true
 
 <img src="board.jpg" alt="Board" />
 
-# Joining us today? [View the board online!](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQhUwkXIwEVXFQgF76ElmL5KupFbjYH50ss8mVw1rvv2gK7WiPi2xY2srT_qhMhe_nvk3M0UOdj7TZ/pubhtml?gid=302942185&single=true)
+## [View the board online!](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQhUwkXIwEVXFQgF76ElmL5KupFbjYH50ss8mVw1rvv2gK7WiPi2xY2srT_qhMhe_nvk3M0UOdj7TZ/pubhtml?gid=302942185&single=true)
 
 ### TransportationCamp NYC 2022 is back and IN-PERSON, and for the first time ever, in QUEENS!
 
@@ -52,7 +52,10 @@ down in advance and bring it with you to the event.
 <h3 style="color: #FF6600;">Student Scholarship</h3>
 For the third consecutive year, TransportationCamp NYC will award one undergraduate student and one graduate student a
 $500 scholarship sponsored by our Gold Sponsors VHB and Sam
-Schwartz. **[Apply now!](https://forms.gle/9kLeniN76yaRK6ZM8)**
+Schwartz. <span style="color: #FF6600;">**TransportationCamp NYC 2022 Scholarship Winners
+are: [Minah Ali](https://drive.google.com/file/d/10wczz3wkPJe7jQst4iy83qFWO1Er7RpH/view?usp=sharing)
+and [Saba Akber](https://drive.google.com/file/d/1TwZBte5BYmFQ3Z3xbOt0hsgv298qJQGw/view?usp=sharing). Click on the links
+to read the essays from the winners.**</span>
 
 <h3 style="color: #FF6600;">Jersey City and Hoboken Bike Tour</h3>
 Continue the TransportationCamp NYC discussion on a bike tour of Jersey City and Hoboken with our partner, Bike JC at 1:
