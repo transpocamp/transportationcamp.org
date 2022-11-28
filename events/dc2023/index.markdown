@@ -8,7 +8,7 @@ title: TransportationCamp DC 2023
 published: true
 ---
 
-![Registration Header](/events/dc2022/dc-2023-header.png)
+![Registration Header](/events/dc2023/dc-2023-header.png)
 
 Whether you’re working on transportation, studying transportation planning, or advocating for a system that works better for all, **join us at TransportationCamp DC on Saturday, January 7, 2023 at Van Metre Hall on George Mason University’s Arlington campus.** [Register here.](https://t4america.org/transportation-camp/)
 
@@ -24,7 +24,7 @@ Already registered? Let others know! Tweet with #TransportationCampDC and [join 
 
 Thank you to our sponsors and community partners!
 
-![Sponsors](/events/dc2022/dc-2023-sponsors.png)
+![Sponsors](/events/dc2023/dc-2023-sponsors.png)
 
 - Platinum: [INRIX](https://inrix.com/)
 - Gold: [Uber](https://www.uber.com/)
