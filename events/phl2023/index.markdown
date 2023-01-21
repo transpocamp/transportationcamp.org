@@ -25,7 +25,7 @@ Summer 2021 also launched our spin-off "TCPHL Summer Gathering" event, combining
 ## <a name="registration"></a> Registration
 
 
-<div id="eventbrite-widget-container-248762905547"></div>
+<div id="eventbrite-widget-container-520933705737"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -38,7 +38,7 @@ Summer 2021 also launched our spin-off "TCPHL Summer Gathering" event, combining
         // Required
         widgetType: 'checkout',
         eventId: '520933705737',
-        iframeContainerId: 'eventbrite-widget-container-140603768657',
+        iframeContainerId: 'eventbrite-widget-container-520933705737',
 
         // Optional
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
