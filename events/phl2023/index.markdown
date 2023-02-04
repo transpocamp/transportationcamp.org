@@ -13,7 +13,7 @@ published: true
 
 Whether you work in the industry or simply have an interest, we welcome you ***physically*** to our nation's birthplace at the center of the NEC for a day filled with ideas at the intersection of transportation, technology, and urbanism. As always, the participant-driven TransportationCamp conference series follows the "unconference" format, lending itself to a more pertinent, thought-provoking, and active event.
 
-Organized by passionate Philadelphians in conjunction with the Philadelphia Chapter and Mid-Atlantic Region of Young Professionals in Transportation (YPT), the Philadelphia Chapter of Women’s Transportation Seminar (WTS), and Drexel University, we look forward to seeing you! [Connect with us](#connect)
+Organized by passionate Philadelphians in conjunction with the Philadelphia Chapter and Mid-Atlantic Region of Young Professionals in Transportation (YPT), the Philadelphia Chapter of Women’s Transportation Seminar (WTS), and the Department of Civil, Architectural, and Environmental Engineering at Drexel University, we look forward to seeing you! [Connect with us](#connect)
 
 
 ## <a name="Logistics"></a> Logistics
@@ -132,7 +132,8 @@ Want to make sure you don't miss a thing? We encourage you to subscribe to our m
 > Thank you [WTS Philadelphia](http://www.wtsinternational.org/philadelphia/), [Azavea](https://www.azavea.com/), [WSP](https://www.wsp.com/), [Gannett Fleming](https://www.gannettfleming.com/), [the Evans Network of Companies](https://theenoc.com/), and [TransitCenter](http://transitcenter.org/) for helping make last year's TransportationCamp PHL (Virtual) 2021 a reality!
 --->
 
-TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors. We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. [Learn more about our sponsorship packages](LINK!!!!!!!!!!!!!!!!!!!) and please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com) for sponsorship inquiries.
+TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors. We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. [Learn more about our sponsorship packages](http://transportationcamp.org/events/phl2023/TCPHL%20Sponsor%20Flyer%202023.pdf) and please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com) for sponsorship inquiries. 
+
 
 Want to learn more about the conference? Check out the ["First Time at a TransportationCamp?"](#firsttime) section below.
 
