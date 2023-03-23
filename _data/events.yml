@@ -446,3 +446,9 @@
   register_url: https://tcphl23.eventbrite.com/?aff=tcwebsite
   background_img: philly-23-mfl-sunset.jpg
   
+- title: PHL 2023 Summer Gathering
+  date: 2023-06-24 23:59:59
+  url: /events/phl2023-summer
+  register_url: https://tcphl23summer.eventbrite.com/?aff=tcwebsite
+  background_img: philly-23-summer-lastyrprizesjpg.jpg
+  
