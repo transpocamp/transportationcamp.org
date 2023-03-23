@@ -130,11 +130,18 @@ Want to make sure you don't miss a thing? We encourage you to subscribe to our m
 
 ## Thank You Sponsors!
 
+
+Thank you to our sponsors for making the event possible!
+
+![TransitCenter](https://github.com/openplans/transportationcamp.org/blob/tcphlsummer23/events/phl2023/TransitCenter%20Logo.jpg?raw=true)
+
+![Other Sponsors](https://github.com/openplans/transportationcamp.org/blob/tcphlsummer23/events/phl2023/2023%20Sponsor%20Logos.png?raw=true)
+
 <!---
 > Thank you [WTS Philadelphia](http://www.wtsinternational.org/philadelphia/), [Azavea](https://www.azavea.com/), [WSP](https://www.wsp.com/), [Gannett Fleming](https://www.gannettfleming.com/), [the Evans Network of Companies](https://theenoc.com/), and [TransitCenter](http://transitcenter.org/) for helping make last year's TransportationCamp PHL (Virtual) 2021 a reality!
 --->
 
-TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors. We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. [Learn more about our sponsorship packages](http://transportationcamp.org/events/phl2023/TCPHL%20Sponsor%20Flyer%202023.pdf) and please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com) for sponsorship inquiries. 
+TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors. We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. [Learn more about our sponsorship packages](http://transportationcamp.org/events/phl2023/TCPHL%20Sponsor%20Flyer%202023.pdf) and please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com) for sponsorship inquiries.
 
 
 Want to learn more about the conference? Check out the ["First Time at a TransportationCamp?"](#firsttime) section below.
