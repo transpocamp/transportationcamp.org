@@ -15,6 +15,8 @@ Whether you work in the industry or simply have an interest, we welcome you ***p
 
 Organized by passionate Philadelphians in conjunction with the Philadelphia Chapter and Mid-Atlantic Region of Young Professionals in Transportation (YPT), the Philadelphia Chapter of Women’s Transportation Seminar (WTS), and the Department of Civil, Architectural, and Environmental Engineering at Drexel University, we look forward to seeing you! [Connect with us](#connect)
 
+> # [Click here to view the 2023 Session Board](https://bit.ly/tcphl23board)
+
 
 ## <a name="Logistics"></a> Logistics
 
@@ -138,8 +140,6 @@ TransportationCampPHL has always been made possible thanks to the generous suppo
 Want to learn more about the conference? Check out the ["First Time at a TransportationCamp?"](#firsttime) section below.
 
 ## <a name="firsttime"></a> First Time at a TransportationCamp?
-
-Despite being virtual, this event will still follow the standard guidelines and practices from a normal TransportationCamp event. Here are some details.
 
 - **How To TransportationCamp**: The folks at MobilityLab have taken the time to put together a [TransportationCamp 101 guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/) that explains all aspects of the event.
 - **Participation Encouraged**: Sessions are formed as the day goes on, so be sure to come with topics for discussion. If you have an idea, feel free to share and add your thoughts.
