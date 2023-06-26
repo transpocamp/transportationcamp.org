@@ -43,7 +43,7 @@
   date: 2014-04-05 23:59:59
   url: /events/new-england-2014
   register_url: http://www.eventbrite.com/e/transportation-camp-new-england-14-tickets-10281011783
-  background_img: boston-2014-b.jpg
+  background_img: ne-2014.jpg
 
 - title: South 2014
   date: 2014-04-12 23:59:59
@@ -218,7 +218,7 @@
   date: 2018-04-21 23:59:59
   url: /events/new-england-2018
   register_url: https://www.eventbrite.com/e/transportationcamp-new-england-2018-tickets-19295921621
-  background_img: newengland-stata.jpg
+  background_img: ne-2018.jpg
 
 - title: Davis 2018
   date: 2018-05-02 23:59:59
@@ -289,7 +289,7 @@
   date: 2019-04-27 23:59:59
   url: /events/new-england-2019
   register_url: https://www.eventbrite.com/e/transportationcamp-new-england-2019-tickets-52244025286
-  background_img: boston-beantown.jpg
+  background_img: ne-2019.jpg
 
 - title: Chicago 2019
   date: 2019-05-04 23:59:59
@@ -451,4 +451,9 @@
   url: /events/phl2023-summer
   register_url: https://tcphl23summer.eventbrite.com/?aff=tcwebsite
   background_img: philly-23-summer-lastyrprizesjpg.jpg
-  
+
+- title: New England 2023
+  date: 2023-10-07 23:59:59
+  url: /events/new-england-2023
+  register_url: [Eventbrite url]
+  background_img: ne-2023.jpg
