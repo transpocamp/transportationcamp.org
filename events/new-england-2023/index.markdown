@@ -36,7 +36,7 @@ TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconfer
 Located two blocks west of Kendall station on the Red Line, the Stata Center is easily accessible by foot, bike, and transit. Limited parking is available.
 
 ### Digital Board
-Follow along with the [live board](https://bit.ly/tcne2023) when the day arrives!
+Follow along with the live board when the day arrives!
 
 ### Schedule
 
@@ -66,7 +66,7 @@ If you have any questions, email us at <transpocampne@gmail.com>.
 
 ### Sponsorship
 
-Interested in helping to make TransportationCamp NE possible? [Become a sponsor](2019 Sponsorship Flyer_2019.01.18.pdf) to elevate this event and connect with passionate people in mobility.
+Interested in helping to make TransportationCamp NE possible? [Become a sponsor](2023 Sponsorship Prospectus-2023-06-22.pdf) to elevate this event and connect with passionate people in mobility.
 
 <style type="text/css">
 .sponsors {
