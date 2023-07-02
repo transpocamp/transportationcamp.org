@@ -455,5 +455,5 @@
 - title: New England 2023
   date: 2023-10-07 23:59:59
   url: /events/new-england-2023
-  register_url: [Eventbrite url]
+  register_url:
   background_img: ne-2023.jpg
