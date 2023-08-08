@@ -457,3 +457,9 @@
   url: /events/new-england-2023
   register_url:
   background_img: ne-2023.jpg
+
+- title: NYC 2023
+  date: 2023-10-14 23:59:59
+  url: /events/nyc-2023
+  register_url: https://bit.ly/TCNYC23-register
+  background_img: nyc-2023.png
