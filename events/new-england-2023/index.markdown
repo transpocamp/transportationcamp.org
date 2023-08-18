@@ -12,9 +12,7 @@ hide-title: true
 ---
 
 
-<span style="color: #FF6600;">
-# TransportationCamp New England is back!
-</span>
+<h1 style="color: #FF6600;">TransportationCamp New England is back!</h1>
 
 After a 3 year hiatus, we return in-person for New England’s 6th annual camp on Saturday, October 7th at the [MIT Stata Center](https://www.google.com/maps/dir//Stata+Center,+32+Vassar+St,+Cambridge,+MA+02139/@42.3616134,-71.0932104,17z/data=!4m18!1m8!3m7!1s0x89e370a95d3025a9:0xb1de557289ff6bbe!2sStata+Center,+32+Vassar+St,+Cambridge,+MA+02139!3b1!8m2!3d42.3616095!4d-71.0906355!16zL20vMDEyamZ2!4m8!1m0!1m5!1m1!1s0x89e370a95d3025a9:0xb1de557289ff6bbe!2m2!1d-71.0906355!2d42.3616095!3e3?entry=ttu)! Join us to be a part of the conversation on all topics of mobility in this open and inclusive event.
 
@@ -22,7 +20,7 @@ TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconfer
 
 ## Registration
 
-<span style="color: #FF6600;">###Registration for TransportationCamp NE 2023 will open soon!</span>
+<h3 style="color: #FF6600;">Registration IS OPEN!</h3>
 
 <div id="eventbrite-widget-container-61410959834"></div>
 
@@ -38,12 +36,12 @@ TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconfer
         widgetType: 'checkout',
         eventId: '61410959834',
         iframeContainerId: 'eventbrite-widget-container-61410959834',
-
         // Optional
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
+
 
 [Sign up for emails](https://mailchi.mp/c4f666d15575/tcampne) and follow [@TranspoCampNE](https://twitter.com/TranspoCampNE) on Twitter and [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
 ## Getting to TCNE
@@ -87,7 +85,7 @@ If you have any questions, email us at <transpocampne@gmail.com>.
 
 ## Sponsorship
 
-We need your help keep TransportationCamp NE admission accessible for more diverse perspectives! [Become a sponsor](2023 Sponsorship Prospectus-2023-06-22.pdf) to elevate this event and connect with passionate people in mobility.
+We need your help keeping TransportationCamp NE admission accessible for more diverse perspectives! [Become a sponsor](2023 Sponsorship Prospectus-2023-06-22.pdf) to elevate this event and connect with passionate people in mobility.
 
 <style type="text/css">
 .sponsors {
