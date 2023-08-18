@@ -11,7 +11,10 @@ logo-alt: "TransportationCamp New England 2023: October 7 at MIT Stata Center"
 hide-title: true
 ---
 
-<h3 style="color: #FF6600;"># TransportationCamp New England is back!</h3>
+
+<span style="color: #FF6600;">
+# TransportationCamp New England is back!
+</span>
 
 After a 3 year hiatus, we return in-person for New England’s 6th annual camp on Saturday, October 7th at the [MIT Stata Center](https://www.google.com/maps/dir//Stata+Center,+32+Vassar+St,+Cambridge,+MA+02139/@42.3616134,-71.0932104,17z/data=!4m18!1m8!3m7!1s0x89e370a95d3025a9:0xb1de557289ff6bbe!2sStata+Center,+32+Vassar+St,+Cambridge,+MA+02139!3b1!8m2!3d42.3616095!4d-71.0906355!16zL20vMDEyamZ2!4m8!1m0!1m5!1m1!1s0x89e370a95d3025a9:0xb1de557289ff6bbe!2m2!1d-71.0906355!2d42.3616095!3e3?entry=ttu)! Join us to be a part of the conversation on all topics of mobility in this open and inclusive event.
 
