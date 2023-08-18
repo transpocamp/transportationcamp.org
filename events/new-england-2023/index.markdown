@@ -36,7 +36,11 @@ TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconfer
         widgetType: 'checkout',
         eventId: '61410959834',
         iframeContainerId: 'eventbrite-widget-container-61410959834',
-
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
 
 
 [Sign up for emails](https://mailchi.mp/c4f666d15575/tcampne) and follow [@TranspoCampNE](https://twitter.com/TranspoCampNE) on Twitter and [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
