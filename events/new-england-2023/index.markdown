@@ -37,11 +37,7 @@ TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconfer
         eventId: '61410959834',
         iframeContainerId: 'eventbrite-widget-container-61410959834',
 
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+
 
 [Sign up for emails](https://mailchi.mp/c4f666d15575/tcampne) and follow [@TranspoCampNE](https://twitter.com/TranspoCampNE) on Twitter and [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
 ## Getting to TCNE
@@ -85,7 +81,7 @@ If you have any questions, email us at <transpocampne@gmail.com>.
 
 ## Sponsorship
 
-We need your help keep TransportationCamp NE admission accessible for more diverse perspectives! [Become a sponsor](2023 Sponsorship Prospectus-2023-06-22.pdf) to elevate this event and connect with passionate people in mobility.
+We need your help keeping TransportationCamp NE admission accessible for more diverse perspectives! [Become a sponsor](2023 Sponsorship Prospectus-2023-06-22.pdf) to elevate this event and connect with passionate people in mobility.
 
 <style type="text/css">
 .sponsors {
