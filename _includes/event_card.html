@@ -2,7 +2,10 @@
     <img class="past-img" alt="" src="{{ site.baseurl }}/assets/event-images/{{ event.background_img }}">
     <div class="card-body">
         <div>
-            <div><span class="event-title">{{ event.title }}</span><span class="event-subtitle">{{ event.subtitle }}</span></div>
+            <div>
+                <span class="event-title">{{ event.title }}</span>
+                <span class="event-subtitle">{{ event.subtitle }}</span>
+            </div>
             <div class="event-date">{{ event.date | date: "%B %e"}}</div>
         </div>
         <div>
@@ -11,7 +14,7 @@
             {% if event.register_url %}
             <a class="event-button" href="{{ event.register_url }}" target="_blank">Register</a>
             {% else %}
-            <a class="event-button-disabled" href="">Register</a>
+            <span class="event-button disabled" href="">Register</span>
             {% endif %}
             {% endif %}
         </div>

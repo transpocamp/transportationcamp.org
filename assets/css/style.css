@@ -120,6 +120,7 @@ img {
     height: 21em;
     width: 21em;
     overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
 .card .past-img {
@@ -155,8 +156,8 @@ img {
 .event-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5em;
-    margin: 0.5em;
+    gap: 0.75em;
+    margin: 0.75em;
 }
 
 .event-year {
@@ -168,7 +169,7 @@ img {
 .event-button {
     display: inline-block;
     background-color: #e26b1b;
-    color: #fff;
+    color: white;
     border-radius: 4px;
     cursor: pointer;
     text-align: center;
@@ -178,21 +179,18 @@ img {
     margin-right: 0.25em;
 }
 
-.event-button-disabled {
-    display: inline-block;
-    background-color: #e26b1b;
-    color: #fff;
-    border-radius: 4px;
-    text-align: center;
-    text-decoration: none;
-    padding: 0.5em 1em;
-    margin-top: 0.25em;
-    margin-right: 0.25em;
+.disabled {
+    cursor: default;
+    background-color: #777;
 }
 
 .event-button:hover {
     background-color: #c55e1a;
     transition: 0.5s;
+}
+
+.disabled:hover {
+    background-color: #777;
 }
 
 .page-header {
