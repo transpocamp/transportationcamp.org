@@ -1,0 +1,19 @@
+<div class="card">
+    <img class="past-img" src="{{ site.baseurl }}/assets/event-images/{{ event.background_img }}">
+    <div class="card-body">
+        <div>
+            <div class="event-title" href="{{ event.url | absolute_url }}">{{ event.title }}</div>
+            <div class="event-date" href="{{ event.url | absolute_url }}">{{ event.date | date: "%B %e"}}</div>
+        </div>
+        <div>
+            <a class="event-button" href="{{ event.url | absolute_url }}">Details</a>
+            {% if event.date >= site.time %}
+            {% if event.register_url %}
+            <a class="event-button" href="{{ event.register_url }}" target="_blank">Register</a>
+            {% else %}
+            <a class="event-button-disabled" href="">Register</a>
+            {% endif %}
+            {% endif %}
+        </div>
+    </div>
+</div>

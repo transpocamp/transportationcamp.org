@@ -1,464 +1,544 @@
-- title: East 2011
+- title: East
+  year: 2011
   date: 2011-03-05 23:59:59
   url: /events/east
   background_img: east-2011.jpg
 
-- title: West 2011
+- title: West
+  year: 2011
   date: 2011-03-19 23:59:59
   url: /events/west
   background_img: west-2011.jpg
 
-- title: Montreal 2011
+- title: Montreal
+  year: 2011
   date: 2011-12-15 23:59:59
   url: /events/montreal
   background_img: montreal-2011.jpg
 
-- title: Washington DC 2012
+- title: Washington DC
+  year: 2012
   date: 2012-01-21 23:59:59
   url: /events/dc
   background_img: dc-2012.jpg
 
-- title: Washington DC 2013
+- title: Washington DC
+  year: 2013
   date: 2013-01-12 23:59:59
   url: /events/dc-2013
   background_img: dc-2013.jpg
 
-- title: South 2013
+- title: South
+  year: 2013
   date: 2013-02-09 23:59:59
   url: /events/south
   background_img: south-2013.jpg
 
-- title: San Francisco Bay Area 2013
+- title: San Francisco Bay Area
+  year: 2013
   date: 2013-11-16 23:59:59
   url: /events/san-francisco-bay-area-2013
   background_img: sf-2013.jpg
 
-- title: Washington DC 2014
+- title: Washington DC
+  year: 2014
   date: 2014-01-11 23:59:59
   url: /events/dc-2014
   register_url: https://transpocampdc14.eventbrite.com/
   background_img: dc-2014-b.jpg
 
-- title: New England 2014
+- title: New England
+  year: 2014
   date: 2014-04-05 23:59:59
   url: /events/new-england-2014
   register_url: http://www.eventbrite.com/e/transportation-camp-new-england-14-tickets-10281011783
   background_img: ne-2014.jpg
 
-- title: South 2014
+- title: South
+  year: 2014
   date: 2014-04-12 23:59:59
   url: /events/south-2014
   register_url: https://transpocamp-govathon.eventbrite.com
   background_img: south-2014-b.jpg
 
-- title: Melbourne 2014
+- title: Melbourne
+  year: 2014
   date: 2014-11-01 23:59:59
   url: http://www.transportcamp.org.au/
   background_img: melbourne-2014.jpg
 
-- title: Washington DC 2015
+- title: Washington DC
+  year: 2015
   date: 2015-01-10 23:59:59
   url: /events/dc-2015
   register_url: https://transportationcamp2015dc.eventbrite.com
   background_img: dc-2015-c.jpg
 
-- title: New England 2015
+- title: New England
+  year: 2015
   date: 2015-04-11 23:59:59
   url: /events/new-england-2015
   register_url: http://www.eventbrite.com/e/transportationcamp-new-england-2015-tickets-13577902873
   background_img: ne-2015.png
 
-- title: South 2015
+- title: South
+  year: 2015
   date: 2015-09-26 23:59:59
   url: /events/south-2015
   register_url: http://transpocampsouth2015.eventbrite.com/
   background_img: south-2015.jpg
 
-- title: Los Angeles 2015
+- title: Los Angeles
+  year: 2015
   date: 2015-10-03 23:59:59
   url: /events/la2015
   register_url: https://transportationcamp2015la.eventbrite.com/
   background_img: la-2015.jpg
 
-- title: California 2015
+- title: California
+  year: 2015
   date: 2015-10-20 23:59:59
   url: /events/california-2015
   register_url: http://www.eventbrite.com/e/transportationcamp-calact-tickets-17462853866
   background_img: california-2015.jpg
 
-- title: NYC 2015
+- title: NYC
+  year: 2015
   date: 2015-11-14 23:59:59
   url: /events/nyc-2015
   register_url: https://www.eventbrite.com/e/transportationcamp-nyc-2015-tickets-18250335244
   background_img: nyc-2015.jpg
 
-- title: Washington DC 2016
+- title: Washington DC
+  year: 2016
   date: 2016-01-09 23:59:59
   url: /events/dc-2016
   register_url: https://transportationcamp2016dc.eventbrite.com/
   background_img: dc-2015-d.jpg
 
-- title: New England 2016
+- title: New England
+  year: 2016
   date: 2016-04-09 23:59:59
   url: /events/new-england-2016
   register_url: https://www.eventbrite.com/e/transportationcamp-new-england-2016-tickets-19296075080
   background_img: ne-2016.jpg
 
-- title: Colorado 2016
+- title: Colorado
+  year: 2016
   date: 2016-05-15 23:59:59
   url: /events/colorado2016
   register_url: https://transportationcampco2016.eventbrite.com/
   background_img: colorado-2016-a.jpg
 
-- title: Midwest 2016
+- title: Midwest
+  year: 2016
   date: 2016-08-13 23:59:59
   url: /events/midwest2016
   register_url: https://www.eventbrite.com/e/transportation-camp-midwest-tickets-24289693126
   background_img: midwest-2016.jpg
 
-- title: Ithaca 2016
+- title: Ithaca
+  year: 2016
   date: 2016-06-25 23:59:59
   url: /events/ithaca-2016
   register_url: https://www.eventbrite.com/e/transportationcamp-ithaca-ny-2016-tickets-24515459399
   background_img: ithaca-cornell.jpg
 
-- title: Texas 2016
+- title: Texas
+  year: 2016
   date: 2016-06-26 23:59:59
   url: /events/texas-2016
   register_url: http://www.asce-ictd.org/transportationcamp/
   background_img: houston-2016.jpg
 
-- title: Anaheim 2016
+- title: Anaheim
+  year: 2016
   date: 2016-08-14 23:59:59
   url: /events/anaheim2016
   register_url: http://ecommerce.ite.org/imis/iCommerce/Events/Event_Display.aspx?EventKey=ITE2016AM
   background_img: anaheim.jpg
 
-- title: West 2016
+- title: West
+  year: 2016
   date: 2016-09-10 23:59:59
   url: /events/west2016
   register_url: https://www.eventbrite.com/e/transportation-camp-west-hosted-by-calact-tickets-27058435509
   background_img: west-2016.jpg
 
-- title: Vancouver 2016
+- title: Vancouver
+  year: 2016
   date: 2016-09-11 23:59:59
   url: /events/vancouver-2016
   register_url: https://yptransportation.org/ypt-vancouver-bc/
   background_img: vancouver-b.jpg
 
-- title: NYC 2016
+- title: NYC
+  year: 2016
   date: 2016-09-24 23:59:59
   url: /events/nyc-2016
   background_img: nyc-2016.jpg
 
-- title: Pittsburgh 2016
+- title: Pittsburgh
+  year: 2016
   date: 2016-11-19 23:59:59
   url: /events/pgh-2016
   background_img: pittsburgh.jpg
 
-- title: DC 2017
+- title: Washington DC
+  year: 2017
   date: 2017-01-07 23:59:59
   url: /events/dc-2017
   register_url: https://nvite.com/transpo17/d325
   background_img: dc-2015-e.jpg
 
-- title: South 2017
+- title: South
+  year: 2017
   date: 2017-03-25 23:59:59
   url: /events/south-2017
   register_url: http://transpocampsouth2017.eventbrite.com
   background_img: south-2017.jpg
 
-- title: Great Lakes 2017
+- title: Great Lakes
+  year: 2017
   date: 2017-06-11 23:59:59
   url: /events/detroit
   register_url: https://www.cvent.com/c/express/c231a9bb-2c99-4323-81ac-b0138d3efc6d
   background_img: detroit-airport.jpg
 
-- title: Ithaca 2017
+- title: Ithaca
+  year: 2017
   date: 2017-06-17 23:59:59
   url: /events/ithaca-2017
   register_url: https://www.eventbrite.com/e/transportationcamp-ithaca-2017-cornell-university-tickets-31683016756
   background_img: ithaca-2017.jpg
 
-- title: Toronto 2017
+- title: Toronto
+  year: 2017
   date: 2017-07-30 23:59:59
   url: /events/toronto
   background_img: toronto.jpg
 
-- title: Seattle 2017
+- title: Seattle
+  year: 2017
   date: 2017-08-12 23:59:59
   url: /events/seattle
   register_url: https://seattletransportationcamp.eventbrite.com/
   background_img: seattle.jpg
 
-- title: NYC 2017
+- title: NYC
+  year: 2017
   date: 2017-10-21 23:59:59
   url: /events/nyc-2017
   background_img: nyc-2017.jpg
 
-- title: DC 2018
+- title: Washington DC
+  year: 2018
   date: 2018-01-06 23:59:59
   url: /events/dc-2018
   register_url: https://nvite.com/Transpo18
   background_img: dc-2018.jpg
 
-- title: South 2018
+- title: South
+  year: 2018
   date: 2018-02-24 23:59:59
   url: /events/south-2018
   register_url: http://transpocampsouth2018.eventbrite.com/
   background_img: south-2017.jpg
 
-- title: PHL 2018
+- title: Philadelphia
+  year: 2018
   date: 2018-04-14 23:59:59
   url: /events/phl2018
   register_url: https://www.eventbrite.com/e/transportationcamp-phl-2018-registration-42615402817
   background_img: philly-septa.png
 
-- title: New England 2018
+- title: New England
+  year: 2018
   date: 2018-04-21 23:59:59
   url: /events/new-england-2018
   register_url: https://www.eventbrite.com/e/transportationcamp-new-england-2018-tickets-19295921621
   background_img: ne-2018.jpg
 
-- title: Davis 2018
+- title: Davis
+  year: 2018
   date: 2018-05-02 23:59:59
   url: /events/davis2018
   register_url: https://www.eventbrite.com/e/transportationcamp-davis-2018-tickets-44467990958
   background_img: davis.jpg
 
-- title: Chicago 2018
+- title: Chicago
+  year: 2018
   date: 2018-05-05 23:59:59
   url: /events/chicago2018
   register_url: https://my.yptransportation.org/civicrm/event/info?id=429
   background_img: chicago.jpg
 
-- title: Baltimore 2018
+- title: Baltimore
+  year: 2018
   date: 2018-05-12 23:59:59
   url: /events/baltimore2018
   register_url: https://www.eventbrite.com/e/transportation-camp-baltimore-tickets-44092362443
   background_img: baltimore.jpg
 
-- title: Seattle 2018
+- title: Seattle
+  year: 2018
   date: 2018-08-25 23:59:59
   url: /events/seattle2018
   register_url: https://www.eventbrite.com/e/2nd-annual-seattle-transportation-camp-tickets-47705043068
   background_img: seattlemonorail.jpg
 
-- title: Midwest 2018
+- title: Midwest
+  year: 2018
   date: 2018-08-25 23:59:59
   url: /events/midwest2018
   register_url: https://www.kcdigitaldrive.org/event/transpocampmw2018/
   background_img: midwestbus.jpg
 
-- title: NYC 2018
+- title: NYC
+  year: 2018
   date: 2018-10-13 23:59:59
   url: /events/nyc-2018
   register_url: https://www.eventbrite.com/e/transportationcamp-nyc-2018-registration-49533901232
   background_img: nyc-2018.jpg
 
-- title: DC 2019
+- title: Washington DC
+  year: 2019
   date: 2019-01-12 23:59:59
   url: /events/dc2019
   register_url: https://www.eventbrite.com/e/transportationcamp-dc-2019-tickets-52221497906
   background_img: dc-pennave.jpg
 
-- title: Florida 2019
+- title: Florida
+  year: 2019
   date: 2019-05-09 23:59:59
   url: /events/florida2019
   register_url: https://www.eventbrite.com/e/transportation-camp-florida-registration-55122167888
   background_img: miami-highway.jpg
 
-- title: South 2019
+- title: South
+  year: 2019
   date: 2019-02-09 23:59:59
   url: /events/south-2019
   register_url: https://www.eventbrite.com/e/transportationcamp-south-2019-registration-50608885539
   background_img: south-2019.jpg
 
-- title: PHL 2019
+- title: Philadelphia
+  year: 2019
   date: 2019-03-30 23:59:59
   register_url: https://www.eventbrite.com/e/transportationcamp-phl-2019-registration-55000454841?aff=transportationcampdotorg
   url: /events/phl2019
   background_img: philly-19-eagles.png
 
-- title: Ithaca 2019
+- title: Ithaca
+  year: 2019
   date: 2019-04-06 23:59:59
   url: /events/ithaca2019
   background_img: ithaca-snow.png
 
-- title: New England 2019
+- title: New England
+  year: 2019
   date: 2019-04-27 23:59:59
   url: /events/new-england-2019
   register_url: https://www.eventbrite.com/e/transportationcamp-new-england-2019-tickets-52244025286
   background_img: ne-2019.jpg
 
-- title: Chicago 2019
+- title: Chicago
+  year: 2019
   date: 2019-05-04 23:59:59
   url: /events/chicago2019
   register_url: https://my.yptransportation.org/civicrm/event/info?reset=1&id=495
   background_img: chicago-henge.jpg
 
-- title: Baltimore 2019
+- title: Baltimore
+  year: 2019
   date: 2019-05-18 23:59:59
   url: /events/baltimore2019
   register_url: https://www.eventbrite.com/e/transportationcamp-baltimore-tickets-56249960145
   background_img: baltimore-bumpo.png
 
-- title: IPMI 2019
+- title: IPMI
+  year: 2019
   date: 2019-06-09 23:59:59
   url: /events/ipmi2019
   background_img: anaheimconventioncenter.jpg
 
-- title: Los Angeles 2019
+- title: Los Angeles
+  year: 2019
   date: 2019-07-13 23:59:59
   url: /events/la2019
   register_url: https://www.eventbrite.com/e/transportation-camp-los-angeles-2019-tickets-60226085844
   background_img: la-disneyhall.jpg
 
-- title: Oregon 2019
+- title: Oregon
+  year: 2019
   date: 2019-09-15 23:59:59
   url: /events/portland2019
   register_url: http://www.cvent.com/d/c6qvnt/4W?RefID=transportationcamp
   background_img: portland.jpg
 
-- title: NYC 2019
+- title: NYC
+  year: 2019
   date: 2019-10-12 23:59:59
   url: /events/nyc-2019
   register_url: https://www.eventbrite.com/e/transportationcamp-nyc-2019-registration-71015712909?aff=web
   background_img: nyc-2019.jpg
 
-- title: DC 2020
+- title: Washington DC
+  year: 2019
   date: 2020-01-11 23:59:59
   url: /events/dc2020
   register_url: https://www.eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627
   background_img: dc-brookland.jpg
 
-- title: TCVirtual (formerly PHL) 2020
+- title: TCVirtual (formerly PHL)
+  year: 2020
   date: 2020-04-25 23:59:59
   url: /events/phl2020
   register_url: https://www.eventbrite.com/e/transportationcamp-phl-2020-registration-100059366258?aff=transportationcampdotorg
   background_img: philly-20-skyline-nec.jpg
 
-- title: Chicago + Indianapolis 2020 (Virtual)
+- title: Chicago + Indianapolis (Virtual)
+  year: 2020
   date: 2020-09-19 23:59:59
   url: https://yptchicago.org/transportationcamp/virtual-transportation-camp-2020/
   register_url: https://my.yptransportation.org/civicrm/event/info?reset=1&id=543
   background_img: chicago-2020.jpg
 
-- title: Toronto 2020 (Virtual)
+- title: Toronto (Virtual)
+  year: 2020
   date: 2020-10-03 23:59:59
   url: /events/toronto2020
   register_url: https://transportationcamptoronto2020.eventbrite.ca/
   background_img: toronto-2020.PNG
 
-- title: NYC 2020 (Virtual)
+- title: NYC (Virtual)
+  year: 2020
   date: 2020-10-17 23:59:59
   url: /events/nyc-2020
   register_url: https://whova.com/portal/registration/trans7_202010/
   background_img: nyc-2020.jpg
 
-- title: Pittsburgh 2020 (Virtual)
+- title: Pittsburgh (Virtual)
+  year: 2020
   date: 2020-11-14 23:59:59
   url: /events/pgh2020
   register_url: https://tcamppgh2020.eventbrite.com
   background_img: pittsburgh-bus-bike-bridge.jpg
 
-- title: DC 2021 (Virtual)
+- title: Washington DC (Virtual)
+  year: 2021
   date: 2021-01-16 23:59:59
   url: /events/dc2021
   register_url: https://www.eventbrite.com/e/transportationcamp-dc-2021-tickets-125923174605
   background_img: dc-2021.jpg
 
-- title: PHL 2021 (Virtual)
+- title: Philadelphia (Virtual)
+  year: 2021
   date: 2021-04-10 23:59:59
   url: /events/phl2021
   register_url: https://tcphl21.eventbrite.com/
   background_img: philly-21-aem7.jpg
 
-- title: PHL 2021 Summer Gathering (In-Person!)
+- title: PHL Summer Gathering
+  year: 2021
   date: 2021-07-24 23:59:59
   url: /events/phl2021-summer
   register_url: https://tcphl21summer.eventbrite.com/?aff=transportationcampdotorg
   background_img: philly-21-summer-porch.jpg
 
-- title: Baltimore 2021
+- title: Baltimore
+  year: 2021
   date: 2021-10-02 23:59:59
   url: /events/baltimore2021
   register_url: https://www.eventbrite.com/e/transportation-camp-baltimore-2021-tickets-169331419835
   background_img: baltimore-harbor.jpg
 
-- title: NYC 2021 (Hybrid)
+- title: NYC (Hybrid)
+  year: 2021
   date: 2021-10-16 23:59:59
   url: /events/nyc-2021
   register_url: https://www.eventbrite.com/e/transportationcamp-nyc-2021-hybrid-tickets-177592523017
   background_img: nyc-2021.png
 
-- title: Pittsburgh 2021 (Virtual)
+- title: Pittsburgh (Virtual)
+  year: 2021
   date: 2021-11-06 23:59:59
   url: /events/pgh2021
   register_url: http://tcamppgh.eventbrite.com/
   background_img: pittsburgh-bus-bike-bridge.jpg
 
-- title: DC 2022 (Virtual)
+- title: Washington DC (Virtual)
+  year: 2022
   date: 2022-01-08 23:59:59
   url: /events/dc2022
   register_url: https://t4america.org/transportation-camp/
   background_img: dc-2022.jpg
 
-- title: Ithaca 2022 (Virtual)
+- title: Ithaca (Virtual)
+  year: 2022
   date: 2022-01-21 23:59:59
   url: /events/ithaca2022
   register_url: https://www.eventbrite.com/e/transportationcamp-ithaca-2022-virtual-tickets-124093313441?aff=erelexpmlt
   background_img: ithaca-2022.png
 
-- title: PHL 2022 (Virtual)
+- title: Philadelphia (Virtual)
+  year: 2022
   date: 2022-03-26 23:59:59
   url: /events/phl2022
   register_url: https://tcphl22.eventbrite.com/
   background_img: philly-22-skyline-wing.jpg
 
-- title: PHL 2022 Summer Gathering (In-Person!)
+- title: PHL Summer Gathering
+  year: 2022
   date: 2022-07-23 23:59:59
   url: /events/phl2022-summer
   register_url: https://tcphl22summer.eventbrite.com/?aff=tcwebsite
   background_img: philly-22-summer-lastyrpark.jpg
-  
-- title: NYC 2022
+
+- title: NYC
+  year: 2022
   date: 2022-10-15 23:59:59
   url: /events/nyc-2022
   register_url: https://www.eventbrite.com/e/399265031457/
   background_img: nyc-2022.jpg
-  
-- title: Pittsburgh 2022 (In-Person)
+
+- title: Pittsburgh
+  year: 2022
   date: 2022-11-12 23:59:59
   url: /events/pgh2022
   register_url: http://tcamppgh.org/
   background_img: pittsburgh-bus-bike-bridge.jpg
-  
-- title: DC 2023 (In-Person)
+
+- title: Washington DC
+  year: 2023
   date: 2023-01-07 23:59:59
   url: /events/dc2023
   register_url: https://t4america.org/transportation-camp/
   background_img: dc-2023.png
-  
-- title: PHL 2023 (In-Person!)
+
+- title: Philadelphia
+  year: 2023
   date: 2023-03-18 23:59:59
   url: /events/phl2023
   register_url: https://tcphl23.eventbrite.com/?aff=tcwebsite
   background_img: philly-23-mfl-sunset.jpg
-  
-- title: PHL 2023 Summer Gathering
+
+- title: PHL Summer Gathering
+  year: 2023
   date: 2023-06-24 23:59:59
   url: /events/phl2023-summer
   register_url: https://tcphl23summer.eventbrite.com/?aff=tcwebsite
   background_img: philly-23-summer-lastyrprizesjpg.jpg
 
-- title: New England 2023
+- title: New England
+  year: 2023
   date: 2023-10-07 23:59:59
   url: /events/new-england-2023
   register_url: https://www.eventbrite.com/e/61410959834?aff=tcampsite
   background_img: ne-2023.jpg
 
-- title: NYC 2023
+- title: NYC
+  year: 2023
   date: 2023-10-14 23:59:59
   url: /events/nyc-2023
   register_url: https://bit.ly/TCNYC23-register

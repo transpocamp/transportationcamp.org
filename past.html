@@ -1,0 +1,21 @@
+---
+layout: base
+title: Past TransportationCamps
+---
+
+<div>
+    <h1>Past Events</h1>
+    {% assign past_events = site.data.events | sort: 'date' | where_exp: 'item', 'item.date < site.time' %}
+    {% assign years = past_events | map: 'year' | uniq %}
+    {% for year in years reversed %}
+        <h2 class="event-year">{{ year }}</h2>
+        <hr />
+        <div class="event-list">
+            {% for event in past_events %}
+                {% if event.year == year %}
+                    {% include event_card.html event = event %}
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+</div>
