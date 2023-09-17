@@ -2,16 +2,55 @@
 layout: base
 title: TransportationCamp
 ---
+{% assign events = site.data.events | sort: 'date' %}
+{% assign cur_year = "now" | date: "%Y" | to_integer %}
+{% assign upcoming_events = events | where_exp: 'item', 'item.date >= site.time' %}
+{% assign this_year = events | where_exp: 'item', 'item.year == cur_year' | where_exp: 'item', 'item.date < site.time' %}
 
 <div>
-    {% assign upcoming_events = site.data.events | sort: 'date' | where_exp: 'item', 'item.date >= site.time' %}
+    <h1>Upcoming Camps</h1>
+    {% if upcoming_events.size > 0 %}
     <div class="event-list">
         {% for event in upcoming_events %}
-            {% include event_card.html event = event %}
+        {% include event_card.html event = event %}
         {% endfor %}
     </div>
-</div>
+    {% else %}
+    <h4>There are no upcoming TransportationCamp events at this time.</h4>
+    {% endif %}
+    {% if this_year.size > 0 %}
+    <h1 class="home-section">Recent Camps</h1>
+    <div class="event-list">
+        {% for event in this_year reversed %}
+        {% include event_card.html event = event %}
+        {% endfor %}
+    </div>
+    {% endif %}
+    <div class="container">
+        <h1 class="home-section">About</h1>
+        <h4>TransportationCamp brings together thinkers and doers in the fields of transportation &amp; technology.</h4>
 
-<a class="btn btn-block btn-large"
-   href="{{ site.baseurl }}/2011/02/how-transportationcamp-works-the-essential-guide/">How TransportationCamp
-    works: <span class="nobreak">the essential guide</span></a>
+        <p>TransportationCamp is a series of decentralized unconferences held throughout the world, where people of all
+            backgrounds meet to discuss transportation-related topics. Each one is organized independently by their own
+            local organizing committee, and may be held in conjunction with a larger conference or event.</p>
+
+        <p>Attendees include students, young and experienced professionals, and community leaders from a wide range of
+            backgrounds&mdash;including transportation planning, technology, innovation, and policy.</p>
+
+        <p><strong>First time attendee?</strong> <a href="about/how-it-works">Learn more about how a TransportationCamp
+            works.</a></p>
+        <p><strong>Want to set up a camp of your own?</strong> For hints and tips, chat with other organizers on <a
+                href="https://transportationcamp.slack.com/">our shared Slack channel</a>.</p>
+
+        <div>
+            <a href="https://twitter.com/TranspoCamp?ref_src=twsrc%5Etfw" class="twitter-follow-button"
+               data-size="large"
+               data-dnt="true" data-show-count="false">Follow @TranspoCamp</a>
+            <a href="https://www.linkedin.com/groups/8424118/">
+                <img class="footer-img" src="assets/images/linkedin.png"
+                     alt="LinkedIn logo">
+            </a>
+        </div>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+</div>

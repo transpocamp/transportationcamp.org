@@ -1,9 +1,9 @@
 <div class="card">
-    <img class="past-img" src="{{ site.baseurl }}/assets/event-images/{{ event.background_img }}">
+    <img class="past-img" alt="" src="{{ site.baseurl }}/assets/event-images/{{ event.background_img }}">
     <div class="card-body">
         <div>
-            <div class="event-title" href="{{ event.url | absolute_url }}">{{ event.title }}</div>
-            <div class="event-date" href="{{ event.url | absolute_url }}">{{ event.date | date: "%B %e"}}</div>
+            <div><span class="event-title">{{ event.title }}</span><span class="event-subtitle">{{ event.subtitle }}</span></div>
+            <div class="event-date">{{ event.date | date: "%B %e"}}</div>
         </div>
         <div>
             <a class="event-button" href="{{ event.url | absolute_url }}">Details</a>

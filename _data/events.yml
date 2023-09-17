@@ -184,7 +184,7 @@
   url: /events/pgh-2016
   background_img: pittsburgh.jpg
 
-- title: Washington DC
+- title: DC
   year: 2017
   date: 2017-01-07 23:59:59
   url: /events/dc-2017
@@ -231,7 +231,7 @@
   url: /events/nyc-2017
   background_img: nyc-2017.jpg
 
-- title: Washington DC
+- title: DC
   year: 2018
   date: 2018-01-06 23:59:59
   url: /events/dc-2018
@@ -245,7 +245,7 @@
   register_url: http://transpocampsouth2018.eventbrite.com/
   background_img: south-2017.jpg
 
-- title: Philadelphia
+- title: PHL
   year: 2018
   date: 2018-04-14 23:59:59
   url: /events/phl2018
@@ -301,7 +301,7 @@
   register_url: https://www.eventbrite.com/e/transportationcamp-nyc-2018-registration-49533901232
   background_img: nyc-2018.jpg
 
-- title: Washington DC
+- title: DC
   year: 2019
   date: 2019-01-12 23:59:59
   url: /events/dc2019
@@ -322,7 +322,7 @@
   register_url: https://www.eventbrite.com/e/transportationcamp-south-2019-registration-50608885539
   background_img: south-2019.jpg
 
-- title: Philadelphia
+- title: PHL
   year: 2019
   date: 2019-03-30 23:59:59
   register_url: https://www.eventbrite.com/e/transportationcamp-phl-2019-registration-55000454841?aff=transportationcampdotorg
@@ -383,63 +383,71 @@
   register_url: https://www.eventbrite.com/e/transportationcamp-nyc-2019-registration-71015712909?aff=web
   background_img: nyc-2019.jpg
 
-- title: Washington DC
-  year: 2019
+- title: DC
+  year: 2020
   date: 2020-01-11 23:59:59
   url: /events/dc2020
   register_url: https://www.eventbrite.com/e/transportationcamp-dc-2020-tickets-78627385627
   background_img: dc-brookland.jpg
 
-- title: TCVirtual (formerly PHL)
+- title: TCVirtual
+  subtitle: Formerly PHL
   year: 2020
   date: 2020-04-25 23:59:59
   url: /events/phl2020
   register_url: https://www.eventbrite.com/e/transportationcamp-phl-2020-registration-100059366258?aff=transportationcampdotorg
   background_img: philly-20-skyline-nec.jpg
 
-- title: Chicago + Indianapolis (Virtual)
+- title: Chicago + Indianapolis
+  subtitle: Virtual
   year: 2020
   date: 2020-09-19 23:59:59
   url: https://yptchicago.org/transportationcamp/virtual-transportation-camp-2020/
   register_url: https://my.yptransportation.org/civicrm/event/info?reset=1&id=543
   background_img: chicago-2020.jpg
 
-- title: Toronto (Virtual)
+- title: Toronto
+  subtitle: Virtual
   year: 2020
   date: 2020-10-03 23:59:59
   url: /events/toronto2020
   register_url: https://transportationcamptoronto2020.eventbrite.ca/
   background_img: toronto-2020.PNG
 
-- title: NYC (Virtual)
+- title: NYC
+  subtitle: Virtual
   year: 2020
   date: 2020-10-17 23:59:59
   url: /events/nyc-2020
   register_url: https://whova.com/portal/registration/trans7_202010/
   background_img: nyc-2020.jpg
 
-- title: Pittsburgh (Virtual)
+- title: Pittsburgh
+  subtitle: Virtual
   year: 2020
   date: 2020-11-14 23:59:59
   url: /events/pgh2020
   register_url: https://tcamppgh2020.eventbrite.com
   background_img: pittsburgh-bus-bike-bridge.jpg
 
-- title: Washington DC (Virtual)
+- title: DC
+  subtitle: Virtual
   year: 2021
   date: 2021-01-16 23:59:59
   url: /events/dc2021
   register_url: https://www.eventbrite.com/e/transportationcamp-dc-2021-tickets-125923174605
   background_img: dc-2021.jpg
 
-- title: Philadelphia (Virtual)
+- title: PHL
+  subtitle: Virtual
   year: 2021
   date: 2021-04-10 23:59:59
   url: /events/phl2021
   register_url: https://tcphl21.eventbrite.com/
   background_img: philly-21-aem7.jpg
 
-- title: PHL Summer Gathering
+- title: PHL
+  subtitle: Summer Gathering In-Person!
   year: 2021
   date: 2021-07-24 23:59:59
   url: /events/phl2021-summer
@@ -453,42 +461,48 @@
   register_url: https://www.eventbrite.com/e/transportation-camp-baltimore-2021-tickets-169331419835
   background_img: baltimore-harbor.jpg
 
-- title: NYC (Hybrid)
+- title: NYC
+  subtitle: Hybrid
   year: 2021
   date: 2021-10-16 23:59:59
   url: /events/nyc-2021
   register_url: https://www.eventbrite.com/e/transportationcamp-nyc-2021-hybrid-tickets-177592523017
   background_img: nyc-2021.png
 
-- title: Pittsburgh (Virtual)
+- title: Pittsburgh
+  subtitle: Virtual
   year: 2021
   date: 2021-11-06 23:59:59
   url: /events/pgh2021
   register_url: http://tcamppgh.eventbrite.com/
   background_img: pittsburgh-bus-bike-bridge.jpg
 
-- title: Washington DC (Virtual)
+- title: DC
+  subtitle: Virtual
   year: 2022
   date: 2022-01-08 23:59:59
   url: /events/dc2022
   register_url: https://t4america.org/transportation-camp/
   background_img: dc-2022.jpg
 
-- title: Ithaca (Virtual)
+- title: Ithaca
+  subtitle: Virtual
   year: 2022
   date: 2022-01-21 23:59:59
   url: /events/ithaca2022
   register_url: https://www.eventbrite.com/e/transportationcamp-ithaca-2022-virtual-tickets-124093313441?aff=erelexpmlt
   background_img: ithaca-2022.png
 
-- title: Philadelphia (Virtual)
+- title: PHL
+  subtitle: Virtual
   year: 2022
   date: 2022-03-26 23:59:59
   url: /events/phl2022
   register_url: https://tcphl22.eventbrite.com/
   background_img: philly-22-skyline-wing.jpg
 
-- title: PHL Summer Gathering
+- title: PHL
+  subtitle: Summer Gathering In-Person!
   year: 2022
   date: 2022-07-23 23:59:59
   url: /events/phl2022-summer
@@ -503,27 +517,31 @@
   background_img: nyc-2022.jpg
 
 - title: Pittsburgh
+  subtitle: In-Person
   year: 2022
   date: 2022-11-12 23:59:59
   url: /events/pgh2022
   register_url: http://tcamppgh.org/
   background_img: pittsburgh-bus-bike-bridge.jpg
 
-- title: Washington DC
+- title: DC
+  subtitle: In-Person
   year: 2023
   date: 2023-01-07 23:59:59
   url: /events/dc2023
   register_url: https://t4america.org/transportation-camp/
   background_img: dc-2023.png
 
-- title: Philadelphia
+- title: PHL
+  subtitle: In-Person!
   year: 2023
   date: 2023-03-18 23:59:59
   url: /events/phl2023
   register_url: https://tcphl23.eventbrite.com/?aff=tcwebsite
   background_img: philly-23-mfl-sunset.jpg
 
-- title: PHL Summer Gathering
+- title: PHL
+  subtitle: Summer Gathering
   year: 2023
   date: 2023-06-24 23:59:59
   url: /events/phl2023-summer
