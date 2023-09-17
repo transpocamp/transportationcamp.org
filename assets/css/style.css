@@ -6,7 +6,7 @@ body {
     padding-left: 2em;
     padding-right: 2em;
     background-color: #fff;
-    font-size: small;
+    font-size: medium;
     color: #444;
     font-family: 'Open Sans', sans-serif;
 }
@@ -33,11 +33,11 @@ h1 {
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 1.75em;
 }
 
 h3 {
-    font-size: 1.75em;
+    font-size: 1.5em;
 }
 
 /* Images */
@@ -242,19 +242,4 @@ img {
 
 .pull-left {
     float: left;
-}
-
-/* =Media Queries for Responsive Layout
--------------------------------------------------------------- */
-@media only screen and (min-width: 42em) {
-    body {
-        font-size: medium;
-    }
-
-    .main-nav li {
-        display: block;
-        float: left;
-        width: 33%;
-        font-size: 1em;
-    }
 }
