@@ -1,8 +1,5 @@
 name: TransportationCamp
 markdown: kramdown
-permalink: /:year/:month/:title/
-paginate: 5
-paginate_path: archive/:num
 baseurl: ""
 exclude: [vendor, .idea]
-plugins: [jekyll-paginate, jekyll-redirect-from]
+plugins: [jekyll-redirect-from]
