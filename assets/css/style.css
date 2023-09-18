@@ -149,6 +149,11 @@ img {
     user-select: none;
 }
 
+.event-full-box a {
+    color: unset;
+    text-decoration: none;
+}
+
 .event-full-date {
     font-size: 1.8em;
 }
@@ -168,7 +173,6 @@ img {
 }
 
 .event-full-links a {
-    text-decoration: none;
     color: #308fbf;
 }
 
@@ -215,6 +219,11 @@ img {
 .event-subtitle {
     color: #e26b1b;
     font-size: 1em;
+    margin-left: 0.25em;
+}
+
+.event-full-name .event-subtitle {
+    font-size: 0.5em;
     margin-left: 0.25em;
 }
 

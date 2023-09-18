@@ -1,8 +1,13 @@
 <div class="event-full"
      style="background-image: url({{ site.baseurl }}/assets/event-images/{{ event.background_img }});">
     <div class="container event-full-box">
-        <div class="event-full-name">{{ event.title }}</div>
-        <div class="event-full-date">{{ event.date | date: "%B %e"}}</div>
+        <a href="{{ event.url | absolute_url }}">
+            <div class="event-full-name">
+                {{ event.title }}
+                <span class="event-subtitle">{{ event.subtitle }}</span>
+            </div>
+            <div class="event-full-date">{{ event.date | date: "%B %e"}}</div>
+        </a>
         <div class="event-full-links">
             <a href="{{ event.url | absolute_url }}">Details</a> |
             {% if event.register_url %}
