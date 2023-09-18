@@ -133,9 +133,9 @@ Want to make sure you don't miss a thing? We encourage you to subscribe to our m
 
 Thank you to our sponsors for making the event possible!
 
-![TransitCenter](https://github.com/openplans/transportationcamp.org/blob/tcphlsummer23/events/phl2023/TransitCenter%20Logo.jpg?raw=true)
+![TransitCenter](TransitCenter%20Logo.jpg)
 
-![Other Sponsors](https://github.com/openplans/transportationcamp.org/blob/tcphlsummer23/events/phl2023/2023%20Sponsor%20Logos.png?raw=true)
+![Other Sponsors](2023%20Sponsor%20Logos.png)
 
 <!---
 > Thank you [WTS Philadelphia](http://www.wtsinternational.org/philadelphia/), [Azavea](https://www.azavea.com/), [WSP](https://www.wsp.com/), [Gannett Fleming](https://www.gannettfleming.com/), [the Evans Network of Companies](https://theenoc.com/), and [TransitCenter](http://transitcenter.org/) for helping make last year's TransportationCamp PHL (Virtual) 2021 a reality!
@@ -174,4 +174,3 @@ Want a better sense of the vibe? Check out resources from past incarnations:
 TransportationCamp PHL is organized thanks to a collaborative effort between YPT, WTS, and Drexel University.
 Passionate about transportation and bringing the conference to Philadelphia, the conference's co-chairs span a diverse array of subsets in the industry with professional experience in both public and private transportation operations, transportation planning, and logistics consulting.
 For additional breadth, the conference has a larger working group whose collective knowledge and expertise spans all facets of the industry and includes all levels of transportation involvement (ranging from career professionals to engaged hobbyists).
-
