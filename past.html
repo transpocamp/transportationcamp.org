@@ -5,7 +5,7 @@ title: Past TransportationCamps
 {% assign past_events = site.data.events | sort: 'date' | where_exp: 'item', 'item.date < site.time' %}
 {% assign years = past_events | map: 'year' | uniq %}
 
-<div>
+<div class="body">
     <h1>Past Camps</h1>
     {% for year in years reversed %}
     <h2 class="event-year">{{ year }}</h2>
