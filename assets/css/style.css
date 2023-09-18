@@ -4,7 +4,7 @@ body {
     min-height: 100%;
     background-color: #fff;
     font-size: medium;
-    color: #444;
+    color: #333;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -49,6 +49,14 @@ img {
     height: auto;
 }
 
+a {
+    color: #308fbf;
+}
+
+a:hover {
+    color: #3db6f2;
+}
+
 /* =Header
 -------------------------------------------------------------- */
 .site-header {
@@ -73,8 +81,8 @@ img {
 }
 
 .main-nav .nav-link {
+    color: #333;
     display: inline-block;
-    color: #000;
     border-radius: 4px;
     cursor: pointer;
     text-align: center;
@@ -127,12 +135,16 @@ img {
 }
 
 .event-full-box a {
-    color: unset;
     text-decoration: none;
+}
+
+.disabled-register {
+    color: unset;
 }
 
 .event-full-date {
     font-size: 1.8em;
+    color: #333;
 }
 
 .event-full-name {
@@ -149,19 +161,11 @@ img {
     text-transform: uppercase;
 }
 
-.event-full-links a {
-    color: #308fbf;
-}
-
-.event-full-links a:hover {
-    color: #3db6f2;
-}
-
 /* =Events (cards)
 -------------------------------------------------------------- */
 .card {
     border-radius: 1em;
-    border: 2px solid black;
+    border: 2px solid #333;
     height: 21em;
     width: 21em;
     overflow: hidden;
@@ -181,7 +185,6 @@ img {
     margin-right: 4%;
     font-weight: bold;
     line-height: 1.5;
-    color: black;
     display: flex;
     height: 46%;
     flex-direction: column;
@@ -232,6 +235,7 @@ img {
 
 .event-button:hover {
     background-color: #c55e1a;
+    color: white;
     transition: 0.5s;
 }
 
