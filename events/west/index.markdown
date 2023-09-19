@@ -517,26 +517,26 @@ Happy hour downstairs at Public Works.
 
 **Event partners:**
 [![](http://screenshots.wrkng.net/2011-01-19_1119.png)](http://www.nyls.edu/centers/harlan_scholar_centers/institute_for_information_law_and_policy)
-[![]({{ site.baseurl }}/assets/uploads/2010/12/gaffta_logo1-300x104.png)](http://gaffta.org)
+[![](../east/gaffta_logo1-300x104.png)](http://gaffta.org)
 
 **Event sponsors:**
-[![]({{ site.baseurl }}/assets/uploads/2010/12/avega_hi-res-logo-300x108.jpg)](http://www.avego.com/)
+[![](../east/avega_hi-res-logo-300x108.jpg)](http://www.avego.com/)
 
 
 Real-time Ridesharing - Avego matches drivers and riders in real time as they travel, so you can rideshare whenever you want, from wherever you are.
 
 
-[![]({{ site.baseurl }}/assets/uploads/2010/12/Bing_Maps_blue20logo-300x82.jpg)]({{ site.baseurl }}/assets/uploads/2010/12/Bing_Maps_blue20logo.jpg)
+[![](../east/Bing_Maps_blue20logo-300x82.jpg)](../east/Bing_Maps_blue20logo.jpg)
 Get driving and transit directions with local traffic and road conditions. Find the best routes to nearby businesses with reviews
-[![]({{ site.baseurl }}/assets/uploads/2010/12/Google-Maps_logo-300x62.png)](http://google.com)
+[![](../east/Google-Maps_logo-300x62.png)](http://google.com)
 **All the world’s information, organized geographically.**** **Most of the world’s information has an associated location and makes more sense when presented in a geographic context. We use location to find results for our users that are relevant, fresh, accurate, rich, personalized and packaged to convey what matters and why about every place in the world.
-[![]({{ site.baseurl }}/assets/uploads/2010/12/Red-Hat_logo-300x96.jpg)](http://www.redhat.com/)
+[![](../east/Red-Hat_logo-300x96.jpg)](http://www.redhat.com/)
 Red Hat is the world’s leading provider of open source solutions, offering choice to customers building open source IT infrastructures. Its unique business model proves open source subscriptions for its high-quality, affordable technology. Its operating system, Red Hat Enterprise Linux® (RHEL), and its virtualization solution, Red Hat Enterprise Virtualization (RHEV), together with applications, management, and a service-oriented architecture, including the JBoss Enterprise Middleware Suite, deliver industry-leading value. Red Hat’s mission is to be the catalyst in communities of customers, contributors, and partners creating better technology the open source way.
-[![]({{ site.baseurl }}/assets/uploads/2010/12/UrbanMapping_logo.png)](http://urbanmapping.com)
+[![](../east/UrbanMapping_logo.png)](http://urbanmapping.com)
 Urban Mapping provides cloud-based mapping and analytics services to simplify the development and deployment of online mapping and data visualization applications. The flagship product, Mapfluence, offers a solid technical infrastructure for mapping, geospatial query and visualization along with custom base maps and the industry's most comprehensive on-demand data catalog. For interactive publishers focused on local content, Urban Mapping offers specialized databases for neighborhoods, mass transit and parking.
-[![]({{ site.baseurl }}/assets/uploads/2010/12/waze_logo-300x96.jpg)](http://waze.com)
+[![](../east/waze_logo-300x96.jpg)](http://waze.com)
 Waze is a social mobile application that enables drivers to build and use real-time road intelligence. The service includes constantly-updated road maps, alerts on traffic and accidents, and data providing users with the fastest route to get to wherever they need to go.
-[![]({{ site.baseurl }}/assets/uploads/2010/12/3gmobilitylogo.jpg)](http://www.3gmobility.ws/)
+[![](../east/3gmobilitylogo.jpg)](http://www.3gmobility.ws/)
 3G Mobility promotes the next generation of transportation, encouraging faster, ecological, cost-effective grassroots solutions
 through social media publishing, strategic consulting, and innovative research.
 ** **
@@ -544,24 +544,24 @@ through social media publishing, strategic consulting, and innovative research.
 **Tour sponsors:**
 
 
-[![]({{ site.baseurl }}/assets/uploads/2010/12/mtasymbolpms286.jpg)]({{ site.baseurl }}/assets/uploads/2010/12/mtasymbolpms286.jpg)
+[![](../east/mtasymbolpms286.jpg)](../east/mtasymbolpms286.jpg)
 
 
-[![]({{ site.baseurl }}/assets/uploads/2010/12/TTN1-300x92.jpg)]({{ site.baseurl }}/assets/uploads/2010/12/TTN1.jpg)** **
+[![](../east/TTN1-300x92.jpg)](../east/TTN1.jpg)** **
 ** **
 
 **Event supporters & partners:**
-**[![]({{ site.baseurl }}/assets/uploads/2010/12/spur-logo_bw.jpg)]({{ site.baseurl }}/assets/uploads/2010/12/spur-logo_bw.jpg)
+**[![](../east/spur-logo_bw.jpg)](../east/spur-logo_bw.jpg)
 **
 **[![](https://evbdn.eventbrite.com/s3-s3/eventlogos/9246459/mediapartnersaslogo960x2001.jpg)](http://secondavenuesagas.com/)**
 **
 **
-[![]({{ site.baseurl }}/assets/uploads/2010/12/LOGOTYPE_4-300x47.jpg)]({{ site.baseurl }}/assets/uploads/2010/12/LOGOTYPE_4.jpg)
-[![]({{ site.baseurl }}/assets/uploads/2010/12/blinktag-logo.jpg)](http://blinktag.com/)
-[![]({{ site.baseurl }}/assets/uploads/2010/12/CityCampSF.png)](http://citycampsf.govfresh.com/)
-[![]({{ site.baseurl }}/assets/uploads/2010/12/CfA.jpeg)](http://codeforamerica.org/)
-[![]({{ site.baseurl }}/assets/uploads/2010/12/collectively-logo.jpg)](http://collectively.us/)
-[![]({{ site.baseurl }}/assets/uploads/2010/12/OneBusAway-Icon-Labeled-250px-247x300.png)](http://onebusaway.org)
+[![](../east/LOGOTYPE_4-300x47.jpg)](../east/LOGOTYPE_4.jpg)
+[![](../east/blinktag-logo.jpg)](http://blinktag.com/)
+[![](../east/CityCampSF.png)](http://citycampsf.govfresh.com/)
+[![](../east/CfA.jpeg)](http://codeforamerica.org/)
+[![](../east/collectively-logo.jpg)](http://collectively.us/)
+[![](../east/OneBusAway-Icon-Labeled-250px-247x300.png)](http://onebusaway.org)
 [![](http://www.pcac.org/wp-content/themes/pcac/images/logo.gif)](http://pcac.org)
-![]({{ site.baseurl }}/assets/uploads/2010/12/trillium-solutions-new-logo-300x64.png)
+![](../east/trillium-solutions-new-logo-300x64.png)
 Website based on the [CityCamp](http://citycamp.com/) WordPress theme by [east](http://transportationcamp.org/)
