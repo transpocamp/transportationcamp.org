@@ -2,135 +2,57 @@
 layout: base
 title: TransportationCamp
 ---
+{% assign events = site.data.events | sort: 'date' %}
+{% assign cur_year = "now" | date: "%Y" | to_integer %}
+{% assign upcoming_events = events | where_exp: 'item', 'item.date >= site.time' %}
+{% assign this_year = events | where_exp: 'item', 'item.year == cur_year' | where_exp: 'item', 'item.date < site.time' %}
 
-<section id="upcoming">
-  <!-- <h2>Upcoming Events</h2> -->
-  <ul class="unstyled-list">
-    {% assign sorted_events = site.data.events | sort: 'date' %}
-    {% for event in sorted_events %}
-      {% if event.date > site.time %}
-      <li class="event" style="background-image: url({{ site.baseurl }}/assets/images/{{ event.background_img }});">
-        <div class="container">
-          <div class="event-header">
-            <a class="event-date" href="{{ site.baseurl }}{{ event.url }}">{{ event.date | date: "%B %d"}}</a>
-            <a class="event-title" href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a>
-          </div>
-          <div class="event-footer">
-            <a href="{{ site.baseurl }}{{ event.url }}">Details</a> | {% if event.register_url %}<a href="{{ event.register_url }}" target="_blank">Register</a>{% else %}<span class="no-registration-link">Register</span>{% endif %}
-          </div>
-        </div>
-      </li>
-      {% endif %}
+<div>
+    {% if upcoming_events.size > 0 %}
+    {% for event in upcoming_events %}
+    {% include event_full.html event = event %}
     {% endfor %}
-  </ul>
-</section>
+    {% else %}
+    <h1>Upcoming Camps</h1>
+    <h4>There are no upcoming TransportationCamp events at this time.</h4>
+    {% endif %}
+    <div class="body">
+        {% if this_year.size > 0 %}
+        <h1 class="home-section">Recent Camps</h1>
+        <div class="event-list">
+            {% for event in this_year reversed %}
+            {% include event_card.html event = event %}
+            {% endfor %}
+        </div>
+        {% endif %}
+        <div class="container">
+            <h1 class="home-section">About</h1>
+            <h4>TransportationCamp brings together thinkers and doers in the fields of transportation &amp;
+                technology.</h4>
 
-<section id="about">
- <div class="container">
-   <div class="page-header">
-     <h2>About TransportationCamp</h2>
-   </div>
+            <p>TransportationCamp is a series of decentralized unconferences held throughout the world, where people of
+                all backgrounds meet to discuss transportation-related topics. Each one is organized independently by
+                their own local organizing committee, and may be held in conjunction with a larger conference or
+                event.</p>
 
-    <h4>TransportationCamp brings together thinkers and doers in the fields of transportation &amp; technology.</h4>
+            <p>Attendees include students, young and experienced professionals, and community leaders from a wide range
+                of backgrounds&mdash;including transportation planning, technology, innovation, and policy.</p>
 
-    <p>TransportationCamp is an unconference bringing together transportation professionals, technologists, and others interested in the intersection of urban transportation and technology.</p>
+            <p><strong>First time attendee?</strong> <a href="about/how-it-works">Learn more about how a
+                TransportationCamp works.</a></p>
+            <p><strong>Want to set up a camp of your own?</strong> For hints and tips, chat with other organizers on <a
+                    href="https://transportationcamp.slack.com/">our shared Slack channel</a>.</p>
 
-    <p>Transportation is a major metropolitan issue, with direct impacts on economic strength, environmental sustainability, and social equity. Recent advances in technology&mdash;mobile computing, open source software, open data and APIs, and spatial analysis&mdash;present an opportunity to improve mobility more immediately and at a lower cost than has ever been possible in the past.</p>
-
-    <p>TransportationCamp raises awareness of this opportunity and builds  connections between disparate innovators in public administration, transportation operations, information design, and software engineering.</p>
-
-    <h4>What's an "unconference?"</h4>
-
-    <p>This is not a traditional conference.
-    The session topics and activities are suggested by the attendees.
-    In addition to talks and presentations from big names in transportation and technology, TransportationCamp provides an opportunity for every attendee to be a participant in shaping and leading the event.
-    Be prepared to get involved and meet people.
-
-    <p>Sessions may come in a variety of formats:
-      <a href="https://en.wikipedia.org/wiki/Birds_of_a_feather_(computing)">birds-of-a-feather</a>,
-      <a href="https://en.wikipedia.org/wiki/Lightning_talk">lightning talks</a>,
-      <a href="https://en.wikipedia.org/wiki/Open_Space_Technology">open space technology</a>,
-      <a href="https://en.wikipedia.org/wiki/PechaKucha">pecha kucha</a>, and others.
-
-    <p>Major themes reflect the backgrounds and interests of the participants.
-    You'll find sessions about technology, policy issues, urban planning, and more.
-
-    <h4>History of TransportationCamp</h4>
-
-    <p>TransportationCamp, the trailblazing transportation “unconference,” was first organized by
-    <a href="http://openplans.org/">OpenPlans</a> with
-    <a href="http://transportationcamp.org/events/east/">TransportationCamp East</a> held in New York City on
-    March 5, 2011. Hundreds of enthusiastic participants
-    descended upon New York Law School for that first camp to engage in networking and user-generated session topics
-    ranging from “Fixing the Great Mistake… Reducing Car Traffic in NYC by 90% in 20 Years (10?)” to “What the Hell
-    is a Smart Street?”
-
-    <p>Just two weeks later, OpenPlans produced
-    <a href="http://transportationcamp.org/events/west/">TransportationCamp West</a> in San Francisco. This
-    two-day program was held at Public Works SF and featured dozens of sessions with intriguing topics including
-    “TDM 2.0” and “Sexy Transit.” Generous support from the Rockefeller Foundation was critical to organizing,
-    publicizing and staging these events.
-
-    <p>Following on the heels of these successes, TransportationCamps have been organized in cities across North America: Montreal, Washington, Atlanta and Boston.
-
-    <p>The visionary team at OpenPlans has created a great model for transportation professionals, students and aficionados to engage ideas and brainstorm one of mankind’s most enduring challenges: mobility.
-
-    <p>In October 2014, OpenPlans passed the baton to <a href="http://www.mobilitylab.org/">Mobility Lab</a> to
-    continue the tradition of TransportationCamp in Washington, DC, and to help facilitate events in other regions.
-    Each region's event is organized separately by dedicated individuals and organizations.
-    Mobility Lab maintains the web site, the <a href="https://twitter.com/transpocamp">@transpocamp</a>
-    Twitter account, and the main mailing list.
-
-    <p>In October 2019, Mobility Lab stepped back from its caretaker role.
-    The DC event was taken over by <a href="http://t4america.org/">Transportation for America</a>.
-
-    <h4>Keep in touch</h4>
-
-    Follow us at <a href="https://twitter.com/transpocamp">@transpocamp</a>.
-    The central mailing list has been inactivated.
-    There is a <a href="https://www.linkedin.com/groups/8424118/">TransportationCamp LinkedIn group</a>.
-    TransportationCamp organizers should request to join <a href="https://transportationcamp.slack.com/">transportationcamp.slack.com</a>.
-    <p>&nbsp;<p>
-
-    <a class="btn btn-block btn-large" href="{{ site.baseurl }}/2011/02/how-transportationcamp-works-the-essential-guide/">How TransportationCamp works: <span class="nobreak">the essential guide</span></a>
-  </div>
-</section>
-
-<section id="news">
-  <div class="container clearfix">
-    <div class="page-header">
-      <h2>What's Happening?</h2>
+            <div>
+                <a href="https://twitter.com/TranspoCamp?ref_src=twsrc%5Etfw" class="twitter-follow-button"
+                   data-size="large"
+                   data-dnt="true" data-show-count="false">Follow @TranspoCamp</a>
+                <a href="https://www.linkedin.com/groups/8424118/">
+                    <img class="footer-img" src="assets/images/linkedin.png"
+                         alt="LinkedIn logo">
+                </a>
+            </div>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
     </div>
-    <ul class="unstyled-list">
-      {% for post in site.posts limit: 3 %}
-        <li class="post">
-          <h3 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-          <div class="post-excerpt">{{ post.excerpt }}</div>
-        </li>
-      {% endfor %}
-    </ul>
-
-    <a class="pull-right btn" href="{{ site.baseurl }}/news">See All News<span class="arrow">&nbsp;&nbsp;&#9658;</span></a>
-  </div>
-</section>
-
-<section id="past">
-  <div class="past-events-header container">
-    <h2>Past Events</h2>
-  </div>
-  <ul class="unstyled-list">
-    {% assign sorted_events = site.data.events | sort: 'date' %}
-    {% for event in sorted_events reversed %}
-      {% if event.date < site.time %}
-      <li class="event" style="background-image: url({{ site.baseurl }}/assets/images/{{ event.background_img }});">
-        <div class="container">
-          <div class="event-header">
-            <a class="event-date" href="{{ site.baseurl }}{{ event.url }}">{{ event.date | date: "%B %d"}}</a>
-            <a class="event-title" href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a>
-          </div>
-        </div>
-      </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</section>
+</div>
