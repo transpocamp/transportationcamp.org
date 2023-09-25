@@ -33,12 +33,12 @@ Secure your spot and RSVP [here](https://bit.ly/TCNYC23-register).
 
 - **9:00AM:** Doors Open; Check-In and Breakfast
 - **10:00AM:** Welcome and Kick-Off
-- **11:30AM:** Breakout Session 1
-- **12:30PM:** Lunch and Networking
-- **1:30PM:** Breakout Session 2
+- **11:15AM:** Breakout Session 1
+- **12:15PM:** Lunch and Networking
+- **1:15PM:** Breakout Session 2
 - **2:30PM:** Breakout Session 3
-- **3:30PM:** Breakout Session 4
-- **5:00PM:** Happy Hour (in planning!)
+- **3:45PM:** Breakout Session 4
+- **5:00PM:** Happy Hour
 
 ### Presenting?
 
@@ -50,17 +50,22 @@ be handing out **session idea cards** throughout registration. If you have an id
 down in advance and bring it with you to the event.
 
 <h3 style="color: #FF6600;">Student Scholarship</h3>
-For the fourth consecutive year, TransportationCamp NYC will award one undergraduate student and one graduate student a
-$500 scholarship. Check back for more details in September!
+[Applications](https://forms.gle/NLpHdxEmCeRuKdKQ6) are now open for our scholarship essay! This year,
+TransportationCamp NYC will award TWO undergraduate students and TWO graduate students a $500 scholarship. Make sure you
+submit your essay by Monday, October 9 at 11:59pm EDT to qualify!
 
-<h3 style="color: #FF6600;">Post-Camp Outing</h3>
-Stay tuned for more information about our fun-filled day-long event to be held on Sunday, October 15, led by the TCNYC
-team and MobilityData!
+<h3 style="color: #FF6600;">Post-Camp Bike Tour</h3>
+We're planning a bike tour to be held on Sunday, October 15, led by the TCNYC team and MobilityData. Stay tuned for more
+details!
+
+<h3 style="color: #FF6600;">Happy Hour</h3>
+In coordination with YPT-NYC and WTS-GNY, TCNYC will be hosting a Happy Hour on the evening of Thursday, October 12 and
+right after Camp on Saturday, October 14 in Brooklyn. Stay tuned for more details!
 
 ### First Time at a TransportationCamp?
 
-- **How To TransportationCamp:** The folks at MobilityLab have taken the time to put together
-  a [TransportationCamp 101 guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/)
+- **How To TransportationCamp:** Review
+  the [TransportationCamp 101 guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/)
   that explains all aspects of the event.
 - **Participation Encouraged:** Sessions are formed as the day goes on, so be sure to come with topics for discussion.
   If you have an idea, feel free to share and add your thoughts.
