@@ -261,7 +261,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-redirect-from (~> 0.16.0)
   webrick (~> 1.8)
 
 BUNDLED WITH
