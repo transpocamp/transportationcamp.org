@@ -548,6 +548,13 @@
   register_url: https://tcphl23summer.eventbrite.com/?aff=tcwebsite
   background_img: philly-23-summer-lastyrprizesjpg.jpg
 
+- title: Melbourne
+  year: 2023
+  date: 2023-10-06 23:59:59
+  url: https://dan-peade.squarespace.com/events/2023/10/6/transportcamp-melbourne-2023-karmn
+  register_url: https://www.trybooking.com/CLDSB
+  background_img: melbourne-2023.jpg
+
 - title: New England
   year: 2023
   date: 2023-10-07 23:59:59
@@ -562,17 +569,11 @@
   register_url: https://bit.ly/TCNYC23-register
   background_img: nyc-2023.png
 
-- title: Melbourne
-  year: 2023
-  date: 2023-10-06 23:59:59
-  url: https://dan-peade.squarespace.com/events/2023/10/6/transportcamp-melbourne-2023-karmn
-  register_url: https://www.trybooking.com/CLDSB
-  background_img: melbourne-2023.jpg
-
 - title: Brisbane
   year: 2023
   date: 2023-10-27 23:59:59
   url: https://dan-peade.squarespace.com/events/2023/6/26/transportcamp-brisbane-2023-bdt5s
+  register_url: https://www.trybooking.com/CLECS
   background_img: brisbane-2023.jpg
 
 - title: PGH
