@@ -7,14 +7,14 @@ slug: "new-england-2023"
 title: TransportationCamp NE 2023
 published: true
 logo: Header-Image_website.png
-logo-alt: "TransportationCamp New England 2023: October 7 at MIT Stata Center"
+logo-alt: "TransportationCamp New England 2023: October 7 at MIT"
 hide-title: true
 ---
 
 
 <h1 style="color: #FF6600;">TransportationCamp New England is back!</h1>
 
-After a 3 year hiatus, we return in-person for New England’s 6th annual camp on Saturday, October 7th at the [MIT Stata Center](https://www.google.com/maps/dir//Stata+Center,+32+Vassar+St,+Cambridge,+MA+02139/@42.3616134,-71.0932104,17z/data=!4m18!1m8!3m7!1s0x89e370a95d3025a9:0xb1de557289ff6bbe!2sStata+Center,+32+Vassar+St,+Cambridge,+MA+02139!3b1!8m2!3d42.3616095!4d-71.0906355!16zL20vMDEyamZ2!4m8!1m0!1m5!1m1!1s0x89e370a95d3025a9:0xb1de557289ff6bbe!2m2!1d-71.0906355!2d42.3616095!3e3?entry=ttu)! Join us to be a part of the conversation on all topics of mobility in this open and inclusive event.
+After a 3 year hiatus, we return in-person for New England’s 6th annual camp on Saturday, October 7th at [MIT](https://maps.app.goo.gl/9dkojPAdqRk4jbZt8)! Join us to be a part of the conversation on all topics of mobility in this open and inclusive event.
 
 TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconference)** - every session is **planned, proposed, and led by attendees like you**. It&#39;s the perfect opportunity to share your transportation passion with a diverse gathering of fellow enthusiasts. TransportationCamp welcomes all attendees, whether you&#39;re a planner, software developer, engineer, student, transportation professional, community member, policy maker, or just excited about mobility!
 
@@ -44,13 +44,14 @@ TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconfer
 
 
 [Sign up for emails](https://mailchi.mp/c4f666d15575/tcampne) and follow [@TranspoCampNE](https://twitter.com/TranspoCampNE) on Twitter and [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
+
 ## Getting to TCNE
 
-Located two blocks west of Kendall station on the Red Line, the Stata Center is easily accessible by foot, bike, and transit. Limited parking is available.
+Located two blocks west of Kendall station on the Red Line, MIT building 26 is easily accessible by foot, bike, and transit. Limited parking is available.
 
-> [MIT Stata Center
-> 32 Vassar Street
-> Cambridge, MA 02139](https://www.google.com/maps/dir//Stata+Center+32+Vassar+St+Cambridge,+MA+02139/@42.361707,-71.1728641,12z/data=!3m1!4b1!4m9!4m8!1m0!1m5!1m1!1s0x89e370a95d3025a9:0xb1de557289ff6bbe!2m2!1d-71.0906355!2d42.3616095!3e3?entry=ttu)
+> [MIT Compton Laboratories (26)
+> Access Via 60 Vassar Street
+> Cambridge, MA 02139](https://maps.app.goo.gl/9dkojPAdqRk4jbZt8)
 
 ## Digital Board
 Follow along with the live board when the day arrives!
@@ -60,7 +61,7 @@ Follow along with the live board when the day arrives!
 | Time | Event |
 |--------|--------|
 | **8:00am** | Doors open - Registration & Breakfast
-| **9:15am - 10:30am** | Welcome Session (Stata 32-123)
+| **9:15am - 10:30am** | Welcome Session (MIT 26-100)
 | **10:45am - 11:45am** | 1st session (in classrooms)
 | **12:00pm - 1:00pm** | 2nd session (in classrooms)
 | **1:00pm - 2:00pm** | Lunch
