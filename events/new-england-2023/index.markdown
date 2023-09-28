@@ -44,7 +44,6 @@ TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconfer
 
 
 [Sign up for emails](https://mailchi.mp/c4f666d15575/tcampne) and follow [@TranspoCampNE](https://twitter.com/TranspoCampNE) on Twitter and [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
-
 ## Getting to TCNE
 
 Located two blocks west of Kendall station on the Red Line, MIT building 26 is easily accessible by foot, bike, and transit. Limited parking is available.
