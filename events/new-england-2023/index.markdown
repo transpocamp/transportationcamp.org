@@ -11,11 +11,6 @@ logo-alt: "TransportationCamp New England 2023: October 7 at MIT"
 hide-title: true
 ---
 
-
-<h1 style="color: #FF6600;">Joining us for Camp today? View <a href="https://paper.dropbox.com/doc/TransportationCamp-NE-2023-UoLN61O0RtgD9EaxFGeFo">the board</a> online!</h1>
-<br /> <br />
-
-
 <h1 style="color: #FF6600;">TransportationCamp New England is back!</h1>
 
 After a 3 year hiatus, we return in-person for New England’s 6th annual camp on Saturday, October 7th at [MIT](https://maps.app.goo.gl/9dkojPAdqRk4jbZt8)! Join us to be a part of the conversation on all topics of mobility in this open and inclusive event.
