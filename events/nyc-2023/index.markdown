@@ -50,17 +50,33 @@ be handing out **session idea cards** throughout registration. If you have an id
 down in advance and bring it with you to the event.
 
 <h3 style="color: #FF6600;">Student Scholarship</h3>
-[Applications](https://forms.gle/NLpHdxEmCeRuKdKQ6) are now open for our scholarship essay! This year,
-TransportationCamp NYC will award TWO undergraduate students and TWO graduate students a $500 scholarship. Make sure you
-submit your essay by Monday, October 9 at 11:59pm EDT to qualify!
+[Applications](https://forms.gle/NLpHdxEmCeRuKdKQ6) are now open for our scholarship essay! Make sure you submit your
+essay by Monday, October 9 at 11:59pm EDT to enter for a chance to win $500!
 
-<h3 style="color: #FF6600;">Post-Camp Bike Tour</h3>
-We're planning a bike tour to be held on Sunday, October 15, led by the TCNYC team and MobilityData. Stay tuned for more
-details!
+<h3 style="color: #FF6600;">Pre-Camp Happy Hour</h3>
+Thanks to our friends at YPT-NYC, we'll be hosting a Happy Hour on Thursday, October 12 at 6pm.
+Join us at The Brazen Head in Brooklyn to reacquaint yourself with old friends and meet new ones before Camp on
+Saturday! Learn more and register [here](https://www.eventbrite.com/e/ypt-nyc-x-tcnyc-october-happy-hour-tickets-733145898117?aff=ebdsoporgprofile).
 
-<h3 style="color: #FF6600;">Happy Hour</h3>
-In coordination with YPT-NYC and WTS-GNY, TCNYC will be hosting a Happy Hour on the evening of Thursday, October 12 and
-right after Camp on Saturday, October 14 in Brooklyn. Stay tuned for more details!
+<h3 style="color: #FF6600;">Post-Camp Happy Hour</h3>
+In coordination with WTS-GNY, we'll also be hosting a Happy Hour immediately after Camp on Saturday evening. Continue
+your conversations from the unconference at Circa Brewing before heading out for the night!
+
+<h3 style="color: #FF6600;">Hudson River Park Bike Tour</h3>
+On Sunday, October 15, we'll be hosting a bike tour along the Hudson River Greenway beginning at 1pm. Join us to ride
+from Battery Park all the way to Midtown and learn about various points of interest along the way. Don't have a bike?
+That's okay! We'll be starting and ending at a CitiBike dock. More details to come soon!
+
+<h3 style="color: #FF6600;">MobilityData's North American Workshop</h3>
+On October 16 and 17, just after TransportationCamp NYC, MobilityData will be holding their North American Workshop in
+New York City! [Register here](https://mobilitydata.org/event/mobilitydata-north-american-workshop/) for this two-day
+event dedicated to discussing mobility through the lens of data. This workshop is meant for people who are all about
+mobility data, how to standardize it, how to exchange it, and how to leverage it!
+
+MobilityData is the global nonprofit dedicated to developing the open-source data formats that provide traveler
+information. MobilityData also focuses on creating spaces for knowledge exchange, bringing together public and private
+stakeholders to build the mobility of today and tomorrow.
+
 
 ### First Time at a TransportationCamp?
 
@@ -78,6 +94,6 @@ Make sure you&#39;re up to date by following us on Twitter [@TranspoCampNYC](htt
 subscribing to our [email updates](http://eepurl.com/dFtMzX). And keep the conversation going! Tag your
 tweets, Instagram photos, and more with the official event hashtag: <span style="color: #FF6600;">**#TCNYC23**</span>
 
-**To learn more about sponsorship opportunities, contact [tcampnyc@gmail.com](mailto:tcampnyc@gmail.com) and get your
-organization&#39;s name in front of the people who are working on the latest and greatest at the intersection of
-transportation and technology while supporting a forum for collaboration and challenging conversations.**
+### Thank You to Our Sponsors!
+
+<img src="Sponsors.jpg">
