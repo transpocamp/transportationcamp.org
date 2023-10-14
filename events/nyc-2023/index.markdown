@@ -12,6 +12,8 @@ hide-title: true
 
 <img src="board.jpg" alt="Board" />
 
+<h1 style="color: #FF6600;">Joining us for Camp today? View <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuvZwUEVh8QIPhEwl1l8oN6V-PmsjIVZZ9vijno9eTjUBKIHq_N3MqvEeoetGe7DLf_quCdWwl70Hh/pubhtml?gid=302942185&single=true">the board</a> online!</h1>
+
 ### TransportationCamp NYC 2023 is returning to Brooklyn!
 
 TransportationCamp NYC will be held on Saturday, October 14th at NYU&#39;s Tandon School of Engineering in Downtown
@@ -25,9 +27,7 @@ TransportationCamp welcomes all attendees, whether you&#39;re a planner,
 software developer, engineer, student, transportation professional, community member, policymaker, or just excited
 about mobility!
 
-<h3 style="color: #FF6600;">REGISTRATION IS OPEN</h3>
-
-Secure your spot and RSVP [here](https://bit.ly/TCNYC23-register).
+The event has sold out and registration is now closed.
 
 ### Event Schedule
 
@@ -56,16 +56,28 @@ essay by Monday, October 9 at 11:59pm EDT to enter for a chance to win $500!
 <h3 style="color: #FF6600;">Pre-Camp Happy Hour</h3>
 Thanks to our friends at YPT-NYC, we'll be hosting a Happy Hour on Thursday, October 12 at 6pm.
 Join us at The Brazen Head in Brooklyn to reacquaint yourself with old friends and meet new ones before Camp on
-Saturday! Learn more and register [here](https://www.eventbrite.com/e/ypt-nyc-x-tcnyc-october-happy-hour-tickets-733145898117?aff=ebdsoporgprofile).
+Saturday! Learn more and
+register [here](https://www.eventbrite.com/e/ypt-nyc-x-tcnyc-october-happy-hour-tickets-733145898117?aff=ebdsoporgprofile).
 
-<h3 style="color: #FF6600;">Post-Camp Happy Hour</h3>
-In coordination with WTS-GNY, we'll also be hosting a Happy Hour immediately after Camp on Saturday evening. Continue
-your conversations from the unconference at Circa Brewing before heading out for the night!
+<h3 style="color: #FF6600;">Post-Camp Happy Hour and Pizza Party</h3>
+In coordination with WTS-GNY, we’ll be hosting a Happy Hour immediately after Camp at Circa Brewing at 141 Lawrence
+Street. However, due to the large number of attendees at Camp this year, **we will need to limit how many people can go
+**.
+As a result, we will also be hosting a pizza party in the second floor cafe at 5pm for those who aren't able to make it
+into the Happy Hour.
+
+We kindly ask that you only sign up to attend the Happy Hour if you are **21 years of age or older**. If you would like
+to
+attend either the Happy Hour or the Pizza Party, **please fill
+out [this form](https://docs.google.com/forms/d/e/1FAIpQLSduKDTKOgC7cbHy-7jwENcLA20L2OsQTJlrfHENK3QAFCNKhQ/viewform)**.
 
 <h3 style="color: #FF6600;">Hudson River Park Bike Tour</h3>
-On Sunday, October 15, we'll be hosting a bike tour along the Hudson River Greenway beginning at 1pm. Join us to ride
-from Battery Park all the way to Midtown and learn about various points of interest along the way. Don't have a bike?
-That's okay! We'll be starting and ending at a CitiBike dock. More details to come soon!
+On Sunday, October 15, we'll be hosting a bike tour along the Hudson River Greenway beginning at 1pm. Meet us in front
+of the main entrance to the National Museum of the American Indian at 1 Bowling Green in Lower Manhattan. We'll take a
+ride to Midtown, pointing out places of interest along the way! Don’t have a bike? That’s okay -- **our starting
+location is at a CitiBike dock! Please fill
+out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe3VsrGemdwN2mFgjnkXLsB170cwiv43mZJQM18QZML-DdYBw/viewform) if
+you plan to come!**
 
 <h3 style="color: #FF6600;">MobilityData's North American Workshop</h3>
 On October 16 and 17, just after TransportationCamp NYC, MobilityData will be holding their North American Workshop in
@@ -76,7 +88,6 @@ mobility data, how to standardize it, how to exchange it, and how to leverage it
 MobilityData is the global nonprofit dedicated to developing the open-source data formats that provide traveler
 information. MobilityData also focuses on creating spaces for knowledge exchange, bringing together public and private
 stakeholders to build the mobility of today and tomorrow.
-
 
 ### First Time at a TransportationCamp?
 
