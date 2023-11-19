@@ -582,3 +582,10 @@
   url: https://mobilify.org/events/transportationcamppgh/
   register_url: https://mobilify.app.neoncrm.com/np/clients/mobilify/event.jsp?event=3
   background_img: pittsburgh.jpg
+
+- title: DC
+  year: 2024
+  date: 2024-01-06 23:59:59
+  url: https://t4america.org/transportation-camp/
+  register_url: https://smartgrowthamerica.salsalabs.org/24transportationcamp/index.html
+  background_img: dc-2021.jpg
