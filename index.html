@@ -12,11 +12,14 @@ title: TransportationCamp
     {% for event in upcoming_events %}
     {% include event_full.html event = event %}
     {% endfor %}
-    {% else %}
-    <h1>Upcoming Camps</h1>
-    <h4>There are no upcoming TransportationCamp events at this time.</h4>
-    {% endif %}
+    <!-- This is tag only ever gets rendered once and is closed below - ignore IDE error checks  -->
     <div class="body">
+    {% else %}
+    <!-- This is tag only ever gets rendered once and is closed below - ignore IDE error checks  -->
+    <div class="body">
+        <h1>Upcoming Camps</h1>
+        <h4>There are no upcoming TransportationCamp events at this time.</h4>
+    {% endif %}
         {% if this_year.size > 0 %}
         <h1 class="home-section">Recent Camps</h1>
         <div class="event-list">
