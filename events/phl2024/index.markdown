@@ -7,7 +7,7 @@ slug: "phl2024"
 title: TransportationCamp PHL 2024
 published: true
 ---
-<h1><center>Back for another year in-person, TransportationCamp PHL is on for 2024!</center></h1>
+<h1><center>Back for another year in-person, TransportationCamp PHL is on for <b>March 23, 2024!</b></center></h1>
 
 ![Scenes from TransportationCamp PHL 2019](/events/phl2018/Scenes%20from%20TCPHL18.jpg)
 
