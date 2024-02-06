@@ -7,6 +7,29 @@ slug: "phl2024"
 title: TransportationCamp PHL 2024
 published: true
 ---
+
+<style>
+a.register_link:link, a.register_link:visited {
+    background-color: #e26b1b;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset, rgba(50, 50, 93, .1) 0 2px 5px 0, rgba(0, 0, 0, .07) 0 1px 1px 0;
+    border-radius: 6px;
+    text-decoration: none;
+    display: inline-block;
+    width: 90%;
+    font-size: 150%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+a.register_link:hover, a.register_link:active {
+  background-color: orange;
+  color: black;
+}
+</style>
+
 <h1><center>Back for another year in-person, TransportationCamp PHL is on for <b>March 23, 2024!</b></center></h1>
 
 ![Scenes from TransportationCamp PHL 2019](/events/phl2018/Scenes%20from%20TCPHL18.jpg)
@@ -23,7 +46,9 @@ Summer 2021 also launched our spin-off "TCPHL Summer Gathering" event, combining
 
 ## <a name="registration"></a> Registration
 
-Registration coming soon! Sign up to our mailing list below to make sure you don't miss it.
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+<a class="register_link" href="https://tcphl.ticketspice.com/transportationcamp-phl-2024" target="_blank">Click Here to Get Your Tickets!</a>
+</div>
 
 <!-------
 <div id="eventbrite-widget-container-520933705737"></div>
