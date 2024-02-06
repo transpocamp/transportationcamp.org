@@ -42,7 +42,7 @@ Organized by passionate Philadelphians in conjunction with the Philadelphia Chap
 
 After pioneering the virtual model for three years in the midst of the COVID-19 pandemic, we were able to return in-person last year to the same space we've called home since our first event more than five years ago, and are pleased to do so yet again.
 
-Summer 2021 also launched our spin-off "TCPHL Summer Gathering" event, combining urban exploration and an outdoor happy hour, which returned by popular demand for 2022 and 2023. **Once again, we're pleased to announce that will also return later in Summer 2023**, so make sure to see us again and reconnect with connections made both in years past and at this year's in-person conference.
+Summer 2021 also launched our spin-off "TCPHL Summer Gathering" event, combining urban exploration and an outdoor happy hour, which returned by popular demand for 2022 and 2023. **Once again, we're pleased to announce that will also return later in Summer 2024**, so make sure to see us again and reconnect with connections made both in years past and at this year's in-person conference.
 
 ## <a name="registration"></a> Registration
 
