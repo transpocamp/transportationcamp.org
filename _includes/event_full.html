@@ -1,6 +1,7 @@
 <div class="event-full"
      style="background-image: url({{ site.baseurl }}/assets/event-images/{{ event.background_img }});">
     <div class="container event-full-box">
+        {% if event.url %}
         <a href="{{ event.url | absolute_url }}">
             <div class="event-full-name">
                 {{ event.title }}
@@ -8,12 +9,23 @@
             </div>
             <div class="event-full-date">{{ event.date | date: "%B %e"}}</div>
         </a>
+        {% else %}
+        <div class="event-full-name">
+            {{ event.title }}
+            <span class="event-subtitle">{{ event.subtitle }}</span>
+        </div>
+        <div class="event-full-date">{{ event.date | date: "%B %e"}}</div>
+        {% endif %}
         <div class="event-full-links">
+            {% if event.url %}
             <a href="{{ event.url | absolute_url }}">Details</a> |
+            {% else %}
+            <span class="disabled-event-link">Details</span> |
+            {% endif %}
             {% if event.register_url %}
             <a href="{{ event.register_url }}" target="_blank">Register</a>
             {% else %}
-            <span class="disabled-register">Register</span>
+            <span class="disabled-event-link">Register</span>
             {% endif %}
         </div>
     </div>
