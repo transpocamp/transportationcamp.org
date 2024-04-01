@@ -26,21 +26,21 @@ published: true
 	}
 </style>
 
-<h1><center>By popular demand, the TCPHL Summer Gathering is back for our fourth-annual event on Saturday, August 3, 2024 — just before APTAtech comes to Philadelphia!</center></h1>
+<h1><center>By popular demand, the TCPHL Summer Gathering is back for our fourth-annual event on Saturday, August 3, 2024 — one day before <a href="https://www.apta.com/conferences-events/">APTAtech</a> kicks off in Philadelphia!</center></h1>
 
 <center><img src="/events/phl2022-summer/philly-22-summer-lastyrpark.jpg" width="50%" height="auto" style="border: 1px solid black; box-shadow: 5px 5px 5px grey;"/> </center>
 
-**The TCPHL23 team is pleased to be hosting our fourth-annual Summer Gathering event on Saturday, August 3, 2024.**
+**The TCPHL24 team is pleased to be hosting our fourth-annual Summer Gathering event on Saturday, August 3, 2024.**
 
-Initially formed as an extension of our 2021 virtual conference to offer a safe, outdoor in-person experience, the event was such a blast, we're keeping it going as a standalone event… even as we've returned to an in-person conference!
+Initially formed as an extension of our 2021 virtual conference to offer a safe, outdoor in-person experience, the event was such a blast, we've been keeping it going as a standalone event… even as we've returned to an in-person conference!
 
-As with years past, the event will feature a day of urban exploration with fellow TransportationCamp participants, concluding with a happy hour in the afternoon. What's it like? Check out photos from [2021](https://photos.app.goo.gl/DdT942CXyG12tDJN8) and [2022](https://photos.app.goo.gl/bCfRhqu6ZzQitYmw6).
+As with years past, the event will feature a day of urban exploration with fellow TransportationCamp participants, concluding with a happy hour in the afternoon. What's it like? Check out photos from [2021](https://photos.app.goo.gl/DdT942CXyG12tDJN8), [2022](https://photos.app.goo.gl/bCfRhqu6ZzQitYmw6), and [2023](https://photos.app.goo.gl/sPLh32mA851W7mMa8).
 
-The event is open to recent and former attendees of TransportationCamp PHL, other TransportationCamp conferences, members of YPT chapters from Philadelphia and beyond, and their friends and family. (Yes, we’re family-friendly, and have had some families join!)
+The event is open to recent and former attendees of TransportationCamp PHL, other TransportationCamp conferences, APTAtech attendees & affiliates, members of YPT chapters from Philadelphia and beyond, and their friends and family. (Yes, we’re family-friendly, and have had some families join!)
 
-Are you a local or looking to make a long weekend out of it? Our event is designed to help you make the most out of your time in the Philadelphia region.
+Are you a local or looking to make a long weekend out of it? Our event is designed to help you make the most out of your time in the Philadelphia region… particularly if you're coming to Philadelphia for the very first time.
 
-We're ecstatic to be seeing you in-person in \*\*June\*\*, hopefully with nice (but not scorching) weather! Let the summer fun commence!
+We're ecstatic to be seeing you in-person and hopefully connect with others throughout the region and beyond. Let the summer fun commence!
 
 *Tickets are complimentary; there is no charge to participate, although food, transportation, and admission to any activities (e.g. museums, events, sports) are not included.*
 
@@ -58,26 +58,27 @@ The day begins at **30th Street Station** in Philadelphia, the city's beautiful 
 
 Service is available on all SEPTA Regional Rail lines, all Trolley lines, the Market-Frankford line, countless bus routes, Amtrak Acela/Regional/Keystone/Long-Distance service, OurBus, NJ Transit's Atlantic City Line, and more.
 
-As usual, Philadelphia makes for a great day trip from New York, Washington, Baltimore, and beyond. 🚌 Coming from NY? OurBus is providing 25% off tickets to the TransportationCamp PHL Summer Gathering. Details provided upon registration.
+As usual, Philadelphia makes for a great day trip from New York, Washington, Baltimore, and beyond.
 
-> *Suggested Trips on 6/24:*
+> *Suggested Trips on 8/3:*
 > 
 > - Amtrak Regional 164 (arriving 11:07am) from Baltimore, Washington (DC), & Richmond
-> - Amtrak Keystone 664 (arriving 11:15am) from Lancaster & Harrisburg
-> - OurBus 0830 (arriving 9th/Market 10:30am) from New York
-> - Amtrak Keystone 663 (arriving 10:35am) from New York
-> - Amtrak Acela 2249 (arriving 11:15am) from New York, Stamford, New Haven, Providence, & Boston; and connecting with Empire 250 from Poughkeepsie & Albany
+> - Amtrak Keystone 664 (arriving 11:05am) from Lancaster & Harrisburg
+> - Amtrak Keystone 663 (arriving 10:34am) from New York
+> - Amtrak Regional 155 (arriving 10:35am) from New York
+> - Amtrak Regional 143 (arriving 11:12am) from Springfield (MA), Hartford, New Haven, Stamford, & New York; and connecting with Empire 250 from Poughkeepsie & Albany
+> - Amtrak Acela 2249 (arriving 11:15am) from New York, Stamford, New Haven, Providence, & Boston
 
 
 ### TransportationCamp PHL Exploration Challenge [11:30am-3:30pm]
 
 <center><img src="/events/phl2022-summer/art_museum.jpg" width="45%" height="auto" style="border: 1px solid black; box-shadow: 5px 5px 5px grey;"/> </center>
 
-At 11:30am, we will kickoff the second-annual TransportationCamp PHL Exploration Challenge! The unique choose-your-own-adventure format encourages attendees to meet new people in small groups of around 5 (+/- 2), explore the city's transportation highlights, and see some of Philadelphia's best attractions.
+At 11:30am, we will kickoff the fourth-annual TransportationCamp PHL Exploration Challenge! The unique choose-your-own-adventure format encourages attendees to meet new people in small groups of around 5 (+/- 2), explore the city's transportation highlights, and see some of Philadelphia's best attractions.
 
 Groups will form at 11:30am, so if you're coming by yourself or a couple, you'll be able to meet other attendees before the challenge commences and set out on your exploration with others. Feel free to invite your significant other, family, and friends.
 
-Participants will be provided a map of key locations in the Philadelphia region — both transit-related and not — and an associated "point value," earned by posting a photo of the entire team at their designated location to a designated channel on the TransportationCamp PHL Slack. Teams may also opt to complete "challenges" for additional bonus points. **The team that earns the most points will win a prize!**
+Participants will be provided a map of key locations in the Philadelphia region — both transit-related and not — and an associated "point value," earned by posting a photo of the entire team at their designated location to a designated channel on the TransportationCamp PHL Slack. Teams may also opt to collect combinations of places for additional bonus points. **Winning teams earn prizes and/or cash!**
 
 <div class="gallery">
 	<div class="image">
@@ -113,15 +114,15 @@ We'll also use that time to recognize our winners and distribute prizes.
 
 ### [OPTIONAL] After the event
 
-Are you local or making a weekend trip? After the event concludes, there's tons of great ways to extend the fun. Coordinate plans with other attendees in the event slack's #2023-summer-weekend channel. Some suggestions:
+Are you local or making a weekend trip? After the event concludes, there's tons of great ways to extend the fun. Coordinate plans with other attendees in the event slack's #2024-summer-weekend channel.
 
-- Get tickets to a Phillies game vs the Mets on Friday night or Sunday afternoon
-- Continue exploring the Philadelphia region with other newfound friends, including other sights on the map you didn't get to visit
-- Go "down the shore" and spend a night in "America's Playground" of Atlantic City, then wake up to miles of gorgeous beaches along the boardwalk
+Continue exploring the Philadelphia region with other newfound friends, including other sights on the map you didn't get to visit, or explore beyond the region (such as going "down the shore" at "America's Playground" of Atlantic City, waking up to miles of gorgeous beaches along the boardwalk).
+
+And, stay tuned for related events associated with the [American Public Transit Association's](https://apta.com/) annual Technology & Revenue Collection conference: [APTAtech, hosted in Philadelphia 8/4-8/7](https://www.apta.com/conferences-events/).
 
 ##  <a name="connect"></a> Stay Connected
 
-Make sure you're up to date by following us on Twitter [@TranspoCampPHL](https://twitter.com/TranspoCampPHL), liking us on [Facebook](http://facebook.com/TranspoCamp-PHL), joining our [LinkedIn group](https://www.linkedin.com/groups/8652914/), and by subscribing to our MailChimp [email updates](http://eepurl.com/c8tKwH). And, keep the conversation going! Tag your tweets, instagram photos, and more with the official event hashtag: **#TCPHLSummer23**.
+Make sure you're up to date by following us on Twitter [@TranspoCampPHL](https://twitter.com/TranspoCampPHL), liking us on [Facebook](http://facebook.com/TranspoCamp-PHL), joining our [LinkedIn group](https://www.linkedin.com/groups/8652914/), and by subscribing to our MailChimp [email updates](http://eepurl.com/c8tKwH). And, keep the conversation going! Tag your tweets, instagram photos, and more with the official event hashtag: **#TCPHLSummer24**.
 
 Most importantly, stay tuned to the **TCPHL Slack site** where we'll announce additional details and coordinate day-of logistics. New attendees will receive the slack invite after registering; previous attendees should verify their slack notifications remain enabled.
 
