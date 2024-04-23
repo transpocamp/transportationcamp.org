@@ -601,6 +601,7 @@
   year: 2024
   date: 2024-06-08 23:59:59
   url: https://www.its.ucla.edu/tribe-event/transportation-camp-la-2024/
+  register_url: https://events.humanitix.com/transportation-camp-la-2024
   background_img: la-24.jpg
 
 - title: PHL
@@ -608,6 +609,7 @@
   year: 2024
   date: 2024-08-03 23:59:59
   url: /events/phl2024-summer
+  register_url: https://tcphl.ticketspice.com/transportationcamp-phl-2024-summer
   background_img: philly-24-summer.jpg
 
 - title: New England
