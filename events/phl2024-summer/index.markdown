@@ -24,6 +24,27 @@ published: true
 		margin-left: auto;
 		margin-right: auto;
 	}
+
+	a.register_link:link, a.register_link:visited {
+	    background-color: #e26b1b;
+	    color: white;
+	    padding: 14px 25px;
+	    text-align: center;
+	    box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset, rgba(50, 50, 93, .1) 0 2px 5px 0, rgba(0, 0, 0, .07) 0 1px 1px 0;
+	    border-radius: 6px;
+	    text-decoration: none;
+	    display: inline-block;
+	    width: 90%;
+	    font-size: 150%;
+	    font-family: sans-serif;
+	    font-weight: bold;
+	}
+	
+	a.register_link:hover, a.register_link:active {
+	  background-color: orange;
+	  color: black;
+	}
+	
 </style>
 
 <h1><center>By popular demand, the TCPHL Summer Gathering is back for our fourth-annual event on Saturday, August 3, 2024 — one day before <a href="https://www.apta.com/conferences-events/">APTAtech</a> kicks off in Philadelphia!</center></h1>
@@ -47,7 +68,11 @@ We're ecstatic to be seeing you in-person and hopefully connect with others thro
 
 ## <a name="registration"></a> Registration
 
-> # Registration will open soon. Subscribe to the email list below to be notified when registration opens!
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+<a class="register_link" href="https://tcphl.ticketspice.com/transportationcamp-phl-2024-summer" target="_blank">Click Here to Get Your Tickets!</a>
+</div>
+
+<!------ # Registration will open soon. Subscribe to the email list below to be notified when registration opens! ----->
 
 
 ## Components of the Day
