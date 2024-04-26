@@ -1,4 +1,4 @@
-**Looking for the TransportationCamp website? Go [here](http://transportationcamp.org)!**
+**Looking for the TransportationCamp website? Go [here](https://transportationcamp.org)!**
 
 `transportationcamp.org` for TransportationCamp organizers
 ==========================================================
