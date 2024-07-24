@@ -6,12 +6,13 @@ layout: event
 slug: "new-england-2024"
 title: TransportationCamp NE 2024
 published: true
-logo: tcne_2024_logo_test.png
+logo: header.png
 logo-alt: "TransportationCamp New England 2024: September 21 at MIT"
 hide-title: true
 ---
 
-<h1 style="color: #FF6600;">TransportationCamp New England 2024 is coming up!</h1>
+<h1 style="color: #FF6600;">Saturday, September 21, 2024</h1>
+<h1 style="color: #FF6600;">MIT Stata Center | <span style="color: #145265">Cambridge, MA</span></h1>
 
 We're gearing up for New England’s 7th annual camp on Saturday, September 21 at [MIT's Stata Center](https://omaps.app/4mvEfrjO3o/32_Stata_Center). Join us to be a part of the conversation on all topics of mobility in this open and inclusive event.
 
@@ -21,33 +22,17 @@ TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconfer
 
 <h3 style="color: #FF6600;">Registration isn't open yet.</h3>
 
-<!-- <div id="eventbrite-widget-container-61410959834"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '61410959834',
-        iframeContainerId: 'eventbrite-widget-container-61410959834',
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script> -->
+<!--
+Registration widget goes here
+-->
 
 [Sign up for emails](https://mailchi.mp/c4f666d15575/tcampne) and follow [@TranspoCampNE](https://twitter.com/TranspoCampNE) on Twitter and [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
 
-## Getting to TCNE
+## Getting to TCNE24
 
-Located two blocks west of Kendall station on the Red Line, MIT building 32 is easily accessible by foot, bike, and transit. Limited parking is available.
+Located two blocks west of Kendall station on the Red Line, MIT's Stata Center is easily accessible by foot, bike, and transit. Limited parking is available.
 
-> [MIT Stata Center (Building 32), 32 Vassar Street, Cambridge, MA 02139](https://omaps.app/4mvEfrjO3o/32_Stata_Center)
+> [MIT Stata Center (Building 32), Main Floor<br /> 32 Vassar Street<br />Cambridge, MA 02139](https://omaps.app/4mvEfrjO3o/32_Stata_Center)
 
 ## Digital Board
 
@@ -66,7 +51,7 @@ Follow along with the live board when the day arrives!
 | **3:30pm - 4:30pm**   | 4th session (in classrooms)           |
 | **5:00pm**            | Happy Hour                            |
 
-### Things To Know
+## Things To Know
 
 - **First time at an unconference?**: Check out [How TransportationCamp works: the essential guide](/2011/02/how-transportationcamp-works-the-essential-guide) for a quick introduction!
 - **Dress code**: It's an unconference—tasteful casual is fine!
