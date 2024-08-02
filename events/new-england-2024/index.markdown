@@ -20,11 +20,25 @@ TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconfer
 
 ## Registration
 
-<h3 style="color: #FF6600;">Registration isn't open yet.</h3>
+<div id="eventbrite-widget-container-966980634107"></div>
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
 
-<!--
-Registration widget goes here
--->
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '966980634107',
+        iframeContainerId: 'eventbrite-widget-container-966980634107',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+
+</script>
 
 [Sign up for emails](https://mailchi.mp/c4f666d15575/tcampne) and follow [@TranspoCampNE](https://twitter.com/TranspoCampNE) on Twitter and [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
 
