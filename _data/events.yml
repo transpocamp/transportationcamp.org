@@ -620,7 +620,8 @@
   background_img: ne-2024.jpg
 
 - title: NYC
-  subtitle: (Tentative Date)
   year: 2024
+  url: /events/nyc-2024
+  register_url: https://tcnyc.ticketspice.com/transportationcamp-nyc-2024
   date: 2024-10-26 23:59:59
   background_img: nyc-2024.jpg
