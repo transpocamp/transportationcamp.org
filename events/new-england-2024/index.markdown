@@ -82,6 +82,11 @@ If you have any questions, email us at <ne@transportationcamp.org>.
 
 ## Sponsorship
 
+Thanks to our Bronze Level sponsors!
+
+<a href="https://www.jawntpass.com/"><img src="sponsor_jawnt.png" width="200" /></a>
+<a href="https://mobilitydata.org/"><img src="sponsor_mobilitydata.png" width="200" /></a>
+
 We need your help keeping TransportationCamp NE admission accessible for more diverse perspectives! [Become a sponsor](tcne_2024_prospectus.pdf) to elevate this event and connect with passionate people in mobility.
 
 <style type="text/css">
