@@ -49,7 +49,8 @@ down in advance and bring it with you to the event.
 
 ### Student Scholarship
 
-More details coming soon!
+[Applications](https://forms.gle/7uv4UuqVuqLbzUqr7) are now open for our scholarship essay! Make sure you submit your
+essay by Sunday, October 20 at 11:59pm EDT to enter for a chance to win $500!
 
 ### Post-Camp Happy Hour
 
