@@ -10,7 +10,7 @@ logo-alt: "TransportationCamp NYC 2024: October 26"
 hide-title: true
 ---
 
-<img src="board.jpg" alt="Board" />
+![Board](board.png)
 
 ### TransportationCamp NYC 2024 is returning to Brooklyn!
 
@@ -49,12 +49,14 @@ down in advance and bring it with you to the event.
 
 ### Student Scholarship
 
-[Applications](https://forms.gle/7uv4UuqVuqLbzUqr7) are now open for our scholarship essay! Make sure you submit your
-essay by Sunday, October 20 at 11:59pm EDT to enter for a chance to win $500!
+Applications for the $500 student scholarship were due on Sunday, October 20. The winner will be announced during the
+opening session of Camp on Saturday!
 
 ### Post-Camp Happy Hour
 
-More details coming soon!
+We'll be hosting a happy hour immediately after TCNYC in collaboration with our friends at YPT-NYC. Join us
+at [Livingston Manor](https://www.livingstonmanorbk.com/) to continue your conversations from the unconference before
+heading out for the night!
 
 ### First Time at a TransportationCamp?
 
@@ -72,3 +74,7 @@ Make sure you&#39;re up to date by following us on [LinkedIn](https://www.linked
 and [Twitter](https://twitter.com/transpocampnyc), and by
 subscribing to our [email updates](http://eepurl.com/dFtMzX). And keep the conversation going! Tag your
 tweets, Instagram photos, and more with the official event hashtag: <span style="color: #FF6600;">**#TCNYC24**</span>
+
+### Thank You to Our 2024 Sponsors!
+
+![Stantec, ITE, VHB, TYLin/Sam Schwartz, C2Smarter, YPT-NYC, NYU Tandon](sponsors.png)
