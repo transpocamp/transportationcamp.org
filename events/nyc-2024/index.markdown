@@ -12,6 +12,8 @@ hide-title: true
 
 ![Board](board.png)
 
+<h1 style="color: #FF6600;">Joining us for Camp today? View <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSMp77dheFP2Ya13cY44uMMtGtAe9CZa1bR3q_3MZG7W1AOzqD4R-TCeJea8jQ1jrHHGzTRtvG1iY8f/pubhtml?gid=302942185&single=true">the board</a> online!</h1>
+
 ### TransportationCamp NYC 2024 is returning to Brooklyn!
 
 TransportationCamp NYC will be held on Saturday, October 26th at NYU&#39;s Tandon School of Engineering in Downtown
