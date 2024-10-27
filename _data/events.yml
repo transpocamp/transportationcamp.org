@@ -625,3 +625,10 @@
   register_url: https://tcnyc.ticketspice.com/transportationcamp-nyc-2024
   date: 2024-10-26 23:59:59
   background_img: nyc-2024.jpg
+
+- title: Pittsburgh
+  year: 2024
+  url: https://mobilify.org/events/transportationcamppgh/
+  register_url: https://mobilify.app.neoncrm.com/np/clients/mobilify/event.jsp?event=91&
+  date: 2024-11-16 23:59:59
+  background_img: pittsburgh.jpg
