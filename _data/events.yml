@@ -632,3 +632,9 @@
   register_url: https://mobilify.app.neoncrm.com/np/clients/mobilify/event.jsp?event=91&
   date: 2024-11-16 23:59:59
   background_img: pittsburgh.jpg
+
+- title: PHL
+  year: 2025
+  date: 2025-03-22 23:59:59
+  url: /events/phl2025
+  background_img: philly-25-pcc.jpg
