@@ -157,7 +157,7 @@ Want to make sure you don't miss a thing? We encourage you to subscribe to our m
 Thank you to our sponsors for making the event possible!
 
 
-![STV](STV%20Logo%20(smaller).jpg)
+![STV](STV%20Logo%20(smaller%20again).jpg)
 
 ![Other Sponsors](2025%20Sponsor%20Logos.png)
 
