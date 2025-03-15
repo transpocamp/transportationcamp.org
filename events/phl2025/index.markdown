@@ -154,14 +154,12 @@ Want to make sure you don't miss a thing? We encourage you to subscribe to our m
 
 ## Thank You Sponsors!
 
-<!-----
 Thank you to our sponsors for making the event possible!
 
 
-![TransitCenter](TransitCenter%20Logo.jpg)
+![STV](STV%20Logo.jpg)
 
-![Other Sponsors](2023%20Sponsor%20Logos.png)
----->
+![Other Sponsors](2025%20Sponsor%20Logos.png)
 
 <!---
 > Thank you [WTS Philadelphia](http://www.wtsinternational.org/philadelphia/), [Azavea](https://www.azavea.com/), [WSP](https://www.wsp.com/), [Gannett Fleming](https://www.gannettfleming.com/), [the Evans Network of Companies](https://theenoc.com/), and [TransitCenter](http://transitcenter.org/) for helping make last year's TransportationCamp PHL (Virtual) 2021 a reality!
