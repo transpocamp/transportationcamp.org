@@ -90,7 +90,7 @@ Drexel's Papadakis Integrated Sciences Building is located at 33rd and Chestnut 
 
 ##  <a name="connect"></a> Stay Connected
 
-Make sure you're up to date by following us on Twitter [@TranspoCampPHL](https://twitter.com/TranspoCampPHL), liking us on [Facebook](http://facebook.com/TranspoCamp-PHL), joining our [LinkedIn group](https://www.linkedin.com/groups/8652914/), and by subscribing to our MailChimp [email updates](http://eepurl.com/c8tKwH). And, keep the conversation going! Tag your tweets, instagram photos, and more with the official event hashtag: **#TCPHL24**.
+Make sure you're up to date by following us on Twitter [@TranspoCampPHL](https://twitter.com/TranspoCampPHL), liking us on [Facebook](http://facebook.com/TranspoCamp-PHL), joining our [LinkedIn group](https://www.linkedin.com/groups/8652914/), and by subscribing to our MailChimp [email updates](http://eepurl.com/c8tKwH). And, keep the conversation going! Tag your tweets, instagram photos, and more with the official event hashtag: **#TCPHL25**.
 
 
 Want to make sure you don't miss a thing? We encourage you to subscribe to our mailing list:
@@ -154,20 +154,18 @@ Want to make sure you don't miss a thing? We encourage you to subscribe to our m
 
 ## Thank You Sponsors!
 
-<!-----
 Thank you to our sponsors for making the event possible!
 
 
-![TransitCenter](TransitCenter%20Logo.jpg)
+![STV](STV%20Logo%20(smaller%20again).jpg)
 
-![Other Sponsors](2023%20Sponsor%20Logos.png)
----->
+![Other Sponsors](2025%20Sponsor%20Logos.png)
 
 <!---
 > Thank you [WTS Philadelphia](http://www.wtsinternational.org/philadelphia/), [Azavea](https://www.azavea.com/), [WSP](https://www.wsp.com/), [Gannett Fleming](https://www.gannettfleming.com/), [the Evans Network of Companies](https://theenoc.com/), and [TransitCenter](http://transitcenter.org/) for helping make last year's TransportationCamp PHL (Virtual) 2021 a reality!
 --->
 
-TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors. We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. [Learn more about our sponsorship packages](http://transportationcamp.org/events/phl2024/TCPHL%20Sponsor%20Flyer%202024.pdf) and please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com) for sponsorship inquiries.
+TransportationCampPHL has always been made possible thanks to the generous support of numerous sponsors. We offer various sponsorship packages that are sure to fit the budget of all firms, businesses, and organizations; plus, we also offer a sponsorship option for individuals. [Learn more about our sponsorship packages](http://transportationcamp.org/events/phl2025/TCPHL%20Sponsor%20Flyer%202025.pdf) and please contact us at [transportationcampphl@gmail.com](mailto:transportationcampphl@gmail.com) for sponsorship inquiries.
 
 
 Want to learn more about the conference? Check out the ["First Time at a TransportationCamp?"](#firsttime) section below.
