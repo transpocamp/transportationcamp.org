@@ -12,7 +12,7 @@ granted access, you can edit pages on `transportationcamp.org` over the Web, wit
 0. [Create a GitHub account](https://github.com/join), if you don't already have one.
 1. Contact a member of the TransportationCamp team to get access to the repository--they'll need your GitHub username.
 2. Log in to GitHub, then navigate
-   to [the `transportationcamp.org` repository](https://github.com/openplans/transportationcamp.org).
+   to [the `transportationcamp.org` repository](https://github.com/transpocamp/transportationcamp.org).
 3. Find the file you want to edit, click on its name, then click the arrow next to the pencil icon and select "Open
    with `github.dev`".
 4. This opens the website in an editing environment in your browser. You can edit other files, upload, delete, and move
