@@ -640,6 +640,13 @@
   register_url: https://tcphl.ticketspice.com/transportationcamp-phl-2025
   background_img: philly-25-pcc.jpg
 
+- title: PHL
+  subtitle: Summer Gathering
+  year: 2025
+  date: 2025-06-21 23:59:59
+  url: /events/phl2025-summer
+  background_img: philly-25-summer.jpg
+
 - title: New England
   subtitle: (Working Date; Pre-APTA TRANSform)
   year: 2025
