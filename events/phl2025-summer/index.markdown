@@ -68,11 +68,11 @@ We're ecstatic to be seeing you in-person and hopefully connect with others thro
 
 ## <a name="registration"></a> Registration
 
-<!------ <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-<a class="register_link" href="https://tcphl.ticketspice.com/transportationcamp-phl-2024-summer" target="_blank">Click Here to Get Your Tickets!</a>
-</div> ----->
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+<a class="register_link" href="https://tcphl.ticketspice.com/transportationcamp-phl-2025-summer-gathering" target="_blank">Click Here to Get Your Tickets!</a>
+</div>
 
-# Registration will open soon. Subscribe to the email list below to be notified when registration opens!
+<!-----# Registration will open soon. Subscribe to the email list below to be notified when registration opens!---->
 
 
 ## Components of the Day
