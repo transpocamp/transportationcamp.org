@@ -51,13 +51,13 @@ published: true
 
 <center><img src="/events/phl2022-summer/philly-22-summer-lastyrpark.jpg" width="50%" height="auto" style="border: 1px solid black; box-shadow: 5px 5px 5px grey;"/> </center>
 
-**The TCPHL24 team is pleased to be hosting our fourth-annual Summer Gathering event on Saturday, June 21, 2025.**
+**The TCPHL25 team is pleased to be hosting our fifth-annual Summer Gathering event on Saturday, June 21, 2025.**
 
 Initially formed as an extension of our 2021 virtual conference to offer a safe, outdoor in-person experience, the event was such a blast, we've been keeping it going as a standalone event… even as we've returned to an in-person conference!
 
 As with years past, the event will feature a day of urban exploration with fellow TransportationCamp participants, concluding with a happy hour in the afternoon. What's it like? Check out photos from [2021](https://photos.app.goo.gl/DdT942CXyG12tDJN8), [2022](https://photos.app.goo.gl/bCfRhqu6ZzQitYmw6), [2023](https://photos.app.goo.gl/sPLh32mA851W7mMa8), and [2024](https://photos.app.goo.gl/FtBgYfJG4J7rpuVz9).
 
-The event is open to recent and former attendees of TransportationCamp PHL, other TransportationCamp conferences, APTAtech attendees & affiliates, members of YPT chapters from Philadelphia and beyond, and their friends and family. (Yes, we’re family-friendly, and have had some families join!)
+The event is open to recent and former attendees of TransportationCamp PHL, other TransportationCamp conferences, members of YPT chapters from Philadelphia and beyond, and their friends and family. (Yes, we’re family-friendly, and have had some families join!)
 
 Are you a local or looking to make a long weekend out of it? Our event is designed to help you make the most out of your time in the Philadelphia region… particularly if you're coming to Philadelphia for the very first time.
 
