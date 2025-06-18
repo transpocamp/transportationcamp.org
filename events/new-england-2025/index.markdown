@@ -6,12 +6,12 @@ layout: event
 slug: "new-england-2025"
 title: TransportationCamp NE 2025
 published: true
-logo: header.png
+logo: header.jpg
 logo-alt: "TransportationCamp New England 2025: September 13 at MIT"
 hide-title: true
 ---
 
-<h1 style="color: #FF6600;">Saturday, September 21, 2025</h1>
+<h1 style="color: #FF6600;">Saturday, September 13, 2025</h1>
 <h1 style="color: #FF6600;">MIT Stata Center | <span style="color: #145265">Cambridge, MA</span></h1>
 
 We're gearing up for New England’s 8th annual camp on Saturday, September 13 at [MIT's Stata Center](https://omaps.app/4mvEfrjO3o/32_Stata_Center). Join us to be a part of the conversation on all topics of mobility in this open and inclusive event.
