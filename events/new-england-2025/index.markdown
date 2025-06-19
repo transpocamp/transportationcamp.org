@@ -24,7 +24,6 @@ Coming soon!
 
 [Sign up for emails](https://mailchi.mp/c4f666d15575/tcampne) and follow [@TranspoCampNE](https://bsky.app/profile/transpocampne.bsky.social), on Bluesky, [@TranspoCampNE](https://x.com/TranspoCampNE) on X/Twitter, or [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
 
-
 ## Getting to TCNE24
 
 Located two blocks west of Kendall station on the Red Line, MIT's Stata Center is easily accessible by foot, bike, and transit. Limited parking is available.
