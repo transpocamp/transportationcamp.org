@@ -22,7 +22,7 @@ TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconfer
 
 Coming soon!
 
-[Sign up for emails](https://mailchi.mp/c4f666d15575/tcampne) and follow [@TranspoCampNE]() on Bluesky, [@TranspoCampNE](https://twitter.com/TranspoCampNE) on Twitter, or [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
+[Sign up for emails](https://mailchi.mp/c4f666d15575/tcampne) and follow [@TranspoCampNE](https://bsky.app/profile/transpocampne.bsky.social), on Bluesky, [@TranspoCampNE](https://x.com/TranspoCampNE) on X/Twitter, or [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
 
 ## Getting to TCNE24
 
@@ -56,7 +56,7 @@ Follow along with the live board when the day arrives!
 
 ## Stay Connected
 
-Follow [@TranspoCampNE]() [@TranspoCampNE](https://x.com/TranspoCampNE) on Twitter, or [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
+Follow [@TranspoCampNE](https://bsky.app/profile/transpocampne.bsky.social), on Bluesky, [@TranspoCampNE](https://x.com/TranspoCampNE) on X/Twitter, or [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
 
 Keep the conversation going at camp and beyond by using the event hashtag <span style="color: #FF6600;">**#TCNE25**</span>.
 
@@ -96,4 +96,4 @@ We need your help keeping TransportationCamp NE admission accessible for more di
 
 ## Organizing Committee
 
-TransportationCamp New England 2024 is organized by local volunteers, including the [Boston Chapter of Young Professionals in Transportation](https://yptransportation.org/boston/).
+TransportationCamp New England 2025 is organized by local volunteers, including the [Boston Chapter of Young Professionals in Transportation](https://yptransportation.org/boston/).
