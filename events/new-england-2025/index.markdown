@@ -20,7 +20,26 @@ TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconfer
 
 ## Registration
 
-Coming soon!
+<!-- Noscript content for added SEO -->
+<noscript><a href="https://tcampne2025.eventbrite.com" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
+<!-- You can customize this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-1512563691719" type="button">Buy Tickets</button>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '1512563691719',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-1512563691719',
+        onOrderComplete: exampleCallback
+    });
+</script>
 
 [Sign up for emails](https://mailchi.mp/c4f666d15575/tcampne) and follow [@TranspoCampNE](https://bsky.app/profile/transpocampne.bsky.social), on Bluesky, [@TranspoCampNE](https://x.com/TranspoCampNE) on X/Twitter, or [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
 
