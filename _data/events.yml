@@ -655,3 +655,8 @@
   url: /events/new-england-2025
   register_url: https://tcampne2025.eventbrite.com/?aff=tcampsite
   background_img: ne-2025-cabot-skyline.jpg
+
+- title: NYC
+  year: 2025
+  date: 2025-10-25 23:59:59
+  background_img: nyc-2025.jpg
