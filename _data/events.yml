@@ -659,4 +659,6 @@
 - title: NYC
   year: 2025
   date: 2025-10-25 23:59:59
+  url: /events/nyc-2025
+  register_url: https://tcnyc.ticketspice.com/transportationcamp-nyc-2025
   background_img: nyc-2025.jpg

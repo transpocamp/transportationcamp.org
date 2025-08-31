@@ -1,4 +1,5 @@
 name: TransportationCamp
+title: TransportationCamp
 markdown: kramdown
 baseurl: ""
 exclude: [vendor, .idea]
