@@ -1,12 +1,12 @@
 ---
 comments: false
-date: 2024-10-26 12:00:00+00:00
+date: 2025-10-25 12:00:00+00:00
 layout: event
-slug: "nyc-2024"
-title: TransportationCamp NYC 2024
+slug: "nyc-2025"
+title: TransportationCamp NYC 2025
 published: true
 logo: logo.png
-logo-alt: "TransportationCamp NYC 2024: October 26"
+logo-alt: "TransportationCamp NYC 2025: October 25"
 hide-title: true
 ---
 
