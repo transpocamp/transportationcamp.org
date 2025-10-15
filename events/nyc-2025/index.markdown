@@ -28,6 +28,17 @@ about mobility!
 [Register here](https://tcnyc.ticketspice.com/transportationcamp-nyc-2025) to join us for a fun day of transportation
 learning and networking on October 25th!
 
+### Event schedule
+
+* **9:30 AM:** Doors open; check-in and breakfast
+* **10:30 AM:** Welcome and kick-off
+* **11:30 AM:** Session 1
+* **12:30 PM:** Lunch and networking
+* **1:30 PM:** Session 2
+* **2:45 PM:** Session 3
+* **4:00 PM:** Networking breakouts and fun stuff
+* **5:00 PM:** Post-camp hangout: Pizza, Dessert, and Social Time!
+
 ### Presenting?
 
 Thinking about presenting at a session? Sessions may come in a variety of formats: informal discussions,
@@ -37,7 +48,12 @@ your ideas and enthusiasm, and engage! All the breakout rooms are equipped with 
 be handing out session idea cards throughout registration. If you have an idea for a session, feel free to write it
 down in advance and bring it with you to the event.
 
-### First Time at a TransportationCamp?
+### Student scholarship
+
+[Applications](https://forms.gle/A4BkuyNXorecNEmM8) are now open for our scholarship essay! Make sure you submit your
+essay by Sunday, October 19 at 11:59pm EDT to enter for a chance to win $500!
+
+### First time at a TransportationCamp?
 
 - How To TransportationCamp: Review
   the [TransportationCamp 101 guide](http://transportationcamp.org/2011/02/how-transportationcamp-works-the-essential-guide/)
@@ -47,7 +63,7 @@ down in advance and bring it with you to the event.
 - Rule of Two Feet: Never hesitate to leave a session if you suddenly find it&#39;s not for you, or if there&#39;s
   another session that you want to check out, too!
 
-### Social Media
+### Social media
 
 Make sure you&#39;re up to date by following us on [LinkedIn](https://www.linkedin.com/company/tcnyc/posts)
 and by subscribing to our [email updates](http://eepurl.com/dFtMzX). And keep the conversation going! Tag your
