@@ -12,6 +12,8 @@ hide-title: true
 
 ![Board](board.png)
 
+<h1 style="color: #FF6600;">Joining us for Camp today? View <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQg5KkuMoSj9VTWiKSSD2sfScbjQge2G_I_492TImKPmEXte7dEy1EwRjR_4sqHdu7ahMdV6NKOVHrb/pubhtml?gid=302942185&single=true">the board</a> online!</h1>
+
 ### TransportationCamp NYC 2025 is returning to Brooklyn!
 
 TransportationCamp NYC will be held on Saturday, October 25th at NYU&#39;s Tandon School of Engineering in Downtown
