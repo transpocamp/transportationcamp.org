@@ -662,3 +662,14 @@
   url: /events/nyc-2025
   register_url: https://tcnyc.ticketspice.com/transportationcamp-nyc-2025
   background_img: nyc-2025.jpg
+
+- title: DC
+  year: 2026
+  date: 2026-01-10 23:59:59
+  background_img: dc-2026.jpg
+
+- title: PHL
+  subtitle: Save the Date!
+  year: 2026
+  date: 2026-03-21 23:59:59
+  background_img: philly-26-30th-schuylkill-parade.jpg
