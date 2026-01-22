@@ -666,10 +666,12 @@
 - title: DC
   year: 2026
   date: 2026-01-10 23:59:59
+  url: https://t4america.org/transportation-camp/
   background_img: dc-2026.jpg
 
 - title: PHL
   subtitle: Save the Date!
   year: 2026
   date: 2026-03-21 23:59:59
+  url: /events/phl2026
   background_img: philly-26-30th-schuylkill-parade.jpg
