@@ -46,14 +46,14 @@ Summer 2021 also launched our spin-off "TCPHL Summer Gathering" event, combining
 
 ## <a name="registration"></a> Registration
 
-
-Registration link coming soon! Subscribe to email notifications to make sure you're one of the first to register.
-
 <!-------
-<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-<a class="register_link" href="https://tcphl.ticketspice.com/transportationcamp-phl-2025" target="_blank">Click Here to Get Your Tickets!</a>
-</div>
+Registration link coming soon! Subscribe to email notifications to make sure you're one of the first to register.
 ------->
+
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+<a class="register_link" href="https://tcphl.ticketspice.com/transportationcamp-phl-2026" target="_blank">Click Here to Get Your Tickets!</a>
+</div>
+
 
 
 <!-------
@@ -96,7 +96,7 @@ Drexel's Papadakis Integrated Sciences Building is located at 33rd and Chestnut 
 
 ##  <a name="connect"></a> Stay Connected
 
-Make sure you're up to date by following us on Twitter [@TranspoCampPHL](https://twitter.com/TranspoCampPHL), liking us on [Facebook](http://facebook.com/TranspoCamp-PHL), joining our [LinkedIn group](https://www.linkedin.com/groups/8652914/), and by subscribing to our MailChimp [email updates](http://eepurl.com/c8tKwH). And, keep the conversation going! Tag your tweets, instagram photos, and more with the official event hashtag: **#TCPHL25**.
+Make sure you're up to date by following us on Twitter [@TranspoCampPHL](https://twitter.com/TranspoCampPHL), liking us on [Facebook](http://facebook.com/TranspoCamp-PHL), joining our [LinkedIn group](https://www.linkedin.com/groups/8652914/), and by subscribing to our MailChimp [email updates](http://eepurl.com/c8tKwH). And, keep the conversation going! Tag your tweets, instagram photos, and more with the official event hashtag: **#TCPHL26**.
 
 
 Want to make sure you don't miss a thing? We encourage you to subscribe to our mailing list:
