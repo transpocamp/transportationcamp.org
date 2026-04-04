@@ -675,3 +675,11 @@
   url: /events/phl2026
   register_url: https://tcphl.ticketspice.com/transportationcamp-phl-2026
   background_img: philly-26-30th-schuylkill-parade.jpg
+
+- title: PHL
+  subtitle: Summer Gathering
+  year: 2026
+  date: 2026-07-18 23:59:59
+  url: /events/phl2026-summer
+  register_url: https://tcphl.ticketspice.com/transportationcamp-phl-2026-summer-gathering
+  background_img: philly-26-summer.jpg
