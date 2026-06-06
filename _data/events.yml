@@ -683,3 +683,10 @@
   url: /events/phl2026-summer
   register_url: https://tcphl.ticketspice.com/transportationcamp-phl-2026-summer-gathering
   background_img: philly-26-summer.jpg
+
+- title: New England
+  year: 2026
+  date: 2026-10-17 23:59:59
+  url: /events/new-england-2026
+  # register_url:
+  background_img: ne-2026.jpg
