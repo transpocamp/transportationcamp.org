@@ -98,10 +98,10 @@ making an edit. You can force a rebuild by making a trivial edit on your Camp pa
 
 There are five main steps to building the site locally on your computer:
 
-1. [Install Jekyll and Ruby](https://jekyllrb.com/docs/installation/)
+1. [Install Jekyll and Ruby 3.x](https://jekyllrb.com/docs/installation/)
 2. [Clone the repository to your computer](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 3. The first time you build the website, run `bundle install`
-4. Run `bundle exec jekyll serve`
+4. Run `bundle exec jekyll serve --livereload`
 5. If all goes well, you will be able to see `transportationcamp.org` at `http://localhost:4000`.
 
 Learn more
