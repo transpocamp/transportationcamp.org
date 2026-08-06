@@ -25,11 +25,11 @@ TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconfer
 
 [Sign up for our mailing list](https://mailchi.mp/c4f666d15575/tcampne) for updates on registration.
 
-## Getting to TCNE25
+## Getting to TCNE26
 
 Located two blocks west of Kendall station on the Red Line, MIT's Stata Center is easily accessible by foot, bike, and transit. Limited parking is available.
 
-> [MIT Stata Center (Building 32), Main Floor<br /> 32 Vassar Street<br />Cambridge, MA 02139](https://omaps.app/4mvEfrjO3o/32_Stata_Center)
+> [MIT Stata Center (Building 32), Main Floor<br /> 32 Vassar Street<br />Cambridge, MA 02139](https://comaps.at/0mvEfrjO3o/32_Stata_Center)
 
 ## Digital Board
 
@@ -39,8 +39,8 @@ Follow along with the live board when the day arrives!
 
 | Time                  | Event                                 |
 | --------------------- | ------------------------------------- |
-| **8:00am**            | Doors open - Registration & Breakfast |
-| **9:15am - 10:30am**  | Welcome Session (MIT 32-123)          |
+| **8:45am**            | Doors open - Registration & Breakfast |
+| **9:30am - 10:30am**  | Welcome Session (MIT 32-123)          |
 | **10:45am - 11:45am** | 1st session (in classrooms)           |
 | **12:00pm - 1:00pm**  | 2nd session (in classrooms)           |
 | **1:00pm - 2:00pm**   | Lunch                                 |
