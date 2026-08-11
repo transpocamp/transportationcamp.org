@@ -690,3 +690,8 @@
   url: /events/new-england-2026
   register_url: https://tcne.ticketspice.com/2026
   background_img: ne-2026.jpg
+
+- title: NYC
+  year: 2026
+  date: 2026-10-24 23:59:59
+  background_img: nyc-2026.jpg
