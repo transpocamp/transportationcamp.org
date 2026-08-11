@@ -11,6 +11,28 @@ published: true
 hide-title: false
 ---
 
+<style>
+a.register_link:link, a.register_link:visited {
+    background-color: #e26b1b;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset, rgba(50, 50, 93, .1) 0 2px 5px 0, rgba(0, 0, 0, .07) 0 1px 1px 0;
+    border-radius: 6px;
+    text-decoration: none;
+    display: inline-block;
+    width: 90%;
+    font-size: 150%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+a.register_link:hover, a.register_link:active {
+  background-color: orange;
+  color: black;
+}
+</style>
+
 <h1 style="color: #FF6600;">Saturday, October 17, 2026</h1>
 <h1 style="color: #FF6600;">MIT Stata Center | <span style="color: #145265">Cambridge, MA</span></h1>
 
@@ -20,10 +42,19 @@ TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconfer
 
 ## Registration
 
-**Registration is not yet open. Stay tuned!**
+## <a name="registration"></a> Registration
 
+<!-------
+Registration link coming soon! Subscribe to email notifications to make sure you're one of the first to register.
 
 [Sign up for our mailing list](https://mailchi.mp/c4f666d15575/tcampne) for updates on registration.
+
+------->
+
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+<a class="register_link" href="https://tcne.ticketspice.com/2026" target="_blank">Click Here to Get Your Tickets!</a>
+</div>
+
 
 ## Getting to TCNE26
 
