@@ -42,17 +42,8 @@ TransportationCamp is an **[unconference](https://en.wikipedia.org/wiki/Unconfer
 
 ## Registration
 
-## <a name="registration"></a> Registration
-
-<!-------
-Registration link coming soon! Subscribe to email notifications to make sure you're one of the first to register.
-
-[Sign up for our mailing list](https://mailchi.mp/c4f666d15575/tcampne) for updates on registration.
-
-------->
-
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-<a class="register_link" href="https://tcne.ticketspice.com/2026" target="_blank">Click Here to Get Your Tickets!</a>
+    <a class="register_link" href="https://tcne.ticketspice.com/2026" target="_blank">Buy tickets</a>
 </div>
 
 
