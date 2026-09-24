@@ -77,17 +77,23 @@ Follow along with the live board when the day arrives!
 - **Internet access**: Free Wi-Fi will be available in all event spaces—we'll have more information when you check in.
 - **Presentation pointers**: Many breakout rooms have a projector, so if you’re thinking of proposing a session and you’d like to present, bring a laptop. We’ll supply a display cable & will bring as many adaptors as possible, but bring an adaptor for your laptop just in case. Most breakout rooms will also have a chalkboard.
 
+## Sponsors
+
+#### Gold
+<a href="https://www.hdrinc.com/" target="_blank" alt="HDR"><img src="hdr.jpg" width="100" alt="HDR company logo" /></a>
+
+#### Bronze
+- <a href="https://www.nelsonnygaard.com/" target="_blank" alt="Nelson\Nygaard">Nelson\Nygaard</a>
+- <a href="https://www.vhb.com/" target="_blank" alt="VHB">VHB</a>
+
 ## Stay Connected
 
-Follow [@TranspoCampNE](https://bsky.app/profile/transpocampne.bsky.social), on Bluesky or [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
+Follow the conference on [Bluesky](https://bsky.app/profile/transpocampne.bsky.social) or [Facebook](https://www.facebook.com/TranspoCampNE/) for updates.
 
 Keep the conversation going at camp and beyond by using the event hashtag <span style="color: #FF6600;">**#TCNE26**</span>.
 
 If you have any questions, email us at <ne@transportationcamp.org>.
 
-## Sponsorship
-
-We need your help keeping TransportationCamp New England admission accessible for more diverse perspectives! Become a sponsor to elevate this event and connect with passionate people in mobility.
 
 ## Organizing Committee
 
