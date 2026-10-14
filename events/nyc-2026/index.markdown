@@ -43,6 +43,17 @@ will award one $500 scholarship this year thanks to the support of VHB! All unde
 master&#39;s degree students, are eligible to apply. The deadline for scholarship applications is Sunday, October 18, at
 11:59pm ET!
 
+### Event schedule
+
+* **9:30 AM:** Doors open; check-in and breakfast
+* **10:30 AM:** Welcome and kick-off
+* **11:30 AM:** Session 1
+* **12:30 PM:** Lunch and networking
+* **1:30 PM:** Session 2
+* **2:45 PM:** Session 3
+* **4:00 PM:** Session 4
+* **5:00 PM:** Post-camp hangout: Pizza, dessert, and social time!
+
 ### Presenting?
 
 Thinking about presenting at a session? Sessions may come in a variety of formats: informal discussions,
