@@ -12,7 +12,7 @@ hide-title: true
 
 ![Introductory session](auditorium.jpg)
 
-### Join us on Saturday, October 24, for TransportationCamp NYC 2026!
+### TransportationCamp NYC 2026 is Saturday!
 
 ## [Register today!](https://tcnyc.ticketspice.com/transportationcamp-nyc-2026)
 
@@ -28,20 +28,6 @@ transportation professional, community member, policymaker, or just excited abou
 
 [Register here](https://tcnyc.ticketspice.com/transportationcamp-nyc-2026) to join us for a fun day of transportation
 learning and networking on October 24!
-
-### Interested in sponsoring?
-
-We are seeking sponsorship from engineering firms, research centers, planning organizations, and more to make TCNYC26
-extra special! To learn about sponsorship packages, contact [TCampNYC@gmail.com](mailto:TCampNYC@gmail.com). Put your
-organization&#39;s name in front of the people who are working on the latest and greatest at the intersection of
-transportation and technology.
-
-### Student Scholarship
-
-[Applications](https://forms.gle/fZH4vs2v52Rhtzcn7) are now open for our student scholarship! TransportationCamp NYC
-will award one $500 scholarship this year thanks to the support of VHB! All undergraduate students, as well as full-time
-master&#39;s degree students, are eligible to apply. The deadline for scholarship applications is Sunday, October 18, at
-11:59pm ET!
 
 ### Event schedule
 
@@ -78,3 +64,7 @@ bring it with you to the event.
 Make sure you&#39;re up to date by following us on [LinkedIn](https://www.linkedin.com/company/tcnyc/posts) and by
 subscribing to our [email updates](http://eepurl.com/dFtMzX). And keep the conversation going! Tag your tweets,
 Instagram photos, and more with the official event hashtag: <span style="color: #FF6600;">**#TCNYC26**</span>
+
+### Thank You to Our 2026 Sponsors!
+
+![Logos of TYLin, ASCE Met Section, VHB, ITE, NYU Tandon, NJ TRANSIT, and YPT-NYC](sponsors.png)
