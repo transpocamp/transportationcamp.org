@@ -12,9 +12,7 @@ hide-title: true
 
 ![Introductory session](auditorium.jpg)
 
-### TransportationCamp NYC 2026 is Saturday!
-
-## [Register today!](https://tcnyc.ticketspice.com/transportationcamp-nyc-2026)
+<h1 style="color: #FF6600;">Joining us for Camp today? View <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbrTUt8Axvv76MEhwz5RYIj21Xvw8zFvnaH8DuRgYbDmSlYWhl97D3T-55okqJo0qYTPAaZ32xPbhk/pubhtml?gid=302942185&single=true">the board</a> online!</h1>
 
 TransportationCamp NYC will be held on Saturday, October 24 at NYU&#39;s Tandon School of Engineering in Downtown
 Brooklyn. Join us to discuss all things transportation and connect with professionals, students, and enthusiasts alike!
@@ -34,7 +32,7 @@ learning and networking on October 24!
 * **9:30 AM:** Doors open; check-in and breakfast
 * **10:30 AM:** Welcome and kick-off
 * **11:30 AM:** Session 1
-* **12:30 PM:** Lunch and networking
+* **12:30 PM:** Lunch, networking, and student mixer
 * **1:30 PM:** Session 2
 * **2:45 PM:** Session 3
 * **4:00 PM:** Session 4
